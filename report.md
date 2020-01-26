@@ -180,12 +180,12 @@ be referenced in the future.
 
 ### Video Metrics
 * Total videos: 222,159 videos
-* Total videos found that match keywords: 12,264 videos
-  * Total unprocessed videos: 7,957 videos
-* Total videos found that are processed and marked: 2,354 videos 
-  * Information Collection: 2,110 videos
+* Total videos found that match keywords: 12,277 videos
+  * Total unprocessed videos: 7,966 videos
+* Total videos found that are processed and marked: 1,867 videos 
+  * Information Collection: 1,624 videos
   * Non-Giftcard Robux Giveaways: 209 videos
-  * Phishing: 21 videos
+  * Phishing: 20 videos
   * Other: 13 videos
   * Gambling: 1 video
 
@@ -314,6 +314,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ryguy - Roblox (ryguyrocky)
 * SallyGreenGamer 
 * SDMittens (SDMittens)
+* SeeDeng (SeeDank)
 * ShanePlays (SGC_Shane)
 * Shaylo (YTshaylo)
 * Spagz Blox (Spagzox)
@@ -1514,102 +1515,22 @@ The following channels had nothing appear with manual searching. Videos may exis
       * ~~Description references the data collection website robloxwin.com.~~
       * ~~Description references the data collection website bloxwin.com.~~
       * ~~URL: https://www.youtube.com/watch?v=eLz_2Rdnx3M~~
-    * MOVING 3 BUZZER BEATER? \[ROBLOX\] \[RB WORLD 2\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=OSCRa1Palgw
     * IM ALWAYS THE GOAT! \[ROBLOX SUPER BLOCKY BALL RACING!\]
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=ZQ_S3PjcZEw
-    * WIPEOUT RETURNS! \[ROBLOX WIPEOUT\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=harZRRj9Q4c
-    * SELLOUT KING! \[Roblox NFL Funny Moments \#4\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=JYVA430GoJ0
-    * FOOLING THE BEAST! \[Flee The Facility ROBLOX\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=2A45IGgx7uQ
-    * MY BREAKING POINT! \[ROBLOX\] \[BREAKING POINT\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=TVypNS33KdU
-    * RAGDOLL BULLY! \[ROBLOX: Ragdoll Combat\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=NbaSob2g6ro
-    * I AM THE GREATEST PLAYER TO LIVE! \[UNO ON ROBLOX \#1\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=Z5lDYV3yXzU
-    * WHY DID I WASTE TIME ON THIS! \[ROBLOX\] \[PET SIMULATOR\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=ytck1EjSUYM
-    * Final Legendary Football Update
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=9ki9HSXUBCs
-    * CANT TOUCH THIS! \[Roblox NFL Funny Moments \#3\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=Z7NSsLUAplw
-    * HE DIDNT SEE ME! \[Flee The Facility ROBLOX\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=F4VmhEvWdxs
-    * THE RAGE BEGINS! \[Roblox NFL Funny Moments \#2\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=P-mVWhlYB3o
     * RISKING IT ALL! \[Flee The Facility ROBLOX\]
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=Z6F6p39b_cM
-    * SO BROKEN! \[RB WORLD 2 FUNNY MOMENTS\] \[ROBLOX\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=5P-GAv5iRlA
     * DUMBEST WAY TO WIN IN CBRO LOL! \[ROBLOX CBRO\]
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=T2dTXGlKF_U
-    * I GOT MY OWN CARD! \[Roblox NFL Funny Moments \#2\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=VdFGCJlNTs4
-    * 500K PRO PACK OPENING! \[ROBLOX NFL 2 PACK OPENING \#3\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=YnTfJF8T3yI
     * ONLY DIMES! \[RNFL 2 HEROES EDITION \#1\] \[ROBLOX\]
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=G-ChfLOF_YE
-    * INSANE LUCK! \[ROBLOX NFL 2 PACK OPENING \#2\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=zoXXSSHf8gs
-    * OPENING MY FIRST LEGENDARY PACK? \[ROBLOX NFL 2 PACK OPENING \#1\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=wmaNE0sN6JQ
-    * LUCKY CATCH? \[Legendary Football Funny Moments \#53\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=ycGmXy1dPGc
-    * BEST ROBLOX FOOTBALL GAME? \[Roblox NFL Funny Moments \#1\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=2UlQmCqr7Ec
-    * 5 ANKLES IN 1 GAME! \[RB WORLD 2\] \[ROBLOX\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=bii6n3UN354
     * ~~EARN FREE ROBUX!~~
       * ~~Description references the data collection website robloxwin.com.~~
       * ~~Description references the data collection website bloxwin.com.~~
@@ -1770,6 +1691,10 @@ The following channels had nothing appear with manual searching. Videos may exis
     * CRISTAL ESCONDIDO NA MONTANHA DO SNOW SHOVELING ☃️!! (ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Ji48tNFglhY
+    * JEFFBLOX FOI BANIDO do ROBLOX!! CUIDADO COM ESSE ÁUDIO!!
+      * Description references the "black market for limiteds" rbx.place.
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=8y9Ayik2I20
     * COMO PASSAR DE NÍVEL RÁPIDO NO ZOMBIE ATTACK ROBLOX!! (ALGUMAS DICAS)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=InAWyRo0UDo
@@ -2507,12 +2432,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW BOOGA BOOGA GAME! COMING SOON | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=84kTJXxa6ME
-    * FUNNIEST ROBLOX ASMR
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=jvBZcjMTn4k
-    * THIS KID STOLE MY NAME AND NOW HES IMPERSONATING ME!
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=uIxK9l-2mEQ
+    * ~~FUNNIEST ROBLOX ASMR~~
+      * ~~Description references the data collection website irobux.com.~~
+      * ~~URL: https://www.youtube.com/watch?v=jvBZcjMTn4k~~
+    * ~~THIS KID STOLE MY NAME AND NOW HES IMPERSONATING ME!~~
+      * ~~Description references the data collection website irobux.com.~~
+      * ~~URL: https://www.youtube.com/watch?v=uIxK9l-2mEQ~~
     * CHICKEN BOSS! Egg Farm Simulator | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=P0mOdH8v6TI
@@ -2525,9 +2450,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I Snuck Into Her Bloxburg House And This Happened...
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=vIhmfuz4o3E
-    * I need to tell you something...
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=z0S1-8MuggM
+    * ~~I need to tell you something...~~
+      * ~~Description references the data collection website irobux.com.~~
+      * ~~URL: https://www.youtube.com/watch?v=z0S1-8MuggM~~
     * Dragon VS Boat (Build A Boat For Treasure) Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=ALSaWK9WAMg
@@ -3170,15 +3095,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=66SKEiRH-W4
 * ItsMatrix (MatrixPlaysRB)
   * Information Collection
-    * Racing Fans in the \*NEW\* McLaren Senna! (Roblox Ultimate Driving)
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=0cARtIi3OZo
-    * Crazy New Roblox Monster Hunter Simulator Game! \*MUST PLAY\*
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=rdm75fFDErQ
-    * TROLLING SUPER CARS WITH INSANELY FAST PRIUS! (Roblox Ultimate Driving)
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=4kr3zTdOr6E
     * Racing Is Finally Here! \*HUGE UPDATE\* (Roblox Ultimate Driving)
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=4ihekd29k4U
@@ -4190,414 +4106,27 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=aQVzK3xhRAs
 * locus (locus200k)
   * Information Collection
-    * secret undercover alt
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=URw3vMfoXZw
     * ~~NEW POLICE MOTORCYCLE! AND NEW MAP EXPAND! JAILBREAK UPDATE INFO!~~
       * ~~Description references the data collection website flame.gg.~~
       * ~~URL: https://www.youtube.com/watch?v=wndt9g0uCWo~~
-    * Hunting Down A Guy Who Escaped Jail.. I had toARREST Him! (Roblox)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=mv7bvLlzkHU
     * ~~SPENDING 10,000 ROBUX ON MURDER MYSTERY 2 (Roblox)~~
       * ~~Description references the data collection website flame.gg.~~
       * ~~URL: https://www.youtube.com/watch?v=CjgDuDnXhC4~~
     * ~~CRAZY Mystery Box 1\# Unboxing's | Roblox Murder Mystery 2~~
       * ~~Description references the data collection website flame.gg.~~
       * ~~URL: https://www.youtube.com/watch?v=5bUn92T5LK0~~
-    * CRAZY CLOWN GOES CRAZY...! (Roblox)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=LxtSnXJ94Vc
-    * I Ran Out Of GAS.. The COPS Helped ME.. (Roblox)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=rt7zAUOLkww
-    * DRUNK Driver CRASHED His Truck During POLICE CHASE.. (Roblox) \*Voice Chat\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=ZiA9kfmdjZo
-    * I Gave HIM A TICKET.. You Won't Believe What He Said! (Roblox) \*Voice Chat\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=UmzuJUrG2Qw
-    * First Day With My Lambo And I Got 2 TICKETS.. The COP Wasn't HAPPY! (Roblox)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=XII-RbDxCBI
-    * She Got KIDNAPPED.. He Was A EVIL Man..!  (Roblox)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=CRKFH8TSM3c
-    * Undercover Police Patrolling! \*First Time Given Someone A Ticket\* | Roblox Liberty County (RolePlay)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=2ZJf3Qw2kwo
-    * Risking My Life To Save Hostages! \*I Almost Died\* | Roblox Liberty County (RolePlay)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=pDioTTk0X9M
-    * I Arrested Him At Gun Point...
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=mal2X0p1t6w
-    * I GOT A INNOCENT GUY ARRESTED!!! | Roblox Liberty County! (Role-Play)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=_vb82ka7iso
-    * Joining A Gang In Roblox! (Role-Play)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=pvkji5kJpLs
-    * Road Block! COPS GETS MAD!!! | Roblox Liberty County! (Role-Play!)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=a3BLXwjZCAg
-    * LAMBORGHINI OWNER GETS MAD! \*COP ABUSES HIS POWER\* | Roblox Liberty County! (ROLE-PLAY)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=VvlxRykZO2M
-    * Selling $2M Worth Of A ILLEGAL STUFF... \*ARRESTED\* | Roblox Liberty County! (RolePlay)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=_gWdwliuHZA
-    * Police Abuses His Power!!! (IM SUING HIM!!!) Liberty County Roblox!
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=XlN9UunbOsg
-    * Crazy Police Chase Ends BAD! | Roblox Ultimate Driving RolePlay! (EP7)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=eb4LlfazFc0
-    * Arrested For Drifting... | Roblox Ultimate Driving RolePlay! (EP6)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=vG4TTTbZebE
-    * Placed In The Back Of A Cop Car! | Roblox Ultimate Driving RolePlay! (EP4)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=ZJFeDgrcCQQ
-    * We Arrested Him FOR M.... (NEW UPDATE)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=bbyb7bavHuU
     * ~~First Time Getting Pulled Over in GreenVille! | Roblox GreenVille RolePlay (EP1)~~
       * ~~Description references the data collection website flame.gg.~~
       * ~~URL: https://www.youtube.com/watch?v=pGzuQQAuLFU~~
-    * First Day Being A Cop! I Arrested Someone! | Roblox Ultimate Driving RolePlay! (EP5)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=qJmEgfWHp2s
-    * SuperCars PULLED OVER By COPS! \*Lamborghini\* | Roblox Ultimate Driving RolePlay! (EP3)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=gRte8c8K13M
-    * COP CRASHES DURING POLICE CASE! | Roblox Ultimate Driving RolePlay! (EP2)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=K2jhSV1Wkdc
-    * New City New Rules... \*GOT PULLED OVER\* | Roblox Ultimate Driving RolePlay! (EP1)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=DCK9cfEqdB0
-    * Sticking Up To My Rights... Against 7 COPS! (Liberty County Roblox)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=2wsHdPmWrM4
-    * Cops Accused ME Of Stealing A BUGATTI!
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=kkmKsjcppWg
-    * Bugatti Owner Gets ARRESTED For NOT Having A License...
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=8dttNUvj3sY
     * ~~Revisiting My Lumber Tycoon 2 Base After 2 Years...~~
       * ~~Description references the data collection website flame.gg.~~
       * ~~URL: https://www.youtube.com/watch?v=DxV_FhVaUSU~~
-    * Liberty County (Season 3)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=LVE97V6sRNA
-    * It's My BIRTHDAY!
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=-eq-ndMvn58
-    * Only Saying "NO" To A Cop! (HE GOT MAD!)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=5uYHJKRc-NI
-    * NEW Undercover Cop Car UPDATE! (And More)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=zyIolh8ttwo
-    * I Saved A Young Man's Life And Then Found Out He Was A ZOMBIE!!!
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=XyKHMLdz7Ls
-    * Guy Crashes His CAR So I helped him! (BEST RolePlay YET)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=4eZvZBjXrak
-    * I Crashed My BUGATTI... 😡😡😡
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=OOr6sGBxFE4
-    * 3 GUYS ROBBED ATM'S...
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=LU5Ke7WmD4o
-    * COP Got A Little MAD...
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=ptlK3yKwtVw
-    * I Got Promoted And They Gave Me A Taser
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=-RLaAsQmjRg
-    * Good Day To Take Over A Parking Lot...
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=mkf6WrNe4J8
-    * Detective Update liberty county
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=ieFG5Jld-bA
-    * Bugatti Owner ARRESTED For Going 120 Miles Over The Speed Limit...!
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=xA77OJWHzfE
-    * I Have To POOP And i got ARRESTED...
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=tqiYs9cClPI
-    * Lambo PULLED OVER By COP!
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=3q5xlIgCMa8
-    * He Gave ME A TICKET! (Liberty County)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=A3vv9rSytoI
-    * Undercover Cop Car UPDATE!
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=2Ef_zWDp_GY
-    * I Did A Oopsie...
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=NtzHqCrEWhA
-    * I Got A GTR And Got In Trouble OPS...
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=7vjl_4WK46s
-    * Crazy Day To Be A Cop...
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=5LbSrpMe3DY
-    * I Got Arrested At Gun Point! | Roblox Liberty County! (S2EP46) \*BIG UPDATE\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=lXMiWYYuCXE
-    * I GOT ROBBED...! \*ENDS BAD\* | Roblox Liberty County! (S2EP45)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=StNSLQwXu8Y
-    * I CRASHED MY LAMBO! \*RUSHED TO HOSPITAL\* | Roblox Liberty County! (S2EP44)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=0kCpYjrfqDs
-    * Cops Accuse ME Of Killing Someone...! | Roblox Liberty County! (S2EP43)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=bqa9Jt-vkXo
-    * Lamborghini Owner Gets Pulled Over By Rude COP! | Roblox Liberty County! (S2EP42)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=cBwiCtx40ZU
-    * Putting Out FIRES! \*NEW FIRE TRUCK!\* | Roblox Liberty County! (S2EP41) \*UPDATE\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=DKMPPbVR--Y
-    * FREE ICE CREAM! \*COPS CALLED\* | Roblox Liberty County! (S2EP40)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=mCUAVqPHPsM
-    * The COPS Won't Leave ME Alone! | Roblox Liberty County! (S2EP39)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=jXcgxF8fxhQ
-    * NOT GOOD! \*COPS CALLED\* | Roblox Liberty County! (S2EP38)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=FGj1nfX98Y0
-    * CRAZY POLICE CHASE ON FORT! | Roblox Liberty County! (S2EP37)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=FU8s5u_TpSQ
-    * I TASED Him 8 Times! | Roblox Liberty County! (S2EP36) \*GOOD AUDIO\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=9n-LW5LbjXg
-    * I Cut Both His LEGS OFF...! | Roblox Liberty County! (S2EP35)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=b5rOX4C8wK4
-    * Cop Uses Spike Traps On My CAR! \*ARRESTED\* | Roblox Liberty county! (S2EP34) \*NEW UPDATE\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=fmmye75wHSY
-    * Nicest Cops In The World! | Roblox Liberty County! (S2EP33)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=rdov3_6NxIs
-    * Guy Pulled a GUN On Me After I Threatened Him... COPS CALLED! | Roblox Liberty County! (S2EP32)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=-WvMWts1LdQ
-    * DON'T WATCH THIS EPISODE IT'S NOT THE BEST... | Roblox Liberty County! (S2EP31)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=IU081tuZM_8
-    * GOT PULLED OVER 4 TIMES!!! | Roblox Liberty County! (S2EP30) \*NEW CARS\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=K7o2gaxkjSA
-    * I Crashed My Lambo RUSH TO THE HOSPITAL!!! | Roblox Liberty County! (S2EP29)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=-RxMVYEqADk
-    * COP Block Me In The Middle Of The Road! | Roblox Liberty County! (S2EP28)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=SeCSTEnjTcI
-    * Same COP Pulled Me Over Twice! | Roblox Liberty County! (S2EP27) \*BIG UPDATE\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=62FzK8_h62U
-    * My Sister Almost Went To Jail! | Roblox Liberty County! (S2EP26)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=qsBqnPNhHHg
-    * This Wasn't A Good Idea... | Roblox Liberty County! (S2EP25)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=njnxJZDFNoo
-    * I Cut Off His Leg....! | Roblox Liberty County! (S2EP24) Dr. Locus
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=Jx9kqloIKKc
-    * Not A Good Day For Me... | Roblox Liberty County! (S2EP23)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=XgvflB--aic
-    * Broken COP Car Pulled Me Over! | Roblox Liberty County! (S2EP22)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=DIcNaUfM7q0
-    * COPS Stopped Us From STREET RACING! | Roblox Liberty County! (S2EP21)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=RZ5Xzm70NNU
-    * COP Gets MAD!!! | Roblox Liberty County! (S2EP20)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=KwtffkGdNKk
-    * NEW POLICE CARS! Role-Play | Roblox Liberty County! (S2EP19)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=oB042gBPgc0
-    * This Didn't End Well... | Roblox Liberty County! (S2EP18)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=bZS78oucRDY
-    * Innocent MAN Goes To JAIL...! | Roblox Liberty County! (S2EP17)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=UfAYHE3-XnY
-    * I Had To ARREST Him At The SCENE... | Roblox Liberty County! (S2EP16)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=_2HldShituM
-    * COPS Accused ME Of STEALING From The ATM! | Roblox Liberty County! (S2EP15)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=bWrGETAM_g4
-    * Texting And Driving... AMBULANCE CALLED! | Roblox Liberty County! (S2EP14) \*AMBULANCE UPDATE\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=P8QvEYp6z9U
-    * Escorted DONALD TRUMP! | Roblox Liberty County! (S2EP13) \*COP UPDATE\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=7FSnAGDYXZA
-    * Joining A Gang... \*TASED BY POLICE\* | Roblox Liberty County! (S2EP12)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=g4Xu76j3jYs
-    * Threatening COPS With A GUN...! \*BAD IDEA\* | Roblox Liberty County! (S2EP11)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=EzxGuRxWMFo
-    * He Had A Gun... PEOPLE GET ARRESTED! | Roblox Liberty County! (S2EP10)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=KEBxCLrjcdk
-    * STEALING $3000 \*COPS CALLED\* | Roblox Liberty County! (S2EP9)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=hSdol5rsyzo
-    * I Had To Much Fun In  My New CAR! ops... | Roblox Liberty County! (S2EP8) \*BIG UPDATE COMING SOON\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=CfF_zv5jpAg
-    * I Arrested 5 PEOPLE ...! | Roblox Liberty County! (S2EP7)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=xB4b8EqH5j0
-    * Pretending To Be A POLICE OFFICER!!! | Roblox Liberty County! (S2EP6)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=je_BfKqOF2U
-    * This COP Gave Me 4 TICKETS!!! | Roblox Liberty County! (S2EP5)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=2s4aKA3o1BY
-    * Helping The COPS Find A Bad Guy...! \*ENDS BAD FOR BAD GUY LOL\* | Roblox Liberty County! (S2EP4)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=NjU5a50R_Q8
-    * Crazy Police Chase Ends Bad...! | Roblox Liberty County! (S2EP3) \*BIG UPDATE!\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=Lupec--6ayA
-    * I Got Robbed By A CAT/FROG...! \*COPS CALLED\* | Roblox Liberty County! (S2EP2)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=BPXLwCO2OSc
-    * I Got Robbed! \*COPS CALLED!\* | Roblox Liberty County! (S2EP1)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=Q36O93zZjUU
-    * CRIMINALS GOT AWAY!!! | Roblox Liberty County! (S1EP37) THE END!
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=XgfMk4zYm6A
     * I STOLE A VERY IMPORTANT CAR... ENDS BAD! | Roblox Liberty County! (S1EP36)
       * Description references the data collection website flame.gg.
       * URL: https://www.youtube.com/watch?v=oTRhCSKL-MI
-    * Cop Drinks And Drives ENDS BAD... | Roblox Liberty County! (S1EP35)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=ldWf19zMMvQ
-    * CRAZY CLOWN GOES CRAZY...! | Roblox Liberty County! (S1EP34)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=j0M5ipg0oDs
-    * I Got \*ARRESTED\* By The \*MILITARY!\* | Roblox Liberty County! (S1EP33)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=3NoJTWCxI3w
-    * I Am The LUCKIEST Man ALIVE... | Roblox Liberty County! (S1EP32)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=3fjvtn06Nyo
-    * HELPING PEOPLE ESCAPE JAIL...! | Roblox Liberty County! (S1EP31)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=YchkFvKlCUo
-    * Bounty Hunting! | Roblox Liberty County! (S1EP30)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=943cik41VEU
-    * BEAR In The Woods ATTACKING COPS!!! | Roblox Liberty County! (S1EP29)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=FfS8bPldwiU
-    * I STOLE All His MONEY... \*ARRESTED\* | Roblox Liberty County! (S1EP28)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=_WFqQDHHvrc
-    * Speeding Ends BAD... FIREFIGHTERS CALLED! | Roblox Liberty County! (S1EP27)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=_j2V8byi-oQ
-    * Police Patrolling & Putting Out FIRES! | Roblox Liberty County! (S1EP26) \*30 Minutes Special\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=U_d1KQ4ffo4
-    * Putting Out FIRES!!! | Roblox Liberty County! (S1EP25) \*\*Fire Update\*\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=hP14shBDzKM
-    * Brakes Didn't WORK...! RUSHED TO THE HOSPITAL! | Roblox Liberty County! (S1EP23)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=EEivx7NrvcE
-    * Police Chase Ends on HOUSE! | Roblox Liberty County! (S1EP24)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=VJZ1NB5on9o
-    * Drinking And Driving... COPS CALLED! | Roblox Liberty County! (S1EP22)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=7aJzuD2ru9U
-    * Acting Suspicious In Front Of COPS!!! | Roblox Liberty County! (S1EP21)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=NU0YM6JnZtU
-    * Santa Claus PULLED Me OVER Ends BAD... | Roblox Liberty County! (S1EP20) \*Garage Update\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=7xRn8G3t8h4
-    * Police \*CHASE\* Ends BAD!!! | Roblox Liberty County! (S1EP19)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=zNsmRPiWBwM
-    * Police Patrolling \*NEW COP CAR\* | Roblox Liberty County! (S1EP18)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=zuW5NCEw0sk
-    * I CRASHED My TRUCK Rushed To The HOSPITAL!!! \*COPS CALLED\* | Roblox Liberty County! (S1EP17)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=4IEVEAdOFuY
-    * I Got Pulled Over 3 TIMES For DRIFTING...! | Roblox Liberty County! (S1EP16)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=Zy6ekqB6H1I
-    * The Heist CRAZY! | Roblox Liberty County! (S1EP15)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=kxm2J-KNAO0
-    * I Had To Write Him A Citation... | Roblox Liberty County! (S1EP14) \*VOICE CHAT\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=NnfaR6aDw3Q
-    * I Got PULLED Over In My NEW CAR...! ARRESTED 2 TIMES! | Roblox Liberty County! (S1EP13)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=S7SBUDT6GIc
-    * Fake Prisoner PRANK On COPS! ARRESTED!!! | Roblox Liberty County! (S1EP12)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=JoeCVHAG9xo
-    * Police Patrolling With My SISTER!!! | Roblox Liberty County! (S1EP11)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=7QhFduAiIy0
     * Stealing MONEY From An ATM! ARRESTED...! | Roblox Liberty County! (S1EP10)
       * Description references the data collection website flame.gg.
       * URL: https://www.youtube.com/watch?v=pIqJyI3_1wk
-    * Police Patrolling GUN UPDATE! | Roblox Liberty County! (S1EP9)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=sYR8ju6gj7E
-    * I Gave Him The... COPS CALLED! | Roblox Liberty County! (S1EP8) With My SISTER!
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=iDCz9NBpYGg
-    * Fallen Asleep Behind The Wheel... COPS CALLED! | Roblox Liberty County! (S1EP7)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=eL1jwTXB4y4
-    * This Didn't End Good For HIM! Police Patrolling! | Roblox Liberty County! (S1EP6) \*VOICE CHAT\*
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=ww7614y0udY
-    * Innocent Man Gets ARRESTED...! | Roblox Liberty County! (S1EP5)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=u5JR_APiWR4
-    * I Robbed A POLICE OFFICER...! | Roblox Liberty County! (S1EP4)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=MVqG7leIvD4
-    * Police Patrolling! | Roblox Liberty County! (S1EP3)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=Ta497sb9w7U
-    * Green Grinch Santa PULLED Me OVER!!! | Roblox Liberty County! (S1EP2)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=v2A9lXC6fGY
-    * I got PULLED over 2 TIMES! | Roblox Liberty County! (S1EP1)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=2EeGRzNguMU
     * ~~i crashed my plane... :(~~
       * ~~Description references the data collection website flame.gg.~~
       * ~~URL: https://www.youtube.com/watch?v=FVDksk_IfWo~~
@@ -5101,9 +4630,18 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=wxTXWxPb9bw
 * RazorFishGaming (RazorFishGamingYT and RazorFishPengiYT)
   * Information Collection
+    * ALL 2 NEW SUPERHERO SIMULATOR CODES - New Game Release/ Roblox
+      * Description references the data collection website gainblox.com.
+      * URL: https://www.youtube.com/watch?v=w6ExgoXJxto
+    * ALL NEW DRILLING SIMULATOR CODES - New Release/ Unique Pets & Ore | Roblox
+      * Description references the data collection website gainblox.com.
+      * URL: https://www.youtube.com/watch?v=gBjKNNrIECw
     * HOW TO CRAFT A KNIFE In Mad City Roblox
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=AFlAi6kUGb4
+    * NEW FAME SIMULATOR CODES Roblox (Update 1)
+      * Description references the data collection website gainblox.com.
+      * URL: https://www.youtube.com/watch?v=CRjUtFMHGE4
     * \[NEW CODE\] FREE 20 REBIRTH TOKENS CODE! (June 2018)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=Q8Ct5KVpEjU
@@ -5216,10 +4754,6 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * THE WINNERS OF THE 50k ROBUX GIVEAWAY ARE.... (10 WINNERS)
       * URL: https://www.youtube.com/watch?v=-dT2QhiXCeM
-* SeeDeng (SeeDank)
-  * Phishing
-    * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
-      * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
 * Seniac (MrSeniac)
   * Other
     * HOW TO GET FREE ROBUX!
@@ -5412,1452 +4946,146 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
 * Stronbol Roblox (StronbolYT)
   * Information Collection
-    * ¿COMO SE ME OCURRIO CORAZON DE POLLO? ¿CUANTOS AÑOS TENGO? PREGUNTAS Y RESPUESTAS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=qX3ZQo4Z-dc
-    * 2 NOOBS EN FORTNITE 😭
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=m_b1jzF7qtI
-    * COMO CONSEGUIR ESTOS INCREIBLES LENTES DE 2019 TOTALMENTE GRATIS RUBY REALMS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=lngzHfZq1K0
-    * TOP 5 COSAS QUE ROBLOX HIZO MAL EN 2018 ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=l5YtB3Dh2n4
-    * ¿POR QUE BLOXBURG NO ES GRATIS? ¿DEBERIA SERLO? ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=kKEJEnj3p8k
-    * ME CONVIERTO EN UN AVATAR DEFORME EN VR CHAT MOMENTOS GRACIOSOS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=zxrHnU2GTG4
-    * COMO CONSEGUIR ESTA INCREIBLE GORRA GRATIS EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=5uN7Jegn63A
-    * SI ENTRASTE A ESTE SITIO WEB BORRA TU HISTORIAL Y TEN CUIDADO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ElPigF_Jxyo
-    * EL JUEGO DE HORA DE AVENTURA QUE TAL VES NO CONOCIAS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=o8jqCCY2kQI
-    * 😯DRAKE BELL ES FAN DE ROBLOX😯EL SECRETO QUE ROBLOX NO QUIERE QUE SEPAS DE LOS ANTHRO😯
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=qnxKT9N3_mw
-    * TOP 5 NOVEDADES INCREIBLES DE ROBLOX ECHAS EN 2018 (ESPECIAL AÑO NUEVO)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=tbJALORxVhw
-    * 🤩🤩🤩ESTOS NUEVOS ITEMS SON INCREIBLEMENTE GENIALES! 🤩🤩🤩 RUBY REALMS 🤩🤩🤩
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=xe-ZHzXRskM
-    * COMO CONSEGUIR ESTA INCREIBLE GORRA EN ROBLOX TOTALMENTE GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=FAbxBrmDe2I
-    * HACEMOS EL MEJOR TRIO DE ROBLOX 😏
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=6gpr-AKRGgg
-    * ME CONVIERTO EN AQUAMAN EN ROBLOX Y PASA ESTO! 😭😢
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=9PxAV0_e8-w
-    * COMO CONSEGUIR ESTE INCREIBLE TRIDENTE DE AQUAMAN EN ROBLOX GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=8CDIxteClPU
-    * ¿EL FIN DE LOS BOTS SPAMERS? ¿EL EVENTO DE AQUAMAN FRACASO? EL NOTICIERO ROBLOXIANO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=233ni8hNlPo
-    * SI HICISTE ESTO TENDRAS DISCORD NITRO GRATIS 2018 FUNCIONANDO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=xxni7hWWK_I
-    * ROBLOX ES UN JUEGO ILLUMINATI EN ESTE VIDEO TE DIGO POR QUE PARODIA
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=iVpKqfyssHA
-    * COMO CONSEGUIR ESTOS INCREIBLES CUERPOS TOTALMENTE GRATIS EN ROBLOX SORTEO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=PL79bbhcMBw
     * COMPRO TODOS LOS REGALOS SECRETOS DE NAVIDAD EN RUBY REALMS NOVEDADES RUBY REALMS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=lrB4uCnkO-c
-    * TOP 5 MEJORES ANTHROS DE ROBLOX CON BETRONER Y NOANGY GAMES!
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=0dR-ol6sGiI
-    * COMO CONSEGUIR ESTE INCREIBLE PELO TOTALMENTE GRATIS SORTEO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=Ezn0ueTTza8
-    * COMO CONSEGUIR ESTAS INCREIBLES GARRAS Y TIARA EN ROBLOX GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=CI5uL6GGphQ
-    * NO CREERAS EL INCREIBLE SECRETO QUE OCULTA ESTE CUERPO EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=-_JNFEUhQec
-    * YA HAY MAS DE 50 ANTHRO Y TITULOS DE JUEGOS EN ESPAÑOL NOTICIERO ROBLOXIANO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=t3vEwfHD1dQ
-    * COMO CONSEGUIR ESTE INCREIBLE ITEM DE DINAMITA GRATIS ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=T5lgw_5rcTE
-    * COMO CONSEGUIR ESTOS INCREIBLES LENTES EN ROBLOX ROPA GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=VUefuH1yaXs
-    * COMO CONSEGUIR ESTAS INCREIBLES HOMBRERAS GRATIS EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=pqQ8hj1_uB0
-    * CONSIGUE ESTA INCREIBLE CARA EXCLUSIVA EN ROBLOX POR SOLO 10 ROBUX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=0ejyltR8qs8
-    * COMO CONSEGUIR ESTE CUERPO DE LOBO GRATIS EN ROBLOX SORTEO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=OOGBXTjiUvU
-    * COMO PROBARSE CUALQUIER ITEM EN ROBLOX GRATIS SIN COMPRARLO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=rxYOdXBhbps
-    * COMO CONSEGUIR ESTOS AUDIFONOS TOTALMENTE GRATIS EN ROBLOX ROPA GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=fMYcbT5VcKM
-    * COMO CONSEGUIR ESTA INCREIBLE COLA TOTALMENTE GRATIS EN ROBLOX ROPA GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=m1WFJHZGvkY
-    * CONSIGUE ESTA PET MONEDAS Y GEMAS GRATIS TODOS LOS CODIGOS, ITEMS E ISLAS BUBBLE GUM SIMULATOR
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=mjJl4eF1A4I
-    * 30 INCREIBLES COSAS QUE TAL VES NO SABIAS DE ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=9cdNImhGRdA
-    * ADIVINA EL JUEGO CON EMOJIS DE ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=0e5Ps4zODcc
-    * TOP 5 ITEMS SUPER EXCLUSIVOS DE EL BLACK FRIDAY EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=Sa_4NJAeyrE
-    * COMO CONSEGUIR ESTE INCREIBLE DRAGON COMPLETAMENTE GRATIS EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=wzmqAif9B6k
-    * COMO CONSEGUIR EL CUERPO ANTHRO DE AQUAMAN EN ROBLOX COMPLETAMENTE GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=KRvZzX413PA
-    * CONSIGO ESTA INCREÍBLE CARA LEGENDARIA EN ESTA CAJA RUBY REALMS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=Vt8CtV4jQe0
-    * COMO CONSEGUIR ESTA INCREÍBLE CORBATA GRATIS EN 1 MINUTO EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=oGcOfLl-v9c
-    * COMO JUGAR ROBLOX SIN LAG CON UNA PC DE BAJOS RECURSOS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=JMQh9ADwHxA
-    * ARMO LA PC DE MIS SUEÑOS SUPER POTENTE - MI NUEVA PC
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=lvzDH_wTMUw
     * SI OBTUVISTE ESTOS 3 ITEMS GRATIS AHORA TU CUENTA VALE 1000 ROBUX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=g9THwlFNt94
-    * COMO CONSEGUIR ESTAS ALAS TV Y LENTES TOTALMENTE GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=zxDfcHpFiLw
     * COMO USAR EMOCIONES EN ROBLOX Y BAILAR CON COMANDOS EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * Description references the data collection website robuxhub.com.
       * URL: https://www.youtube.com/watch?v=iTDbvu-g1J4
     * EN ESTE JUEGO PUEDES USAR LA HEADLESS COMPLETAMENTE GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * Description references the data collection website robuxhub.com.
       * URL: https://www.youtube.com/watch?v=4vIo_qYMR00
-    * COMO SER VENOM EN ROBLOX GRACIAS A GAMEHAG
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=doFrbQx08jI
-    * COMO CONSEGUIR ESTOS 3 PACKAGES TOTALMENTE GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website robuxhub.com.
-      * URL: https://www.youtube.com/watch?v=NjdLq2nbfok
-    * COMO CONSEGUIR ESTAS MASCARAS DE ESQUELETO COMPLETAMENTE GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=GG2aUrjBgGE
-    * ¡HABRAN MAS DE 200 CUERPOS ANTHRO EN ROBLOX!
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=aEkHGPBVuxw
-    * COMO CONSEGUIR EL ANTHRO Y ESTA CARA GRATIS EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpacks.com.
-      * URL: https://www.youtube.com/watch?v=Ut7sO5shqWg
-    * ¿REALMENTE JAILBREAK ES EL JUEGO MAS JUGADO DE ROBLOX?
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=apyni3TAJoE
-    * EL ANTHRO LLEGA A ROBLOX Y ME LO PONGO EN MI AVATAR \*INCREIBLE\*
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=wZ4CHz1eDeM
-    * COMO CONSEGUIR ESTOS INCREIBLES CUERNOS Y AUDIFONOS GRATIS ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=DOh8OiqBw8w
-    * COMO CONSEGUIR ESTA INCREIBLE CABEZA DE PAYASO Y ESTAS CALABAZAS GRATIS ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=HXrCSnRLjN4
-    * COMO CONSEGUIR A ESTA INCREIBLE MASCOTA FANTASMA GRATIS ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=JZm3uHOOjaY
-    * COMO CONSEGUIR ESTE INCREIBLE TOPHAT COMPLETAMENTE GRATIS ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=O2X_Wt1O1v0
-    * COMO CONSEGUIR ESTA INCREIBLE MASCOTA ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=QIwe1YeWSO0
-    * COMO CONSEGUIR ESTA CAPUCHA Y ESTA FLAMA COMPLETAMENTE GRATIS ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ZTzzzo6XAYQ
-    * COMO CONSEGUIR ESTAS INCREIBLES HOMBRERAS GRATIS EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=gBs5g_J7TNQ
-    * COMO CONSEGUIR ESTA INCREIBLE MASCARA DE GATO Y MASCOTA FANTASTICA ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=qcLL21LDg1Q
-    * COMO CONSEGUIR ESTA MASCARA DE ESQUELETO Y ESTA VARITA MÁGICA COMPLETAMENTE GRATIS ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=vEdMB6Ty5jk
-    * ¿EL EVENTO DE HALLOWEEN SERA MAÑANA? ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpacks.com.
-      * URL: https://www.youtube.com/watch?v=l5sDSARTG4Q
-    * LOS ITEMS Y JUEGOS DE EL EVENTO DE HALLOWEEN
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ENLGe4-TlpU
-    * ASI SERA EL EVENTO DE HALLOWEEN Y ESTE SERA EL PATROCINADOR
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpacks.com.
-      * URL: https://www.youtube.com/watch?v=qdnC_5Eg_HU
-    * ¿POR QUE DESAPARECIERON LOS TIX? ¿QUE SON LOS TIX?
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=0wrHQ-tekkQ
-    * TOP 5 LENTES DEL CATALOGO DE ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpacks.com.
-      * URL: https://www.youtube.com/watch?v=9pdThGmCHhQ
-    * HAGO MI AVATAR PARA HALLOWEEN EN ROBLOX!
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=7pCmTigpp3U
-    * ME CORTO LA CABEZA EN ROBLOX Y TROLLEO SUSCRIPTORES
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpacks.com.
-      * URL: https://www.youtube.com/watch?v=I6qaog4qGmA
-    * NUNCA USES NITRO EN ESTOS VEHÍCULOS DE JAILBREAK EN ESTE VÍDEO TE DIGO POR QUE
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=h5RfcqfiW5c
-    * PLAYERAS INFINITAS EN ROBLOX POR SOLO 5 ROBUX EL MEJOR TRUCO DE ROBLOX (Ya no sirve)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpacks.com.
-      * URL: https://www.youtube.com/watch?v=Pv-3zbUULF4
-    * TOP 5 MEJORES ALAS DE ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=pukoIGNeRIk
-    * PROYECTO ALYTRO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=sEC5zCVYFtg
-    * ¿POR QUE ROBLOX SOLO TE PERMITE UNIRTE A 5 GRUPOS?
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=QUd7scZt6kg
-    * ¿REALMENTE EL NUEVO CUERPO ANTHRO AFECTARA A ROBLOX?
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=qexpQQL0GPc
-    * ¿EL BACON HAIR YA NO ES GRATIS? ROBLOX BANEA POR ESTA TONTERIA!
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=nyZqj93nsZY
     * TOP 5 "HACKERS" FALSOS DE ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=gH_tgFp5Xbs
-    * EL MUNDO DE KAKA - MINI WORLD
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=-T0jUkIP_2Q
-    * DESAPARECEN LAS PARTYS Y LLEGAN LOS CUERPOS ANTHRO ROBLOX NO PORFAVOR!
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=DYHZfn_1_ts
-    * I LOVE IT ROBLOX PARODY LIL PUMP & Kanye West
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpacks.com.
-      * URL: https://www.youtube.com/watch?v=XcYrD1eWRao
-    * COMO CONSEGUIR ESTOS INCREIBLES CASCOS DE LA NFL COMPLETAMENTE GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=rJhrIMvP5NE
-    * ¿POR QUE SOLO PUEDES TENER 200 AMIGOS EN ROBLOX?
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=br8STo2I5tI
-    * JAILBREAK ANTIGUO VS JAILBREAK ACTUAL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=5ktq3_U3EBw
-    * 😱 JAILBREAK ES SUPERADO! 😱 NUEVOS ITEMS Y SUPER DESCUENTOS LLEGARON A ROBLOX 😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ulRZrRVobso
-    * TOP 5 MEJORES ITEMS GRATUITOS DE EVENTOS DE ROBLOX!
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpacks.com.
-      * URL: https://www.youtube.com/watch?v=DVHwz_8KsNs
-    * ¿POR QUE LOS DOMINUS SON TAN CAROS? ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=HrvPJAvG9Xc
-    * VISITO UNIVERSAL STUDIOS EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=NCFHjdqoWdk
-    * ¿REALMENTE EL ROBLOX ANTIGUO ES MEJOR QUE EL ACTUAL? ROBLOX ANTIGUO VS ROBLOX ACTUAL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=up1nfE0iC6o
-    * ROBLOX SACA NUEVOS JUGUETES INCREIBLES Y CUMPLE 12 AÑOS! EL NOTICIERO ROBLOXIANO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=8xKwqu3vVNs
-    * COMO CONSEGUIR ESTE INCREIBLE SOMBRERO DE PASTEL COMPLETAMENTE GRATIS ROBLOX 12 AÑOS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=j8g8Xqv4LYs
-    * ¿POR QUE ESTE EVENTO DURA TANTO? ¿ES UN BUG? ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=yFKVFCLmEK8
     * TOP 5 PACKAGES O CUERPOS DE ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=-1ygRjClnJY
-    * ESPECIAL 150K SUSCRIPTORES MI NUEVO RAP
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=rdEdLaRpBGU
-    * GASTE $100 EN ESTA PAGINA Y GANE UN TOTAL DE 12 MIL ROBUX! INCREIBLE
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpacks.com.
-      * URL: https://www.youtube.com/watch?v=OlA6zFwlchk
-    * TOP 5 ITEMS INCREIBLES YA NO DISPONIBLES PARA CONSEGUIR EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=K7s7fT1QT8c
-    * INCREIBLE TRUCO QUE NO CONOCIAS PARA CAMBIAR LA LUNA Y EL SOL EN CUALQUIER JUEGO DE ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=Pp5MMmWjStU
     * ROBLOX REGALA 1000 ROBUX A USUARIOS RANDOM! NUEVA OPCION SOCIAL MEDIA! EL NOTICIERO ROBLOXIANO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=-U4b5k85vrU
-    * 🙀 EL SECRETO EVENTO CANCELADO QUE ROBLOX NO QUIERE QUE CONOZCAS! 🙀
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=S1cS5ygWZmc
-    * INCREIBLE TRUCO PARA CAMBIAR EL SONIDO DE MUERTE EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=uJmu4pSVOpI
-    * ESTOS SON LOS INCREIBLES ITEMS QUE SE VIENEN PARA NAVIDAD
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=bTfgMhzgZyg
-    * ¿MEEPCITY ES MAS FAMOSO QUE JAILBREAK? MEEPCITY LLEGA A LOS 2B DE VISITAS EL NOTICIERO ROBLOXIANO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=wL1eu2X6iy0
-    * TOP 5 GAMEPASSES DE JUEGOS FAMOSOS DE ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=J9JzJuX--Gc
-    * COMO CONSEGUIR ESTA INCREIBLE CABEZA DE BOMBON EN SPAWN WARS ROBLOX TOURNAMENT EVENTO ROPA GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=McyP4bPgQms
-    * COMO CONSEGUIR ESTE INCREIBLE CERDO EN FREEZE TAG ROBLOX TOURNAMENT EVENTO ROPA GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=jpKWkxjzCUM
-    * ELIMINAN JAILBREAK DE ROBLOX Y LO SUPERA BLOXBURG POR UNOS MINUTOS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=2mqH5OdErPQ
-    * LOS JUEGOS EN EXPERIMENTAL MODE VUELVEN INFO DEL NUEVO EVENTO EL NOTICIERO ROBLOXIANO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=uWAd4mmZmBc
-    * COMO CONSEGUIR 1500 BUCKS Y LA MEDALLA EXCALIVUR TOTALMENTE GRATIS EN ISLAND ROYALE ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=COIHADkVGf4
-    * INCREIBLE PAGINA PARA OBTENER TARJETAS DE GOOGLE PLAY PARA ROBUX FORTNITE Y JUEGOS DE STEAM GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=_3H_a40Ra4o
-    * TOP 5 MEJORES CREADORES DE JUEGOS DE ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=g97obNNPJnE
-    * ESTOS FUTUROS JUEGOS SE VEN GENIALES Y POSIBLEMENTE TE SORPRENDERAN Y DARAN GANAS DE JUGARLOS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=aSn62kCoNzY
-    * SI GANAS TE LLEVAS ROBUX - EXPERIMENT LAB CON PATROCINADORES
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=shjn-JLD-o4
-    * ¿EL MEJOR EVENTO DE ROBLOX? ASI SERA EL EVENTO DE HALLOWEEN FILTRACIONES ROBLOX ROPA GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=AJsEgf3tA5g
-    * EL VIDEO MAS ESPECIAL QUE HE SUBIDO A MI CANAL HASTA AHORA
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=i_6N813lATM
-    * LOS BOTS SPAMERS DE ROBLOX.
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=i0FEF7g8-tU
-    * ROBLOX HA ARRUINADO A DECENAS DE MILES DE JUEGOS POR ESTO 😱 EL NOTICIERO ROBLOXIANO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=l4F_OJ1YwDg
-    * ¿FORTNITE LLEGARA A ROBLOX? NUEVO CUERPO ANTHRO Y GRAFICOS MEJORADOS EL NOTICIERO ROBLOXIANO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=aJ-1XnIRebc
-    * 😱 ROBLOX BANEA A MILES DE USUARIOS 😱 VIOLAN A NIÑA DE 7 AÑOS EN ROBLOX 😱 EL NOTICIERO ROBLOXIANO 😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=JV2Q7sMm5_k
-    * COMO TENER NITRO INFINITO EN JAILBREAK COMPLETAMENTE GRATIS CON ESTE VIDEO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=GAWCrsiipiw
-    * COMO CONSEGUIR MILES DE MEDALLAS EN ROBLOX MUY FACILMENTE
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=Z9QU_PfZmNI
-    * ¿EVENTO DE HOTEL TRANSILVANIA EN ROBLOX? LA PURGA VUELVE CON OTRO NOMBRE ... EL NOTICIERO ROBLOXIANO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=g0x8TqRq_Vc
-    * PROBANDO LA SOPA RAMEN MAS PICANTE DE EL MUNDO!! - STRONBOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=d8jdRKv8AAM
     * ¿ROBLOX FUE HACKEADO? ¿POR QUE NO SE PODIA JUGAR? LA PURGA ELIMINADA - EL NOTICIERO ROBLOXIANO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=vBwqVdhgvKE
-    * COMO CONSEGUIR ESTE INCREIBLE SOMBRERO EN ROBLOX GRAVITY SHIFT UNIVERSE EVENT
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=1l6HJsN5s3k
-    * COMO CONSEGUIR ESTE INCREIBLE SOMBRERO ESPECIAL GRATIS ROPA GRATIS ROBLOX UNIVERSE EVENT
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=BmYTauNom60
-    * ROBO EL MUSEO DE JAILBREAK POR PRIMERA VEZ \*INCREIBLE\* ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=C5DPeE3g8-0
-    * COMO CONSEGUIR ESTA INCREIBLE MOCHILA GRATIS EN ROBLOX SUMMONER TYCOON UNIVERSE EVENT ROPA GRATOS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=EPYaRXvpO8E
-    * LA CABEZA EGIPCIA QUE SE PODRA ROBAR EN EL MUSEO CON UN PUZZLE 🗝️😱 JAILBREAK ROBLOX EN ESPAÑOL 🗝️😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=o7Uj56LzYbM
-    * NUEVO T-REX Y CUADROS DEL MUSEO DE JAILBREAK PODRAN SER ROBADOS NUEVA INFO ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=sXKnjVOEAsE
-    * 😱🤑 SI GANAS UNA PARTIDA TE DOY 100 ROBUX GRATIS 😱🤑 LA PURGA ROBLOX EN ESPAÑOL 😱🤑
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=HHEM0AmH1i0
-    * ROBLOX ELIMINO LAS TABLAS DE CALIFICACION, HAY 15 ITEMS GRATIS EN ROBLOX EL NOTICIERO ROBLOXIANO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ESY8ej6Tauk
-    * COMO CONSEGUIR ESTE HERMOSO CASCO DE ANTMAN Y ESTA AVISPA TOTALMENTE GRATIS EN ROBLOX ROPA GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ShgZXa8JCgA
-    * HABRAN ITEMS GRATIS DE ANTMAN AND THE WASP Y UNA MOCHILA DE ALIEN!!! ROBLOX UNIVERSE EVENT INFO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=SWlWDBdxxQc
-    * COMO CONSEGUIR ESTA INCREIBLE MOCHILA, AUDIFONOS Y GORRA GRATIS EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=T71_l6c1vg0
-    * COMO CONSEGUIR ESTOS INCREIBLES LENTES DE JURASSIC WORLD TOTALMENTE GRATIS EN MENOS DE 10 SEGUNDOS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=YJi9p8KXQNY
-    * JUEGO CON RODNY ROBLOX A ESTE EXTRAÑO JUEGO SIN REGLAS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=m1kRJFimMUw
-    * COMO CONSEGUIR ESTOS 3 INCREIBLES ITEMS Y ESTE ANTIFAZ DE LOS INCREIBLES
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=N0Sb25bU6AY
-    * COMO CONSEGUIR ESTA INCREIBLE MASCARA Y ESTOS INCREIBLES AUDIFONOS EN ROBLOX - ROBLOX HEROES EVENT
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=cp90TB5zGqc
-    * COMO CONSEGUIR ESTA INCREIBLE MASCARA Y ESTA INCREIBLE MOCHILA EN ROBLOX - ROBLOX HEROES EVENT
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=esPJybyXu6Y
-    * COMO CONSEGUIR LA MEDALLA DE LOS INCREIBLES Y ESTE INCREIBLE PERRO EN ROBLOX ROBLOX HEROES EVENT
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=xgT_NZPeGX8
-    * ESTOS SERAN TODOS LOS ITEMS DE LOS INCREIBLES DE EL EVENTO ROBLOX HEROES EVENT
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=iOqzjLmyO5c
-    * ESPECIAL 100K SUSCRIPTORES 50 COSAS SOBRE MI CON MI CARA!
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=FrDCboVY8eg
-    * ESTE ITEM SERA GRATIS EN EL EVENTO DE LOS INCREIBLES 😯😱 INFORMACION NUEVA ROBLOX HEROES EVENT 😯😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=q2AkCuJxON4
-    * EL EVENTO SECRETO DE ROBLOX DE JURASSIC WORLD 😱 HABRAN 2 EVENTOS A LA VES EN ROBLOX 😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=HFQJZhd6eOg
-    * EL NUEVO EVENTO DE HEROES SERA DE LOS INCREIBLES   EL HALCON MILENARIO YA FUE ENTREGADO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=smmDzgKDpjU
-    * YOUTUBERS VS THANOS VIDEOREACCION CON MI CARA 🤯😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=BmgezVrZ-3U
     * BORRAN EL CANAL A ANDROID FAST POR HACER VIDEOS RELACIONADOS CON HACKS 😱  EL NOTICIERO ROBLOXIANO 😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=6P1JHQr56ZA
-    * JUEGO CON EL CREADOR DE TNT RUSH 1 VS 1 Y ¿LE GANO? TNT RUSH ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=QQKWnDYZjcw
-    * COMO TENER UNA CABEZA GIGANTE EN ROBLOX COMO LA QUE TENGO 😯😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=xDg-YL49Emg
-    * 😱 CON ESTE VIDEO PODRAS ATRAVESAR CRISTALES EN JAILBREAK Y ACCEDER A LUGARES FACILMENTE 😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=6xwobfgX5cc
-    * 🤑💸 ESTA BRUJA TE REGALA ROBUX Y DINERO EN GOOGLE PLAY Y ITUNES COMPLETAMENTE GRATIS 🤑💸
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=dPlDqlPWvCo
-    * ¿ESTOS SERAN LOS ITEMS GRATUITOS EN EL EVENTO ROBLOX HEROES? JURASSIC WORLD EVENTO EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=z52QOZEYbII
-    * TODOS DEBERIAMOS DE ODIAR A ESTE TIPO DE PERSONAS EN ROBLOX 😡🤬
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=DkOdFJ4g9I4
-    * JUEGO CON ASIMO Y BADCC A LA NUEVA ACTUALIZACION DE JAILBREAK EN UN JUEGO PRIVADO Y HAGO ESTO 😭😭
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=_hHixDVvT2U
-    * COMO TENER UNA MINI CABEZA EN ROBLOX COMO LA QUE TENGO 😯😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=fjnh_jKfbT4
-    * ASI ES LA NUEVA ACTUALIZACION DE JAILBREAK 😯😱 NUEVO ESCAPE LAS TORTUGAS NINJA Y MAS 😯😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=lGUYjyuGe2U
-    * ¿EN ESTA FECHA SERA EL PROXIMO EVENTO DE HEROES OF ROBLOXIA? ¿EL EVENTO SERA DE ANTMAN?
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=zJYWV-6XjJ0
-    * AHORA LOS PERSONAJES EN LOS JUEGOS DE ROBLOX PUEDEN HABLAR CON VOZ! ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=UoAtoc1Jn-A
-    * EL JUEGO MAS ADICTIVO QUE EH JUGADO EN ROBLOX ES INCREIBLEMENTE DIVERTIDO!!!
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=6qS7sMgXm-E
-    * ASIMO Y BADCC PAGARAN 500 DOLARES REALES PARA TENER UN NUEVO LOGO -  EL NOTICIERO ROBLOXIANO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=V3g6x2JMXOQ
-    * COMO CONSEGUIR ESTA INCREIBLE GORRA PLAYERA Y ESTOS DADOS ROPA GRATIS ROBLOX BATTLE ARENA 2018
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=_c2R7rfRHns
-    * COMO CONSEGUIR ESTA INCREIBLE MOCHILA Y TIARA EN ROBLOX ROPA GRATIS ROBLOX BATTLE ARENA EVENT
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=lgp3zi2WuSU
-    * COMO CONSEGUIR ESTA INCREIBLE MOCHILA Y ESTAS CARTAS ROPA GRATIS ROBLOX BATTLE ARENA 2018
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=xk3j5T5Ykt0
-    * COMO CONSEGUIR ESTE INCREIBLE BASTON Y ESTA INCREIBLE PLAYERA ROPA GRATIS ROBLOX BATTLE ARENA 2018
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=yz3FrS2Nggg
-    * ESTA INCREIBLE CORONA Y MOCHILA SERAN TOTALMENTE GRATIS ROPA GRATIS ROBLOX BATTLE ARENA INFORMACION
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=eZqc9g4kcSs
-    * ESTA GORRA Y MOCHILA DE HAN SOLO SERAN TOTALMENTE GRATIS ROBLOX BATTLE ARENA
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=B8xXzcZCLR8
-    * ¿ESTOS SERAN LOS OBJETOS GRATIS DE EL EVENTO DE BATTLE ARENA? INFORMACION DE EL EVENTO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=xKj_MMJRnfI
-    * FINGO SER ASIMO3089 EN JAILBREAK Y PASA ESTO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=XodVmBzOwLE
-    * SOY THANOS EN LA NUEVA ACTUALIZACION DE FORTNITE OMG
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=FCW03Dn8NaA
     * EL PROXIMO EVENTO DE ROBLOX SERA DE STAR WARS HAN SOLO!!! EL NOTICIERO ROBLOXIANO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=RG-HjiPJVzA
-    * 😯🤯 THANOS PUEDE BAILAR 😯🤯 FORTNITE THANOS MODO GUANTELETE DEL INFINITO 😯🤯
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=kN0r-kBOcXQ
     * PROBANDO PAPAS ¿RARAS? DE OTROS PAISES 😱 \*CON MI CARA\*
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=KI5O1tRgekU
     * COMO DESTRUIR EL METEORITO DE FORTNITE SIN HACKS NI TRAMPAS 😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=4n7RQds-Mrg
     * 😱 SALDRAN LIBROS OFICIALES DE ROBLOX EN TODO EL MUNDO 😱 EL NOTICIERO ROBLOXIANO 😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=3TippGn1JME
     * SIENDO THANOS POR UN DIA AVENGERS INFINITY WAR EN ROBLOX 😱💎
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=zAll6Rk9_nc
     * LA MEJOR NOTICIA DE LA SEMANA ROBLOX EN ESPAÑOL CADA VES MEJOR EL NOTICIERO ROBLOXIANO AL MOMENTO 😲😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=9xa3Y985-zM
     * EL NUEVO DOMINUS DE PLATA EN ROBLOX 😱 ELRUBIUS HACE UN VIDEO DE ROBLOX 😱 EL NOTICIERO ROBLOXIANO😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=_qzV664lkJs
     * 🎵 Roblox "El noob" 🎵 Parodia wake me up - Avicii ft JusepeHD 🎵
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=3t5KXrZGv7Q
     * EL NUEVO HELICOPTERO MILITAR PUEDE CARGAR VEHICULOS JAILBREAK ACTUALIZACION DE ANIVERSARIO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ECzOV9Slhac
     * ROBLOX LA MALDICION DE EL GUEST 666 ROBLOX EL JUEGO MALDITO CREEPYPASTA
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=j6WTMIh3rBw
-    * COMO CONSEGUIR ESTOS AUDIFONOS DE PEZ EN ROBLOX ROPA GRATIS ATLANTIS 2018
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=7pDmXKUjteU
     * COMO CONSEGUIR ESTA PECERA Y ESTE SOMBRERO DE DAVEY JONES EN ROBLOX ROPA GRATIS ATLANTIS 2018
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=mbFVHa0N2lk
     * COMO CONSEGUIR LAS HOMBRERAS Y LA TIARA GRATIS ATLANTIS EVENTO ROPA GRATIS ROBLOX!!
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=wUPBRsv1Vv4
-    * EL RAP DE STRONBOL MI PROPIO RAP (RESUBIDO)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=4HJNR-wwgsc
     * COMO SER ESTOS SUPER HEROES EN ROBLOX 😱
-      * Description references the data collection website oprewards.com.
       * Description references the data collection website irobux.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=KD-sQ3EtJkQ
     * YOUTUBERS VS ILUMINATI VIDEO REACCION EPICA CON XONNEK \*MUESTRO MI CARA\*
-      * Description references the data collection website oprewards.com.
       * Description references the data collection website irobux.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=gYBSdkTFOtY
     * LOS NUEVOS EH INCREIBLES ITEMS EN LA NUEVA TIENDA DE EL EGGHUNT 😮😱
-      * Description references the data collection website oprewards.com.
       * Description references the data collection website irobux.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=vzqJGQ0fP6A
     * ESTA PAGINA ME DIO ROBUX PARA ESTE SOMBRERO POR HACER OFERTAS EN ROBLOX - ROBUX GRATIS 😱🤑
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=6LIPe8KrlJE
     * COMO OBTENER GRATIS EL ESCUDO DE EL CAPITAN AMERICA INFINITY WAR ROPA GRATIS ROBLOX
-      * Description references the data collection website oprewards.com.
       * Description references the data collection website irobux.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=rKV2ihsk_Og
     * HABRAN OBJETOS GRATIS DE INFINITY WAR!! NUEVO ESCUDO DE EL CAPITAN AMERICA SERA GRATIS ROBLOX
-      * Description references the data collection website oprewards.com.
       * Description references the data collection website irobux.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=-Q5QUr58XfE
-    * REGALANDO HUEVOS DE ADMINISTRADOR GRATIS EN DIRECTO EGGMINS GRATIS PARA TODOS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=zXmuUwNqwIk
-    * REGALANDO HUEVOS DE ADMINISTRADOR GRATIS COMO CONSEGUIR EGGMIN ROPA GRATIS EGGHUNT 2018 😲😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=IlTNAzMc7DA
     * ESTOS OBJETOS SERAN GRATIS EN ESTE MES EN UN EVENTO?! FILTRACIONES DE ROBLOX
-      * Description references the data collection website oprewards.com.
       * Description references the data collection website irobux.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=sT2HtS7xJNg
     * COMO CONSEGUIR EL FIFTEAM EGG ROPA GRATIS EGG HUNT 2018 😮😱
-      * Description references the data collection website oprewards.com.
       * Description references the data collection website irobux.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=_4NupOPtqJQ
-    * COMO ACCEDER A EL MAPA SECRETO DE EL EGG DE FIFTEAM EN EL EGG HUNT 2018 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=mIHcuo9yKbo
-    * ¿AQUI ESTABA EL EGG DE FIFTEAM? INFORMACION DE DONDE ESTA 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=HJgDLAe0FME
     * COMO CONSEGUIR ESTAS HERMOSAS ALAS EN ROBLOX 😲😱
-      * Description references the data collection website oprewards.com.
       * Description references the data collection website irobux.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=PGP_qidimd4
-    * ABRO LA PUERTA DE EL DOMINUS EN ESTE VIDEO \*INCREIBLE\*
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=GAVlQHgwm4c
-    * LOS ALIENS YA LLEGARON A JAILBREAK 😱👽
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ZATtJ_f88YI
     * COMO CONSEGUIR ESTE INCREIBLE HUEVO DE DRAGON ROPA GRATIS EGG HUNT 2018 😲😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=UQXI4cdMsCk
-    * COMO CONSEGUIR ESTOS 2 INCREIBLES HUEVOS ROPA GRATIS EGGHUNT 2018 😯😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=aW8aRllQbrQ
-    * COMO CONSEGUIR ESTOS 4 INCREIBLES HUEVOS ROPA GRATIS EGGHUNT 2018 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=guiGgccGbIY
-    * COMO CONSEGUIR ESTOS 2 HERMOSOS EGGS ROPA GRATIS EGGHUNT 2018 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=lotQoMfjsiQ
-    * COMO OBTENER ESTOS 5 INCREIBLES HUEVOS ROPA GRATIS EGG HUNT 2018 😯😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=M7uN-KalhA8
-    * COMO CONSEGUIR EL SUPER EGG EN ROBLOX ROPA GRATIS EGG HUNT 2018 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=dI52M2GPSXU
-    * COMO CONSEGUIR ESTOS 3 TREASURED EGGS ROPA GRATIS EGG HUNT 2018 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=vg6_CdQAv34
-    * COMO OBTENER EL HUEVO DE CUERVO EYMEGG ROPA GRATIS EGGHUNT 2018
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=wMQpRfu0STA
-    * COMO OBTENER ESTOS 5 INCREIBLES HUEVOS ROPA GRATIS EGG HUNT 2018 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=PFb9DaarbPs
-    * COMO OBTENER ESTOS 4 INCREIBLES HUEVOS ROPA GRATIS EGG HUNT 2018
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=fmC_H5hggrk
-    * COMO OBTENER ESTOS 5 INCREIBLES HUEVOS ROPA GRATIS EGG HUNT 2018 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=u5VLpF1rdwI
-    * COMO OBTENER ESTOS 5 INCREIBLES HUEVOS ROPA GRATIS EGG HUNT 2018 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=40Stks_JqAE
     * EL PRIMER PASO HACIA EL DOMINUS DE ORO ESTA AQUI EN LUMBER TYCOON😲😱
-      * Description references the data collection website oprewards.com.
       * Description references the data collection website irobux.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=8KhJIY6LYRQ
-    * COMO OBTENER ESTOS 5 INCREIBLES HUEVOS ROPA GRATIS EGGHUNT 2018 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=DYAxjr3r9RA
     * COMO PASAR EL TUTORIAL Y CONSEGUIR EL PRIMER HUEVO DE EL EVENTO  ROPA GRATIS EGGHUNT 2018 😲😱
-      * Description references the data collection website oprewards.com.
       * Description references the data collection website irobux.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=bBbn0iUP1-Y
     * ESTE EGGHUNT TENDRA MAS DE 50 HUEVOS TODOS LOS HUEVOS DE EL EVENTO 😮😱
-      * Description references the data collection website oprewards.com.
       * Description references the data collection website irobux.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=oKyGbyau2qA
     * EL VERDADERO SECRETO DETRAS DE LAS CORONAS DE READY PLAYER ONE! 😮😱
-      * Description references the data collection website oprewards.com.
       * Description references the data collection website irobux.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=5i1U5pFAbFA
-    * EL EGGHUNT 2018 TENDRA SOPORTE EN ESPAÑOL Y HABRAN 45 HUEVOS 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=9U-HvhGdK6s
-    * EL MAPA DE EL EGGHUNT YA ESTA AQUI - INFORMACION DE EL EVENTO 😮😱🥚
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=fvnQ9dtdjFg
-    * LOS NUEVOS JUGUETES DE ROBLOX YA ESTAN EN MEXICO! UMBOXING 😯😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=pv5CKsBCjYQ
-    * ¿EN ESTE JUEGO ESTA EL DOMINUS SECRETO? EN ESTE VIDEO TE DIGO POR QUE 😯😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=1mjjjzonYXY
-    * COMO CONSEGUIR LA LLAVE DE CRISTAL Y LA CORONA DE COBRE DE CRISTAL EN 5 MINUTOS O MENOS 🔑😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=8fU1HOtJIy4
-    * PELEANDO CONTRA SAMUEL XF EN TOWER BATTLES EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=k_4EPbAIG_I
-    * COMO CONSEGUIR LA LLAVE DE JADE Y CORONA DE BRONCE EN PHANTOM FORCES EN 10 MINUTOS O MENOS 😱🔑
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=xpp3nMXYTXQ
-    * COMO CONSEGUIR LA LLAVE DE JADE EN TELEFONO ANDROID O IOS EN MENOS DE 5 MINUTOS 😵🔑
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=_prWyPW514o
-    * COMO CONSEGUIR LA LLAVE DE CRISTAL Y ESTA INCREIBLE CORONA😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ivj6KFUmFWs
     * ¿DONDE ESTA LA LLAVE DE CRISTAL? POSIBLES UBICACIONES PARA TENER LA CORONA GRATIS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=4Ly63UcDqyg
-    * EN ESTE MAPA PODRAS CONSEGUIR LA LLAVE DE JADE EN DISPOSITIVOS MOVILES 📱😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=vlAm75CVPUk
-    * COMO CONSEGUIR LA LLAVE DE JADE Y LA CORONA DE PLATA DE JADE EN ESTE JUEGO \*INCREIBLE\* 😵😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=_6asoh0J_cQ
     * POSIBLES UBICACIONES DE LA LLAVE DE CRISTAL DE ROBLOX EVENTO READY PLAYER ONE 😵🔑
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ptsJAFzkH1A
-    * LA LLAVE DE JADE YA FUE ENCONTRADA Y SEGURAMENTE ESTA EN MINER'S HEAVEN \*CON PRUEBAS\* 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=26w6mkSA8h0
-    * ¿LA LLAVE DE JADE ESTA EN MINERS HEAVEN O EN ESCAPE ROOM? CON PRUEBAS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=BVYu5H02Wtg
-    * COMO CONSEGUIR ESTE INCREIBLE SLIME EN ROBLOX GRATIS 😯😱 ROPA GRATIS EN ROBLOX EVENTO NICKELODEON KCA
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=Bn6dNztteJs
-    * COMO CONSEGUIR ESTE INCREIBLE GLOBO VOLADOR DE EL EVENTO KCA ROBLOX EN ESPAÑOL ROPA GRATIS 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=_etqUnj37Ac
-    * SI ESTAS HACIENDO EL NUEVO EVENTO NO HAGAS ESTO 😱😯 COMO CONSEGUIR LA LLAVE DE EL EVENTO EN JAILBREAK
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=uSi1_OmAZ84
-    * COMO CONSEGUIR ESTE INCREIBLE SOMBRERO COMPLETAMENTE GRATIS EN 1 MINUTO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=vT7HOx0agpg
-    * COMO CONSEGUIR ESTOS AUDIFONOS DE KCA COMPLETAMENTE GRATIS EN ROBLOX 😯😱 ROPA GRATIS EN ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=wT4Sn131OyA
     * LA INCREIBLE CINEMATICA SECRETA ESCONDIDA EN JAILBREAK  😮😱 LOS ALIENS DE JAILBREAK SON GALLINAS?!
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * Description references the data collection website rbxdonate.org.
       * URL: https://www.youtube.com/watch?v=s4ApHNQTo9k
-    * ¿ENCUENTRO LA LLAVE DE EL NUEVO EVENTO EN ESTE VIDEO? TRATANDO DE RESOLVER EL MISTERIO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=_kdy2Zf-FiM
-    * EL NUEVO OVNI DE JAILBREAK ENTERRADO EN LA NIEVE  LOS ALIENS YA VIENEN😱👽
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=zkCXDK7dZW0
-    * EL EVENTO DE ROBLOX IMPOSIBLE - NADIE RESUELVE ESTO AUN :C
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=U9RYhwXqNUA
-    * NO CREERAS EL INCREIBLE EVENTO SECRETO QUE SALDRA ESTE LUNES EN ROBLOX 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=rhlDdSbzVY8
-    * ESTE EVENTO DE ROBLOX TE REGALARA MAS DE 40 ITEMS PARA TU INVENTARIO 😲😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=WZEBQgWTYPA
-    * ESTE INCREIBLE JUEGO RECAUDO MAS DE 1 MILLON DE ROBUX EN MENOS DE UNA SEMANA 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=iXWbqQL7SUg
-    * COMIENZO A BUSCAR A DEFAULTIO EL CREADOR DE LUMBER TYCOON Y LO ENCUENTRO EN ESTE JUEGO 😯😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=UR7y2Vwnp-M
-    * ME ENCUENTRO A EL CREADOR DE SPEED RUN 4 Y TODOS EN EL SERVER SE ALOCAN 😵😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=zWMPNO9c_RU
-    * BANEAN A ASIMO3089 EN TWITTER 😭
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=tiHC421chSs
-    * LOS MINIONS SE QUIEREN COMER MI BANANA EN ROBLOX😫😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=x84som1VC5Q
-    * LA INCREIBLE NUEVA ACTUALIZACION DE JAILBREAK POR 1B DE VISITAS
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=JO_MWgGlZzk
-    * CON ESTE VIDEO PODRAS CONSEGUIR ESTE INCREIBLE HAT COMPLETAMENTE GRATIS😱🆓ROPA GRATIS ROBLOX
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=08zxydGAqtw
-    * 😱😵EL CREADOR DE SUNSET CITY ME REGALA MILLONES Y COMPRO TODO LO QUE PUEDO
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=x7H27y8Yzwo
     * EL OSCURO MAPA SECRETO DE JAILBREAK \*MUY ATERRADOR\*😱💀
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=5qi3BoEDzSs
-    * ME ENCUENTRO AL CREADOR DE SUNSET CITY EN ROBLOX Y LUEGO PASA ESTO ... \*ME AGREGA\* 😲😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ScpxDBnN87M
-    * LOS INCREIBLES COCHES FUTURISTAS DE ROBLOX QUE NO CONOCIAS 😱😵
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=UFyJCIs-O7w
-    * LA INCREIBLE BOMBA NUCLEAR MAS PODEROSA DE ROBLOX 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=katNXshzC_8
-    * LA INCREIBLE APLICACION SECRETA QUE ROBLOX NO QUIERE QUE CONOZCAS 😲😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=TfAU-sUMDmU
-    * SOY ADMIN EN JAILBREAK Y USO EL NUEVO CUERPO DE ROBLOX Y PASA ESTO ... 😯😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=h4SnP5hUIsY
-    * CON ESTE VIDEO PODRAS USAR EL NUEVO CUERPO DE ROBLOX EN JAILBREAK 😲😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=aYBl1bYoR0Y
-    * LA INCREIBLE KATANA SECRETA QUE ROBLOX NO QUIERE QUE CONOZCAS 😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=bIc_BBawVI8
-    * FORTNITE HA LLEGADO A ROBLOX 🤤😲
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=Ucirg5a6--M
-    * ME ENCUENTRO A ASIMO Y PASA ESTO.... 😧😭
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=j04SN3fexr0
-    * 😵LOS NUEVOS CUERPOS DE ROBLOX YA ESTAN AQUI😵
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=HoUCOJflf-I
     * 😱MI NUEVO SOMBRERO SECRETO DE 5000 ROBUX😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=BePKoEeJnnk
-    * PELEO 1VS1 CON KREEKCRAFT Y PASA ESTO... 😵😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=rTktzrI6su8
-    * 🐎CURIOSIDADES QUE TAL VES NO CONOCIAS DE JAILBREAK🐎¿HABRAN CABALLOS EN EN FUTURO DE JAILBREAK?🐎
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=J2T9nSqPzz0
-    * 🍄MARIO BROS AH LLEGADO A ROBLOX🍄EL MEJOR JUEGO DE MARIO BROS EN ROBLOX🍄
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=PYzETZ1UtxQ
-    * 😲COMO CONSEGUIR LA DAGA DE BLACK PANTHER Y LOS AUDIFONOS DE INOVADOR EN ROBLOX😲ROPA GRATIS😲
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=-Iga6ipHnVc
-    * 😲COMO CONSEGUIR LA LANZA DE BLACK PANTHER Y EL PERRO ROBOT EN ROBLOX GRATIS😲ROPA GRATIS ROBLOX😲
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=FA7j98gt2m8
-    * 😲COMO CONSEGUIR LAS GARRAS DE BLACK PANTHER Y LOS LENTES DE CONSTRUCTOR EN ROBLOX😲ROPA GRATIS😲
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=4QLQaPJK-H8
-    * 😮😱ME ENCUENTRO A BADCC MIENTRAS PRUEBO LA NUEVA ACTUALIZACION DE JAILBREAK \*INCREIBLE\*😮😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=52QpbLh5wEE
-    * ☄️EL METEORITO AH CAMBIADO DE COLOR EN ESTE VIDEO TE DIGO POR QUE☄️NUEVO EASTER EGG☄️
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=_mPB0aP4W_Y
-    * 😱ESTO SALDRA EN JAILBREAK ESTA NOCHE \*INCREIBLE\*😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ZnWgo3JFBNM
-    * 😡ODIO ESTE CONTENEDOR ASQUEROSO😡PHANTOM FORCES😡VIDEO SIN EDICION😡
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=W1GQfWw-xU0
-    * 😱INTENTANDO CONSEGUIR EL ARCO QUE CREE😱ABRIENDO CAJAS EN BRICKPLANET😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=0H4PqNfXo-Q
-    * 😱ESTOS ASIENTOS SON UNA ESTAFA DE ROBLOX😱AQUI SE SENTARAN LOS NOMINADOS😱BLOXY AWARDS 2017😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=as4GYyXm46k
-    * 😱¿HABRA EVENTO DE AVENGERS INFINITY WAR?😱EN ESTE VIDEO TE LO DIGO😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=qvKzf0zQCWY
-    * 😖ROBLOX EL JUEGO MALDITO😖SI VES A JOHN DOE EN ROBLOX NO SALGAS DEL JUEGO😖
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=2U4aABMXPKw
-    * 😱COMIENZO A JUGAR JAILBREAK Y ME ENCUENTRO A ASIMO EN EL SERVIDOR😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=WhgrL3hMrVY
-    * 😱INCREIBLE TRUCO PARA HACER UNA ENTRADA SECRETA EN BLOXBURGO😱ROBLOX EN ESPAÑOL😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=w0K4ZoUk2xs
     * 😱INCREIBLE!!!😱LAS 10 CONSTRUCCIONES MAS INCREIBLES Y HERMOSAS DE ROBLOX😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=jb0cK6tDnNQ
-    * 😂NO PUEDO PARAR DE REIR CON ESTE JUEGO😂GANG BEASTS😂
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=u7NFOaUGHX8
     * 😱ES INCREIBLE LA GENTE QUE LOGRA CREAR ESTO EN ROBLOX😱INCREIBLE JUEGO EN ROBLOX "ROOM"😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=pbmvHBJZB8o
     * 😱INCREIBLE ACTUALIZACION EN ROBLOX😱ROBLOX COMPLETAMENTE EN ESPAÑOL😱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ADGzOc2buvs
     * 😱😵BLOXBURG SUPERARA A JAILBREAK EN EL FUTURO!!!😱😵¿BLOXBURG ES MEJOR QUE JAILBREAK?😱😵
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=VcXvIM2jvK0
     * 😲CON ESTE INCREIBLE TRUCO PODRAS TRADUCIR ROBLOX A ESPAÑOL😲ROBLOX NUEVO TRUCO 2018😲
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=KKPtIt3H-RE
-    * ♨SUPER STRON♨SUPER NOOB♨ESTE JUEGO ES MUY PRO♨SUPER HOT♨
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ClEp3BHhw1E
     * 💸️LOS ZOMBIES ESTAN TIRANDO ROBUX GRATIS💸ROBLOX EN ESPAÑOL💸
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=mhyM3Ed1tZk
-    * 👨‍🔬SOY RICK SANCHEZ👨‍🔬COMO SER RICK DE RICK Y MORTY EN BRICKPLANET👨‍🔬SORTEO DE BITS👨‍🔬
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=cze6hErnJLQ
-    * 🐦🎧TIEMPO LIMITADO🐦🎧CONSIGUE ESTOS 2 ITEMS TOTALMENTE GRATIS EN 1 MINUTO🐦🎧BRICKPLANET EN ESPAÑOL🐦🎧
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=aatIcMFypUw
-    * 🚫⛔ACCESO DENEGADO🚫⛔LAS PAGINAS PROHIBIDAS DE ROBLOX🚫⛔
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=zr3VrAyMp1o
     * 😮ROBLOX EN ESPAÑOL CADA VES MAS CERCA😮
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=AcGU_WIkSm0
     * 😲😵INCREIBLE ESTAS SON LAS COSAS QUE VENDRAN A ROBLOX😲😵¿QUE CONTIENE EL REGALO DE AÑO NUEVO😲😵
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=FRrTx5TbiyM
-    * ❌NO ELIMINES ESTE PELO DE TU INVENTARIO❌EN ESTE VIDEO TE DIGO POR QUE❌
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=X3eA__rzu2I
     * ⛄TODAS LAS NOVEDADES Y COSAS GRATIS DE GTA V ONLINE⛄FESTIVE SURPRISE 2017⛄
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=c-gxy3BOks8
     * 🎁¿QUE CONTIENE EL REGALO ROJO DE ROBLOX?🎁ACA TE MUESTRO LO QUE CONTIENE🎁
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=xUaWOyRuh5I
     * 🆕EL PELO BIPOLAR DE ROBLOX🆕ESTE PELO ES BIPOLAR!!!🆕
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=z6Fs5qI5b6U
     * 📱SI JUEGAS ROBLOX EN ANDROID DEBES VER ESTE VIDEO📱GINGERBREAD TOP HAT EN ROBLOX📱
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ovJ6Xkepc0A
     * 🎁NUEVO REGALO GRATUITO AH LLEGADO A ROBLOX TOMALO ANTES DE QUE LO QUITEN🎁ITEMS GRATIS POR NAVIDAD🎁
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=3lR0S_jTfHo
-    * 🚫⛔ME HAN BANEADO PERMANENTEMENTE LA CUENTA🚫⛔TOP 5 FORMAS TONTAS DE SER BANEADO EN BRICKPLANET🚫⛔
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=wgtjrSCcqfs
-    * 🏍CON ESTE VÍDEO PODRÁS UTILIZAR LA MOTO DE JAILBREAK GRATIS AHORA MISMO🏍
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=WyqlxqmmUAI
-    * ❄🎄NUEVA ACTUALIZACION NAVIDEÑA❄🎄CREDITOS GRATIS❄🎄ABRO UNA CAJA Y ME SALE ESTE GORRO❄🎄BRICKPLANET❄🎄
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=SjloM9mKXXQ
     * 🎅ROBLOX ESTA REGALANDO ESTO GRATIS POR NAVIDAD🎅NO CREERAS LO QUE CONTIENEN🎅
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * Description references the data collection website rblx.pro.
       * URL: https://www.youtube.com/watch?v=gpleBY_9sik
     * ☃SORTEO DE 5000 ROBUX CON TITANHAMMER☃ESPECIAL NAVIDEÑO☃ROBLOX EN ESPAÑOL☃
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=qN0LVlEq3uM
-    * ⚔INFINITY WAR TRAILER VERSION ROBLOX⚔INFINITY WAR TRAILER ROBLOX EDITION⚔
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=Fdr-45vVH78
     * 🌆SOY UN MIEMBRO DE LA LIGA DE LA JUSTICIA EN ROBLOX🌆JUSTICE LEAGUE EN ROBLOX🌆ROBLOX EN ESPAÑOL🌆
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=aG1ypR8Hofk
-    * 💸ESTA BRUJA REGALA ROBUX GRATIS Y TARJETAS DE GOOGLE PLAY💸GAMEHAG LA MEJOR PAGINA DE PREMIOS💸
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=QFCh4v99CZk
-    * 🐣HallowsEve2017 \#1🐣ROPA GRATIS ROBLOX GHOSTLY TRICORN HAT Y NERF ZOMBIE STRIKE FEDORA🐣
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=_UXohuxssdc
-    * 🐣HallowsEve2017 \#1🐣ROPA GRATIS ROBLOX NERF ZOMBIE STRIKE SCARF Y SKELETAL SHOULDER PADS🐣
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=mrDawI1umiU
-    * 🎃ABRIENDO 20 CAJAS DE HALLOWEEN EN BRICKPLANET🎃ESPECIAL HALLOWEEN EN BRICKPLANET🎃
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=Wc6M0dYuv-c
-    * 👶QUIEREN RAPTAR A EL BEBE RODNY👶ROBLOX EN ESPAÑOL👶ADOPT ME ROLEPLAY👶
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=CfH7zyG_2E4
-    * 💰REGALANDO MAS ROBUX💰WILD REVOLVERS EN DIRECTO CON RODNY ROBLOX 💰
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=1VymJrqiUws
     * 🎈SOY EL PAYASO ESO EN ROBLOX🎈SOY EL PAYASO PENNYWISE EN ROBLOX🎈ROBLOX EN ESPAÑOL🎈
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * Description references the data collection website rblx.pro.
       * URL: https://www.youtube.com/watch?v=QzRSDOSMjD0
-    * 📕NUEVOS LIBROS DE ROBLOX EN CAMINO PARA EL 2018📕ROBLOX EN ESPAÑOL📕
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=RtmC2aQw20s
-    * 🐤TOP 5 ANIMACIONES DE ROBLOX🐤ROBLOX EN ESPAÑOL🐤
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=V0tuXfUeu2Q
     * 💸GANADORES DE LOS LENTES BRICKPLANET💸EN DIRECTO CON RODNY ROBLOX💸
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=pMMBLSn_Sl4
-    * 🥚COMO HACER TU PROPIO EGG PARA EL EGGHUNT 2017 GRATIS🥚ROBLOX EN ESPAÑOL🥚
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=03rniSnl_YE
-    * 💸TOP 5 USUARIOS DE ROBLOX CON MAS ROBUX💸ROBLOXIANOS RICOS💸ROBLOX EN ESPAÑOL
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=1um2hGz8Lgw
-    * 📽ESTE JUEGO ES INCREIBLEMENTE DIFICIL📽CUPHEAD PARTE 1 EN DIRECTO📽
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=MO7OxZ6Hj_0
-    * 🐣GANADORES DE UN BEAUTIFUL HAIR FOR BEAUTIFUL PEOPLE GRATIS🐣ROBLOX EN ESPAÑOL🐣
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=PZ-yaPiXnQQ
-    * Mi bello juego, Mi bello tycoon / Suicide squad tycoon en directo / Roblox en español
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=I1mt1vkPft0
-    * Apostando robux en roblox - Wild Revolvers Roblox en español.
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=R620LtoEovQ
-    * 🐥Abriendo cajas en directo en BrickPlanet🐥¿Conseguiremos el mejor limited?🐥
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=l-5waTLIjEA
-    * 🐤ROBLOX DARA UNA RECOMPENSA GRATIS AL LLEGAR A LOS 500K SEGUIDORES EN TWITTER🐤ROBLOX EN ESPAÑOL🐤
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ORjhivdrla8
     * Brickplanet - ¿El nuevo roblox? ¿Es mejor o es peor? - Brickplanet en español
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=PXJqRdR5uLA
-    * 🐣ABRIENDO CAJAS DE COLECCION EN BRICK PLANET EN DIRECTO🐣BRICK PLANET EN ESPAÑOL🐣
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=m929Ks5BSFc
-    * ⭐EVENTO THOR RAGNAROK⭐BRAZO DE HULK EN ROBLOX⭐NUEVO EVENTO ROBLOX EN ESPAÑOL⭐
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=KYD1t42iZPk
-    * ⭐COMO PROBARTE LAS MASCARAS DE THOR RAGNAROK EN ROBLOX GRATIS⭐THOR HATS ROBLOX EN ESPAÑOL⭐
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=dZu6PhlTiJY
-    * Apostando robux - Quien sera el mejor de los 2 Ripull Games Roblox en español
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=lM2QvoVzidY
-    * Sustos, sustos y mas sustos en Slendytubbies 3 - Slendytubbies III con ivan faz-fox en directo
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=PpDytOiKcHQ
-    * 🕸Como conseguir la mascara de spiderman 🕸Ropa gratis en roblox🕸Roblox heroes of robloxia🕸
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=qwOAxuDJNoQ
-    * 🕸LA MASCARA DE SPIDERMAN SERA GRATIS 🕸EVENTO SPIDERMAN EN ROBLOX🕸ROBLOX EN ESPAÑOL🕸
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=XQzqVUrWR_I
-    * ¿Me equivocare en la letra? - Cantando mi rap - Cantando el rap de stronbol
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ea6bzrdsqEQ
-    * 🕷COMO PROBARTE LA MASCARA DE SPIDERMAN EN ROBLOX GRATIS🕷SPIDERMAN HAT ROBLOX EN ESPAÑOL🕷
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=AAi1_L-jbKQ
     * 🐥REGALANDO MIL ROBUX EN DIRECTO A SUSCRIPTORES GRATIS🐥ROBUX GRATIS EN DIRECTO🐥
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=niebPxRWXBo
-    * 🕷EVENTO SPIDERMAN HOMECOMING🕷CABEZA DE SPIDERMAN EN ROBLOX🕷NUEVO EVENTO🕷
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ExTDM7NXft0
-    * 🐥REGALANDO MILES DE ROBUX A SUSCRIPTORES EN DIRECTO🐥ROBUX GRATIS ROBLOX EN ESPAÑOL🐥
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=m6JeKJMXjL4
-    * 🐥Ganadores de las 4 alas gratis!!!!🐥Ganadores de el sorteo (Roblox en español)🐥
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=4wcV66frIuk
     * 🐣REGALANDO 1000 ROBUX GRATIS EN DIRECTO🐣
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Av_tg2PGLSI
-    * 🐣Que gane el mejor!!!🐣ByLegend y stronbol vs XxneutroxX y Zoux 🐣Prison royale (Roblox en español)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=HANgsbGiTAI
-    * 🐥COMO CONSEGUIR CAJAS GRATIS Y SACAR ROBUX EN EBONUS.GG MUY FACIL🐥
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=P1iLNjYZVGI
-    * 🐥Directo en phantom forces fail :c🐥 (Roblox en español)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=cMYejL0gpq4
-    * 🐤Como conseguir robux totalmente gratis y rapido🐤Funciona!!!!🐤
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=pVz1VMW8o0A
-    * AH POR LA VICTORIA QUE VIENE DE PUBG - PRISON ROYALE (Roblox en español)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=SnNHG18W1vE
-    * Enseñandole lo que es roblox \#2 - Prison royale (Roblox en español)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=QlfGGuUVvt0
-    * Consiguiendo los objetos de el evento Sports en directo (Roblox en español)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=elxhWbXaTss
-    * COMO OBTENER UNAS ALAS GRATIS EN ROBLOX!!!! (Roblox en español)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=7HZUVLuupFk
-    * Enseñandole lo que es roblox - Phantom forces en directo
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=sVDMhhRhWJg
-    * Harlem Shake en roblox! (Roblox en español)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=-qe0wSluqjU
-    * ¿Le copie la intro a titanhammer? - Reaccionando a la critica de un hater xD (Roblox en español)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=Ue-N_jhqjYs
-    * Soy batman en roblox! - Batman Arkham Generations (Roblox en español)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=zRgXKU2pC4I
-    * Top 5 juegos que debes comprar si tienes robux - Los 5 mejores juegos de paga  (Roblox en español)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=9xOLmOz_Syc
-    * Top 5 eventos de roblox hasta ahora - Los 5 mejores eventos de roblox  (Roblox en español)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=Bz_1RG_5xXQ
-    * Como traspasar las paredes en prison royale - Truco Prison royale (Roblox en español)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=jXQ0BFGXoLE
-    * Como tener Robux gratis en roblox 2017 (Roblox en español)
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=2Qye5rACi84
-    * Esta pagina te da robux por completar ofertas! - Como conseguir robux gratis (Roblox en español)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=gG6xK3-uQp8
     * Top 5 cosas que ya eran perfectas pero roblox arruino (Roblox en español)
       * Description references the data collection website rblx.pro.
       * URL: https://www.youtube.com/watch?v=B8R3cWTheKs
@@ -7047,150 +5275,16 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=sfviFcrM7PU
 * TitanHammer Roblox (TitanHammerYT)
   * Information Collection
-    * 🐣 NUEVOS CODIGOS LEGENDARIOS MINING SIMULATOR MYTHICAL UPDATE ROBLOX CODES 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=Xb_AzECRj-o
-    * 🔴 ROBLOX EN DIRECTO JUGANDO AL EVENTO DE LOS INCREIBLES! SWORDBURST 2 Y HEROES!
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=g8iO8ssccug
-    * 👮 NUEVA ZONA DE ROBO INMINENTE! 🚓 JAILBREAK MINI UPDATE | ROBLOX 2018 ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=Xy2gTz8XA_4
-    * 🔴 ROBLOX EN DIRECTO | 1 MILLON DE $ EN JAILBREAK! SERVER VIP GRATIS ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=cYZ2JtINh78
-    * ⭐ Y EL GRAN PREMIO? ITEMS GRATIS DEL EVENTO HEROES! ROPA GRATIS EN ROBLOX 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=LIgcG-VaE4w
-    * ⭐ COMO CONSEGUIR ESTA INCREIBLE MEDALLA Y EL PERRO DEL EVENTO HEROES! ROPA GRATIS EN ROBLOX 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=2sbuTRITPt4
-    * ⭐ COMO CONSEGUIR LA MASCARA DEL EVENTO HEROES! ROPA GRATIS EN ROBLOX 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=2tA61wTlzSQ
-    * ⭐ COMO CONSEGUIR LOS INCREIBLES AUDIFONOS DEL EVENTO HEROES | ROPA GRATIS EN ROBLOX 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=kLGWXK3VrOo
-    * ⭐ COMO CONSEGUIR EL CASCO GALACTICO Y LA MOCHILA DEL EVENTO HEROES | ROPA GRATIS EN ROBLOX 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=5MuOySPJP6k
-    * 💰 CONSIGUE MUCHO DINERO EN JAILBREAK! ROBA EL TREN VARIAS VECES! ROBLOX ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=X9tmvd1sy60
-    * 😱 ESTOS SON LOS NUEVOS CUERPOS HUMANOIDES! ROBLOX ANTHRO UPDATE | MODELO R30
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=R9nIEp_9ZHk
-    * 🔴 ROBLOX EN DIRECTO ☠️ MEGALODON, EL TIBURON GIGANTE! A PIRATES TALE SERVER VIP GRATIS
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=Y4ozm8d9rgg
-    * 🔴 ROBLOX EN DIRECTO | ROBANDO EL TREN DE JAILBREAK! SERVER VIP GRATIS ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=UJAh82G6Gnk
     * 🔴 ROBLOX EN DIRECTO | HACKEOS Y TERROR! 😱 FLEE THE FACILITY Y SLENDER AMENDED
-      * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=6JVVN4XEwlU
-    * 😎 ABRIENDO CAJAS RARAS, EPICAS Y LEGENDARIAS EN MINING SIMULATOR! ROBLOX CODES 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=uDGukRhmOP8
-    * ⭐ DOS EVENTOS MEJOR QUE UNO! JURASSIC WORLD CREATOR CHALLENGE Y ROBLOX HEROES 2018 LOS INCREIBLES
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=G6PKS5UF3Wk
-    * 🤪 PRUEBA GRATIS LA CABEZA GIGANTE OOF DEATH SOUND MEME! HEAD REDUCIDA Y OTRAS!
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=w-ByO3ApZSw
-    * 👊 PLACES Y PREMIOS DEL PROXIMO EVENTO ROBLOX HEROES! ROPA GRATIS EN ROBLOX 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=XojHTtl8rmg
-    * ⛏️ 78 CODIGOS! MINING SIMULATOR TODOS LOS CODIGOS LEGENDARIOS! ROBLOX CODES 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=6LD83l-Jkx8
-    * 🔴 ROBLOX EN DIRECTO | LAS ALCANTARILLAS! MOTIN EN LA PRISION | JAILBREK SERVER VIP ROBLOX ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=6tw8EdltM3w
-    * 👍 NUEVA RUTA DE ESCAPE EN LAS ALCANTARILLAS! JAILBREAK UPDATE ROBLOX ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=F6PzGlPfmno
-    * 🚆 A ROBAR EL TREN! JAILBREAK UPDATE 😂 ROBLOX ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=oZyqWoASjOM
-    * 🚨 ALCANTARILLAS EN JAILBREAK! NOTICIAS PROXIMA ACTUALIZACION | ROBLOX ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=Ve5OAc4bPtU
-    * 🔴 ROBLOX EN DIRECTO | ESPERANDO LA NUEVA ACTUALIZACION! NUEVO UPDATE ALCANTARILLAS! ROBLOX ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=gFbN9Inkr34
-    * 🔴 ROBLOX EN DIRECTO | GRACIAS YOUTUBE POR NO COMPARTIR MIS DIRECTOS! ROBLOX ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=Crnrm08Noog
     * 👊 COMO SER THANOS! EL GUANTE DEL INFINITO EN SUPER HERO TYCOON ROBLOX ESPAÑOL
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=T9i_i6zSesw
-    * ⭐ Y EL HALCON MILENARIO? COMO CONSEGUIR ITEMS GRATIS EVENTO BATTLE ARENA! ROPA GRATIS EN ROBLOX 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=Miwk03ipd74
-    * ⭐ COMO CONSEGUIR LA ROPA DE CHEWBACCA Y MOCHILA DE ROBLOX | EVENTO BATTLE ARENA 2018 ITEMS GRATIS
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=eJ0B87yF08I
-    * ⭐ COMO CONSEGUIR LA MOCHILA DE HAN SOLO DEL EVENTO BATTLE ARENA! ROPA GRATIS EN ROBLOX 2018 ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=aCtYZRqzjPk
-    * ⭐ COMO CONSEGUIR LA CORONA DEL EVENTO BATTLE ARENA HAN SOLO! ROPA GRATIS EN ROBLOX 2018 ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=eJgg-JSXID0
-    * ⭐ COMO CONSEGUIR LAS CARTAS Y MOCHILA DEL EVENTO BATTLE ARENA! ROPA GRATIS EN ROBLOX 2018 ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=nuzza9OrahM
-    * ☠️ COMO CONSEGUIR LAS GEMAS Y LA ESPADA DE FUEGO PIRATA! INFERNO SWORD A PIRATES TALE ROBLOX ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=mq5oZpTssiQ
-    * 🔴 ROBLOX EN DIRECTO | SUPERVIVENCIA EXTREMA 😱 300 VICTORIAS NATURAL DISASTER Y DEATH RUN ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=xQ1vIJ6QhrM
-    * 🔴 ROBLOX EN DIRECTO | ESPECIAL Nº 50 EN JAILBREAK! 🚁 SERVER VIP ESPAÑOL 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=Ucx2tGWlOro
-    * 🚀 EL HALCON MILENARIO EN ROBLOX! PREMIOS DEL EVENTO ROBLOX BATTLE ARENA | ROPA GRATIS EN ROBLOX 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=znyRc2pPyqs
-    * 🔴 ROBLOX EN DIRECTO | PERSIGUEN A MINITITAN! MI PRIMER DIRECTO EN MEEP CITY ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=kjqf3mMmjfc
-    * 👻 EL TRUCO DE INVISIBILIDAD QUE NO TE HACE INVISIBLE! JAILBREAK GLITCH ROBLOX 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=5iCZfk518kc
-    * ☠️ COMO CONSEGUIR EL MEJOR ESCUDO DE LOS PIRATAS! PRECURSOR SHIELD | A PIRATES TALE ROBLOX ESPAÑOL
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=sluVP4xUTCI
-    * 🚀 EL PROXIMO EVENTO SERÁ PATROCINADO POR HAN SOLO, A STAR WARS STORY | ROPA GRATIS EN ROBLOX 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=ttisw2UdbVg
-    * ☠️ NUEVO JUEGO DE PIRATAS | LO MEJOR DE 2018! A PIRATES TALE ESPAÑOL | SEA OF THIEVES EN ROBLOX
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=7XvLFlYzSSE
-    * 🔴 ROBLOX EN DIRECTO 🏴 EL CAPITAN MUÑONES RECLUTA HONRADOS PIRATAS! A PIRATES TALE ESPAÑOL 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=Za0u6-34gx0
     * 🔴 ROBLOX EN DIRECTO | MUERTE POR HACKEO! 🔪 FLEE THE FACILITY Y MURDER MYSTERY X ESPAÑOL
-      * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=9x-sgKsSDG0
-    * 💰 NUEVO TRUCO PARA ROBAR EL BANCO SIN TARJETA EN JAILBREAK! ROBLOX GLITCH \[PARCHEADO\]
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=VejYdFPdqwI
-    * 💥 EL VERDADERO FORTNITE DE ROBLOX! CODIGOS DINERO GRATIS | ISLAND ROYALE ROBLOX CODES 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=8AdSvpcR228
-    * 🔴 ROBLOX EN DIRECTO | MI SERVER VIP GRATIS CON SUSCRIPTORES! JAILBREAK ESPAÑOL 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=pBZ7VTMtXU8
-    * 🔫 CALL OF DUTY ZOMBIES EN ROBLOX! RESURRECTION VS ZOMBIE PROJECT! LOS MEJORES JUEGOS DE ROBLOX 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=GIEI5a42HmI
     * 🎯 LOS NUEVOS SECRETOS DE JAILBREAK! TODOS LOS EASTER EGGS 4 ROBLOX 2018 ESPAÑOL
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=6BPR1MC_Ies
-    * 😱 MI OPINION SOBRE "ELRUBIUS REACCIONANDO A ROBLOX" MI PRIMERA VEZ EN ROBLOX! RUBIUS EN ROBLOX 2018
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=NWG-lySscH0
 * Tofuu (forstaken)
   * Information Collection
     * WE CRAFTED THE RAREST MYTHIC! (Roblox Assassin)
@@ -7457,7 +5551,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=mvkizuZMMN4
     * ExplodingTNT In Real Life
-      * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=t1gm9IQjncM
     * TRICKING COPS INTO THINKING I'M A COP IN JAILBREAK! | Roblox
       * Description references the data collection website oprewards.com.
