@@ -191,8 +191,6 @@ be referenced in the future.
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
-*  (HelloItsVinh)
-*  (TroyanoNanoReturns)
 * Alex (CraftedRL)
 * Aline Games (AliineGamesYT)
 * AlvinBlox (Alvin_Blox)
@@ -249,6 +247,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Hagazo (Hagazo9)
 * hannnahlovescows (hannnahlovescows)
 * HappyHopper (MooseCraftRoblox)
+* HelloItsVG (HelloItsVinh)
 * HulkBR (hulkbr_oficial)
 * Hyper - Roblox (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
@@ -334,6 +333,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ThnxCya (NotThnxCya)
 * ThunberGames (ThunberGames)
 * TinenQa (TinenQa1)
+* Troyanonano Returns (TroyanoNanoReturns)
 * TwiistedPandora (TwistedPandora)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * XdarzethX - Roblox & More! (xdarzethx)
