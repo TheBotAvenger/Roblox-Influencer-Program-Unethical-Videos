@@ -179,20 +179,22 @@ Deleted videos will not appear on the list because deleted videos can not be un-
 be referenced in the future.
 
 ### Video Metrics
-* Total videos: 222,159 videos
+* Total videos: 222,170 videos
 * Total videos found that match keywords: 12,277 videos
-  * Total unprocessed videos: 7,966 videos
-* Total videos found that are processed and marked: 1,867 videos 
-  * Information Collection: 1,624 videos
-  * Non-Giftcard Robux Giveaways: 209 videos
-  * Phishing: 20 videos
-  * Other: 13 videos
+  * Total unprocessed videos: 7,965 videos
+* Total videos found that are processed and marked: 1,847 videos 
+  * Information Collection: 1,595 videos
+  * Non-Giftcard Robux Giveaways: 207 videos
+  * Other: 23 videos
+  * Phishing: 21 videos
   * Gambling: 1 video
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
+*  (HelloItsVinh)
+*  (TroyanoNanoReturns)
 * Alex (CraftedRL)
-* Aline Games (alinebdomiciano)
+* Aline Games (AliineGamesYT)
 * AlvinBlox (Alvin_Blox)
 * Amberry (Amberrry)
 * AnielicA (ANIELICA01)
@@ -212,6 +214,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ByDerank (ByDerank_YT)
 * Captain Tate (CaptainTate21)
 * cazum8 (cazum8)
+* Cerso (Cerso93)
 * Chrisandthemike (chrisatm)
 * Collins Kosuke (Kosukei)
 * Conor3D (Conor3D)
@@ -246,7 +249,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Hagazo (Hagazo9)
 * hannnahlovescows (hannnahlovescows)
 * HappyHopper (MooseCraftRoblox)
-* HelloItsVG (HelloItsVinh)
 * HulkBR (hulkbr_oficial)
 * Hyper - Roblox (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
@@ -259,6 +261,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Janet and Kate (KittyJanet and Kate9071)
 * javie12 (javie12)
 * Jayingee (jayingee)
+* Jeancof ツ (Jeancof)
 * JonesGotGame (JonesGotGame)
 * Jr e Mi (JuniorGuimaraes and micandeloro)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
@@ -314,24 +317,23 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ryguy - Roblox (ryguyrocky)
 * SallyGreenGamer 
 * SDMittens (SDMittens)
-* SeeDeng (SeeDank)
 * ShanePlays (SGC_Shane)
 * Shaylo (YTshaylo)
+* skyleree (skyleree)
 * Spagz Blox (Spagzox)
 * Sub 
-* TanqR (Leeyxm)
+* TanqR (TanqR)
 * TapWater (UseCode_Tap)
 * TeraBrite Games (SabrinaBrite and DJMonopoli)
 * Tex HS (TexWillerHS)
 * THE KAPOLAR (Kapolar1)
 * The Monkey (MonkeyVsRoblocks)
-* The Toy Heroes Games (ToyHeroesMolly)
+* The Star Squad Gaming (StarSquadMolly)
 * TheAtlanticCraft (TheCrazyMaverick)
 * Thinknoodles (ImNotThinknoodles)
 * ThnxCya (NotThnxCya)
 * ThunberGames (ThunberGames)
 * TinenQa (TinenQa1)
-* Troyanonano Returns (TroyanoNanoReturns)
 * TwiistedPandora (TwistedPandora)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * XdarzethX - Roblox & More! (xdarzethx)
@@ -375,11 +377,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ESSE ITEM TE DÁ ROBUX GRÁTIS NO ROBLOX
       * Description references the data collection website earnrobux.online.
       * URL: https://www.youtube.com/watch?v=dPMqEpZWWA0
-* Cerso (Cerso93)
-  * Non-Giftcard Robux Giveaways
-    * SORTEO DE ROBUX PARA ROBLOX GRATIS | Cerso Roblox en español
-      * Uses a Roblox Group with group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=V5Y3MNZv4K8
 * Cylito (Cylito)
   * Non-Giftcard Robux Giveaways
     * Bloxburg: Victorian Roleplay House 62K
@@ -2478,6 +2475,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=rWtJxn2aUBU
     * TRAPPING NOOBS WITH MAGNETITE WALLS! Booga Booga Trolling | Roblox
+      * Description references the data collection website robuxplanet.com.
       * URL: https://www.youtube.com/watch?v=NuMaoDcvKcw
     * Only 1% of people know about the secret to Frosty! Snow Shoveling Simulator❄️Roblox
       * Description references the data collection website robux.network.
@@ -3128,12 +3126,15 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Jamie ThatBloxer (Jamiethatgirl)
   * Information Collection
     * HOW TO GET FREE ROBUX AND BC | UPDATED 2016
+      * Video is about getting free Robux using an Android app to fill out surveys.
       * URL: https://www.youtube.com/watch?v=eNdg3A5tamY
 * JeffBlox (JeeffBlox)
   * Information Collection
     * ISSO FOI REMOVIDO DO ROBLOX E VOCÊ NEM PERCEBEU
+      * Description references the data collection website rblx.pro.
       * URL: https://www.youtube.com/watch?v=wAeBdOec_lE
     * ITENS GRÁTIS NO ROBLOX
+      * Description references the data collection website rblx.pro.
       * URL: https://www.youtube.com/watch?v=fX6XKPfSrIc
     * DUAS NOVAS COISAS DA ATUALIZAÇÃO DO MAGNET SIMULATOR QUE VAI TE DEIXAR MUITO RICO
       * Description references the data collection website claimrbx.com.
@@ -3226,724 +3227,1146 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=Vy6ptZM8Xmo
     * SUPER VELOCIDADE NO JAILBREAK ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=KkMdHL3Kxfo
     * COMPREI A NOVA ILHA E A MELHOR FERRAMENTA NO TREASURE HUNT SIMULATOR - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=d_Rf-rjcepw
     * COMO ENCONTRAR MUITOS BAÚS E GANHAR MUITO DINHEIRO NO TREASURE HUNT SIMULATOR - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=rfZC04MZkNE
     * COMO IRRITAR UM JOGADOR DE ROBLOX 😄
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=cUzXIX74Ngc
     * O ROBLOX JÁ ESTA ADICIONANDO O NOVO R62?
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=hkYUKBjqBqY
     * NOVOS CÓDIGOS!! COMPREI A MELHOR FERRAMENTA E FIQUEI MUITO RICO NO TREASURE HUNT SIMULATOR - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=S1A0B-4kh2o
     * NOVO CÓDIGO! E COMO ACHAR E MATAR O NOVO BOSS NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=-hayS7t6D0o
     * SOU O BRASILEIRO MAIS RICO DO CASH GRAB SIMULATOR?? - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=DfFL2hsTrVI
     * RELEMBRANDO OS VELHOS TEMPOS NO PRISON LIFE - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=hgYxGJSJySY
     * OS CAÇADORES DE HACKER NO JAILBREAK - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=2YzP-UI4FV8
     * NOVO MINIGAMES BRASILEIROS NO ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=CScn3ENIg9I
     * PEGUEI 22 ADMIN E FIQUEI RICO NO CASH GRAB SIMULATOR - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=FJiJ2znKipM
     * OS BANDIDOS MAIS ATRAPALHADOS DO JAILBREAK - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Is9UYjKUKfU
     * NOVO CÓDIGO E NOVA FORMA DE DOAR DINHEIRO NO CASH GRAB SIMULATOR - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=QZAw9y-UrK8
     * USEI A NOVA FERRAMENTA E PEGUEI 4 CLIENTE ADMIN E 16 GOD NO CASH GRAB SIMULATOR - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=fXnf825pmkg
     * PALHAÇO ASSASSINO NO JAILBREAK - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=N9tm0S0ZeSU
     * COMO ACHAR E PEGAR O CLIENTE ADMIN NO CASH GRAB SIMULATOR - ROBLOX(FT.BIELHENRIIK)
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=m70wtcdISUo
     * PEGUEI UM CLIENTE ADMIN E TRANSFORMEI TODOS EM OURO NO CASH GRAB SIMULATOR - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=GQLIgxlizXs
     * BOLA DE GELO MISTERIOSA!! DA DINHEIRO?? SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=L9EqSqpTqWQ
     * SOU UM CACHORRO POLICIAL NO JAILBREAK - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=OsanGDGMpso
     * COMPRANDO OS NOVOS PETS NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=AHfsX9Nckos
     * OS 5 MELHORES JOGOS BRASILEIROS NO ROBLOX 🎮
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=qpXDK_uNJCw
     * COMPRANDO A MELHOR FERRAMENTA E CAPTURANDO O CLIENTE ADMIN NO CASH GRAB SIMULATOR - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ss6u6Y20rq8
     * COMPRANDO A NOVA ARMA PRA MATAR O ICE BOSS NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=vxHVUhEAwZo
     * COMPRANDO O VIP E GANHANDO MUITO DINHEIRO NO JAILBREAK - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=3I4_-pGoKcw
     * NO ESTILO GTA COM O BUG DA ARMA NO JAILBREAK - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=IcraNErKAhQ
     * O NOVO CLIENTE QUE DA 5 MILHÕES DE DINHEIRO NO CASH GRAB SIMULATOR - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=xVaYE5Xcbiw
     * COMPRANDO A MOCHILA QUE CUSTA 1 MILHÃO E FICANDO RICO NO CASH GRAB SIMULATOR - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=2w8Rmp23Pvk
     * NOVOS CÓDIGOS PARA GANHAR DINHEIRO E SPEED NO CASH GRAB SIMULATOR - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=O_j0XhOTd6U
     * VENDENDO MUITOS JOGOS LEGEND E FICANDO RICO NO CASH GRAB SIMULATOR - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=z05OXn0ZZt0
     * COMPRANDO O BANK VAULT E FICANDO RICO NO CASH GRAB SIMULATOR - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=71wyB9bQnL4
     * NOVOS CÓDIGOS!! E PULANDO AS RAMPAS DA MONTANHA NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=9kf0gBkWoXI
     * PRENDI MEU IRMÃO NOS TRILHOS DO TREM NO JAILBREAK - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Y--yRnySak0
     * NOVO CÓDIGO!! E MATANDO O ICE BOSS SOZINHO NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=cPkfv0IeOR0
     * CÓDIGOS PARA GANHAR DINHEIRO E SPEED NO CASH GRAB SIMULATOR - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=sBQ7G0H2Z3s
     * O POLICIAL SUPER SAYAJIN NO JAILBREAK - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Hz0hHU0gULk
     * NOVO CÓDIGO!! E COMPRANDO O ICE HAMMER NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=LFB68u9UFDA
     * NOVA ATUALIZAÇÃO DA MONTANHA NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Q7jeovxl0mQ
     * JOGANDO BLOXBURG PELA PRIMEIRA VEZ NO ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=RD9wR7EHoHI
     * NOVOS CÓDIGOS DE MONEY E EXPLORANDO A MONTANHA NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=iKCC78zIb_0
     * COMO FUNCIONA O TELETRANSPORTE NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=2Ti4kZQqca0
     * COMO PEGAR E VENDER O CUBO DE GELO(ICE CUBE) NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Gx8QziDDL3k
     * COMPREI O PET QUE CUSTA 1000 ROBUX NO ZOMBIE ATTACK - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=iTTYemoOw8c
     * ENTREGUEI 20K DE ICE AO CAVE EXPERT E ACHEI ICE RARO NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=LgDc5EVewOw
     * COMO ACHAR E MATAR O ICE BOSS NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=MCOVo8iuy5E
     * COMPRANDO O NOVO PET NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=v7sdzWjXgEw
     * COMO PEGAR O NOVO ICE E VENDER NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=yzWyRXde5ME
     * OS POLICIAIS VÃO TER UM CACHORRO NO JAILBREAK? - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=0OlNj3P7Lrk
     * COMPRANDO O NOVO PET O DRAGON  NO ZOMBIE ATTACK - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=L5HYmkpL1FI
     * COMPREI O NOVO SNOWMOBILE E ENTREI NA ICE MOUNTAIN NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ZMS8IJ_zR8I
     * A MALUCA MOTO ABOMINÁVEL DA NEVE NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=pQB4HlCtzVw
     * VOANDO DE HELICÓPTERO POR BAIXO DO MAPA DO JAILBREAK - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=JthF0OknG4M
     * O CRIADOR DO SNOW SHOVELING SIMULATOR FEZ UM NOVO JOGO NO ROBLOX!!
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=S1NBe05glJE
     * DUELO DE YOUTUBERS NO ROBLOX - JEFFBLOX VS EMPIREBLOX  (CAPTURE THE FLAG)
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=VIXC3IqkDB8
     * DESAFIO VOCÊS A ESCAPAREM DE MIN NO ROBLOX!! (ESCAPE DO JEFFBLOX)
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=_bE4W0RRdzU
     * COMO COLOCAR SUA MÚSICA PREFERIDA NO ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=l1jE4GBk5CE
     * PEGUEI LEVEL 1600 NO ZOMBIE ATTACK - SAIBA COMO EU PEGUEI TÃO RÁPIDO(ROBLOX)
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ztzqb-sZp-I
     * PEGUEI 5 MILHÕES DE MONEY NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=5UeaEbSEMYg
     * O JOGO DOS YOUTUBERS BRASILEIROS NO ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=pj44GwNnF7k
     * COMO GANHAR ROBUX GRÁTIS COM O SEU JOGO DO ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=3KAhMImyAY0
     * JOGANDO A CÓPIA PERFEITA DO ROBLOX 😲
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=EMezvUp94No
     * FIZERAM UM JOGO DE PERGUNTAS SOBRE MIM NO ROBLOX(QUIZ DO JEFFBLOX)
+      * Description references a video to a Robux giveaway
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=WJ6jkPYWKPs
     * IMPOSSÍVEL JOGAR ESSE JOGO DO ROBLOX SEM ROBUX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=-xADiLtaaXA
     * SUPER MODO PALHAÇO CRIMINAL NO JAILBREAK ROBLOX!!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=07h0tj5pBI0
     * ICE BOSS NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=hEFIRzhCQq4
     * PEGUEI LEVEL 600 E DESBLOQUEEI MAIS ESPADAS E ARMAS NO ZOMBIE ATTACK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=8NUy94o7UQg
     * COMPRANDO A DIAMOND BOMB E TRANSFORMANDO NEVE EM DIAMANTE NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=VsAptUEiWK4
     * COMPRANDO O NOVO PET E FAZENDO BURACOS NEGROS NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=au-3SdBtJg0
     * NOVO CÓDIGO DE PET E COMPRANDO O PET DE 500,000 MONEY NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=9y35Lqjafco
     * OQUE VAI VIR NA ATUALIZAÇÃO DE EXPANSÃO NO SNOW SHOVELING SIMULATOR ?❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=B7AHcVZc4ms
     * PASSEI DA WAVE 50 NO NOVO JOGO DE ZOMBIE NO ROBLOX(Zombie Attack)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=bJrKngGb9O0
     * COMPREI TODOS OS VEÍCULOS E GAME PASS DO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=aNlx3ZvpjaU
     * OLHA SÓ OQUE ESSA MARRETA FAZ NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ubV4FUJZKbg
     * NOVO CÓDIGO DA MOCHILA TV E SUPER ATUALIZAÇÃO NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=-x9vxb9bkgk
     * COMPRANDO O GRADER E FICANDO RICO NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=I4Z3WL2ugSw
     * TENTANDO ARRANCAR O TREM DOS TRILHOS NO JAILBREAK ☃️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=qm2MZrbx_ys
     * COMO TER UMA ROUPA IGUAL A ESSA PACKAGE DE GRAÇA OU POR 10 ROBUX NO ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=WNUenod7pGk
     * NOVOS CÓDIGOS PARA GANHAR BUCKS GRÁTIS NO ADOPT ME - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=nW-HsrjUD7g
     * COMPRANDO A NOVA MOTO ABOMINÁVEL NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=vCNCDoot2CU
     * ESSE JOGO DO ROBLOX DA MUITO SONO - SLEEPING SIMULATOR(NOVO JOGO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Jv8tkJkIFR8
     * SUPER ATUALIZAÇÃO NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=qoxMKLuuWS4
     * COMBINE ESSES DOIS E FIQUE RICO NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=cWk8tnHZEZc
     * COMPREI O THERMAL SUIT E DERRETI NEVE COM MEU CORPO NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=-u4RLZcBdhs
     * ESSE JOGO DO ROBLOX ME ENGANOU COM TROLLAGENS
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=qlz8MnE_m58
     * TODO MUNDO PEGANDO MUITA NEVE NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=u1YyD9UCpyo
     * COMPRANDO O TRENÓ E FAZENDO MUITO DINHEIRO NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=zmZy3lI_VYs
     * COMPRANDO O LIGHTNING BOLT E FIZ MUITO DINHEIRO NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=LDF9kyAgA-s
     * GUEST VS NOOB NO ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=iJWudyspNng
     * PEGANDO NEVE INFINITA NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=lkDq03todcw
     * O FUTURO DO ROBLOX 😧
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ee6tPWu6KHY
     * JOGANDO O JOGO QUE CUSTA 1000 ROBUX NO ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=o0fbdeBXI18
     * ROBLOX REAL VS ROBLOX CÓPIA
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=o4HXxhVDCxM
     * DESCOBRINDO COISAS SOBRE O ASIMO3089 CRIADOR DO JAILBREAK \*2018\*? - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=1FPmTcQMdfI
     * O TYCOON DAS REDES SOCIAIS NO ROBLOX - SOCIAL MEDIA TYCOON(NOVO JOGO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=VkavPubxhtc
     * VALE A PENA COMPRAR BUILDERS CLUB NO ROBLOX ?
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=buxEaP7RU9E
     * TROLAGEM!! KIKANDO PESSOAS DO SERVER NO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=wV89OcqRQNQ
     * OS 10 ITEMS CARO DO ROBLOX QUE ERAM QUASE DE GRAÇA!!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=4wNTbIv1VnI
     * ITEM TIX ESCONDIDO NO ROBLOX :O
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=olaK1NvRyOg
     * O JOGO MAIS CARO DO ROBLOX 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=NUmSdOxBu6I
     * COMO COLOCAR O TEMA DO ROBLOX EM SEU NAVEGADOR (TEMAS GRATUITOS PERSONALIZADOS)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ocqnWjkK_Iw
     * OQUE VOCÊ PREFERE ? NO ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=zPAQxJB8agE
     * FIZERAM UM JOGO SPEED RUN PARA MIN NO ROBLOX!!(MODO HARD)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=KEPHatcs_tg
     * ENTÃO, VOCÊ ACHA QUE CONHECE O ROBLOX??PROVE!!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=WtaI4saHPDo
     * O JOGO DE ENCONTRO HACKERS NO ROBLOX!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=DHqpbwkCvjo
     * VOCÊ E UM NOOB OU UM PRO NO ROBLOX??DESCUBRA!!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=TMysDoFKfDo
     * O JOGO MAIS ODIADO DO ROBLOX 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=n-KeSAr0gWg
     * NOVOS SEGREDOS DO JAILBREAK SERÃO REVELADOS :O (ROBLOX)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=XXUPI8R-ymU
     * CÓDIGOS PARA GANHAR DINHEIRO GRÁTIS NO SNOW SHOVELING SIMULATOR
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=eUzE5LR_sM8
     * FINALMENTE O TREM NO JAILBREAK E NOVA FORMA DE ROUBO - ROBLOX (SUPER ATUALIZAÇÃO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=A2iX-V9wTXU
     * VOCÊ E UM VERDADEIRO ROBLOXIANO?? DESCUBRA!!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=IA4Hc8VlRDI
     * VOCÊ TEM MENOS DE 24 HORAS PARA PEGAR ESSE NOVO ITEM GRÁTIS DO ROBLOX :O
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=X2X3JBPp04A
     * MEU VÍDEO ESTA NO \#48 EM ALTA OBRIGADO A TODOS :D
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=v-xii6jBEYg
     * O ÚLTIMO GUEST O JOGO NO ROBLOX 🎮
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=z6PEPEvv2Dc
     * SAIUUU!! SEGUNDO PRESENTE GRÁTIS COM ITEM MISTERIOSO NO ROBLOX!🎁
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=1JL-W_fBpxs
     * ESSE YOUTUBER TEM A CONTA MAIS TOP DO ROBLOX!!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=g6YUA4ohLFs
     * 10 COISAS QUE VOCÊ NUNCA SOUBE SOBRE O ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=G-1Olg4XJb4
     * O DIA EM QUE O ROBUX FOI ADICIONADO NO ROBLOX💸
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=34WI-ffIsFU
     * ALGUÉM AINDA LEMBRA DESSE JOGO DO ROBLOX??
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Jeu5xtPghNk
     * NOVO VEÍCULO 1M NO JAILBREAK - ROBLOX(SUPER ATUALIZAÇÃO DE INVERNO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ODzhptZnc54
     * O JOGO MAIS MALUCO DO ROBLOX!!(Gravity Shift)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Xnqa73WdD7U
     * SAIUUU!! NOVO PRESENTE GRÁTIS COM ITEM MISTERIOSO NO ROBLOX!🎁
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=sqNAnPKpSxI
     * TODOS OS COMANDOS DE MOVIMENTOS DO ROBLOX(Animation System)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=1Xplio6NoY4
     * O ROBLOX VAI NOS DAR PRESENTES COM ITENS??🎁
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=JQHrW7G3c2k
     * OS JOGOS MAIS RICOS DO ROBLOX 🤑
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=KPz-V7vlqJA
     * SUPER MODO ZOMBIE NO JAILBREAK ROBLOX!!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=SbYk4zw3iI0
     * TROLANDO GRINGOS COM ÁUDIO DE ALERTA HACKER NO JAILBREAK??
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=gvz7tdHGKL0
     * HACKER VS ADMIN NO ROBLOX!!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=31t5ByRJ6xg
     * NOVO CÓDIGO QUE DA 100MILHÕES DE CASH NO ZOO TYCOON - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Zh52WvCNECo
     * O ANTHRO R30 JÁ FOI ADICIONADO EM ALGUNS JOGOS DO ROBLOX!! 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=bNG0WOfWA9Q
     * 5 COISAS QUE PODERIAM SER ADICIONADAS NO ROBLOX!!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=RYUJJWEsMAE
     * FÓRUM REMOVIDO DO ROBLOX (R.I.P FÓRUM)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=A29nYcd0RCA
     * COMO SERIA O ROBLOX NO ANO DE 1950 VOCÊ NÃO JOGARIA O ROBLOX ASSIM!!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=CKBXEgywprk
     * O CATALOG DO ROBLOX EM 2007 🤑 (10 ANOS ATRÁS)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=H0sBEvq-SEg
     * COMO ATIRAR DEITADO NO JAILBREAK ROBLOX (NOVO GLITCH)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=SekKYZ9JwiA
     * ✔COMO FAZER UM NECK(ITEM DE PESCOÇO) DE GRAÇA NO ROBLOX‼
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=eM100E9h9aM
     * AS 5 CAMISAS MAIS PERSONALIZADAS DO ROBLOX - ISSO E REAL??😲!!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=nUReinqRF9A
     * O TABLET QUE CUSTA 1 BILHÃO DE ROBUX NO ROBLOX!! EU TENHO ELE??
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=A0fwZunJcjo
     * VISITANDO JOGOS ABANDONADOS NO ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=CMC3hCtkCQw
     * 3 NOVOS VEÍCULOS NO JAILBREAK E MUITO MAIS - SUPER ATUALIZAÇÃO(ROBLOX)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=7dOC2HchtCg
     * COMO MUDAR O TEMA DO ROBLOX (TEMAS GRATUITOS PERSONALIZADOS)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=qOk-iJN7s9w
     * ROBLOX FALSO VS ROBLOX REAL
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=-k_fMtbeFqM
     * ROBLOX - SOU UM CAVALO E MONTARAM EM MIN NO HORSE WORLD - FINALLY(NOVO JOGO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=CP1jmCwb2-Q
     * IMPOSSÍVEL ACERTAR A SENHA DESSA MANSÃO - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Tsq1mMby-NI
     * ESSE CARA GASTOU MAIS DE 30 MILHÕES EM APENAS UM ITEM DO ROBLOX!!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=VUDUz51fWME
     * SOU O HACKER BOB ESPONJA E O PATRICK NO ROBLOX!! :D
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=f7rPGkw79D0
     * FUJA DO GODENOT NO ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=yNrIUUgBCwM
     * SIMULADOR DE PAPAI NOEL NO ROBLOX - SANTA SIMULATOR(NOVO JOGO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=8gMFZ5noSdY
     * UMA HISTÓRIA DE TERROR COM O MEU NOME ?😲 - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=DWSebSwU_mU
     * A XJ6 MALUCA NO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=i8m1w342IpU
     * ESSE JOGO VAI ULTRAPASSAR O JAILBREAK ? 😲- ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=q0Y0l38XcIY
     * NOVO CARRO TESLA ROADSTER 2020 EM BREVE NO JAILBREAK - ROBLOX(MELHOR QUE A BUGATTI??)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=6PsJoNIQwvc
     * COMO TER UMA ESPADA NO JAILBREAK OFICIAL - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=cK-YQVqhqow
     * COMO FAZER A CAMISA DO FELIPE NETO "REBULIÇO" NO ROBLOX DE GRAÇA!!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=dVsKOSwK7mc
     * ANTHRO R:30 ESTA SENDO ADICIONADO NO ROBLOX? 😲(KEN E BARB TEST)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=mbwaWrHo74g
     * COMO FAZER A CAMISA DOS "IRMÃOS NETO" NO ROBLOX DE GRAÇA!!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=yLcRrQpTFxI
     * CUPHEAD NO ROBLOX ?  😲 (CUPHEAD IN ROBLOX)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=LU4r70fZphY
     * ESSE CARA TEM TODOS OS ITEMS DO ROBLOX!! 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=jJ3q_8a_38A
     * COMO FAZER UMA CÓPIA DO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=sWgPECUW6_Q
     * ANDANDO DE HOVERBOARD NO JAILBREAK ROBLOX ? 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=1vlUxB2HyDs
     * OS INSCRITOS ME DERAM UMA LAMBORGHINI NO JAILBREAK ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=R5jKA3rRX5w
     * SEJA UM YOUTUBER BRASILEIRO NO YOUTUBER BR TYCOON - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=jYDlv2yl2XQ
     * TODO MUNDO USANDO ADMIN COMMANDS NA COPIA DO JAILBREAK ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=-IDbR_JPd5w
     * VAI TER CLIMA DE INVERNO NO JAILBREAK ROBLOX ??(ATUALIZAÇÃO EM BREVE)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=XZF4x1JF1JU
     * 5 ROUPAS QUE ME FAZEM SER UM CAMALEÃO NO JAILBREAK ROBLOX (invisível ?)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=QvQaCsYMHTk
     * ESCAPE DOS YOUTUBERS  BRASILEIROS NO ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=cwLnbVSgbgw
     * FOMOS PARA SATURNO DE FOGUETE NO JAILBREAK ROBLOX ? 😲(FT.KAPOLAR)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=kq3EsSfM760
     * TREM E FOGUETE SECRETO NO JOGO CRIADO PELO DONO DO JAILBREAK
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=2CEK9-dfRbw
     * GASTEI MAIS DE 5MIL ROBUX NESSE JOGO E DEPOIS PAREI DE JOGAR  😲(ROBLOX)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=XHDfiNzmSkY
     * ACHEI ALGO SECRETO NO KNIFE SIMULATOR ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=AlzPbXL0da8
     * SIMULANDO UM TORNADO NO JAILBREAK ROBLOX DESTRUIU TUDO ? ?
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ZgY1eEu1zes
     * FOMOS PARA LUA DE FOGUETE NO JAILBREAK ROBLOX ?😲(FT.KAPOLAR)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=gvWAXUQCmVE
     * ROBLOX - O SIMULADOR DE FACAS - KNIFE SIMULATOR(NOVO JOGO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=0KSq-OCcvk8
     * OUTRO JOGO CRIADO PELO CRIADOR DO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=k45icvCePsM
     * A IDEIA DO TREM COMEÇOU HÁ 3 ANOS ATRAS (JAILBREAK ROBLOX)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=wU_9p3BJlF4
     * ESSA ROUPA ME DA MUITA VELOCIDADE NO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=cz-jK3ijDjs
     * PINGUIM GLITCH VS SNOWMAN GLITCH NO JAILBREAK ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=yqMphvA2rDw
     * ESTE JOGO SUBSTITUIRÁ O JAILBREAK ROBLOX ? 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=R6ABMIkA4x4
     * COMO TER SEU PRÓPRIO JOGO OBBY NO ROBLOX(TUTORIAL MÉDIO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Vtclg_QqpN8
     * O DOMINUS PROIBIDO DO ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=k4YNwWCBj10
     * ROBLOX - CHUTE E PISE NOS OUTROS JOGADORES NO CRUSHING SIMULATOR(NOVO JOGO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=3Dd8t6vYDiI
     * MODO HARDCORE NO JAILBREAK ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=E92onxTo6kE
     * COMO TER SEU PRÓPRIO JOGO TYCOON NO ROBLOX(TUTORIAL BÁSICO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=vt4m620QeSI
     * ROBLOX - SEJA UM ANIMAL E FUJA PARA NÃO SER CAPTURADO NO PET ESCAPE(NOVO JOGO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=XMRm9DeI-uc
     * NOVO TRUQUE PARA FICAR INVISÍVEL NO JAILBREAK - ROBLOX(MOTORISTA FANTASMA)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=EkAJSD0YWNc
     * ESSA CAMISA TE DEIXA INVISÍVEL NO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=SzK8XoneZdk
     * PRISON LIFE VS JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=RtaU4TDFIDU
     * EMERALD STRIKE A ESPADA MAIS FORTE DO SWORDBURST 2 - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=T9OVcuXO03Y
     * ROBLOX - QUEM TEM MAIS ROBUX E O MAIS FORTE NO ROBUX SIMULATOR(NOVO JOGO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=iTZmeN1mO3A
     * O CAVALEIRO DE GELO POLICIAL NO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=r_EghH7i7ow
     * OQUE ACONTECERIA SE O JAILBREAK FOSSE INUNDADO? (ROBLOX)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=SJrvl82ZJUs
     * OS 30 ITENS PROIBIDOS DO ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=UodSMP5LRZo
     * COMO SABER AONDE PASSAR DE NÍVEL RÁPIDO E DROPAR OS MELHORES ITENS NO SWORDBURST 2 - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=WOLJzzKJcHY
     * A VOLTA DO PODEROSO PINGUIM CRIMINAL NO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=tMk4IGIUJeE
     * O VERDADEIRO PODER DA SWAT NO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=POf6bVSK1JM
     * ESSE CARA CONSEGUIO 23MIL DE BOUNTY | MELHOR CRIMINOSO DO JAILBREAK ?
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=l5PRUWSDEjI
     * PEGUEI LEVEL 36 E FORTALECI MEU EQUIPAMENTO NO SWORDBURST 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=xd9OAjwcAK4
     * O JOGO MAIS VICIANTE DO ROBLOX | SWORDBURST 2(COMEÇA A NOVA AVENTURA)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=BrvLwbAjB1c
     * COMO SERIA SE O JAILBREAK ADICIONA-SE UM HUMANO ?
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=usSJwQ5NE5s
     * QUEM FAZ MAIS DINHEIRO NO JAILBREAK EM 4 MIN | POLICIAL OU CRIMINOSO ??
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=-OUkGzuzZpM
     * ROBLOX - SOU UMA GALINHA COMILONA NO CHICKEN SIMULATOR
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=5jAv3UZeuoQ
     * PRIMEIRO VÍDEO DO ROBLOX NO YOUTUBE E O PRIMEIRO JOGO A SER LANÇADO
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=TykqH1A-m04
     * JOGANDO O JAILBREAK DE OUTRA DIMENSÃO | ENCONTREI ALIENS !! 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=CBdFmTgjdSI
     * CRIADORES DE JAILBREAK MILIONÁRIOS GRAÇAS AO ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=tEI7CkQp3CE
     * JOGANDO JAILBREAK COM OS INSCRITOS (ESPECIAL DE 20K)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=tM3FggupXcc
     * NOOB VS PRO NO JAILBREAK ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=0utNkSWfFYM
     * AVISO IMPORTANTE!! SEGUNDO CANAL CRIADO - MUITAS NOVIDADES VEM POR AI !!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=KVQNgC1Ajho
     * ROBLOX - NOVA FUNÇÃO DE ALTERAR SPEED E SERVIDOR VIP GRATUITO - NINJA ASSASSIN
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ksNuuS9K7Bo
     * COMO RECEBER UM AVISO QUANDO UM ITEM NOVO E LANÇADO NO ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=JRZc7ATiDZw
     * CONFIRMADO NAVE ESPACIAL NO JAILBREAK - ROBLOX ? 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=cZoGCe9SrgU
     * ROBLOX - TREINE PARA MUDAR DE HERÓI/VILÃO NO SUPER SIMULATOR 2(NOVO JOGO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=3x2yL9guJLw
     * ROBLOX - VINICIUSDOBR E O BR MAIS FORTE DO NINJA ASSASSIN? 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=dsr95VI-ehk
     * DICAS DE COMO FICAR FORTE NO NINJA ASSASSIN - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=B29uPdK_blY
     * A CÓPIA DO JAILBREAK QUE NÃO DEU MUITO CERTO(ROBLOX)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=bGgAWv8GtUo
     * NOVO JOGO QUE ESTA BOMBANDO NO ROBLOX - CRIE SEU PRÓPRIO MUNDO NO GALAXY SIMULATOR
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=lz8dqqkNUvA
     * 5 COISAS QUE PODERIAM SER ADICIONADAS NO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=y42Z-Mvb2Ho
     * COMO TESTAR OS CARROS DO VEHICLE  SIMULATOR ANTES DE COMPRAR - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=XxrZl0DFNeo
     * CRIMINOSO DE SWAT NO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=eYUSljERXLY
     * ESCONDERIJO QUE ESTAVA NA SUA FRENTE E VOCÊ NÃO SABIA - JAILBREAK(ROBLOX)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=em-egLQLEIc
     * ROBLOX - ACHEI UM BR QUE TEM QUASE 3 MILHÕES DE FORÇA NO NINJA ASSASSIN
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=pm8XgsvXS08
     * 4 GLITCHES NOVOS NO JAILBREAK | POLICIAL AJUDANTE CRIMINAL
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=LxO5cGye10A
     * ROBLOX - USANDO O CONJUNTO RAINBOW PACK NO NINJA ASSASSIN(CONJUNTO ARCO-IRIS)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=W9kEwp6YJQI
     * COMO PEGAR O HELICÓPTERO SEM PRECISAR DO KEYCARD NO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ikL08ORGHdM
     * O JAILBREAK ESCONDE MUITOS SEGREDOS | O MAPA VAI FICAR MAIOR?? 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=BSgjo0A1OYc
     * ROBLOX - CHUVA DE PODER NO TITAN SIMULATOR(NOVA ATUALIZAÇÃO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=musTuMVcy6w
     * CRIMINOSO VESTIDO DE POLICIAL NO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=x403vtOR35k
     * COMO TESTAR OS CARROS DO JAILBREAK ANTES DE COMPRAR - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=0HSfw7fAE60
     * ROBLOX - TEM UM BONECO ESCONDIDO NO NINJA ASSASSIN?? (GRANDE MISTÉRIO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=zBB0rCNXeJU
     * O TREM ESTA VINDO PARA O JAILBREAK 😲 ?? - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=C5QR9vzsAyk
     * ROBLOX - TREINE PARA FICAR GRANDE E FORTE - TITAN SIMULATOR(NOVO JOGO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=D-TjHXynvuQ
     * O TREM JÁ ESTA COMPLETO NO JAILBREAK!!(ROBLOX)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=QHhtsSIvh28
     * TODOS OS LUGARES SECRETOS DO NINJA ASSASSIN - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=tvNunZLt33g
     * ROBLOX - O MAIS VELOZ E O MAIS FORTE - RUNNING SIMULATOR | RACING(NOVO JOGO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=GdPHbqYmSe4
     * OQUE HÁ DE NOVO NA NOVA ATUALIZAÇÃO DO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=IedD4e1Qy_4
     * OQUE VOCÊ SABE SOBRE O ROBLOX ??
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=owM8K6a6VOU
     * FAZENDO DRIFT E MANOBRAS COM O DUNE BUGGY NO JAILBREAK -- ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=0OGncwHJLY8
     * NOVA ATUALIZAÇÃO DO JAILBREAK PRESTES A LANÇAR(VAI TER CHUVA,RAIOS E MUITO +) 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=4YY4oRwB1eI
     * OS JOGOS MAIS ODIADOS DO ROBLOX ? 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ptRtTMVENY0
     * DUNE BUGGY O CARRO QUE SOBE QUALQUER MONTANHA DO JAILBREAK - ROBLOX(NOVO GLICHT)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=sPDtBX2hP1A
     * NOVA ATUALIZAÇÃO NO JAILBREAK ESSA SEMANA!!(Árvores,Céus,Luzes,Carro e MUITO MAIS!)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=PE9gL8z1oGw
     * JOGANDO JAILBREAK 2 BETA NO ROBLOX ? 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=bnarS9dJ9sw
     * ROBLOX - PULANDO E TREINANDO AO MESMO TEMPO NO NINJA ASSASSIN
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=yKa88Y-f4BE
     * ROBLOX - FAZENDO GRANDES DESAFIOS NO NINJA ASSASSIN(GINCANA?)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=4wzP7Xa7Zdg
     * ROBLOX - SOU O CRIMINOSO FANTASMA NO JAILBREAK
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Te7LyXG4Mwc
     * ROBLOX - SOU O MAIS FORTE DO SERVIDOR - NINJA ASSASSIN
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=R0s-ckSC6Qg
     * COMO AUMENTAR O NINJÚTSU MUITO RÁPIDO NO NINJA ASSASSIN(ROBLOX)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=UMQvXb2CV3c
     * ROUBANDO O MONSTER TRUCK(CARRO DE 1 MILHÃO) NO JAILBREAK ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=VcgeasKv0oI
     * ROBLOX - SOU O POLICIAL FANTASMA NO JAILBREAK
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=WurPjs2h3Ls
     * COMO GANHAR MUITO DINHEIRO NO JAILBREAK - ROBLOX(NÃO E SERVER VIP)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=5_s1mUof3Pw
     * ROBLOX - MAIOR PVP DA MINHA VIDA NO BOXING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=k1RhMyU2g9Y
     * ROBLOX - PEGUEI 44K DE NINJUTSU E DESBLOQUIEI MUITA COISA NO NINJA ASSASSIN
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=w0fn7r31qsk
     * ROBLOX - ESSE JOGO E MARAVILHOSO - NINJA ASSASSIN (NOVO JOGO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=xN_FjXfZ7u0
     * CURIOSIDADES DO JAILBREAK | OQUE TEM DENTRO DO FINAL DO TUNEL DO TREM ? 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Z2sh65Bfq7w
     * REVELANDO LUGARES SECRETOS NA PRISÃO DO JAILBREAK (NUNCA VISTO) 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=_4LQia3zFbg
     * CURIOSIDADES DO JAILBREAK | OQUE TEM DEPOIS DO FINAL DA PISTA ? 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=bpDZChI00mI
     * O PINGUIN POLICIAL HACKER NO JAILBREAK (ROBLOX)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=JNS-EEbFdpY
     * CURIOSIDADES DO JAILBREAK | OQUE TEM DENTRO DAS NOVAS CONSTRUÇÕES ? 😲
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=jbQ23Z-Uhrw
     * SOU O MAIOR PINGUIN HACKER DO JAILBREAK(BUG SPEED ROBLOX)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=AZmKWNnKdeE
     * O PALHAÇO MAIS CRIMINOSO DO JAILBREAK (ROBLOX)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=XFFz_TgvrzM
     * COMO GANHAR MUITO DINHEIRO NO VEHICLE SIMULATOR - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=jXuxSpmR0uY
     * ROBLOX - COMO ESTA O WEIGHT LIFTING SIMULATOR 2 ??
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=I1q5pH_uEz8
     * ROBLOX - COMO E SER O MAIS FORTE DO MAPA ??(BOXING SIMULATOR 2)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=gIKytS9el8w
     * ROBLOX - SOU O PIOR ARREMESSADOR DE FACAS NO KNIFE CAPSULES(NOVO JOGO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=lghObuuLPbw
     * ROBLOX - PALHAÇO POLICIAL NO JAILBREAK(PRENDI TODO MUNDO?)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=7C-AV8i4k6o
     * ROBLOX - SOU UM GRANDE SAYAJIN NO DRAGON BALL Z FINAL STAND
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=C-8qVDEkx_o
     * ROBLOX - PALHAÇO MATANDO TODOS NO BOXING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=yzYbxLwAGbQ
     * OS GUEST FORAM DESATIVADOS NO ROBLOX (EXPLICANDO O MOTIVO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=zjHpPmTIlWM
     * CUPHEAD NO ROBLOX (NOVO JOGO BETA)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=xcZhaAt5yuM
     * ME VESTINDO DE PALHAÇO NO ROBLOX (PALHAÇO IT??)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=u6xIWen3gEo
     * ROBLOX - BOB ESPONJA BOXEADOR NO BOXING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=7KrRpYku5sI
     * ROBLOX - SLITHERT.IO DE DRAGÕES NO ROBLOX??(DRAGON RIDERS)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=NpWtIWssvjw
     * ROBLOX - O MAGRELO SUPER FORTE - BOXING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ECAdKONJgx4
     * EGUINHA MIJOLETA VERSÃO ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Uz_DlC4q1XM
     * ROBLOX - MELHOR JOGO DE TIRO DO ROBLOX??(WILD REVOLVERS)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Syss0lLy58E
     * ROBLOX - SIMULADOR DE DEUSES NO ROBLOX - GOD SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=GP8dCsp3yPs
     * ROBLOX - O GORDO BOXEADOR NO EATING SIMULATOR
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=A2jXwsBw4aE
     * ROBLOX - O CARA TEM QUASE 2 MILHÕES DE FORÇA NO BOXING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=b1oAA1osD1A
     * ROBLOX - MALHANDO AO AR LIVRE NO MUSCLE BUSTER(NOVO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=omcecq1CJak
     * ROBLOX - MALHANDO NA PRISÃO - PRISONER SIMULATOR 2(NOVO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=GK1a6xREDQ0
     * ROBLOX - ESCAPE DA ESCOLA (ESCAPE SCHOOL OBBY)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=sWSXFr_yO84
     * ROBLOX - ESTOU COM MUITA DIARREIA NO EATING SIMULATOR
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=EDhJS-g3IwM
     * ROBLOX - AGRADECIMENTO AOS 10K DE INSCRITOS !!OBRIGADO FÁMILIA S2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=0lSQnsHb8eA
     * ROBLOX - SOU O HOMEM BOMBA NO NINJA SIMULATOR BETA
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=GJjV1-8nNcA
     * ROBLOX - DESBLOQUEANDO NOVOS PODERES DE GORDO NO EATING SIMULATOR
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=z8u5wngb34M
     * ROBLOX - MEDITAR NO MASTER DOJO FICA FORTE MAIS RÁPIDO?(NINJA SIMULATOR BETA)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=EgWibhxx630
     * ROBLOX - SOU UM ANJO LINDO NO ANGELS VS DEMONS SIMULATOR(NOVO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=XQ_sijXtE3A
     * ROBLOX - FICANDO MUITO GORDO NO EATING SIMULATOR(NOVO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=yhBmiKdi4Tg
     * ROBLOX - 119K DE FORÇA E GRANDE CAMPEÃO NO RUMBLE NO BOXING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=7CHrusIIq48
     * ROBLOX - RUMO AOS 200K DE FORÇA NO BOXING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ahMH9L9tXlo
     * FAZENDO PARKOUR INCRÍVEIS NO ROBLOX (NOVO JOGO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=2rp7X6IOFS0
     * ROBLOX - TREINANDO E MATANDO GERAL NO NINJA SIMULATOR BETA
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=DTRxr-AeG_8
     * ROBLOX - SOU UM GRANDE DEUS NO GOD SIMULATOR 2(NOVO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=gqpHO5LGbiE
     * ROBLOX - SPIRIT OF LIFE A ESPADA DO LV 500 NO NINJA SIMULATOR BETA
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=zWS0TvC5b2Q
     * ROBLOX - SOU UM GRANDE NINJA NO NINJA SIMULATOR BETA(NOVO JOGO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=C7h-3uONdiU
     * ROBLOX - MELHOR FORMA PARA FICAR FORTE NO NINJA SIMULATOR BETA
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=W0in84ZHp-A
     * ROBLOX - COMO CONSEGUIR FORÇA INFINITA NO BOXING SIMULATOR 2(NOVO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=BrAGgsj8f5w
     * ROBLOX - COMO CONSEGUIR FORÇA INFINITA NO WEIGHT LIFTING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=EAEph4C6p5c
     * ROBLOX - APARECEU MAIS UM HACKER NO WEIGHT LIFTING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=SpZ2W91TKPs
     * ROBLOX - VENCENDO TODOS NO BOXING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=qxeMyTm_49k
     * ROBLOX - PILOTANDO O NOVO JETSKI  NO SHARKBITE
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=BdQhKWQzYHw
     * ROBLOX - PEGUEI 100K DE FORÇA NO BOXING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=EkkGeBGNrZk
     * ROBLOX - SOU O MAIS FORTE DO SERVIDOR - WEIGHT LIFTING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=UHTyxN--ByA
     * ROBLOX - GASTEI 20MIL DE CASH EM SKIN DE LUVAS NO BOXING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=L18Iuosc_bA
     * ROBLOX - SOU O MAIS FORTE DO SERVIDOR - BOXING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=fHTe_av6xeM
     * UM DIA NA PADARIA FAZENDO BOLOS - BAKERS VALLEY ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=oPz-H6slSi0
     * ROBLOX - BURACO SECRETO NO JAILBREAK NOVO SEGREDO !!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=H79YUuKwjmE
     * ROBLOX - ENCHI O SERVIDOR DE PESO!! TROLANDO JOGADORES NO WEIGHT LIFTING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=YNb8ghsGQyM
     * ROBLOX - PEGUEI 50K DE FORÇA E FUI CAMPEÃO NO RUMBLE (BOXING SIMULATOR 2)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=sIzwJte4dhs
     * ROBLOX - APARECEU UM HACKER COM 4 BILHÕES DE FORÇA NO WEIGHT LIFTING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=CEIF9DZFXZI
     * ROBLOX - QUASE MORRI JOGANDO BENDY AND THE INK MACHINE
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=lQuelrEXvyM
     * ROBLOX - CÓDIGOS PARA GANHAR DINHEIRO NO VEHICLE SIMULATOR
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=zKJD225kT-Y
     * ROBLOX - COMO CONSEGUIR CASH E LUVAS COMUM OU PERSONALIZADAS NO BOXING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=OQlrPESk4Q4
     * ROBLOX - SOBREVIVA AO ATAQUE DO TUBARÃO OU MATE ELE (SHARKBITE)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=44S1h1-xl68
     * ROBLOX - COMO FICAR FORTE MAIS RÁPIDO NO BOXING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ExY1nyfk9Ds
     * ROBLOX - PEGUEI 100K DE STRENGHT(FORÇA) NO WEIGHT LIFTING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=oo47aPCz_Zc
     * ROBLOX - ANDANDO NO CÉU NOVO BUG DO JAILBREAK
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=uFbdy59OPA4
     * ROBLOX - SERVIDOR DOS PESOS GIGANTES COM OS INSCRITOS NO WEIGHT LIFTING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Fbxb5_ciE2o
     * ROBLOX - SEGUNDO MUNDO NO WEIGHT LIFTING SIMULATOR 2 NOVO BUG??
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=XODAw4duriU
     * ROBLOX - COMO FICAR FORTE MUITO RÁPIDO NO WEIGHT LIFTING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=B_dAa1zYGk4
     * O JOGO MAIS ASSUSTADOR DO ROBLOX \#1
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=lMnM_ow6fJM
     * ROBLOX  -  HELICÓPTERO VS BUGATTI CORRIDA NO JAILBREAK
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=UJ9mV3bo634
     * ROBLOX - EM QUANTOS MINUTOS MATO 100 JOGADORES ?? NO WEIGHT LIFTING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=kyS59lvHWLE
     * ROBLOX - PEGUEI 30K DE STRENGHT(FORÇA) NO WEIGHT LIFTING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=0OZxhodwEbU
     * ROBLOX - PRIVILÉGIOS VIP NO WEIGHT LIFTING SIMULATOR 2 (OQUE O VIP DA??)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=klkZFkFYmFw
     * ROBLOX - COMO CONSEGUIR O PESO QUE CUSTA 200 ROBUX (AKIMBO WEIGHTS) NO WEIGHT LIFTING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=tRu1vTy0DYo
     * ROBLOX - NOVA ATUALIZAÇÃO NO WEIGHT LIFTING SIMULATOR 2 (OQUE HA DE NOVO ???)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=-2fTo2-5y78
     * ROBLOX - HELICÓPTERO DE GUERRA NO JAILBREAK ATIRANDO NOS CRIMINOSOS
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=P-NsWgfASoc
     * ROBLOX - O MAIOR CARA DO JOGO WEIGHT LIFTING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=RRFrByzMx2U
     * ROBLOX TODOS OS CÓDIGOS DO JOGO ASSASSIN
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ZerSNlLtBrc
     * ROBLOX - COMO DIRIGIR UM CARRO E ATIRAR AO MESMO TEMPO NO JAILBREAK (NOVO BUG)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Bz_guEQXe8k
     * ROBLOX TODOS OS CÓDIGOS DO MURDER MYSTERY 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=wADu3-f8OhM
     * VIRAMOS HUMANOS NO ROBLOX !! COMO ISSO E POSSÍVEL ??(Part.EmpireBlox)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=KE0TkuxQtio
     * GRANDE MISTÉRIO UM ENIGMA NO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=sqN8lEZcgi0
     * ROBLOX - SERVIDOR PRIVADO(VIP) ABERTO NO WEIGHT LIFTING SIMULATOR 2
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=C8eof_AEeEE
     * ROBLOX - NOVA ACADEMIA PARA GIGANTES NO WEIGHT LIFTING SIMULATOR 2(SERVER VIP)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=IrF2C8cole0
     * 30 SERVIDORES PRIVADO(VIP) ABERTOS PRA VOCÊ FAZER DINHEIRO NO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=PWJ--h-xaIA
     * SERVIDORES PRIVADO(VIP) ABERTOS NO JAILBREAK - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=2xX-1ge4AN4
     * COMO FICAR MUITO RÁPIDO NO WEIGTH LIFTING SIMULATOR 2 - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=7NsPFQIiMOw
     * SIMULADOR DE ACADEMIA NO ROBLOX - Weight Lifting Simulator 2(NOVO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=tN_kJ3uDlFk
     * INTRO DO CANAL (POR ENQUANTO)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ssxBDQj5-GQ
     * MATANDO ZOMBIE NO ROBLOX MATEI MUITOS SEM MORRER \O/
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=0-z9WyZcHiA
     * OQUE ACONTECE QUANDO UMA BOMBA ATÔMICA E ACIONADA EM UM JOGO DO ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=dru_m0sLxpU
     * COMO MUDAR O CURSOR DO MOUSE NO ROBLOX (PERSONALIZAR SETA)
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=PEhsVxPQbTA
     * COMO CRIAR UM JOGO NO ROBLOX NOÇÕES BÁSICAS !
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=uG-rCIoqydw
     * PORQUE MUDEI O NOME DO MEU CANAL ?? :O
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=hDCPyZLCUIo
     * ROBLOX - ATUALIZAÇÃO NO JAILBREAK + NOVA PINTURA E NOVA FORMA DE ESCAPAR DA PRISÃO !!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=yNasB0vUVfs
     * DECORANDO MEU APARTAMENTO NO JAILBREAK
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=42dG-ISQe74
     * PRIMEIRO JOGO A SER CRIADO NO ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=pyanhrJHgY0
     * PEDRA FLUTUANTE DENTRO DA CACHOEIRA COMO ISSO E POSSÍVEL ?? JAILBREAK ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=R9yUHfM5jI8
     * ROBLOX - ESCONDERIJO SECRETO NO JAILBREAK QUE VOCÊ NÃO SABE QUE EXISTE !!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=hAZk2omu9jI
     * ROBLOX - COMPREI A SWAT E PRENDI TODO MUNDO NO JAILBREAK
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=iJ1psdGSoNg
     * VIDA DE POLICIAL NO JAILBREAK !! PRENDI TODO MUNDO - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=vfI760KVyrs
     * TENTANDO ME VESTIR IGUAL AO GUEST666 NO ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=QcGBxTLAIdY
     * ACHEI UM NEGOCIO ESTRANHO ENQUANTO PASSEAVA DE HELICÓPTERO NO JAILBREAKBETA - ROBLOX
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=vUBicXdMdrA
     * UMA HISTORIA QUE FALA SOBRE O ASSUSTADOR GUEST 666 ‹ Roblox Mistérios ›
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=KymSQXX_x6M
     * CUIDADOO 😲!!! NOVOS BOTS NO ROBLOX SE VOCÊ VER UM DELES IGNORE-OS !!!
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=S2lqwN5si8I
     * ASSUSTADOR JOGO DO JOHN DOE AINDA EXISTE ?? ‹ Roblox Mistérios ›
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=YtgwGSeSHr0
     * COMO CRIAR UMA T-SHIRT (CAMISETA GRÁTIS) NO ROBLOX \#ATUALIZADO
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=aENGhK_nI30
     * DIMENSÃO DOS HACKERS QUE FORAM BANIDOS !! MUITO ASSUSTADOR :O ‹ Roblox Mistérios ›
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=6WwvMjm9kgw
     * APARECEU UM BONECO BRANCO E SUMIU NA DIMENSÃO DOS BANIDOS :O ‹ Roblox Mistérios ›
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=og0Tq0a2JW4
     * HACKER BOB ESPONJA ELE AINDA EXISTE ?? :O ‹ Roblox Mistérios ›
+      * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=er8bmm9FcD0
 * Karola20 (karola20YT)
   * Information Collection
@@ -4121,15 +4544,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ~~Revisiting My Lumber Tycoon 2 Base After 2 Years...~~
       * ~~Description references the data collection website flame.gg.~~
       * ~~URL: https://www.youtube.com/watch?v=DxV_FhVaUSU~~
-    * I STOLE A VERY IMPORTANT CAR... ENDS BAD! | Roblox Liberty County! (S1EP36)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=oTRhCSKL-MI
-    * Stealing MONEY From An ATM! ARRESTED...! | Roblox Liberty County! (S1EP10)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=pIqJyI3_1wk
-    * ~~i crashed my plane... :(~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=FVDksk_IfWo~~
     * ~~I got \*ARRESTED\* by 4 \*GHOST COPS\*! (EP13) Ultimate Driving Roblox!~~
       * ~~Description references the data collection website flame.gg.~~
       * ~~URL: https://www.youtube.com/watch?v=Vows7mawSZ0~~
@@ -4666,6 +5080,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO GET TONS OF ROBUX FOR CHEAP
       * Description references the data collection website bloxmarket.com.
       * URL: https://www.youtube.com/watch?v=-TCZhPO6Z0w
+    * GET FREE ROBUX FAST & EASY \*NOT CLICKBAIT\*
+      * Description references the data collection website earnrobux.today.
+      * URL: https://www.youtube.com/watch?v=jYwQYt1eGK4
   * Non-Giftcard Robux Giveaways
     * ALL 14 NEW VACUUM SIMULATOR CODES - New Vacuum/ Update 3 | Roblox
       * Description references a Robux giveaway on Twitter.
@@ -4676,6 +5093,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Realistic Gaming (ImTheRealRG)
   * Information Collection
     * HOW TO GET FREE ROBUX in 2018! APP THAT GIVES YOU ROBUX FOR PLAYING GAMES! FREE ROBUX 2018
+      * Description references a download for a data collection mobile app.
       * URL: https://www.youtube.com/watch?v=ESjjCV9WXW8
 * realrosesarered (realroses)
   * Phishing
@@ -4698,12 +5116,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TROLLING A SCAMMER ON ROBLOX - WE EXPLOITED HIM
       * Video contains a lot of explicit text.
       * URL: https://www.youtube.com/watch?v=PwJ7jKxJ3Tc
-* ROBLOXMuff (intervin)
+* ROBLOXMuff (Intervin)
   * Information Collection
     * Poor To Rich 2 | Roblox A Sad Bloxburg Movie
       * Description references the data collection website rbxtoys.com.
       * URL: https://www.youtube.com/watch?v=CLFAnszu3nk
-* RODNY ROBLOX (RODNY_ROBLOX)
+* RODNY (RODNY_ROBLOX)
   * Information Collection
     * ESCAPANDO de la PRISIÓN de ROBLOX!!! 😂 | RODNY ROBLOX
       * Description references the data collection website rbxheaven.com.
@@ -4754,6 +5172,11 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * THE WINNERS OF THE 50k ROBUX GIVEAWAY ARE.... (10 WINNERS)
       * URL: https://www.youtube.com/watch?v=-dT2QhiXCeM
+* SeeDeng (SeeDank)
+  * Phishing
+    * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
+      * Logs into the account of a fan. Mentions a lot of other people sent their username and passwords.
+      * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
 * Seniac (MrSeniac)
   * Other
     * HOW TO GET FREE ROBUX!
@@ -4769,10 +5192,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * $1500 ROBUX GIVEAWAY
       * Robux giveaway uses a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=AGj4BbtDy6k
-* skyleree (skyleree)
-  * Non-Giftcard Robux Giveaways
-    * 10K CONTEST!! || Video & Fan Art
-      * URL: https://www.youtube.com/watch?v=8YoFJve4bz4
 * SrtaLuly (SrtaLuly03)
   * Information Collection
     * BALDI o GRANNY? QUÉ PREFIERES? en ROBLOX 😱
@@ -4943,52 +5362,51 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Straw (STRAWHAT_LUFFi)
   * Non-Giftcard Robux Giveaways
     * Complete The HotWheel Track For R$1,000 Robux Challenge!
+      * Video gives away using group funds.
       * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
 * Stronbol Roblox (StronbolYT)
   * Information Collection
-    * COMPRO TODOS LOS REGALOS SECRETOS DE NAVIDAD EN RUBY REALMS NOVEDADES RUBY REALMS
-      * URL: https://www.youtube.com/watch?v=lrB4uCnkO-c
-    * SI OBTUVISTE ESTOS 3 ITEMS GRATIS AHORA TU CUENTA VALE 1000 ROBUX
-      * URL: https://www.youtube.com/watch?v=g9THwlFNt94
     * COMO USAR EMOCIONES EN ROBLOX Y BAILAR CON COMANDOS EN ROBLOX
       * Description references the data collection website robuxhub.com.
       * URL: https://www.youtube.com/watch?v=iTDbvu-g1J4
     * EN ESTE JUEGO PUEDES USAR LA HEADLESS COMPLETAMENTE GRATIS
       * Description references the data collection website robuxhub.com.
       * URL: https://www.youtube.com/watch?v=4vIo_qYMR00
-    * TOP 5 "HACKERS" FALSOS DE ROBLOX
-      * URL: https://www.youtube.com/watch?v=gH_tgFp5Xbs
     * TOP 5 PACKAGES O CUERPOS DE ROBLOX
+      * Description references the a website for selling "black market" Robux.
       * URL: https://www.youtube.com/watch?v=-1ygRjClnJY
-    * ROBLOX REGALA 1000 ROBUX A USUARIOS RANDOM! NUEVA OPCION SOCIAL MEDIA! EL NOTICIERO ROBLOXIANO
-      * URL: https://www.youtube.com/watch?v=-U4b5k85vrU
-    * ¿ROBLOX FUE HACKEADO? ¿POR QUE NO SE PODIA JUGAR? LA PURGA ELIMINADA - EL NOTICIERO ROBLOXIANO
-      * URL: https://www.youtube.com/watch?v=vBwqVdhgvKE
-    * BORRAN EL CANAL A ANDROID FAST POR HACER VIDEOS RELACIONADOS CON HACKS 😱  EL NOTICIERO ROBLOXIANO 😱
-      * URL: https://www.youtube.com/watch?v=6P1JHQr56ZA
     * EL PROXIMO EVENTO DE ROBLOX SERA DE STAR WARS HAN SOLO!!! EL NOTICIERO ROBLOXIANO
+      * Description references the data collection website ezrewards.today.
       * URL: https://www.youtube.com/watch?v=RG-HjiPJVzA
     * PROBANDO PAPAS ¿RARAS? DE OTROS PAISES 😱 \*CON MI CARA\*
+      * Description references the data collection website ezrewards.today.
       * URL: https://www.youtube.com/watch?v=KI5O1tRgekU
-    * COMO DESTRUIR EL METEORITO DE FORTNITE SIN HACKS NI TRAMPAS 😱
-      * URL: https://www.youtube.com/watch?v=4n7RQds-Mrg
     * 😱 SALDRAN LIBROS OFICIALES DE ROBLOX EN TODO EL MUNDO 😱 EL NOTICIERO ROBLOXIANO 😱
+      * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=3TippGn1JME
     * SIENDO THANOS POR UN DIA AVENGERS INFINITY WAR EN ROBLOX 😱💎
+      * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=zAll6Rk9_nc
     * LA MEJOR NOTICIA DE LA SEMANA ROBLOX EN ESPAÑOL CADA VES MEJOR EL NOTICIERO ROBLOXIANO AL MOMENTO 😲😱
+      * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=9xa3Y985-zM
     * EL NUEVO DOMINUS DE PLATA EN ROBLOX 😱 ELRUBIUS HACE UN VIDEO DE ROBLOX 😱 EL NOTICIERO ROBLOXIANO😱
+      * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=_qzV664lkJs
     * 🎵 Roblox "El noob" 🎵 Parodia wake me up - Avicii ft JusepeHD 🎵
+      * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=3t5KXrZGv7Q
     * EL NUEVO HELICOPTERO MILITAR PUEDE CARGAR VEHICULOS JAILBREAK ACTUALIZACION DE ANIVERSARIO
+      * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=ECzOV9Slhac
     * ROBLOX LA MALDICION DE EL GUEST 666 ROBLOX EL JUEGO MALDITO CREEPYPASTA
+      * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=j6WTMIh3rBw
     * COMO CONSEGUIR ESTA PECERA Y ESTE SOMBRERO DE DAVEY JONES EN ROBLOX ROPA GRATIS ATLANTIS 2018
+      * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=mbFVHa0N2lk
     * COMO CONSEGUIR LAS HOMBRERAS Y LA TIARA GRATIS ATLANTIS EVENTO ROPA GRATIS ROBLOX!!
+      * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=wUPBRsv1Vv4
     * COMO SER ESTOS SUPER HEROES EN ROBLOX 😱
       * Description references the data collection website irobux.com.
@@ -4999,8 +5417,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * LOS NUEVOS EH INCREIBLES ITEMS EN LA NUEVA TIENDA DE EL EGGHUNT 😮😱
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=vzqJGQ0fP6A
-    * ESTA PAGINA ME DIO ROBUX PARA ESTE SOMBRERO POR HACER OFERTAS EN ROBLOX - ROBUX GRATIS 😱🤑
-      * URL: https://www.youtube.com/watch?v=6LIPe8KrlJE
     * COMO OBTENER GRATIS EL ESCUDO DE EL CAPITAN AMERICA INFINITY WAR ROPA GRATIS ROBLOX
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=rKV2ihsk_Og
@@ -5017,6 +5433,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=PGP_qidimd4
     * COMO CONSEGUIR ESTE INCREIBLE HUEVO DE DRAGON ROPA GRATIS EGG HUNT 2018 😲😱
+      * Description references the data collection website ezrewards.today.
       * URL: https://www.youtube.com/watch?v=UQXI4cdMsCk
     * EL PRIMER PASO HACIA EL DOMINUS DE ORO ESTA AQUI EN LUMBER TYCOON😲😱
       * Description references the data collection website irobux.com.
@@ -5030,62 +5447,30 @@ The following channels had nothing appear with manual searching. Videos may exis
     * EL VERDADERO SECRETO DETRAS DE LAS CORONAS DE READY PLAYER ONE! 😮😱
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=5i1U5pFAbFA
+    * COMO CONSEGUIR LA LLAVE DE CRISTAL Y LA CORONA DE COBRE DE CRISTAL EN 5 MINUTOS O MENOS 🔑😱
+      * Description references the data collection website ezrewards.today.
+      * URL: https://www.youtube.com/watch?v=8fU1HOtJIy4
     * ¿DONDE ESTA LA LLAVE DE CRISTAL? POSIBLES UBICACIONES PARA TENER LA CORONA GRATIS
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=4Ly63UcDqyg
     * POSIBLES UBICACIONES DE LA LLAVE DE CRISTAL DE ROBLOX EVENTO READY PLAYER ONE 😵🔑
+      * Description references the data collection website ezrewards.today.
       * URL: https://www.youtube.com/watch?v=ptsJAFzkH1A
     * LA INCREIBLE CINEMATICA SECRETA ESCONDIDA EN JAILBREAK  😮😱 LOS ALIENS DE JAILBREAK SON GALLINAS?!
       * Description references the data collection website rbxdonate.org.
       * URL: https://www.youtube.com/watch?v=s4ApHNQTo9k
-    * EL OSCURO MAPA SECRETO DE JAILBREAK \*MUY ATERRADOR\*😱💀
-      * URL: https://www.youtube.com/watch?v=5qi3BoEDzSs
-    * 😱MI NUEVO SOMBRERO SECRETO DE 5000 ROBUX😱
-      * URL: https://www.youtube.com/watch?v=BePKoEeJnnk
-    * 😱INCREIBLE!!!😱LAS 10 CONSTRUCCIONES MAS INCREIBLES Y HERMOSAS DE ROBLOX😱
-      * URL: https://www.youtube.com/watch?v=jb0cK6tDnNQ
-    * 😱ES INCREIBLE LA GENTE QUE LOGRA CREAR ESTO EN ROBLOX😱INCREIBLE JUEGO EN ROBLOX "ROOM"😱
-      * URL: https://www.youtube.com/watch?v=pbmvHBJZB8o
-    * 😱INCREIBLE ACTUALIZACION EN ROBLOX😱ROBLOX COMPLETAMENTE EN ESPAÑOL😱
-      * URL: https://www.youtube.com/watch?v=ADGzOc2buvs
-    * 😱😵BLOXBURG SUPERARA A JAILBREAK EN EL FUTURO!!!😱😵¿BLOXBURG ES MEJOR QUE JAILBREAK?😱😵
-      * URL: https://www.youtube.com/watch?v=VcXvIM2jvK0
-    * 😲CON ESTE INCREIBLE TRUCO PODRAS TRADUCIR ROBLOX A ESPAÑOL😲ROBLOX NUEVO TRUCO 2018😲
-      * URL: https://www.youtube.com/watch?v=KKPtIt3H-RE
-    * 💸️LOS ZOMBIES ESTAN TIRANDO ROBUX GRATIS💸ROBLOX EN ESPAÑOL💸
-      * URL: https://www.youtube.com/watch?v=mhyM3Ed1tZk
-    * 😮ROBLOX EN ESPAÑOL CADA VES MAS CERCA😮
-      * URL: https://www.youtube.com/watch?v=AcGU_WIkSm0
-    * 😲😵INCREIBLE ESTAS SON LAS COSAS QUE VENDRAN A ROBLOX😲😵¿QUE CONTIENE EL REGALO DE AÑO NUEVO😲😵
-      * URL: https://www.youtube.com/watch?v=FRrTx5TbiyM
-    * ⛄TODAS LAS NOVEDADES Y COSAS GRATIS DE GTA V ONLINE⛄FESTIVE SURPRISE 2017⛄
-      * URL: https://www.youtube.com/watch?v=c-gxy3BOks8
-    * 🎁¿QUE CONTIENE EL REGALO ROJO DE ROBLOX?🎁ACA TE MUESTRO LO QUE CONTIENE🎁
-      * URL: https://www.youtube.com/watch?v=xUaWOyRuh5I
-    * 🆕EL PELO BIPOLAR DE ROBLOX🆕ESTE PELO ES BIPOLAR!!!🆕
-      * URL: https://www.youtube.com/watch?v=z6Fs5qI5b6U
-    * 📱SI JUEGAS ROBLOX EN ANDROID DEBES VER ESTE VIDEO📱GINGERBREAD TOP HAT EN ROBLOX📱
-      * URL: https://www.youtube.com/watch?v=ovJ6Xkepc0A
-    * 🎁NUEVO REGALO GRATUITO AH LLEGADO A ROBLOX TOMALO ANTES DE QUE LO QUITEN🎁ITEMS GRATIS POR NAVIDAD🎁
-      * URL: https://www.youtube.com/watch?v=3lR0S_jTfHo
+    * ESTE INCREIBLE JUEGO RECAUDO MAS DE 1 MILLON DE ROBUX EN MENOS DE UNA SEMANA 😮😱
+      * Description references the data collection website ezrewards.today.
+      * URL: https://www.youtube.com/watch?v=iXWbqQL7SUg
+    * CON ESTE VIDEO PODRAS CONSEGUIR ESTE INCREIBLE HAT COMPLETAMENTE GRATIS😱🆓ROPA GRATIS ROBLOX
+      * Description references the data collection website ezrewards.today.
+      * URL: https://www.youtube.com/watch?v=08zxydGAqtw
     * 🎅ROBLOX ESTA REGALANDO ESTO GRATIS POR NAVIDAD🎅NO CREERAS LO QUE CONTIENEN🎅
       * Description references the data collection website rblx.pro.
       * URL: https://www.youtube.com/watch?v=gpleBY_9sik
-    * ☃SORTEO DE 5000 ROBUX CON TITANHAMMER☃ESPECIAL NAVIDEÑO☃ROBLOX EN ESPAÑOL☃
-      * URL: https://www.youtube.com/watch?v=qN0LVlEq3uM
-    * 🌆SOY UN MIEMBRO DE LA LIGA DE LA JUSTICIA EN ROBLOX🌆JUSTICE LEAGUE EN ROBLOX🌆ROBLOX EN ESPAÑOL🌆
-      * URL: https://www.youtube.com/watch?v=aG1ypR8Hofk
     * 🎈SOY EL PAYASO ESO EN ROBLOX🎈SOY EL PAYASO PENNYWISE EN ROBLOX🎈ROBLOX EN ESPAÑOL🎈
       * Description references the data collection website rblx.pro.
       * URL: https://www.youtube.com/watch?v=QzRSDOSMjD0
-    * 💸GANADORES DE LOS LENTES BRICKPLANET💸EN DIRECTO CON RODNY ROBLOX💸
-      * URL: https://www.youtube.com/watch?v=pMMBLSn_Sl4
-    * Brickplanet - ¿El nuevo roblox? ¿Es mejor o es peor? - Brickplanet en español
-      * URL: https://www.youtube.com/watch?v=PXJqRdR5uLA
-    * 🐥REGALANDO MIL ROBUX EN DIRECTO A SUSCRIPTORES GRATIS🐥ROBUX GRATIS EN DIRECTO🐥
-      * URL: https://www.youtube.com/watch?v=niebPxRWXBo
-    * 🐣REGALANDO 1000 ROBUX GRATIS EN DIRECTO🐣
-      * URL: https://www.youtube.com/watch?v=Av_tg2PGLSI
     * Top 5 cosas que ya eran perfectas pero roblox arruino (Roblox en español)
       * Description references the data collection website rblx.pro.
       * URL: https://www.youtube.com/watch?v=B8R3cWTheKs
@@ -5095,6 +5480,37 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Como donar robux a tus amigos - Metodo 2017 (Roblox en español)
       * Description references the data collection website rblx.pro.
       * URL: https://www.youtube.com/watch?v=ch8qN-YzGLs
+  * Other
+    * ¿POR QUE SOLO PUEDES TENER 200 AMIGOS EN ROBLOX?
+      * Description references the a website for selling "black market" Robux.
+      * URL: https://www.youtube.com/watch?v=br8STo2I5tI
+    * JAILBREAK ANTIGUO VS JAILBREAK ACTUAL
+      * Description references the a website for selling "black market" Robux.
+      * URL: https://www.youtube.com/watch?v=5ktq3_U3EBw
+    * 😱 JAILBREAK ES SUPERADO! 😱 NUEVOS ITEMS Y SUPER DESCUENTOS LLEGARON A ROBLOX 😱
+      * Description references the a website for selling "black market" Robux.
+      * URL: https://www.youtube.com/watch?v=ulRZrRVobso
+    * ¿POR QUE LOS DOMINUS SON TAN CAROS? ROBLOX EN ESPAÑOL
+      * Description references the a website for selling "black market" Robux.
+      * URL: https://www.youtube.com/watch?v=HrvPJAvG9Xc
+    * VISITO UNIVERSAL STUDIOS EN ROBLOX
+      * Description references the a website for selling "black market" Robux.
+      * URL: https://www.youtube.com/watch?v=NCFHjdqoWdk
+    * ¿REALMENTE EL ROBLOX ANTIGUO ES MEJOR QUE EL ACTUAL? ROBLOX ANTIGUO VS ROBLOX ACTUAL
+      * Description references the a website for selling "black market" Robux.
+      * URL: https://www.youtube.com/watch?v=up1nfE0iC6o
+    * ¿POR QUE ESTE EVENTO DURA TANTO? ¿ES UN BUG? ROBLOX EN ESPAÑOL
+      * Description references the a website for selling "black market" Robux.
+      * URL: https://www.youtube.com/watch?v=yFKVFCLmEK8
+    * ESPECIAL 150K SUSCRIPTORES MI NUEVO RAP
+      * Description references the a website for selling "black market" Robux.
+      * URL: https://www.youtube.com/watch?v=rdEdLaRpBGU
+    * 🙀 EL SECRETO EVENTO CANCELADO QUE ROBLOX NO QUIERE QUE CONOZCAS! 🙀
+      * Description references the a website for selling "black market" Robux.
+      * URL: https://www.youtube.com/watch?v=S1cS5ygWZmc
+    * INCREIBLE TRUCO PARA CAMBIAR EL SONIDO DE MUERTE EN ROBLOX
+      * Description references the a website for selling "black market" Robux.
+      * URL: https://www.youtube.com/watch?v=uJmu4pSVOpI
   * Non-Giftcard Robux Giveaways
     * SI GANAS MI JUEGO TE GANAS 10,000 ROBUX 🤑💸💵 CONCURSO
       * URL: https://www.youtube.com/watch?v=P14NAZJ-yOE
@@ -5111,19 +5527,23 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#8
       * URL: https://www.youtube.com/watch?v=10WGqnb_Nq0
     * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#5
+      * Gives away Robux for being arrested in Jailbreak.
       * URL: https://www.youtube.com/watch?v=TogY_-vafSA
     * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#3
       * URL: https://www.youtube.com/watch?v=zsYDcHOBOeg
     * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#2
       * URL: https://www.youtube.com/watch?v=o-gB8UlqGHY
     * \*FREE ROBUX\* ARREST ME FOR FREE ROBUX! (Roblox Jailbreak)
+      * Gives away Robux for being arrested in Jailbreak.
       * URL: https://www.youtube.com/watch?v=gekomtzuIoE
 * TheLaughingUnicorn (kristiexo)
   * Information Collection
     * PINK HOLLYWOOD MANSION! || BLOXBURG HOUSE TOUR
+      * Description references the data collection website earnrobux.today.
       * URL: https://www.youtube.com/watch?v=lDeX-dKwNkw
     * \[HALLOWEEN SPECIAL\] MAD HATTER || FAN MUSIC VIDEO
       * Description references the data collection website rbxrich.com.
+      * Description references the data collection website earnrobux.today.
       * URL: https://www.youtube.com/watch?v=YnNCdrP25XY
     * KAWAII KITCHEN || ROBLOX STUDIO SPEED BUILD
       * Description references the data collection website rbxrich.com.
@@ -5190,6 +5610,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=w__bjPD7iCQ
     * \*NEW\* LIMITED TIME CODE! | Build a boat for Treasure ROBLOX
+      * Description references the data collection website earnrobux.co.
       * URL: https://www.youtube.com/watch?v=0h7NSH8gdoc
     * The OWNER of Build a boat RESPONDED to my Message...
       * Description references the data collection website claimrbx.com.
@@ -5213,6 +5634,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website earnrobux.co.
       * URL: https://www.youtube.com/watch?v=yGW_Y0RvVMg
     * \*BEST\* way to GRIND Blue Present \*BOSS\*! | Build a boat For Treasure ROBLOX
+      * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=olixPsTG_tg
     * HOW TO GET THE \*NEW\* GREEN GIFT! | Build a Boat for Treasure ROBLOX
       * Description references the data collection website claimrbx.com.
@@ -5260,6 +5682,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * INSANE MODDED TRUCK! (IN GAME) | Lumber Tycoon ROBLOX
       * Description references the data collection website rbx.gifts.
       * URL: https://www.youtube.com/watch?v=0Vs6jDxKf68
+    * How To Get FREE ROBUX! | Roblox 2017 \*LEGIT\*
+      * Description references the data collection website earnrobux.today.
+      * URL: https://www.youtube.com/watch?v=FU2BBv-Kpgk
     * MANSION BOAT! (1) | Build A Boat For Treasure Roblox
       * Description references the data collection website rbxrich.com.
       * URL: https://www.youtube.com/watch?v=mOzfWoAE1UE
@@ -5275,13 +5700,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=sfviFcrM7PU
 * TitanHammer Roblox (TitanHammerYT)
   * Information Collection
-    * 🔴 ROBLOX EN DIRECTO | HACKEOS Y TERROR! 😱 FLEE THE FACILITY Y SLENDER AMENDED
-      * URL: https://www.youtube.com/watch?v=6JVVN4XEwlU
     * 👊 COMO SER THANOS! EL GUANTE DEL INFINITO EN SUPER HERO TYCOON ROBLOX ESPAÑOL
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=T9i_i6zSesw
-    * 🔴 ROBLOX EN DIRECTO | MUERTE POR HACKEO! 🔪 FLEE THE FACILITY Y MURDER MYSTERY X ESPAÑOL
-      * URL: https://www.youtube.com/watch?v=9x-sgKsSDG0
     * 🎯 LOS NUEVOS SECRETOS DE JAILBREAK! TODOS LOS EASTER EGGS 4 ROBLOX 2018 ESPAÑOL
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=6BPR1MC_Ies
@@ -5530,16 +5951,17 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website flame.gg.
       * URL: https://www.youtube.com/watch?v=7XJCO2JXxyw
     * OMG NEW JAILBREAK UPDATE IN A MINUTE! | Roblox
-      * Description links to an app that collects user data.
+      * Description references a download for a data collection mobile app.
       * URL: https://www.youtube.com/watch?v=D4gN-HfzNMk
     * ROBLOX IN ROBLOX 2018!
-      * Description links to an app that collects user data.
+      * Description references a download for a data collection mobile app.
       * URL: https://www.youtube.com/watch?v=Dcit20m1KMk
     * Need Builders Club On Roblox?
-      * Description links to an app that collects user data.
+      * Description references a download for a data collection mobile app.
       * URL: https://www.youtube.com/watch?v=53F8Wajo8aY
     * BEST WAY TO GET FREE ROBUX! (Roblox)
       * Description links to an app that collects user data.
+      * Description references a download for a data collection mobile app.
       * URL: https://www.youtube.com/watch?v=Fi4v7q42irs
     * SECRET HIDDEN ROOM FOUND IN PRISON ISLAND! | Roblox
       * Description references the data collection website oprewards.com.
@@ -5551,6 +5973,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=mvkizuZMMN4
     * ExplodingTNT In Real Life
+      * Description references the information collection website oprewards (link is missing though).
       * URL: https://www.youtube.com/watch?v=t1gm9IQjncM
     * TRICKING COPS INTO THINKING I'M A COP IN JAILBREAK! | Roblox
       * Description references the data collection website oprewards.com.
@@ -5604,12 +6027,16 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=WNE3EGGS3gY
     * BEST ROBLOX MUSIC VIDEO
+      * Description references a video about getting Robux for filling out surveys.
       * URL: https://www.youtube.com/watch?v=EZyqSwepvKQ
     * ROBLOX MUSIC VIDEO \#4
+      * Description references a video about getting Robux for filling out surveys.
       * URL: https://www.youtube.com/watch?v=cdaqPMhTdQ0
     * ROBLOX MUSIC VIDEO \#3
+      * Description references a video about getting Robux for filling out surveys.
       * URL: https://www.youtube.com/watch?v=-nvRDeFRWAA
     * ROBLOX MUSIC VIDEO
+      * Description references a video about getting Robux for filling out surveys.
       * URL: https://www.youtube.com/watch?v=QTbRWUhK3wI
   * Other
     * MAKING JAMES CHARLES a ROBLOX ACCOUNT
