@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 26, 2020<br>
+Generated January 27, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -180,10 +180,10 @@ be referenced in the future.
 
 ### Video Metrics
 * Total videos: 222,170 videos
-* Total videos found that match keywords: 12,277 videos
-  * Total unprocessed videos: 7,965 videos
-* Total videos found that are processed and marked: 1,847 videos 
-  * Information Collection: 1,595 videos
+* Total videos found that match keywords: 12,279 videos
+  * Total unprocessed videos: 7,966 videos
+* Total videos found that are processed and marked: 1,849 videos 
+  * Information Collection: 1,597 videos
   * Non-Giftcard Robux Giveaways: 207 videos
   * Other: 23 videos
   * Phishing: 21 videos
@@ -4544,6 +4544,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ~~Revisiting My Lumber Tycoon 2 Base After 2 Years...~~
       * ~~Description references the data collection website flame.gg.~~
       * ~~URL: https://www.youtube.com/watch?v=DxV_FhVaUSU~~
+    * ~~i crashed my plane... :(~~
+      * ~~Description references the data collection website flame.gg.~~
+      * ~~URL: https://www.youtube.com/watch?v=FVDksk_IfWo~~
     * ~~I got \*ARRESTED\* by 4 \*GHOST COPS\*! (EP13) Ultimate Driving Roblox!~~
       * ~~Description references the data collection website flame.gg.~~
       * ~~URL: https://www.youtube.com/watch?v=Vows7mawSZ0~~
@@ -5685,6 +5688,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * How To Get FREE ROBUX! | Roblox 2017 \*LEGIT\*
       * Description references the data collection website earnrobux.today.
       * URL: https://www.youtube.com/watch?v=FU2BBv-Kpgk
+    * INSANE JET SKI | Build A Boat For Treasure ROBLOX
+      * Description references the data collection website earnrobux.today.
+      * URL: https://www.youtube.com/watch?v=a8AtKMxrXiE
     * MANSION BOAT! (1) | Build A Boat For Treasure Roblox
       * Description references the data collection website rbxrich.com.
       * URL: https://www.youtube.com/watch?v=mOzfWoAE1UE
