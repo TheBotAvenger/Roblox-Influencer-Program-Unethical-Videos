@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 229,101 videos
 * Total videos found that match keywords: 12,292 videos
   * Total unprocessed videos: 7,946 videos
-* Total videos found that are processed and marked: 1,809 videos 
-  * Information Collection: 1,541 videos
-  * Non-Giftcard Robux Giveaways: 210 videos
+* Total videos found that are processed and marked: 1,767 videos 
+  * Information Collection: 1,507 videos
+  * Non-Giftcard Robux Giveaways: 202 videos
   * Other: 36 videos
   * Phishing: 21 videos
   * Gambling: 1 video
@@ -251,6 +251,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Godenot (godenot)
 * GoldenGlare (GOLD3NGLARE)
 * GoldenOwl (GoldenOwl_Youtub3)
+* Gravycatman (GrumpyGravy)
 * Hagazo (Hagazo9)
 * hannnahlovescows (hannnahlovescows)
 * HappyHopper (MooseCraftRoblox)
@@ -283,8 +284,10 @@ The following channels had nothing appear with manual searching. Videos may exis
 * KraoESP (KraoESP)
 * Lakshart Nia (Laksharth)
 * Leah Ashe (NotLeah)
+* locus (locus200k)
 * LOGinHDi (L0GinHDi)
 * Lokis (lokis9340)
+* Lonnie (GPR3)
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
 * Lyna (Lynitaa)
@@ -1520,14 +1523,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=MrJgNha16DM
 * DimerDillon (TheDimer)
   * Information Collection
-    * ~~EARN FREE ROBUX WITH ROBLOXWIN! \[SPONSOR\]~~
-      * ~~Description references the data collection website robloxwin.com.~~
-      * ~~Description references the data collection website bloxwin.com.~~
-      * ~~URL: https://www.youtube.com/watch?v=HdJyUTugC3k~~
-    * ~~EARN FREE ROBUX? \[Robloxwin.com\]~~
-      * ~~Description references the data collection website robloxwin.com.~~
-      * ~~Description references the data collection website bloxwin.com.~~
-      * ~~URL: https://www.youtube.com/watch?v=eLz_2Rdnx3M~~
     * IM ALWAYS THE GOAT! \[ROBLOX SUPER BLOCKY BALL RACING!\]
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
@@ -1544,10 +1539,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=G-ChfLOF_YE
-    * ~~EARN FREE ROBUX!~~
-      * ~~Description references the data collection website robloxwin.com.~~
-      * ~~Description references the data collection website bloxwin.com.~~
-      * ~~URL: https://www.youtube.com/watch?v=j1LBLab3oqw~~
   * Other
     * Teleporting Simulator! (FUCK FUCK FUCK)
       * Video, title, and description contain the "F word" 8 times.
@@ -2445,12 +2436,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW BOOGA BOOGA GAME! COMING SOON | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=84kTJXxa6ME
-    * ~~FUNNIEST ROBLOX ASMR~~
-      * ~~Description references the data collection website irobux.com.~~
-      * ~~URL: https://www.youtube.com/watch?v=jvBZcjMTn4k~~
-    * ~~THIS KID STOLE MY NAME AND NOW HES IMPERSONATING ME!~~
-      * ~~Description references the data collection website irobux.com.~~
-      * ~~URL: https://www.youtube.com/watch?v=uIxK9l-2mEQ~~
     * CHICKEN BOSS! Egg Farm Simulator | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=P0mOdH8v6TI
@@ -2463,9 +2448,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I Snuck Into Her Bloxburg House And This Happened...
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=vIhmfuz4o3E
-    * ~~I need to tell you something...~~
-      * ~~Description references the data collection website irobux.com.~~
-      * ~~URL: https://www.youtube.com/watch?v=z0S1-8MuggM~~
     * Dragon VS Boat (Build A Boat For Treasure) Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=ALSaWK9WAMg
@@ -2514,11 +2496,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * CUIDADO CON ESTE ZOMBIE QUE TE MATA EN ROBLOX 😭 \[Roleplay\]
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=l3qwVIOIwgc
-* Gravycatman (GrumpyGravy)
-  * Non-Giftcard Robux Giveaways
-    * ~~Roblox Was Hacked?! Let's Play Roblox Live \#28~~
-      * ~~Description includes a Robux competition.~~
-      * ~~URL: https://www.youtube.com/watch?v=CM-ODEdyMyc~~
 * iifnatik (iifnatik)
   * Phishing
     * HACKING INTO MY FANS' ACCOUNTS?!
@@ -4543,108 +4520,6 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * IF YOU FIND ME, WIN 15,000 ROBUX!! (Fan HIDE & SEEK Challenge) - Linkmon99 ROBLOX
       * URL: https://www.youtube.com/watch?v=aQVzK3xhRAs
-* locus (locus200k)
-  * Information Collection
-    * ~~NEW POLICE MOTORCYCLE! AND NEW MAP EXPAND! JAILBREAK UPDATE INFO!~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=wndt9g0uCWo~~
-    * ~~SPENDING 10,000 ROBUX ON MURDER MYSTERY 2 (Roblox)~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=CjgDuDnXhC4~~
-    * ~~CRAZY Mystery Box 1\# Unboxing's | Roblox Murder Mystery 2~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=5bUn92T5LK0~~
-    * ~~First Time Getting Pulled Over in GreenVille! | Roblox GreenVille RolePlay (EP1)~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=pGzuQQAuLFU~~
-    * ~~Revisiting My Lumber Tycoon 2 Base After 2 Years...~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=DxV_FhVaUSU~~
-    * ~~i crashed my plane... :(~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=FVDksk_IfWo~~
-    * ~~I got \*ARRESTED\* by 4 \*GHOST COPS\*! (EP13) Ultimate Driving Roblox!~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=Vows7mawSZ0~~
-    * ~~Playing Jailbreak With a CONTROLLER! | Roblox Jailbreak! (HARD!)~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=iFyUg8BLmS4~~
-    * ~~Underground CITY In Jailbreak! (2B UPDATE)~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=eU7E5ItzU_4~~
-    * ~~RIP CITY! Volcano Explosion in Jailbreak! | Roblox Jailbreak! (UPDATE!)~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=YXOyhs4iD70~~
-    * ~~\*NEW\* ARMY TANK IN JAILBREAK!? | Roblox Jailbreak! (UPDATE THEORY)~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=uCK5cFHd8lE~~
-    * ~~\*NEW\* CAR! LIVE VOLCANO EXPLOSION UPDATE! | Roblox Jailbreak! (UPDATE INFO)~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=9kCjzmEfmaI~~
-    * ~~\*NEW\* GYM IN JAILBREAK? | Roblox Jailbreak (Update Theory)~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=4egU0pg6YbM~~
-    * ~~NEW CODES IN JAILBREAK!? | Roblox Jailbreak update?~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=DPD1P7ufGKA~~
-    * ~~How to make $1 Million FAST in Jailbreak! | Roblox Jailbreak (SOLO WORKING 2018)~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=wt96ReBJ2r0~~
-    * ~~Train CRASH new UPDATE? | Roblox Jailbreak Theory?~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=iYFRLwkfzWQ~~
-    * ~~i quit.~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=R1ThMNGl61k~~
-    * ~~😱 Fake ASIMO Trolling...! | Roblox Jailbreak (HILARIOUS) 😱~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=Png9CauEcvQ~~
-    * ~~Giving My Dominus to my sister! (Emotional!)~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=cyWm794dvNk~~
-    * ~~EXPLORING SECRET TUNNEL BASE IN JAILBREAK!~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=7jlLLAi6NBc~~
-    * ~~NEW JAILBREAK FALL UPDATE REVIEW!~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=GmiwIIegkj0~~
-    * ~~JAILBREAK UPDATE 69~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=wn2tqfTcH3A~~
-    * ~~Planes Coming to jailbreak!? NEW UPDATE INFO!~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=U7L6CbI5ig4~~
-    * ~~NEW JAILBREAK UPDATE \*RELEASE DATE\* + MORE!~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=VPT4-vH8deg~~
-    * ~~Need ROBUX Watch this video!~~
-      * ~~Description references the data collection website flame.gg.~~
-      * ~~URL: https://www.youtube.com/watch?v=cH5ekozM6e8~~
-* Lonnie (GPR3)
-  * Information Collection
-    * ~~NEW Trading Website! (Trade Hangout TRADES!)~~
-      * ~~URL: https://www.youtube.com/watch?v=vgwsT15rjvY~~
-  * Non-Giftcard Robux Giveaways
-    * ~~FREE ROBUX IN ROBLOX 2018!! \*COME JOIN!!\*~~
-      * ~~Video involves buying gamepasses and clothing items as a giveaway.~~
-      * ~~URL: https://www.youtube.com/watch?v=1EPQhHJs0sA~~
-    * ~~1,000,000 ROBUX GIVEAWAY! \*REAL\* (WATCH TO ENTER)~~
-      * ~~Robux giveaway uses a Roblox group using group funds.~~
-      * ~~URL: https://www.youtube.com/watch?v=9ZnAoMWgonA~~
-    * ~~GIANT 50,000 ROBUX GIVEAWAY!  \*CLICK TO ENTER\*~~
-      * ~~Robux giveaway uses a Roblox group using group funds.~~
-      * ~~URL: https://www.youtube.com/watch?v=tlDM0jYFVFo~~
-    * ~~100,000 ROBUX GIVEAWAY FREE! \*JOIN TO ENTER :D\*~~
-      * ~~Robux giveaway uses a Roblox group using group funds.~~
-      * ~~URL: https://www.youtube.com/watch?v=5jEhjFpfVH8~~
-    * ~~Giving Away 100,000 ROBUX TO FANS! \*ENTER IN COMMENTS!\*~~
-      * ~~URL: https://www.youtube.com/watch?v=ySl_QsOTo3o~~
-    * ~~FREE ROBUX GIVEAWAY! *REAL~~
-      * ~~Robux giveaway uses a Roblox group using group funds.~~
-      * ~~URL: https://www.youtube.com/watch?v=ZWokImYNHK8~~
-    * ~~FREE ROBUX GIVEAWAY! \*2 WEEKS\*~~
-      * ~~Robux giveaway uses a Roblox group using group funds.~~
-      * ~~URL: https://www.youtube.com/watch?v=lBrop97cc28~~
 * NikTac 
   * Non-Giftcard Robux Giveaways
     * REBIRTH GLITCH, SKY GYM & TOP ON STRENGTH LEADERBOARD IN ROBLOX WEIGHT LIFTING SIMULATOR 3
@@ -4905,21 +4780,16 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BOOGA BOOGA FINALLY GETS UPDATES! (ROBLOX)
       * Contains an ad for the information collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=r4T2SaUnvqk
-    * HOW TO BECOME A PIRATE ON ROBLOX!
-      * Video includes  "f\*\*\*" (59x),"s\*\*\*" (12x), and "b\*\*\*\*" (4x), "a\*\*" (2x), "r\*\*\*" (4x), and "c\*\*\*" (1x).
-      * URL: https://www.youtube.com/watch?v=CNqOrpkX1xU
     * NEW ESCAPE! TRAIN STATION! JAILBREAK UPDATE! (ROBLOX)
       * Description references a private video about getting free Robux.
       * URL: https://www.youtube.com/watch?v=cfEXRXI2zrk
-    * ~~6 WAYS TO MAKE ROBUX! (Easy)~~
-      * ~~Description references the data collection website oprewards.com.~~
-      * ~~Description references the data collection website bloxmarket.com.~~
-      * ~~Description references the Roblox exploiters forum v3rmillion.net.~~
-      * ~~URL: https://www.youtube.com/watch?v=wxTXWxPb9bw~~
   * Other
     * HOW TO BEAT FLOOD ESCAPE 2! (NEW ROBLOX GAME)
       * Video includes  "s\*\*\*" (4x),"f\*\*\*" (2x), and "a\*\*" (1x).
       * URL: https://www.youtube.com/watch?v=JP9_ofM_reI
+    * HOW TO BECOME A PIRATE ON ROBLOX!
+      * Video includes  "f\*\*\*" (59x),"s\*\*\*" (12x), and "b\*\*\*\*" (4x), "a\*\*" (2x), "r\*\*\*" (4x), and "c\*\*\*" (1x).
+      * URL: https://www.youtube.com/watch?v=CNqOrpkX1xU
   * Non-Giftcard Robux Giveaways
     * GIVEAWAY + QNA ?
       * Video referencs a Twitter Robux giveaway using group funds.
@@ -5946,9 +5816,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I Said \*\*\*\* For The First Time.. (Roblox)
       * Video includes  "f\*\*\*" (2x), "b\*\*\*\*", and "bulls\*\*\*" included but bleeped out. Middle fingers are also used at the end.
       * URL: https://www.youtube.com/watch?v=t_W8ReEfuHY
-    * ~~Making JAIDEN ANIMATIONS a ROBLOX Account~~
-      * ~~Includes a NSFW cartoon image at 1:00.~~
-      * ~~URL: https://www.youtube.com/watch?v=zAzc2ddG4OY~~
   * Phishing
     * I HACKED A FANS ACCOUNT AND GAVE THEM ROBUX! | Roblox
       * URL: https://www.youtube.com/watch?v=z_a7yQ9oVuk
