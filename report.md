@@ -183,10 +183,10 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 229,101 videos
-* Total videos found that match keywords: 12,292 videos
-  * Total unprocessed videos: 7,946 videos
-* Total videos found that are processed and marked: 1,767 videos 
-  * Information Collection: 1,507 videos
+* Total videos found that match keywords: 12,851 videos
+  * Total unprocessed videos: 8,503 videos
+* Total videos found that are processed and marked: 1,769 videos 
+  * Information Collection: 1,509 videos
   * Non-Giftcard Robux Giveaways: 202 videos
   * Other: 36 videos
   * Phishing: 21 videos
@@ -232,7 +232,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
 * DeeterPlays (DeeterPlays)
 * Devovo (Devovorya)
-* Diário do Casal Gamer (VictorNuclear and FernandaTreta)
 * DoctorBenx (Bensonheimer and ebruulein)
 * Dois Marmotas (diinhaaa28 and Luckke23)
 * DOLLASTIC PLAYS! (DollasticDreams)
@@ -332,7 +331,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SallyGreenGamer 
 * SDMittens (SDMittens)
 * ShanePlays (SGC_Shane)
-* SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
 * skyleree (skyleree)
 * Spagz Blox (Spagzox)
@@ -1543,6 +1541,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Teleporting Simulator! (FUCK FUCK FUCK)
       * Video, title, and description contain the "F word" 8 times.
       * URL: https://www.youtube.com/watch?v=rh_sr6rEWWI
+* Diário do Casal Gamer (VictorNuclear and FernandaTreta)
+  * Information Collection
+    * COMO GANHAR ROBUX DE GRAÇA NO ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=JtHIjfMpyx0
 * EmpireBlox (EmpireBloxOficial)
   * Information Collection
     * PEGUEI O NOVO JETPACK DO JAILBREAK!! E ME ARREPENDI !!
@@ -4950,6 +4953,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * $1500 ROBUX GIVEAWAY
       * Robux giveaway uses a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=AGj4BbtDy6k
+* SharkBlox (SharkBL0X)
+  * Information Collection
+    * This Is How You Get Robux For Free!
+      * Description references the data collection website flame.gg.
+      * URL: https://www.youtube.com/watch?v=DCsV0c7K5qE
 * SrtaLuly (SrtaLuly03)
   * Information Collection
     * BALDI o GRANNY? QUÉ PREFIERES? en ROBLOX 😱
