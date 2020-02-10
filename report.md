@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 5, 2020<br>
+Generated February 10, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,12 +182,12 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 229,101 videos
-* Total videos found that match keywords: 12,851 videos
-  * Total unprocessed videos: 8,503 videos
-* Total videos found that are processed and marked: 1,769 videos 
+* Total videos: 229,757 videos
+* Total videos found that match keywords: 12,860 videos
+  * Total unprocessed videos: 7,533 videos
+* Total videos found that are processed and marked: 1,771 videos 
   * Information Collection: 1,509 videos
-  * Non-Giftcard Robux Giveaways: 202 videos
+  * Non-Giftcard Robux Giveaways: 204 videos
   * Other: 36 videos
   * Phishing: 21 videos
   * Gambling: 1 video
@@ -313,7 +313,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Pankayz (Pankayz)
 * Papile (jupapile)
 * PeetahBread (PeetahBread)
-* PHMittens (PHMittensRBXYoutuber)
+* PHMittens (Youtube_PHMittensRBX)
 * Phoeberry (Phoeberry)
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
@@ -4932,18 +4932,34 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RussoPlays (RussoTalks)
   * Non-Giftcard Robux Giveaways
     * THE WINNERS OF THE 50k ROBUX GIVEAWAY ARE.... (10 WINNERS)
+      * Video is about giving away Robux using group funds.
       * URL: https://www.youtube.com/watch?v=-dT2QhiXCeM
+    * HUGE 50,000 ROBUX GIVEAWAY \*HOW TO ENTER\*
+      * Video is about entering a Robux giveaway using group funds.
+      * URL: https://www.youtube.com/watch?v=92-bOP8egXE
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
       * Logs into the account of a fan. Mentions a lot of other people sent their username and passwords.
       * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
+  * UNCATEGORIZED
+    * Playing HACKER for my account BACK in MURDER MYSTERY.. (Roblox)
+      * URL: https://www.youtube.com/watch?v=yzLaNMj74eo
+    * Playing HACKER for FRIENDS account back.. (Roblox Murder Mystery 2)
+      * URL: https://www.youtube.com/watch?v=8B3GyKWpSRI
+    * Joining a HACKER ONLY Lobby in Roblox Murder Mystery 2..
+      * URL: https://www.youtube.com/watch?v=hBW3Y3a7JhM
+    * Minecraft Prison Let's Play - Episode 9 - MVP PICK GIVEAWAY! ( Semi-OP Prison )
+      * URL: https://www.youtube.com/watch?v=XDvNdF0e_Cw
 * Seniac (MrSeniac)
   * Other
     * HOW TO GET FREE ROBUX!
       * Description references the "black market for limiteds" rbx.place.
       * URL: https://www.youtube.com/watch?v=EakQDIc9ZLM
   * Non-Giftcard Robux Giveaways
+    * $10,000 ROBUX GIVEAWAY
+      * Robux giveaway uses a Roblox group using group funds.
+      * URL: https://www.youtube.com/watch?v=76Sg5bVi1Jo
     * $6000 ROBUX GIVEAWAY
       * Robux giveaway uses a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=EmAlMrw6e8A
