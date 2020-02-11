@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 230,446 videos
 * Total videos found that match keywords: 12,963 videos
   * Total unprocessed videos: 6,956 videos
-* Total videos found that are processed and marked: 1,785 videos 
-  * Information Collection: 1,509 videos
-  * Non-Giftcard Robux Giveaways: 218 videos
+* Total videos found that are processed and marked: 1,781 videos 
+  * Information Collection: 1,510 videos
+  * Non-Giftcard Robux Giveaways: 213 videos
   * Other: 36 videos
   * Phishing: 21 videos
   * Gambling: 1 video
@@ -230,6 +230,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DandanPH (DandanPH)
 * DaPandaGirl (Da_PandaGirl)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
+* DeeterPlays (DeeterPlays)
 * Devovo (Devovorya)
 * DoctorBenx (Bensonheimer and ebruulein)
 * Dois Marmotas (diinhaaa28 and Luckke23)
@@ -397,11 +398,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Bloxburg: Victorian Roleplay House 62K
       * Description includes a building contest for Robux.
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
-* DeeterPlays (DeeterPlays)
-  * Non-Giftcard Robux Giveaways
-    * 🔴FREE ROBUX for 20-30 Minutes 🔴- EVERYONE (subbed and in Group) Gets Robux! - Feeling Generous
-      * Video is about giving away Robux using group funds.
-      * URL: https://www.youtube.com/watch?v=JxoynJZ3FZY
 * DefildPlays (DefildPlays)
   * Information Collection
     * 2 FREE MYTHICAL SCYTHES AND SECRETS IN ROBLOX MINING SIMULATOR!
@@ -1555,16 +1551,16 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website rbx.farm.
       * URL: https://www.youtube.com/watch?v=o3ys9JKB2ng
     * SEASON 3 MAD CITY !! TUDO SOBRE A NOVA ATUALIZAÇÃO !! CARRO GRÁTIS?? (100 RANK)
-      * Description references the data collection website makerobux.co.
+      * Contains an ad for the information collection website makerobux.co.
       * URL: https://www.youtube.com/watch?v=nbImW_7VfpQ
     * CAMPING!! COMO NUNCA MORRER ENVENENADO OU SEMPRE SOBREVIVER !!! ROBLOX
-      * Description references the data collection website makerobux.co.
+      * Contains an ad for the information collection website makerobux.co.
       * URL: https://www.youtube.com/watch?v=EuRCuNo1rkQ
     * NOVA ATUALIZAÇÃO MAD CITY COM NOVO MISTÉRIO E TEMPORADA 3 ESTÁ CHEGANDO !!
       * Description references the data collection website rblx.pro.
       * URL: https://www.youtube.com/watch?v=_Lgkxx2N7dY
     * NUNCA FIQUE SOZINHO NO CAMPING !! FINAL ALTERNATIVO EM MORTE !!
-      * Description references the data collection website makerobux.co.
+      * Contains an ad for the information collection website makerobux.co.
       * URL: https://www.youtube.com/watch?v=N9wMf6vFq2c
     * SOFRI ATAQUE HACKER POR CAUSA DA NOROK1 NO RO-GHOUL !! CUIDADO !!
       * Description references the data collection website rblx.pro.
@@ -4796,16 +4792,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO BECOME A PIRATE ON ROBLOX!
       * Video includes  "f\*\*\*" (59x),"s\*\*\*" (12x), and "b\*\*\*\*" (4x), "a\*\*" (2x), "r\*\*\*" (4x), and "c\*\*\*" (1x).
       * URL: https://www.youtube.com/watch?v=CNqOrpkX1xU
-  * Non-Giftcard Robux Giveaways
-    * GIVEAWAY + QNA ?
-      * Video referencs a Twitter Robux giveaway using group funds.
-      * URL: https://www.youtube.com/watch?v=Z9VGUPyt5sg
-    * GIVEAWAY WINNERS \#3 | ROBLOX
-      * Video is a Robux giveaway using group funds.
-      * URL: https://www.youtube.com/watch?v=43-g1Wq5O04
-    * GIVEAWAY WINNERS \#2 | ROBLOX
-      * Video is a Robux giveaway using group funds.
-      * URL: https://www.youtube.com/watch?v=K9_iQnBSDGo
 * RazorFishGaming (RazorFishGamingYT and RazorFishPengiYT)
   * Information Collection
     * ALL 2 NEW SUPERHERO SIMULATOR CODES - New Game Release/ Roblox
@@ -5179,46 +5165,46 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=mbFVHa0N2lk
     * COMO CONSEGUIR LAS HOMBRERAS Y LA TIARA GRATIS ATLANTIS EVENTO ROPA GRATIS ROBLOX!!
-      * Description references the data collection website irobux.com.
+      * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=wUPBRsv1Vv4
     * COMO SER ESTOS SUPER HEROES EN ROBLOX 😱
-      * Description references the data collection website irobux.com.
+      * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=KD-sQ3EtJkQ
     * YOUTUBERS VS ILUMINATI VIDEO REACCION EPICA CON XONNEK \*MUESTRO MI CARA\*
-      * Description references the data collection website irobux.com.
+      * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=gYBSdkTFOtY
     * LOS NUEVOS EH INCREIBLES ITEMS EN LA NUEVA TIENDA DE EL EGGHUNT 😮😱
-      * Description references the data collection website irobux.com.
+      * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=vzqJGQ0fP6A
     * COMO OBTENER GRATIS EL ESCUDO DE EL CAPITAN AMERICA INFINITY WAR ROPA GRATIS ROBLOX
-      * Description references the data collection website irobux.com.
+      * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=rKV2ihsk_Og
     * HABRAN OBJETOS GRATIS DE INFINITY WAR!! NUEVO ESCUDO DE EL CAPITAN AMERICA SERA GRATIS ROBLOX
-      * Description references the data collection website irobux.com.
+      * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=-Q5QUr58XfE
     * ESTOS OBJETOS SERAN GRATIS EN ESTE MES EN UN EVENTO?! FILTRACIONES DE ROBLOX
-      * Description references the data collection website irobux.com.
+      * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=sT2HtS7xJNg
     * COMO CONSEGUIR EL FIFTEAM EGG ROPA GRATIS EGG HUNT 2018 😮😱
-      * Description references the data collection website irobux.com.
+      * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=_4NupOPtqJQ
     * COMO CONSEGUIR ESTAS HERMOSAS ALAS EN ROBLOX 😲😱
-      * Description references the data collection website irobux.com.
+      * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=PGP_qidimd4
     * COMO CONSEGUIR ESTE INCREIBLE HUEVO DE DRAGON ROPA GRATIS EGG HUNT 2018 😲😱
       * Contains an ad for the information collection website ezrewards.com.
       * URL: https://www.youtube.com/watch?v=UQXI4cdMsCk
     * EL PRIMER PASO HACIA EL DOMINUS DE ORO ESTA AQUI EN LUMBER TYCOON😲😱
-      * Description references the data collection website irobux.com.
+      * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=8KhJIY6LYRQ
     * COMO PASAR EL TUTORIAL Y CONSEGUIR EL PRIMER HUEVO DE EL EVENTO  ROPA GRATIS EGGHUNT 2018 😲😱
-      * Description references the data collection website irobux.com.
+      * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=bBbn0iUP1-Y
     * ESTE EGGHUNT TENDRA MAS DE 50 HUEVOS TODOS LOS HUEVOS DE EL EVENTO 😮😱
-      * Description references the data collection website irobux.com.
+      * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=oKyGbyau2qA
     * EL VERDADERO SECRETO DETRAS DE LAS CORONAS DE READY PLAYER ONE! 😮😱
-      * Description references the data collection website irobux.com.
+      * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=5i1U5pFAbFA
     * COMO CONSEGUIR LA LLAVE DE CRISTAL Y LA CORONA DE COBRE DE CRISTAL EN 5 MINUTOS O MENOS 🔑😱
       * Contains an ad for the information collection website ezrewards.com.
@@ -5283,37 +5269,37 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TeraBrite Games (SabrinaBrite and DJMonopoli)
   * Non-Giftcard Robux Giveaways
     * GOTTA CATCH EM ALL! \#3 | ROBLOX - Pokemon Brick Bronze | TeraBrite Games
-      * PROCESSED
+      * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=S4XIsjE7blA
     * 🚙 NEW JAILBREAK ATV UPDATE! | ATVs, DONUT STORE & TIRE POPPING! | ROBLOX JAILBREAK UPDATE
-      * PROCESSED
+      * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=ZQzPEVYATEA
     * GOTTA CATCH EM ALL! \#2 | ROBLOX - Pokemon Brick Bronze | TeraBrite Games
-      * PROCESSED
+      * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=ldKGLO3-mkY
     * IT'S MY BIRTHDAY! | ROBLOX | TeraBrite Games
-      * PROCESSED
+      * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=9v2Y5pJeedc
     * GETTING A MOTORCYCLE! | JAILBREAK ROBLOX | TeraBrite Games
-      * PROCESSED
+      * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=XX6MM-8n_LE
     * VIEWER BATTLES! | Pokemon Brick Bronze ROBLOX | TeraBrite Games
-      * PROCESSED
+      * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=aJ0CxvQkBwI
     * MOTORCYCLES IN JAILBREAK! | ROBLOX | TeraBrite Games
-      * PROCESSED
+      * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=tWrF1SHyJjQ
     * NEW MAP YAY! | Murder Mystery 2 ROBLOX | TeraBrite Games
-      * PROCESSED
+      * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=z8J3eihTnts
     * ARCADE UPDATE & GETTING DITTO | Pokemon Brick Bronze
-      * PROCESSED
+      * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=kDes9B7s9Lw
     * SHINY MAKUHITA! | Pokemon Brick Bronze | ROBLOX
-      * PROCESSED
+      * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=DEkXveVYbos
     * SHINY GEODUDE! | Pokemon Brick Bronze | ROBLOX
-      * PROCESSED
+      * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=L_sAE8M3HiQ
     * ROBUX GIVEAWAY! | HUNTING SHINY POKEMON (Pokemon Brick Bronze) | ROBLOX
       * Uses group funds to giveaway Robux.
@@ -5429,6 +5415,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Build a boat \*NEW\* TELEPORT GLITCH!
       * Description references the data collection website earnrobux.co.
       * URL: https://www.youtube.com/watch?v=yGW_Y0RvVMg
+    * \*BEST\* way to GRIND Blue Present \*BOSS\*! | Build a boat For Treasure ROBLOX
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=olixPsTG_tg
     * HOW TO GET THE \*NEW\* GREEN GIFT! | Build a Boat for Treasure ROBLOX
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=r26GshuLRYM
@@ -5506,8 +5495,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=6_Xb00zC_m4
 * VeD\_DeV (VeD\_DeV)
   * Non-Giftcard Robux Giveaways
-    * arsenal gameplay with robux gift card giveaway, every win I get
-      * URL: https://www.youtube.com/watch?v=cZlCfrYcXQQ
     * DO NOT MOVE TO WIN ROBUX in Jailbreak! (Roblox)
       * URL: https://www.youtube.com/watch?v=m6ueDABWlE0
     * Last To Leave The Circle Wins Free Robux! (Roblox)
