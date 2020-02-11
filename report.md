@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 10, 2020<br>
+Generated February 11, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,12 +182,12 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 229,757 videos
-* Total videos found that match keywords: 12,860 videos
-  * Total unprocessed videos: 7,533 videos
-* Total videos found that are processed and marked: 1,771 videos 
+* Total videos: 230,446 videos
+* Total videos found that match keywords: 12,963 videos
+  * Total unprocessed videos: 6,956 videos
+* Total videos found that are processed and marked: 1,785 videos 
   * Information Collection: 1,509 videos
-  * Non-Giftcard Robux Giveaways: 204 videos
+  * Non-Giftcard Robux Giveaways: 218 videos
   * Other: 36 videos
   * Phishing: 21 videos
   * Gambling: 1 video
@@ -230,7 +230,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DandanPH (DandanPH)
 * DaPandaGirl (Da_PandaGirl)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
-* DeeterPlays (DeeterPlays)
 * Devovo (Devovorya)
 * DoctorBenx (Bensonheimer and ebruulein)
 * Dois Marmotas (diinhaaa28 and Luckke23)
@@ -338,7 +337,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sub 
 * TanqR (TanqR)
 * TapWater (UseCode_Tap)
-* TeraBrite Games (SabrinaBrite and DJMonopoli)
 * Tex HS (TexWillerHS)
 * THE KAPOLAR (Kapolar1)
 * The Monkey (MonkeyVsRoblocks)
@@ -399,6 +397,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Bloxburg: Victorian Roleplay House 62K
       * Description includes a building contest for Robux.
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
+* DeeterPlays (DeeterPlays)
+  * Non-Giftcard Robux Giveaways
+    * 🔴FREE ROBUX for 20-30 Minutes 🔴- EVERYONE (subbed and in Group) Gets Robux! - Feeling Generous
+      * Video is about giving away Robux using group funds.
+      * URL: https://www.youtube.com/watch?v=JxoynJZ3FZY
 * DefildPlays (DefildPlays)
   * Information Collection
     * 2 FREE MYTHICAL SCYTHES AND SECRETS IN ROBLOX MINING SIMULATOR!
@@ -4942,15 +4945,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
       * Logs into the account of a fan. Mentions a lot of other people sent their username and passwords.
       * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
-  * UNCATEGORIZED
-    * Playing HACKER for my account BACK in MURDER MYSTERY.. (Roblox)
-      * URL: https://www.youtube.com/watch?v=yzLaNMj74eo
-    * Playing HACKER for FRIENDS account back.. (Roblox Murder Mystery 2)
-      * URL: https://www.youtube.com/watch?v=8B3GyKWpSRI
-    * Joining a HACKER ONLY Lobby in Roblox Murder Mystery 2..
-      * URL: https://www.youtube.com/watch?v=hBW3Y3a7JhM
-    * Minecraft Prison Let's Play - Episode 9 - MVP PICK GIVEAWAY! ( Semi-OP Prison )
-      * URL: https://www.youtube.com/watch?v=XDvNdF0e_Cw
 * Seniac (MrSeniac)
   * Other
     * HOW TO GET FREE ROBUX!
@@ -5286,6 +5280,44 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
+* TeraBrite Games (SabrinaBrite and DJMonopoli)
+  * Non-Giftcard Robux Giveaways
+    * GOTTA CATCH EM ALL! \#3 | ROBLOX - Pokemon Brick Bronze | TeraBrite Games
+      * PROCESSED
+      * URL: https://www.youtube.com/watch?v=S4XIsjE7blA
+    * 🚙 NEW JAILBREAK ATV UPDATE! | ATVs, DONUT STORE & TIRE POPPING! | ROBLOX JAILBREAK UPDATE
+      * PROCESSED
+      * URL: https://www.youtube.com/watch?v=ZQzPEVYATEA
+    * GOTTA CATCH EM ALL! \#2 | ROBLOX - Pokemon Brick Bronze | TeraBrite Games
+      * PROCESSED
+      * URL: https://www.youtube.com/watch?v=ldKGLO3-mkY
+    * IT'S MY BIRTHDAY! | ROBLOX | TeraBrite Games
+      * PROCESSED
+      * URL: https://www.youtube.com/watch?v=9v2Y5pJeedc
+    * GETTING A MOTORCYCLE! | JAILBREAK ROBLOX | TeraBrite Games
+      * PROCESSED
+      * URL: https://www.youtube.com/watch?v=XX6MM-8n_LE
+    * VIEWER BATTLES! | Pokemon Brick Bronze ROBLOX | TeraBrite Games
+      * PROCESSED
+      * URL: https://www.youtube.com/watch?v=aJ0CxvQkBwI
+    * MOTORCYCLES IN JAILBREAK! | ROBLOX | TeraBrite Games
+      * PROCESSED
+      * URL: https://www.youtube.com/watch?v=tWrF1SHyJjQ
+    * NEW MAP YAY! | Murder Mystery 2 ROBLOX | TeraBrite Games
+      * PROCESSED
+      * URL: https://www.youtube.com/watch?v=z8J3eihTnts
+    * ARCADE UPDATE & GETTING DITTO | Pokemon Brick Bronze
+      * PROCESSED
+      * URL: https://www.youtube.com/watch?v=kDes9B7s9Lw
+    * SHINY MAKUHITA! | Pokemon Brick Bronze | ROBLOX
+      * PROCESSED
+      * URL: https://www.youtube.com/watch?v=DEkXveVYbos
+    * SHINY GEODUDE! | Pokemon Brick Bronze | ROBLOX
+      * PROCESSED
+      * URL: https://www.youtube.com/watch?v=L_sAE8M3HiQ
+    * ROBUX GIVEAWAY! | HUNTING SHINY POKEMON (Pokemon Brick Bronze) | ROBLOX
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=X1yPl2wSYL8
 * ThatGuy (ThatGuyTG)
   * Non-Giftcard Robux Giveaways
     * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#8
@@ -5474,6 +5506,8 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=6_Xb00zC_m4
 * VeD\_DeV (VeD\_DeV)
   * Non-Giftcard Robux Giveaways
+    * arsenal gameplay with robux gift card giveaway, every win I get
+      * URL: https://www.youtube.com/watch?v=cZlCfrYcXQQ
     * DO NOT MOVE TO WIN ROBUX in Jailbreak! (Roblox)
       * URL: https://www.youtube.com/watch?v=m6ueDABWlE0
     * Last To Leave The Circle Wins Free Robux! (Roblox)
