@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 11, 2020<br>
+Generated February 12, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,12 +184,12 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 230,446 videos
 * Total videos found that match keywords: 12,963 videos
-  * Total unprocessed videos: 6,946 videos
-* Total videos found that are processed and marked: 1,791 videos 
+  * Total unprocessed videos: 5,187 videos
+* Total videos found that are processed and marked: 2,031 videos 
   * Information Collection: 1,520 videos
-  * Non-Giftcard Robux Giveaways: 213 videos
+  * Non-Giftcard Robux Giveaways: 449 videos
   * Other: 36 videos
-  * Phishing: 21 videos
+  * Phishing: 25 videos
   * Gambling: 1 video
 
 ### No Videos Found
@@ -246,7 +246,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Furious Jumper (furi0us_jumper)
 * GabriellaGames 
 * Gallant Gaming (GallantGaming)
-* GamingMermaid (Aquaerria)
 * Godenot (godenot)
 * GoldenGlare (GOLD3NGLARE)
 * GoldenOwl (GoldenOwl_Youtub3)
@@ -301,7 +300,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MicroGuardian (MicroGuardian)
 * Milo Mine (BebeMiloAmiwito)
 * MrLokazo86 (Lokazo86)
-* MuneebParwazMP (MuneebParwazMP)
 * MyUsernamesThis (UseStarCode_BACON)
 * NapkinNate (NapkinNate)
 * Natasha Panda (NatashaPandaaYT)
@@ -321,6 +319,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PrestonMobile (PrestonPlayz)
 * Pretzel Etzel (Pretzel_Etzel)
 * ProSidu (prosiduzao)
+* Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
 * Remainings (Remainings)
 * Robotz (R_obotz)
@@ -335,7 +334,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * skyleree (skyleree)
 * Spagz Blox (Spagzox)
 * SrPrismatico (SrPrismatico)
-* Sub 
 * TanqR (TanqR)
 * TapWater (UseCode_Tap)
 * Tex HS (TexWillerHS)
@@ -366,6 +364,8 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description mentions giving Robux for liking the game, which is not possible since there is no way to check if someone liked the game. It is a scam, and also an attempt at social engineering.
       * URL: https://www.youtube.com/watch?v=l_wC-1-3J2k
   * Phishing
+    * GIVING A FAN 1,000 ROBUX AFTER HACKING HIM!!!
+      * URL: https://www.youtube.com/watch?v=p920X7kUXmE
     * HACKING A FANS ROBLOX ACCOUNT!!
       * URL: https://www.youtube.com/watch?v=viMN3GP9p04
     * HACKING MY FRIENDS ROBLOX ACCOUNT WHILE HE WAS SLEEPING!!
@@ -374,6 +374,16 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Phishing
     * HACKING A FAN AND GIVING THEM FREE ROBUX IN ROBLOX!
       * URL: https://www.youtube.com/watch?v=cpnK6Dnu2M4
+  * Non-Giftcard Robux Giveaways
+    * LIKE THIS VIDEO AND GET FREE ROBUX! How to Get Free Robux!
+      * Claims to giveaway 100 Robux per day using group funds.
+      * URL: https://www.youtube.com/watch?v=7cfDn34L1Q0
+    * JOIN MY ROBLOX GROUP FOR FREE ROBUX!  | Roblox
+      * Claims to giveaway 100 Robux per day using group funds.
+      * URL: https://www.youtube.com/watch?v=wWQXls9N7Nw
+    * WIN FREE ROBUX WHEN I DIE IN THIS ROBLOX GAME!
+      * Gives away Robux using group funds as part of a challenge.
+      * URL: https://www.youtube.com/watch?v=DLRQLwcL6MI
 * Betroner y Noangy (Betroner and Noangy)
   * Non-Giftcard Robux Giveaways
     * Robux para ti! Mejor que los eventos de Roblox!
@@ -1698,7 +1708,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Ji48tNFglhY
     * JEFFBLOX FOI BANIDO do ROBLOX!! CUIDADO COM ESSE ÁUDIO!!
-      * Description references the "black market for limiteds" rbx.place.
+      * Description references the "black market for limiteds" and information collection website rbx.place.
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=8y9Ayik2I20
     * COMO PASSAR DE NÍVEL RÁPIDO NO ZOMBIE ATTACK ROBLOX!! (ALGUMAS DICAS)
@@ -2484,6 +2494,10 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*NEW\* Building Simulator Update! Update coming Tonight! $R1,500 Giveaway (READ DESCRIPTION)
       * Link references a Robux giveaway via Discord.
       * URL: https://www.youtube.com/watch?v=1i9mmRDFFFU
+* GamingMermaid (Aquaerria)
+  * Phishing
+    * I HACKED A ROBLOX ODER | Roblox High School Dorm Life | Roblox ODer Trolling
+      * URL: https://www.youtube.com/watch?v=XdMWvYf4Rjk
 * Geko97 - Roblox (Geko97)
   * Information Collection
     * NUEVA FORMA de CONSEGUIR ROBUX GRATIS 🤑 \[Roblox\]
@@ -2500,12 +2514,17 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=l3qwVIOIwgc
 * iifnatik (iifnatik)
   * Phishing
+    * HACKING MY VIEWER AND SPENDING ALL OF HIS ROBUX!!!
+      * URL: https://www.youtube.com/watch?v=j3ao8hO0ANI
     * HACKING INTO MY FANS' ACCOUNTS?!
       * URL: https://www.youtube.com/watch?v=QQWTL6qob4M
   * Non-Giftcard Robux Giveaways
     * GIVING AWAY 15,000+ ROBUX FOR... (Roblox)
       * Video announces a Robux giveaway.
       * URL: https://www.youtube.com/watch?v=df0NiP-SRUQ
+    * EASIEST WAY TO EARN ROBUX FROM ME!!! \*FREE ROBUX GIVEAWAYS\*
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=WZ7dbUBOePA
 * InquisitorMaster (inquisitormaster)
   * Phishing
     * I HACKED A FAN AND CAN'T BELIEVE WHAT I SAW! | Roblox Social Experiment
@@ -4371,7 +4390,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Kavra (Kavra)
   * Non-Giftcard Robux Giveaways
     * DRAWING & VIDEO CONTEST (300K SUBS)
+      * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=elG3Tjy7UVs
+    * DRAWING & GFX CONTEST (WINNERS!!!)
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=X_i7rcVVtMg
 * Keisyo (Keisyo)
   * Non-Giftcard Robux Giveaways
     * GETTING REVENGE ON BULLY AS PRINCIPAL / Roblox High School / Roblox Principal / Roblox Funny Moments
@@ -4522,20 +4545,129 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * IF YOU FIND ME, WIN 15,000 ROBUX!! (Fan HIDE & SEEK Challenge) - Linkmon99 ROBLOX
       * URL: https://www.youtube.com/watch?v=aQVzK3xhRAs
+* MuneebParwazMP (MuneebParwazMP)
+  * Phishing
+    * (GONE WRONG) HACKING A FAN AND GIVING THEM FREE ROBUX!!! | Roblox
+      * URL: https://www.youtube.com/watch?v=NJzfMDUMmMw
 * NikTac 
   * Non-Giftcard Robux Giveaways
+    * \*SECRET\* HALLOWEEN BEES & EVIL BEAR COMING IN Roblox Bee Swarm Simulator!? (Update Theory)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=C88HJrMvk7k
+    * LEGENDARY ROBLOX ICE CREAM SIMULATOR CODES \*INFINITE SCOOPS\*
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=licG1WyF4BQ
+    * WORLDS BEST PLAYER SHARES SECRET TIPS & GLITCH!! - Roblox Super Power Training Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=8R5vUyuE9_E
+    * WORST NOOB PET WITH THE ROBUX HAT! (GAME BREAKING!) - Roblox Pet Simulator (Hats Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=9fS67A74_xA
+    * We found a GAME BREAKING Roblox Pet Simulator GLITCH... (Infinite Damage!) - Hats Update
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=YlvfLKwcc_w
+    * UNLOCKING THE RAREST \*NEW\* UPDATE HAT ON ROBLOX PET SIMULATOR (Robux Hat!)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=tpSo81Vyt38
+    * UNDERCOVER NOOB TAKES CONTROL OF SERVER!! - Roblox Pet Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=PskCVgUINHI
     * REBIRTH GLITCH, SKY GYM & TOP ON STRENGTH LEADERBOARD IN ROBLOX WEIGHT LIFTING SIMULATOR 3
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=CI5vStdQEKU
+    * Strength Code & OP Strength Reached IN Roblox Weight Lifting Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=XxisHB3xYEM
+    * MAKING MY ACCOUNT \*INVINCIBLE\* (FINAL SKILL!)  - Roblox Super Power Training Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=1M1ZSnjGoZQ
     * REACTING TO MY OLD CRINGEY VIDEOS! \*BAD\* (100K Special)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=46pfEKLM_u4
+    * \*NEW\* SECRET SUN BEAR QUEST CODES IN ROBLOX BEE SWARM SIMULATOR
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=GEjubazPaJs
+    * COMPLETING ALL WITCH UPDATE QUESTS (SECRET REWARD!) - Roblox Mining Simulator (Halloween Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=5kMsDO9YwyI
+    * UNLOCKING VOLCANO AREA & BECOMING A POWERFUL SUPERHERO (Roblox Super Power Training Simulator)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=swncWfh83hY
+    * \*NEW\* HALLOWEEN UPDATE CODES & ITEMS! - Roblox Mining Simulator (Haunted Pack)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Qsuz57YX7G0
+    * NOOB WITH RAREST POSSIBLE PET!! (RAINBOW CORE SHOCK!) - Roblox Pet Simulator \*INSANE\*
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=YI6F1rfetBY
+    * ENTERING \*SECRET\* MAP LOCATIONS (TORNADO ZONE!)  - Roblox Super Power Training Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=E_h59jTBksc
+    * UNLOCKING CORE SHOCK PET & NEW CODES IN ROBLOX PET SIMULATOR (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=SXNTALzdQxg
+    * 26 GODLY \*NEW\* ROBLOX BEE SWARM SIMULATOR CODES! (OP 10x FIELD BOOST!)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=IpYTOXQ544s
+    * NOOB WITH MAXED RAINBOW CORE! (PRO In 50 SECONDS!) - Roblox Pet Simulator \*INSANE\*
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=TOmVJ3KEiv8
+    * CATCHING \*INSANE\* PET SIMULATOR DUPER!! - INFINITE Rainbow Pets (Roblox)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=zZrgbQXD9Fk
+    * I GOT TRADED THE BEST POSSIBLE TIER 16 PET ON ROBLOX PET SIMULATOR (RAINBOW C0RE!)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=PVMFkzS8FMQ
+    * UNLOCKING BEST \*NEW\* RAINBOW CYBORG PETS! (TIER 16!) - Roblox Pet Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=P3k8S0FPV-8
+    * SECRET TIER 16 PETS AND NEW UPDATE AREA! \*RAREST PETS\*- Roblox Pet Simulator (Leaks)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=104cnuyW0jY
+    * 10 \*NEW\* YOUTUBER UPDATE CODES ON ROBOX BEE SWARM SIMULATOR (New Items!)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=BziAJpoVbF4
+    * TRADING A NOOB GODLY DREAM PETS! (3x Rainbow Mortuus!) - Roblox Pet Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=ZHibjuJf9rA
+    * \*SECRET\* WATERFALL BASE DISCOVERED (FREE EGGS!) - Roblox Dragon Keeper Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=bQmIgXar_3c
+    * NEW \*MYTHICAL\* CRYSTAL UPDATE CODES & AREA IN ROBLOX MINING SIMULATOR (New Items)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=G-D3nlb1gkE
+    * 2 \*NEW\* SECRET CODES & INSANE GLITCH DISCOVERED! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=bAh8d2__Y8s
+    * UNLOCKING \*NEW\* MYSTIC TIER GODLY DRAGON! - Roblox Dragon Keeper Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=elA4FrbUhiM
+    * TRADING NOOB \*NEW\* RAREST PET IN PET SIMULATOR! \*INSTANT PRO\* (Roblox)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=zkmvUF-bDy0
+    * BUYING GODLY DOMORTUUS PET, CODES & RAINBOW UPDATE ON ROBLOX PET SIMULATOR
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=qYRY-c9NK10
+    * \*NEW\* MYSTERY TIER 16 PETS IN ROBLOX PET SIMULATOR! (Update leak!)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=SmoxO-FVRSo
     * I GAVE 20 GODLY DOMINUS PETS TO NOOBS... (140k RBX) - Roblox Pet Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=91E8Wmm0zsY
+    * 5 \*NEW\* NIGHT UPDATE CODES RELEASED ON ROBLOX BEE SWARM SIMULATOR (Free Items)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=pijUy2lcKW8
+    * I DEFEATED THE DIAMOND TIER SPROUT! \*FREE STAR EGGS!?\* - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=fna5o3gn1B4
     * \*NEW\* GODLY DOGGO BEE UNLOCKED & VICIOUS BEE! - Roblox Bee Swarm Simulator (Update)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=ClcE-Q_Kfq8
+    * EASIEST WAY TO GET STINGERS & MOON CHARMS! - Roblox Bee Swarm Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=3-R67IaWmWs
+    * ALL \*NEW\* UPDATE CODES ON ROBLOX BEE SWARM SIMULATOR (\*FREE ITEMS\*)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Q8nrQCTwkP8
     * FULL \*NEW\* BEE SWARM SIMULATOR UPDATE REVIEW & OWNER LEAKS! (Roblox)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=QvjAwKNSStg
@@ -4545,6 +4677,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * UNLOCKING \*LEGENDARY\* NEW UPDATE CODES AND AREAS IN ROBLOX DESTRUCTION SIMULATOR!
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=x-ttdXs4Lv8
+    * \*NEW\* UPDATE & CODE LEAKED BY ROBLOX DESTRUCTION SIMULATOR OWNER!
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Fj-uL18HDdA
     * I EQUIPPED 1,000 TIER 15 PETS THEN CRASHED THE GAME...!! - Roblox Pet Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=xayP4TUlqQM
@@ -4572,9 +4707,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BUYING \*INSANE\* BLACK HOLE PACK IN ROBLOX DESTRUCTION SIMULATOR  (MAX LEVEL!)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=C9VhU1y1iR0
+    * \*NEW\* NUCLEAR ROBLOX DESTRUCTION SIMULATOR CODE & ITEMS! \*INSANE\*
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=p9oRNZQOX0M
     * THE OWNER GAVE ME SECRET \*MASTER TIER PETS\* (INSANE!) - Roblox Pet Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=6VNLZSn5QzY
+    * GRINDING FOR \*NEW\* GODLY TIER UPDATE BEES!! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=AZ3VTKt2oLQ
     * I EQUIPPED 1,000 TIER 14 PETS THEN THIS HAPPENED... \*INSANE\* - Roblox Pet Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=42ZeMXl76MM
@@ -4584,6 +4725,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*SECRET\* UPDATE MOON CHEST DISCOVERED!! (GOD PETS!) - Roblox Pet Simulator (Update)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=bJ14kV2vAKw
+    * \*NEW\* UPDATE BEARS LEAKED BY OWNER & ALL INFO! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=HHdTzcb-i8Y
     * SPENDING \*1 TRILLION COINS\* ON 250 TIER 12 GOLD PETS!! - Roblox Pet Simulator \*INSANE\*
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=P0E4dKMmflI
@@ -4593,15 +4737,111 @@ The following channels had nothing appear with manual searching. Videos may exis
     * REACTING TO \*INSANE\* INFINITE PET HACKERS ON ROBLOX PET SIMULATOR! (GODLY)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=OilrTZ-Tk0c
+    * ALL UNTOLD GIFTED UPDATE SECRETS, CODES & LOCATIONS! - Roblox Bee swarm Simulator (Update Recap)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=TvasesFJMPw
     * NOOB VS PRO VS MASTER - ROBLOX PET SIMULATOR VERSION! \*EPIC!\*
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=vcKRDL-5Wyk
+    * GIVING RANDOM PLAYERS \*ADMIN\* TROLL IN ROBLOX PET SIMULATOR!?
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=R85_mzQwS9s
+    * TRADING \*NOOBS\* INSANE GOLD PETS IN THE GAME! - Roblox Pet Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=eVAiKZmtn6I
+    * UNLOCKING INFINITE \*NEW\* GOLD PETS!! (INFINITE PETS!) - Roblox Pet Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=lGzYJ2muHtc
+    * BUYING \*INSANE\* INFINITE PET GAMEPASS!! (40k RBX!) - Roblox Pet Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=zZXavSYcfSI
+    * SECRET \*NEW\* GIFTED UPDATE CODE RELEASED! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=2Pnb6dhrxRg
+    * GODLY SPACE BOSSES & NEW AREA UPDATE?! \*THEORY\* - Roblox Pet Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=m09RQLhzLlw
+    * FIND ME AND YOU GET FREE STAR EGGS!! (\*LEGIT\*)... - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Je0n4bG2-Qg
+    * \*LEGIT\* FREE BOSS GAMEPASS & ALL ROBLOX JAILBREAK UPDATE ITEMS! (Grenades, rocket launcher & More)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=OsCfoPvYgrg
+    * OPENING\* GODLY\* TROPHY UPDATE BOXES!! - Roblox Egg Farming Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=AJ_omUWt1Fw
+    * ALL \*NEW\* UPDATE LEAKS (OWNER SECRETS!) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=EI72wWTqFOw
+    * WORLDS BEST PLAYER SHOWS SECRET TIPS! - Roblox Pet Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=vI5Bd4zUsgY
+    * UNLOCKING \*THE BEST PET\* IN THE GAME!! (TIER 12!) IN ROBLOX PET SIMULATOR (UPDATE)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=P4du9u3M1Kw
+    * \*NEW\* INSANE UPDATE AREA UNLOCKED IN ROBLOX PET SIMULATOR \*BILLIONS\*
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=7XsaNetHv9U
+    * COMPLETING \*ALL\* SIR MINESALOT UPDATE QUESTS IN ROBLOX MINING SIMULATOR \*MYTHICAL CHALLENGE\*
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=cJUVEBAoaCk
+    * ROBLOX PET SIMULATOR \*NEW\* SECRET TIER EGGS LEAKED INGAME! (UPDATE NEWS)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=nCBAJoEopuA
+    * FINDING & OPENING THE SECRET GOD CHEST! \*BILLIONS!\* - Roblox Pet Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=vrh9JSyoV-w
+    * ALL CODES THE OWNER \*SECRETLY\* HID FROM US!! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Pipn-KCDB78
+    * UNLOCKING \*ALL\* POSSIBLE PETS IN ROBLOX PET SIMULATOR (TIER 10 EGGS!)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=U7Q47l5R4dk
+    * ANSWER THIS CORRECT AND YOU GET 1 BILLION HONEY! - Roblox Bee Swarm Simulator w/OpaOsiris
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=gqFDn9GAttE
+    * ROBLOX PET SIMULATOR \*UNLOCKING ALL AREAS\* & DOMINUS PET!
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=RoF3Hr7-fL8
+    * HOW TO \*INSTANTLY\* GET FREE STAR EGGS IN BEE SWARM SIMULATOR (SECRET!)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=TvgDSrnHYHY
+    * \*FREE LIGHT PACK\* & QUESTS UPDATE CODES IN ROBLOX MINING SIMULATOR!
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=yzDomgCMRGI
+    * THE OWNERS FINAL QUEST... (GIFTED REWARDS!?) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=bK_LFvyM1i0
+    * IS THIS THE NEXT ROBLOX BEE SWARM SIMULATOR...?
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=oDr3zqr_gwA
+    * WHAT HAPPENS PAST LEVEL 2500...? (BEST PLAYER!) - Roblox Egg Farming Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=OyDynDnW9g4
+    * ALL 20 \*ACTIVE\* GIFTED UPDATE CODES! (NEW CODES!) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=-kYZSpN-O3g
+    * 9 NEW LOCATIONS TO GET GIFTED BEES & EGSS! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=DGHsQaogBHA
+    * 10 \*NEW\* GIFTED UPDATE CODES ON BEE SWARM SIMULATOR (Legendary Codes)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=jeaVuZ-RMkI
     * OWNER GAVE ME A \*SECRET\* GODLY CODE! - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=qBgSQgMei08
     * \*FREE MYTHICAL\* UPDATE ON ROBLOX MINING SIMULATOR (NEW CODES)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=A4sFMU3RMX0
+    * \*NEW\* UNKNOWN GIFTED EGG BOSSES! (FREE ITEMS!) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Pk6WT8YGHXI
+    * WORLDS BEST PLAYER SHARES SECRET TIPS!! - Roblox Egg Farming Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=0VuoGEYYANM
+    * EASIEST WAYS TO GET GIFTED EGGS! (UPDATE CODES!) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=DR12wopmHhw
     * COMPLETING OWNERS \*SECRET\* QUEST! (GIFTED EGG) - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=VCHaaNtOy90
@@ -4611,6 +4851,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * UNLOCKING \*GOD TIER\* LEGENDARY ITEMS!! (UPDATE!) - Roblox Egg Farming Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=J6Tykwd3i90
+    * HOW TO \*GLITCH\* INTO THE LEVEL 30 SECTION!! (SECRET) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=QAUqz1deOQA
     * DEFEATING GODLY CHICKEN BOSS! (MYTHICAL WEAPONS) - Roblox Egg Farming Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=ZTh5MVSHYU0
@@ -4626,27 +4869,144 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*SECRET\* GIFTED EGG BOSS FIGHT!! (TUNNEL BEAR!) - Roblox Bee Swarm Simulator (Update)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=052X_Nt2FgU
+    * HOW TO GET FREE GIFTED BEES \*LEGIT\* - Roblox Be Swarm Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=LQGtgFQzMZk
     * THE \*SECRET\* VOID REALM DISCOVERED IN ROBLOX MINING SIMULATOR (MUST FIND)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=qsK8Jm8s5hw
+    * FREE GEM CODE & NUCLEAR EXPLOSIVE C4!! - Roblox Moon Miner 2 (Simulator)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=S1FaAcllMPY
+    * \*FASTEST\* WAYS TO DOUBLE BACKPACK SPACE!! - Roblox Bee Swarm Simulator (Tips)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Kc2zMchFhrk
+    * ALL \*LEGENDARY\* ROBLOX FARMING SIMULATOR CODES (NUKE UNLOCKED)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Fuj54sHgoEU
+    * \*SECRET\* YOUTUBER BEES & SPACE ARENA! (SHOWCASE) - Roblox Bee Swarm Simulator (Showcase server)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=KcQnwgD76Z8
+    * NEW MYTHICAL UPDATE CODES & \*GOD\* ITEMS!! - Roblox Mining Simulator Codes
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=WuDIlxxenyQ
+    * UNLOCKING \*GOLDEN HOE\* & ALL AREAS!! - Roblox Farming Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=lpzRFx7xQB0
+    * NEW \*SECRET\* UPDATE BEAR LEAKED (+GOD CODE!) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=tnjcB60OqJI
+    * TOP PLAYER SHOWS OFF SECRET CODE!! \*NEW\* - Roblox Bee Swarm Simulator w/OpaOsiris
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=TLgkzm5k5U8
+    * UNLOCKING EVERY PET IN THE GAME! (MAX) - Roblox Beach Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Vwz5PUsCuB8
+    * \*ADMIN\* MAKES ME INTO A CUSTOM BEE!! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Lqw6JDW-FkQ
+    * \*NEW\* ROBLOX ISLAND ROYALE CODE! (CLUTCH VICTORY!) - Roblox Fortnite
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=jVl--8jIYOo
+    * THE UNTOLD SECRETS OF MINING SIMULATOR \*MUST KNOW\* (Codes) -Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=UNKJB7MUkvw
+    * \*SECRET\* 30+ NEW UPDATE BEES LEAKED!!? - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=qF62LQ5gvh0
+    * NEW ROBLOX ISLAND ROYALE CODE! \*FREE BUCKS\* - Roblox Fortnite
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=wqFYHfh6m68
+    * (NEW) 20 LEGENDARY ROBLOX BEE SWARM SIMULATOR CODES \*NEW BEES\* (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=L8kuPH_qFbQ
+    * KING ANT BOSS & ALL SECRET UPDATE INFO!! - Roblox Bee Swarm Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=OvgD3wbn4YA
+    * BUYING \*GODLY\* ELECTRIC HAMMER + NEW CODES!! - Roblox Mining Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=5yOGDEof0Io
+    * NEW UPDATE, CODES & INSANE VEHICLE!! - Roblox Fire Fighting Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=SQvMJCptTio
+    * ATLANTIS UPDATE \*CODES\* & ALL ITEMS!! (INSANE!) - Roblox Mining Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=8vmLVe5wTTQ
+    * GETTING \*NEW\* MYTHICAL BEE FOR FREE!? \*WAGER\* - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=aBpacNFKAk4
+    * 35 \*SECRET\* WAYS TO GET FREE ROYAL JELLIES & TICKETS! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=yt-gV6Ff9Mo
+    * NEW MAP & SECRET LEVEL 30 FLOWER ARENA! (UPDATE LEAKED) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=KYYaFD80CgI
+    * 100+ LEGENDARY & MYTHICAL ROBLOX MINING SIMULATOR CODES \*MYTHICAL UPDATE CODES\*
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=1iu2pSrXY08
+    * (CODES) BUYING THE LEGENDARY BLASTER TOOL!! (OP) - Roblox Fire Fighting Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=gXXlqKxN3ZI
+    * NEW CODES MAKE YOU AN INSTANT PRO!! (Noob to Pro) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=aGg0x9LLUQI
+    * (CODES!) INSTANTLY BUYING THE BEST ITEM (WORLD BACKPACK) - Roblox Fire Fighting Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=yfgnTVIi6ak
+    * SUMMER UPDATE, \*CODES\* & FREE ITEMS! - Roblox Mining Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=0zqrnkcWVAE
+    * \*NEW\* THE BEST POSSIBLE MINING SIMULATOR ACCOUNT (TOP PLAYER) - Roblox Mining Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=MwcVdgZpfpE
+    * BUILD A BOAT \*UPDATE\* FLYING HOUSE (ROCKET FULED!) - Roblox Build a Boat For Treasure
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=2DHbM6Px2OQ
     * THE ULTIMATE \*SECRET\* HIVE SETUP! (MUST HAVE) - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=zUOy2vUCsXA
     * UNLOCKING \*EVERY\* REBIRTH ITEM! (MAXED!) - Roblox Mining Simulator (Codes)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=eyLbzKFcmEY
+    * HOW TO GET FREE MYTHICAL ITEMS! \*LEGIT\* - Roblox Mining Simulator (Giveaway)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=aqhbymprlu0
+    * (NEW) 17 LEGENDARY BEE SWARM SIMULATOR CODES \*OP PERKS\* Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=yVCmd_FMfJE
+    * REBIRTH IN 2 SECONDS! \*LEGIT\* (MOAB Explosive) - Roblox Mining Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=ghtWDJkLXMc
+    * MYTHICAL TIER UPDATE \*CODES\* & ALL ITEMS! - Roblox Mining Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=GtGYDTNQijw
+    * SECRETS EVERY PLAYER SHOULD KNOW (CODES, ROYAL JELLYS TICKETS) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=K_AbupEQsuM
     * HOW \*OP\* IS THE FIRE BANE?! (INSTANT BILLIONS!!) - Roblox Mining Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=cnQ6ISZfN_I
+    * ROBLOX NOOB VS PRO VS BILLIONAIRE - Roblox Bee Swarm Simulator \*FUNNY\*
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=-5qsyBE3YnQ
+    * NEW \*FREE\* TICKET, BEE & ROYAL JELLY CODES! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=tLjj1XqBPII
     * UNLOCKING \*NEW\* CRIMSON & COBALT BEES (NEW TOOL) - Roblox Bee Swarm Simulator (Update)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=ezfDIq7sL7c
     * \*ALL NEW\* LEGENDARY ROBLOX MINING SIMULATOR CODES! (New)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=jcWIgg82Pus
+    * ROBLOX BEE SWARM SIMULATOR WAGER \*FREE GUMMY BEE\* w/DefildPlays
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=FnkAz89GnMs
     * GODLY MINING SIMULATOR TOOLS (FIRE BANE + OMEGA CRATES) - Roblox Mining Simulator \*UPDATE\*
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=eHonjSkchO0
+    * THE BEST MINING SIMULATOR ACCOUNT POSSIBLE!! \*TOP PLAYER\* - Roblox Mining Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=bJQly_VHyTs
     * ALL \*NEW\* BEE SWARM SIMULATOR CODES (GUMMY UPDATE CODES) | Roblox
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=fGFwwuwMnHE
@@ -4656,6 +5016,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*NEW\* GUMMY BEAR SHOWCASE (OP ABILITY!) - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=Mmo1I5N55fA
+    * FIRST MAXED MOJO GEAR ACCOUNT! (ALL ITEMS!) - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=gtfQE_5Geew
+    * \*GODLY\* MOJO UPDATE ITEMS! (GOD ROCK!) - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=jHdx2fwJXoQ
     * \*NEW\* GUMMY UPDATE! (GUMMY BEE + BEAR) - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=vcpnaepkuwU
@@ -4665,12 +5031,366 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*INSANE\* INVISIBILITY GLITCH LEAKED!! - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=zcwrs8bJEAY
+    * \*NEW\* LEGENDARY BEE SWARM SIMULATOR CODES (BEAR BEE PERK)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=qvOm1Wcx26g
+    * ARE ROBLOX MINING SIMULATOR CODES TOO OP?! \*SO INSANE\*
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=w6ZxtteLkK8
+    * WORLDS BEST PLAYER SHOWS SECRET CODES!! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=ORSCItibx94
+    * FAN DONATES 100K COINS (CRASHES SERVER!) - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=YvHQI5ruAyA
+    * ALL \*NEW\* SECRET TICKET & ROYAL JELLY CODES!! - Roblox Bee Swarm Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=1NZ1hxS6cWQ
+    * So I got Permanently Banned From Roblox...
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=1ynHJWNpblM
+    * NEW LEGENDARY CODES, FOOD UPDATE, TURKEY BLASTER - Roblox Mining Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=dtOYpN4Sgnw
+    * I CAUGHT A TOP PLAYER \*HACKING\*!!? - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=0vvcnC6bGsM
+    * THE FASTEST REBIRTH EVER!? (OP TACTIC) - Roblox Mining Simulator (Codes)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=AyoVNCMgxZk
+    * SECRET \*NEW\* UPDATE BEAR LEAKED! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=TY6EaWxHL6E
+    * HOW TO GET THE TABBY BEE FOR FREE!! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=jXyl-QWRW1M
+    * THE WORLDS SAFEST BASE (100% UNRAIDABLE!) - Roblox Booga Booga (Emerald Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=jIpbg3PH24A
+    * UNLOCKING \*NEW\* GODLY TABBY BEE!! - Roblox Bee Swarm Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Sg1-GiJWTIk
+    * \*UNLIMITED\* EMERALDS!! (Massive OPENING!) - Roblox Booga Booga (Emerald Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=lGe4oaAoen8
+    * SECRET EMERALD CAVES + GOD BAGS REMOVED (Future Updates) - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=ZkUQaqEhMt4
+    * USING YOUTUBE STATUS TO GET GODLY GEAR!! (WORKED!) - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=0uTdOnE2Kq8
     * THE BEST POSSIBLE ACCOUNT ON THE GAME!!? - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=rzuILsmDoZQ
+    * GODLY \*DIMENSIONAL\* GEAR!! - Roblox Booga Booga & Big Booga Dig
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=zXqDpkw3Nyc
+    * NEW \*SECRET\* BEES ACCIDENTALLY LEAKED!? - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=DXk17VWdFko
     * MY GAMING SETUP TOUR!! - 30K Special - (Roblox)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=18RgZvoLwzI
+    * UNLOCKING EVERY POSSIBLE BEE IN THE GAME!! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=qKNv-rn-VUA
+    * \*ALL NEW UNKNOWN SECRETS AND LOCATIONS!!\* - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=TJUQZl-WZGM
+    * (INSTANT MILLIONS!) 60 MILLION BUCKO GUARD!! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=AtuIJzq7dvY
+    * TAKING OVER A TOP PLAYERS ACCOUNT!! - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=73cPVOugnEo
+    * \*SECRET\* VOLCANO PARKOUR!! (TICKET LOCATIONS!) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=0LOeFLOTPJA
+    * BUYING THE OP \*NEW\* PHOTON BEE (UPDATE!) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=wfjXOiMcb2U
+    * HACKING A TOP PLAYERS ACCOUNT! (SECRET ITEMS!) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Y9L0ZR28_2w
+    * THE ULTIMATE ZOMBIE BASE DEFENCE!! - Roblox Island 2
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=yskSBNiwoWY
+    * NOOB INVADES \*SECRET\* PRO FLOWER AREA!! - Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=30b3-BW6EtM
+    * THE UNTOLD SECRETS OF BEE SWARM SIMULATOR!! (Roblox)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Likk4UUeA-Q
+    * \*NEW\* MILITARY HELICOPTER VS REGULAR HELICOPTER - Roblox Jailbreak (1 Year Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=UrEIPY-Akk4
+    * UNDERCOVER PRO PLAYER TAKES CONTROL OF SERVER!!- Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=v7AKl6dFwhw
+    * PLAYING WITH 4 PRO PLAYERS! (120 Bees!) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Xe655apHKb0
+    * NOOB USES INSANE HACKED CLIENT!! (SUPER OP!) - Roblox Bee Swam Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=UKH-sVI731Y
+    * (Instant Honey!) $25,000,000 BEEKEEPER'S MASK!! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=6xdju-BZuAw
+    * INSTANT \*MILLIONS\* IN CANDY LAND DIGSITE!! - Roblox Mining Simulator (Codes)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=g6vMY2ho4F8
+    * UNLIMITED OXYGEN GLITCH (MAXIMUM DEPTH!) - Roblox Scuba Diving Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=u7OSxx0-lXA
+    * GOD BEETLE BOSS + SECRET ROYAL JELLY MAZE!! - Roblox Bee Swarm Simulator (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=6VrrC5yAL3Q
+    * ALL NEW SECRET LOCATIONS AND AREAS!! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=HRolxPYl1Nw
+    * BUYING OP GOD BAG AND PICKAXE!! - Roblox Big Booga Dig (Simulator)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=bwYA8ZIkLMI
+    * \*NEW\* BOOGA BOOGA GAME!! - Big Booga Dig Roblox (Simulator)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=sEGSJz9TXrk
+    * 1 MILLION BELI IN 15 MINUITES! (Legit) - Roblox One Piece Bizarre Adventures
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=R4K6pfXe2mo
+    * REMOVING ALL THE FLOWERS FROM THE MAP!! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=ecoK37UNgOQ
+    * SECRET ALIEN BOSS EASTER EGG! (All Updates) - Roblox Jailbreak (Alien Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=R4QirQdrGo0
+    * TOP PLAYER SHOWS NEW SECRET AREA!! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=WtnNd-MIjow
+    * RAIDING THE SECRET BARBARIAN BASE!! - Roblox Booga Booga (Dusk)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=ANN7fdI0JmM
+    * \*GLITCHING\* OUTSIDE THE MAP (EXPLOIT) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=x2i2O8WaaVA
+    * NOOB VS PRO VS HACKER (Bee Swarm Simulator) - Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=i0bhtrXdSW8
+    * \*SECRET\* GOLDEN EGG CAVE!! - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=jhXp6zRomyE
+    * \*SECRET\* FLOWER AREA (MAX LEVEL!) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=H2dwicdse9k
+    * DISCOVERING NEW PLANETS \*999,999\* HEIGHT!  - Roblox Rocket Simulator 2
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=6VaraQQg3KM
+    * \*HACKER\* KILLS THE WHOLE LOBBY!! - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=14qx3iPsiOc
+    * UNLOCKING EVERY BEE IN THE GAME (Boss Fight!) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=AMBxoCy4geI
+    * (CODES) WATER COOLED MOWER + REBIRTH GLITCH! - Roblox Farming Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=N2qz2ku_PXY
+    * DEFEATING \*SECRET\* QUEEN ANT (ALL UPDATES) - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=gnM1YJRNjPY
+    * DEFEATING THE \*NEW\* OLD GODS!! - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=19gRjVdO64Q
+    * I GLITCHED UNDERNEATH THE MAP!! - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=UKIw6a3G7Fo
+    * BOOGA BOOGA 2?!! (New Game)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Qp5TKbVCuHw
+    * WHOLE TRIBE VS ONE PLAYER!! (INSANE BATTLE) - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=TAhasqu2xWQ
+    * WHICH IS THE BEST SHOVEL??! (Black Hole Vs Golden Nuke) - Roblox Treasure Hunt Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=X9P42mXwkWU
+    * THE TOP OF THE INFINITE TOWER!! - Roblox Rocket Simulator (Octagon Tower)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Rri5RlG01Pc
+    * WHAT HAPPENS WHEN YOU DROP 2000 GOLD?!! - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=DIRQZwukF2M
+    * DISCOVERING A SECRET ROBLOX TEMPLE! - Roblox Ro-Trip
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=p-5bMBSbS0Q
+    * BATTLING TOP PLAYERS FOR \*INSANE\* GEAR!! - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=I0XLtm6RgEE
+    * INSANE BOAT RACE FOR MAGNETITE GEAR!! - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=au1L_XGEsq0
+    * BEST PLAYER GAVE ME INFINITE BAG!! (God Bag) - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=DYYMKIaL5os
+    * FLYING RAFT BATTLE W/ LEVEL 1000 (Roblox Booga Booga) - Magnetite Armour Fight
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=BqwArubMSDI
+    * MAGNETITE FLOATING ISLAND + DARK TOTEM GOD!! - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=WC5mRSTjf8Y
+    * \*WORLD RECORD\* BIGGEST BASE!! - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Ew3LC44mzLw
+    * WORLDS RICHEST PLAYER DROPS EVERYTHING!! - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=t5SHS2dijUI
+    * GIVING NOOBS OP GEAR!! (CRYSTAL GIVEAWAY!) - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=gTdzIJcNO2I
+    * SECRET FLYING GLITCH (How to Fly!) - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=_mNt3Br8zOg
+    * RAIDING THE \*NEW\* CRYSTAL ISLAND FOR GEAR!!- Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=8fUGwHZxxa8
+    * UNLOCKING THE GOLDEN NUKE AND MAKING BILLIONS!! - Roblox Treasure Hunt Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=AtraXwkQC7s
+    * RAIDING TRIBES WITH THE WORLDS BEST PLAYER!! - Roblox Booga Booga
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=Oqk6b1_-hPM
+    * \*SECRET\* NEW ANCIENT TREE (FLOATING SUN ISLAND) - Booga Booga Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=RobbehuhrkQ
+    * RIDING SHARKS AND WAR MAMOUTH + INSANE TRIBE WAR!! - Booga Booga Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=JDTd256NsK4
+    * EASIEST WAY TO GO FROM NOOB TO PRO IN ROBLOX BOOGA BOOGA!
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=P-qdV3zxt0o
+    * SECRET SPIRIT KEY FROM \*NEW\* FROZEN GIANT BOSS - Booga Booga Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=jX-P6nEP0Q8
+    * (CODES) ALL NEW CODES, ITEMS AND SKINS!! - Roblox Mining Simulator (Beta)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=nHWUk5LZQEw
+    * DEFEATING ALL OLD GOD BOSSES (LOCATIONS!) - Booga Booga Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=uyUAwkzkVhA
+    * 3x GODLY ESSENCE CHEST UNBOXING!! - Booga Booga Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=f7ZOr_SNDJ8
+    * FINDING A GAME BREAKING GLITCH (UNLIMITED STONE!) - Roblox Mining Simulator (Beta)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=HkqOAnvWZzM
+    * ALL MINING SIMULATOR CODES!! (Beta) - Mining Simulator Roblox \*2018\*
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=F198SQLx0SY
+    * HOW OP IS THE ZEUS'S STAFF?! (1 MILLION STONE) - Roblox Mining Simulator Beta
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=w_QxXCHfiao
+    * OPENING 3 ROYAL CHESTS (LEGENDARIES!) - Bloc Blitz Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=emQQGdDPduA
+    * SECRET GOLD TREE + NEW PETS! - Woodcutting Simulator Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=FWNLMHDcU8M
+    * RAIDING AND DESTROYING MASSIVE ISLAND! - Roblox Pirate Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=qcj_Pqdi8tE
+    * THE FASTEST REBIRTH EVER! (WORLD RECORD!) - Treasure Hunt Simulator Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=vMs8oQwz2yA
+    * UNLOCKING THE BLACK PEARL + MYSTERY ISLAND - Pirate Simulator Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=NK73DH_iwPA
+    * TRACTOR VS MOTORBIKE! (WHICH IS BETTER?) (CODE!) - Roblox Woodcutting Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=1zA1hGtzesw
+    * HOW OP IS THE TRACTOR, BEAM GUN AND QUANTUM BACKPACK!!? - WoodCutting Simulator Roblox (Codes)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=F63SLF7LPiU
+    * EVERY CODE FOR WOODCUTTING SIMULATOR - Roblox 2018 \*Working Codes\*
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=HsGoVvJ9PnQ
+    * PRO HELPS NOOB WITH THE NUKE!!- Treasure Hunt Simulator Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=diuWNweSupw
+    * HACKER DELETES THE LEADERBOARD!! - Treasure Hunt Simulator Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=RwjYAXAKnOg
+    * UNLOCKING ALL NEW SHOVELS AND ITEMS (Nuke) - Treasure Hunt Simulator Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=ZO1wJmfhL5k
+    * NEW MYSTICAL SAND AND CHESTS + NUKE SHOVEL!! - Treasure Hunt Simulator Roblox (Update)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=bhNJaq-lxDc
+    * UNLOCKING INSANE NEW SNOW CATAPULT!!- Snow Ball Fight Simulator (Roblox)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=79AbFoKnJis
+    * KID BREAKS MOUSE OVER ROBLOX OBBY (RAGE!) - Roblox Shadow Run
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=xK2NaPJ8uEw
+    * DIGGING TO THE BOTTOM OF THE MAP!? (DEEPEST HOLE!) - Treasure Hunt Simulator Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=qtloQT2EsNI
+    * INSANE NEW DRAGON KING BOSS!! - Zombie Attack Roblox Gameplay
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=E2WSXq3sXDI
+    * SELLING 2 MILLION SAND + GOLDEN SHOVEL!! - Treasure Hunt Simulator Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=lhEoFS8ycO8
+    * UNLOCKING ALL NEW SHOVELS AND ITEMS!! - Treasure Hunt Simulator Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=fdeDWxh9Bo0
+    * MASSIVE ROBLOX GAME SCAMMED ME?! - Infection Inc Roblox (Tycoon)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=4Mp4Z3XzOgI
+    * BUYING METAL DETECTOR + BEDROCK SAND!! - Treasure Hunt Simulator Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=EeJlDpt66Zg
+    * THE BEST SHOVEL IN THE GAME \*DYNAMITE SHOVEL\* - Treasure Hunt Simulator (Roblox)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=75-7o39PZ-A
+    * ALL WORKING TREASURE HUNT SIMULATOR CODES! (Roblox)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=LiH8RND_8Aw
+    * INSANE INFINITE SNOWBALL GLITCH!! - Snow Ball Fighting/Shovelling Simulator (Roblox)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=qnjyNud3lgU
+    * BUYING EVERY ITEM IN THE GAME!! - Snow Ball Fighting Simulator Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=0LZLoxcQj9c
+    * BUYING MACHINE GUN SNOW CANNON!! - Snow Ball Fighting Simulator Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=AoJ5283xRVQ
+    * THIS ZOMBIE GIVES YOU 10,000 XP!! - Zombie Attack Roblox Gameplay (Level Up Tactic)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=RRfjxQiMZIk
+    * THE SECRET GLITCHED NOOB TACTIC??! - Cash Grab Simulator Roblox
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=g0AYadmV3ic
+    * WE FINALLY GET TO WAVE 100??! - Zombie Attack Roblox Gameplay (Updates)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=WJIj41JvL6w
+    * SUPER OP NEW DOMINUS PET!! (Update) - Roblox Zombie Attack
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=x2rg4s7Zq4Y
+    * LEVEL 2000 + $250,000 SPENDING!!- Zombie Attack Roblox Gameplay
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=C89NR6pC_U4
+    * 1,000 ZOMBIES VS 1 KNIFE!! (Knife Only Challenge) - Zombie Attack Roblox Gameplay
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=KcVm1d_ANdI
+    * I FINALLY HIT IT!! (Level 1,000) - Zombie Attack Roblox Gameplay
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=6gOTtHqjAk4
+    * LEVEL 1,000 IN TWO DAYS?!! | Zombie Attack Roblox Game (Demon Overlord Battle)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=bQ1Zilz8bT0
+    * LEVEL 500 AND $100,000+ SPENDING SPREE!! - Zombie Attack Roblox Game
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=EVMR6Qr2HOc
+    * OVER LEVEL 100 IN ONE DAY! | Zombie Attack Roblox Game (Predator Zombie)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=kvgByKVxoc8
     * THE DUMBEST ROBLOX WIKI QUESTIONS
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=SuECd7gjOWE
@@ -4757,17 +5477,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=zO9TU0qdcIo
     * BELIEVE I'M POKE, WIN 1000 ROBUX! (Roblox)
       * URL: https://www.youtube.com/watch?v=R1_7Zp5RN2A
-* Raconidas (Raconidas)
-  * Non-Giftcard Robux Giveaways
-    * 🔴DIRECTO ROBLOX  👉 GANADOR CONCURSO MEJOR AVATAR 1000 ROBUX 🌟 Valoro tu perfil !!
-      * Includes a gift card giveaway.
-      * URL: https://www.youtube.com/watch?v=jLbBTDhJpNg
-    * Como empezar en LOOMIAN LEGACY de ROBLOX !!
-      * Contains link to a Roblox giftcard giveaway.
-      * URL: https://www.youtube.com/watch?v=lZZE944TsxI
-    * 1000 ROBUX PARA TI !! CONCURSO de Avatares de ROBLOX!!
-      * Contains link to a Roblox giftcard giveaway.
-      * URL: https://www.youtube.com/watch?v=8XjZgpRvopQ
 * Rainway (UseCode_Rainway)
   * Information Collection
     * \*NEW UPDATE\* ADOPT A POLICE DOG! \*TREATS\* (ROBLOX MAD CITY)
@@ -4849,6 +5558,9 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Phishing
     * I "HACKED" A FAN'S ACCOUNT ON ROBLOX AND TROLLED HER FRIENDS! | Roblox Funny Moments
       * URL: https://www.youtube.com/watch?v=IWSiRNUeBlU
+  * Non-Giftcard Robux Giveaways
+    * 10,000 ROBUX GIVEAWAY CONTEST! WATCH TO FIND OUT HOW TO WIN! Robux Giveaway In Roblox
+      * URL: https://www.youtube.com/watch?v=HqTKlVCJDFs
 * Roblox Minigunner (skoonks)
   * Other
     * ROBLOX Exploiters In A Nutshell
@@ -4934,7 +5646,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Seniac (MrSeniac)
   * Other
     * HOW TO GET FREE ROBUX!
-      * Description references the "black market for limiteds" rbx.place.
+      * Description references the "black market for limiteds" and information collection website rbx.place.
       * URL: https://www.youtube.com/watch?v=EakQDIc9ZLM
   * Non-Giftcard Robux Giveaways
     * $10,000 ROBUX GIVEAWAY
@@ -5258,6 +5970,14 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * SI GANAS MI JUEGO TE GANAS 10,000 ROBUX 🤑💸💵 CONCURSO
       * URL: https://www.youtube.com/watch?v=P14NAZJ-yOE
+* Sub 
+  * Non-Giftcard Robux Giveaways
+    * YOU WON FREE ROBUX!
+      * Video is about a Robux giveaway using group funds.
+      * URL: https://www.youtube.com/watch?v=aepdLCJIe6I
+    * HOW TO GET FREE ROBUX IN ROBLOX!
+      * Video is about a Robux giveaway using group funds.
+      * URL: https://www.youtube.com/watch?v=zI-GGfr-vTE
 * Suliin18YT (Suliin18YTT)
   * Non-Giftcard Robux Giveaways
     * MI PRIMER MASCOTA Y COMPRO LA CASA DE HADAS - ADOPT ME ROBLOX
@@ -5511,7 +6231,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=HkwxrfsEm1M
   * Other
     * NEW PAINTING CODE! | Lumber Tycoon 2 ROBLOX
-      * Description references the "black market for limiteds" rbx.place.
+      * Description references the "black market for limiteds" and information collection website rbx.place.
       * URL: https://www.youtube.com/watch?v=sfviFcrM7PU
 * Tofuu (forstaken)
   * Information Collection
