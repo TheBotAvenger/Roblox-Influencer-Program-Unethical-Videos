@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 12, 2020<br>
+Generated February 13, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,12 +184,12 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 230,446 videos
 * Total videos found that match keywords: 12,963 videos
-  * Total unprocessed videos: 5,187 videos
-* Total videos found that are processed and marked: 2,031 videos 
+  * Total unprocessed videos: 3,248 videos
+* Total videos found that are processed and marked: 2,469 videos 
   * Information Collection: 1,520 videos
-  * Non-Giftcard Robux Giveaways: 449 videos
-  * Other: 36 videos
-  * Phishing: 25 videos
+  * Non-Giftcard Robux Giveaways: 842 videos
+  * Other: 80 videos
+  * Phishing: 26 videos
   * Gambling: 1 video
 
 ### No Videos Found
@@ -214,7 +214,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Brianna (TBNRwife)
 * Buur (BuurmanTenus)
 * ByDerank (ByDerank_YT)
-* Calixo - Roblox Adventures (BuBreezy)
 * Captain Tate (CaptainTate21)
 * cazum8 (cazum8)
 * Cerso (Cerso93)
@@ -283,9 +282,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lakshart Nia (Laksharth)
 * Leah Ashe (NotLeah)
 * locus (locus200k)
-* LOGinHDi (L0GinHDi)
 * Lokis (lokis9340)
-* Lonnie (GPR3)
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
 * Lyna (Lynitaa)
@@ -338,7 +335,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TapWater (UseCode_Tap)
 * Tex HS (TexWillerHS)
 * THE KAPOLAR (Kapolar1)
-* The Monkey (MonkeyVsRoblocks)
 * The Star Squad Gaming (StarSquadMolly)
 * TheAtlanticCraft (TheCrazyMaverick)
 * Thinknoodles (ImNotThinknoodles)
@@ -403,6 +399,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ESSE ITEM TE DÁ ROBUX GRÁTIS NO ROBLOX
       * Description references the data collection website earnrobux.online.
       * URL: https://www.youtube.com/watch?v=dPMqEpZWWA0
+* Calixo - Roblox Adventures (BuBreezy)
+  * Non-Giftcard Robux Giveaways
+    * Giving A Noob 50,000 Robux!! (He Went Mad!)
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=YYWu5J6ryPo
 * Cylito (Cylito)
   * Non-Giftcard Robux Giveaways
     * Bloxburg: Victorian Roleplay House 62K
@@ -1344,6 +1345,606 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=UP-Q00zCrvw
   * Non-Giftcard Robux Giveaways
+    * MAX UNLOCKED VALENTINE EVENT PET CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=7nYXOVHOZPo
+    * SECRET 20X ANCIENT ULTRA BEAST PET CODES IN NINJA LEGENDS! \*FREE AUTO SWING\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=E6_-S-i23hY
+    * SECRET FREE REBIRTH PET TOKEN CODES IN LAWN MOWING SIMULATOR! \*INSANE PETS!\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Du7rTAGeM_w
+    * SECRET GODLIKE FREE PET CODES IN VIKING SIMULATOR! \*MAX SWORD AND ISLAND\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=zrTsKM4wsQE
+    * SECRET INFINITE ZEN ISLAND PET CODES IN CHAMPION SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=mH7cIaN9EqU
+    * NOOB GETS SECRET ULTRA BEAST PRO CODES AND BREAKS NINJA LEGENDS! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=5K-y_WQR9Eg
+    * SECRET UNLIMITED MAX LEVEL ULTRA BEAST PETS IN NINJA LEGENDS!! \*Roblox\* (Giveaway)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=wC_z4mYTvGk
+    * SECRET MAX LEVEL MYTHICAL PET CODES IN VIKING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=QgvWKDCHnL8
+    * SECRET MAX ELEMENT ULTRA BEAST PET CODES BREAK NINJA LEGENDS! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=1da-iNAih9Y
+    * ALL 26 SECRET MYTHIC CUB BEE CODES IN BEE SWARM SIMULATOR! \*SUPER OP\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=VwF-yzDfvPk
+    * NEW MAX DRAGON LEGEND SWORD CODES IN NINJA LEGENDS!! \*MAX SWORDS INSTANTLY\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=m1YOlnIF_xU
+    * SECRET 500 FREE MAX LEVEL Z MASTER PETS NINJA LEGENDS!! \*Roblox\* (Giveaway)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=zYiRWgej9N8
+    * 25 SECRET ELEMENT Z-MASTER PET CODES IN NINJA LEGENDS! \*MAX PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=vZErczSQfuY
+    * NOOB UNLOCKS ALL SECRET ELEMENTS CODES IN NINJA LEGENDS!? \*INSTANTLY PRO\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=DEYqjGpufVE
+    * ALL 16 SECRET CRYSTAL PET CODES IN BOSS FIGHTING SIMULATOR!! \*INSTANT OP\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=1_ot9L3MIr4
+    * FREE MAX PREMIUM BUBBLE PASS 5 CODES IN BUBBLE GUM SIMULATOR! \*CIRCUS PASS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=0VXRuD6bVF8
+    * MAX ELEMENT MASTER ALTAR CODES IN NINJA LEGENDS!! \*INSTANT MAX RANK\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=XjujG-94zu8
+    * UNLIMITED MAX STAR EVOLUTION PET CODES IN LAWN MOWING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=YpsymQy1Oas
+    * SECRET UNLIMITED MAX LEVEL Z MASTER PETS NINJA LEGENDS!! \*Roblox\* (Giveaway)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=CDG2TgBwCNw
+    * INFINITE RAINBOW PETS, MAX RANK AND MONEY IN PET SIMULATOR 2!!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Nxzgb43vi4s
+    * NEW INFINITE Z MASTER DARKSTAR PET CODES IN NINJA LEGENDS! \*MAX RANK INSTANTLY\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=kRLKwLgpsBQ
+    * I GOT THE 30,000,000,000 TICKETS DRAGON PLUSHY IN BUBBLE GUM SIMULATOR! \*ALL SECRET PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=C8zmNKPmYQ8
+    * Noob With Full Team of Z-LEGENDS Pets! x4.68B Boost! MAX RANK INSTANTLY! - Roblox Ninja Legends
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=5bxbyByPHiY
+    * SECRET CIRCUS EVENT PET UPDATE CODES IN BUBBLE GUM SIMULATOR! \*INSANE PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=6s7rHCRJ_IM
+    * SECRET INFINITE FREE Z-MASTER PET CODES BREAK NINJA LEGENDS! Roblox \*INFINITE MONEY\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=fTF6WckLJlg
+    * INFINITE FLOWER CURRENCY 50X PET CODES IN LAWN MOWING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=4CLdShxdM4c
+    * FREE 3X SECRET ETERNAL HORIZON PACK CODES IN NINJA LEGENDS! \*MUST USE\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=5Dwh9iPU6YE
+    * SECRET YOUTUBER PET CODES IN HEROES OF SPEED SIMULATOR! Roblox \*MAX SPEED\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Iuzp9VDxeBs
+    * FREE UNLIMITED MAX LEVEL X GENESIS PETS  NINJA LEGENDS!! \*Roblox\* (Giveaway)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=4B7wjsySi_g
+    * FREE MOUNT VIP PET CODES IN LAWN MOWING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=VopEOTr8OV4
+    * SECRET INFINITE PETS GAMEPASS CODES IN CHAMPION SIMULATOR! \*FREE\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=UNNAdczOn9M
+    * 3 SECRET VOID MOON PET CODES IN SABER SIMULATOR!! Roblox \*BEST PET\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=U3yKr15x-wE
+    * I Opened The \*GIANT COIN CHEST\* And It \*BROKE\* Pet Simulator 2!! \*INFINITE COINS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Jid6dDWIGao
+    * I Found A SECRET QUEST In Ninja Legends For FREE X-GENESIS PETS!? Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=vnRPC9CuBsY
+    * SECRET UNLIMITED X GENESIS PETS DUPE NINJA LEGENDS!! \*Roblox\* (Giveaway)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ifg7MdfLL5o
+    * 10 HIDDEN \*HACKS\* IN NINJA LEGENDS YOU NEED TO KNOW!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=C2p-Bg8Luhw
+    * I Bought A $12 MILLION DOLLAR GAMEPASS In This Roblox Simulator!? \*999,999,999 ROBUX\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ei0c0DvTiqY
+    * I GOT UNLIMITED FREE X-GENESIS PETS IN NINJA LEGENDS!? \*Roblox\* (Giveaway)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=TV062MN4rrA
+    * SECRET INFINITE FREE X-GENESIS PET CODES IN NINJA LEGENDS! Roblox \*SUPER BROKEN\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=l9WASkeAqco
+    * SPAWNING FREE UNLIMITED ELEMENTAL PETS IN NINJA LEGENDS! Roblox \*GIVEAWAY!!\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=aiqtgIXtfnQ
+    * WE FOUND 10 SECRET DOUBLE MONEY CODES IN MAGNET SIMULATOR! \*SUPER OP\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=TJ__YD2On5w
+    * I Became The \*TOP RANK\* PLAYER In OP NINJA SIMULATOR!! \*SUPER OP\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=EKrMl48WS0E
+    * ALL 77 NOOB TO PRO 2020 PET CODES IN BUBBLE GUM SIMULATOR! \*SUPER BROKEN\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=aBBmo_xIpmA
+    * NEW BEST RUMBLE QUEST FROST LEGENDARY UPDATE CODES!! \*MUST USE!\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=zLtfjqRC6F4
+    * UNLIMITED ELEMENTAL PETS ALTAR GIVEAWAY IN NINJA LEGENDS! Roblox \*SUPER BROKEN\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=7Vcc0hFkp78
+    * ALL 20 SECRET 2020 PET CODES IN NINJA LEGENDS!! \*FREE MAX PETS!\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=lZH1-ysD1OE
+    * FREE 10.000 ROBUX BEST PET CODES IN CHAMPION SIMULATOR!! \*FREE HYBRID GODLY!\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ufAZnKio_qQ
+    * ALL 25 SECRET MYTHIC BEE PACK CODES IN BEE SWARM SIMULATOR! \*MUST SEE\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=iaiQZSpF2KI
+    * Secret NINJA LEGENDS PET CLONING ALTAR 100X CODES! \*FREE ELEMENTAL PETS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=uMxhcFi70WU
+    * SEASON 4 BUBBLE PASS CODES, GIFT TREE AND 3 NEW EGGS IN BUBBLE GUM SIMULATOR!! \*MASSIVE UPDATE!\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Pf3kXziUTDI
+    * ALL SECRET RUMBLE QUEST GAMEPASS COIN CODES! \*FREE DUAL WIELD\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=i64hWvC5des
+    * Getting 9 \*Best\* GOLDEN DESERT PETS And SECRET AREA In PET SIMULATOR 2! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=kjnUIa74rPc
+    * ALL CHAMPION SIMULATOR HIDDEN EVENT CANDY CODES! Roblox \*ALL LOCATIONS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=4BQ9JUuXimA
+    * SECRET OWNER SABER SIMULATOR \*FREE CANDY CANE\* CODES! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=bU0vpxior1E
+    * SECRET 10.000 ROBUX MAX PET CODES IN SNOWMAN SIMULATOR! \*UNLOCKED EVERYTHING\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=8x8wkNWRnXA
+    * SECRET Champion Simulator FREE HYBRID CHARM Codes!! \*FREE PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=sM8Nn-rQveM
+    * FREE SECRET NINJA LEGENDS ELEMENTAL PETS + CODES!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=xa6PG11vz2g
+    * TOP 10 BEST ROBLOX GAMES You FORGOT Existed  In The Last Decade!!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=MGchmRmm1OE
+    * SECRET PET RANCH SIMULATOR 2 YOUTUBER PET CODES! \*OMG\* (Roblox)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=RLopE2iaLZA
+    * SECRET CHAMPION SIMULATOR FREE HYBRID BOSS PET CODES! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=slfAXfqOIWk
+    * FREE CHRISTMAS NINJA LEGENDS AWAKENED PET CODES!?! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=pfth-tN1Xw8
+    * ALL 31 SECRET SABER SIMULATOR XMAS PET UPDATE CODES!! \*BROKEN PET!\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=zeKrukr-ZhM
+    * SECRET CHRISTMAS UNBOXING SIMULATOR UPDATE COIN CODES! \*SUPER OP\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=t8UW0cotfyU
+    * ALL PET RANCH SIMULATOR 2 SECRET FREE PREMIUM PET CODES! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=iJfrPfMgw98
+    * SECRET CHAMPION SIMULATOR ADMIN PET CODES!?! \*MUST USE!!\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=5sLS_2N8qrY
+    * ALL 17 SECRET LEGEND \*CRYSTAL\* PET CODES IN NINJA LEGENDS!? Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=aAhfzEsC0g8
+    * Making EVERY LEGENDARY Pet GOLD In PET SIMULATOR 2! \*RAREST PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=MfW3tSZoaWI
+    * FREE LEGEND STARSTRIKE PET CODES AND MAX RANK IN NINJA LEGENDS! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=6KpRRFYAnOc
+    * I GOT THE BEST SABER, AURA AND WINTER PETS IN SABER SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=nxMUQRehROY
+    * I UNLOCKED \*NEW\* MAX GOLDEN PETS EQUIPPPED In Pet Simulator 2!! \*NEW SECRET AREA\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=9Rf664ekLDw
+    * A HACKER GAVE ME THIS?! FREE INFINITE PETS CODES IN PRESENT SIMULATOR! Roblox \*NOT GOOD\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=2rqMdqGuQxE
+    * GOLDEN PETS, FREE VIP DROPS AND ALL SECRET ROOMS IN PET SIMULATOR 2 UPDATE!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=lu-iKwzd8Gg
+    * SECRET MAX RANK, FREE DUAL LEGEND PET CODES IN NINJA LEGENDS! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=v2HkZEw1Diw
+    * I Unlocked EVERY UPGRADE And MAX CASH In PET SIMULATOR 2! \*HOVERBOARD AND MORE\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=k5yKGQaf7V4
+    * PET SIMULATOR 2 RELEASE! UNLOCKING EVERYTHING + GIVEAWAYS! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=UeJv9NY8qQg
+    * FREE FOREVER VIP, SECRET CAVES AND MAX LEVEL IN PET SIMULATOR 2! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=f4GELA5StDE
+    * ALL SECRET INFINITY PET UPDATE CODES IN NINJA LEGENDS! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=9kxAogEaB0A
+    * I Got The BEST 0.03% PET, BEST SABER AND CLASS IN SABER SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=fYAi17vnvTc
+    * ALL SECRET OWNER GEM COIN CODES IN WIZARD SIMULATOR! \*MUST USE\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=zyuXbWJT5K0
+    * FREE DOMINUS ROBUX PET CODES UPDATE IN CHAMPION SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=trhIkJvruto
+    * I Became The RANK 1 PLAYER In NINJA LEGENDS And THIS Happened! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=JgoSa4Qh_qo
+    * ALL 11 SECRET LEGEND PET CHI CODES IN NINJA LEGENDS!! \*MUST USE\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=qm7cvODuXGs
+    * I Unlocked The MAX "TERMINATOR" RANK And SECRET PETS In SABER SIMULATOR!! \*FULL TEAM\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=f5uLwr2xBdg
+    * I Unlocked ANCIENT BATTLE MASTER AND FREE MAX LEGEND PET IN NINJA LEGENDS! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=0_yx4iMXpHA
+    * I Unlocked The BEST AURA, SABER AND PET IN SABER SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=JsVP2BCffSs
+    * FREE MASTER LEGEND PET PACK CODES IN NINJA LEGENDS! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=flpazxjWkAM
+    * FREE MAX LEVEL IMMORTAL PETS GIVEAWAY IN NINJA LEGENDS! Roblox \*BIGGEST GIVEAWAY\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=RDI11xrDJww
+    * 6 SECRET FREE MAX RANK GEM CODES IN CHAMPION SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=gxqgFc9Tm58
+    * 3 SECRET MAX YEN CODES IN ANIME FIGHTING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=zWlWpyeEesA
+    * SECRET 150K TURKEY PET OPENING CODES IN SABER SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ztXlRL_Duzk
+    * TOP 10 PLAYER AND FREE 100M CHI CODES IN NINJA LEGENDS! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=UOC6Hl7a3hA
+    * FREE IMMORTAL MINI LEGEND AND MAX RANK IN NINJA LEGENDS! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=7-Z6RCO1Zyk
+    * ALL SECRET FREE THUNDER PET CODES IN NINJA LEGENDS UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=DXQUOYmnDyQ
+    * SECRET OWNER TURKEY PET CODES IN SABER SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=l3WmiGs8MmQ
+    * FREE PREMIUM BUBBLE PASS CODES IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=eDieGjT6ujI
+    * ROBLOX MEMES That Are BETTER Then Free Robux!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=iuQnFLiYdwA
+    * 17 FREE REAPER PET UPDATE CODES IN REAPER SIMULATOR! \*FREE SHARDS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=TVRO8JqZPGQ
+    * FREE MAX LEVEL IMMORTAL PET CODES IN NINJA LEGENDS! \*FREE PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=wi5X92hlnWs
+    * SECRET RAREST SHINY DEATHSPEAKER CODES In SABER SIMULATOR! \*WORLDS FIRST\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=3FGgjEkB3lY
+    * ALL SECRET FREE IMMORTAL PET CODES IN NINJA LEGENDS! \*MUST USE\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=sZLWLidXZK0
+    * SECRET RAINBOW GOLDEN PET EGG CODES IN SABER SIMULATOR! \*INSANE PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=K4KV-lWqcDE
+    * 3 SECRET IMMORTAL PET UPDATE CODES IN NINJA LEGENDS! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=gjjn3J5OE6k
+    * SECRET ORACLE AURA UPDATE CODES IN SABER SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=u6Yy2Bf4Dd8
+    * 18 HIDDEN SOURCE SHARD CODES IN REAPER SIMULATOR!? \*SUPER BROKEN\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=bFEAb8EDjmQ
+    * ALL SECRET YEN POWER CODES IN ANIME FIGHTING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=aQ87RKgBK-4
+    * TEAM OF "500" MOST OP GLITCHED PETS IN NINJA LEGENDS!? \*DONT TRY THIS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=D6O3Lz47C1A
+    * I SPEND 5 BILLION CROWNS ON THIS PET IN SABER SIMULATOR.. \*RAREST PET\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=9Yj-mxtLlWY
+    * I GOT A TEAM OF "24" GLITCHED PETS IN NINJA LEGENDS!? \*SUPER BROKEN\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ZzFrLhbto0M
+    * 3 OWNER OMEGA INFERNAL PET UPDATE CODES IN MAGNET SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=eaymXHqpQA4
+    * 3 SECRET RAINBOW DOMINUS PET CODES IN SABER SIMULATOR! \*WORLDS FIRST\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=XZPMV6FwY6Q
+    * SECRET ETERNAL PETS UPDATE CODES IN NINJA LEGENDS SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=k4WR62x9NQI
+    * ALL 6 SECRET RAINBOW PET CODES IN CANDY COLLECTING SIMULATOR! \*12 MILLION MULTIPLIER\*Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=yuKk9sahjHk
+    * Roblox NOOB vs BULLY vs HERO Story In Saber Simulator! \*Sad\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=KZyJGJbznP0
+    * 11 SECRET OWNER SHARD CODES IN REAPER SIMULATOR! \*INSANE\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=NayGw4oEzj8
+    * I Spent 750M CHI On Pets In NINJA LEGENDS And THIS Is What I Got.. \*MAX POWER\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=q4KphbwFar8
+    * HIDDEN ISLAND OMEGA PET CODES IN NINJA LEGENDS SIMULATOR UPDATE! \*MUST SEE\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=J_Dwt1Emkc8
+    * ALL SECRET EVOLVED ULTRA PET CODES IN NINJA LEGENDS SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=axXCLiYJVvQ
+    * FULL RAINBOW PET TEAM UPDATE CODES IN SABER SIMULATOR!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=sEmtnUTHDGM
+    * SECRET OMEGA INFERNO PET CODES IN MAGNET SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=4duQ-1qN2sg
+    * SECRET OVERSEER PET GAMEPASS CODES IN SABER SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=kC-BKTC04Uw
+    * ALL 6 HEAVEN PET UPDATE CODES IN HALLOWEEN SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Twtyzr2sIcw
+    * HOW TO GET FREE OMEGA HALLOWEEN PETS IN MAGNET SIMULATOR! \*BIG GIVEAWAY\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=CG0xhGYRAAo
+    * THE OWNER GAVE ME SECRET BOOST CODES IN REAPER SIMULATOR! \*INSANE CASH\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=qHWg2XwTYQ4
+    * 2 SECRET LEGENDARY OWNER CODES IN SABER SIMULATOR! \*INSANE CROWNS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=pvj_pm7_CR8
+    * ALL HALLOWEEN CANDY OMEGA PET CODES IN MAGNET SIMULATOR!! \*MUST GET!\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=DU3eM35OfkU
+    * SECRET ANGEL PET CROWN CODES IN SABER SIMULATOR! \*MUST SEE\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=4XXoOi8aUfI
+    * How To Get A FREE Shadow Dragon In ADOPT ME!! \*Free Candy\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=J_tKnX5bBSs
+    * 56 SECRET HALLOWEEN BOOST CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=3-llkEN5MYE
+    * 4 SECRET SHINY DOMINUS PET CODES IN HALLOWEEN SIMULATOR!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Q0p_pxyM79U
+    * SECRET YOUTUBER CODES AND FREE LEGENDARY PET IN SABER SIMULATOR!? Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=2YlUcojabFo
+    * SECRET EYE PET UPDATE CODES IN MAGNET SIMULATOR! \*LIMITED CODES\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ZpCbSMS3A-U
+    * I OPENED 2000 HALLOWEN EGGS IN SABER SIMULATOR!! \*INSANE SHINY PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=U_UwwMLbsjE
+    * ALL HALLOWEEN SECRET PETS IN BUBBLE GUM SIMULATOR! \*MUST SEE\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=dI8thrxKg6E
+    * SECRET COSTUME CHEST UPDATE CODES IN HALLOWEEN SIMULATOR! \*SECRET CODES\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=tC9zoAmf0Ss
+    * SECRET HALLOWEEN EVENT PET CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=5RkALuFR2UI
+    * ALL HALLOWEEN PET UPDATE CODES IN SABER SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=2eSj_I5f_zI
+    * ALL SECRET HALLOWEEN BOSS CODES IN HALLOWEEN SIMULATOR! \*FREE BILLIONS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=dNu-VHFYF5E
+    * ALL 18 SECRET OWNER CODES IN SABER SIMULATOR! \*FREE CROWNS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=XpQfQvftvMA
+    * ALL 11 SECRET OMEGA PET CODES IN MAGNET SIMULATOR! \*FREE PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Y0jiMwgDGm8
+    * 7 SECRET OWNER AURA CODES IN HAMMER SIMULATOR! \*NEED TO TRY THESE!\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=AEpr6iLD8pE
+    * ME And MY GIRLFRIEND Adopt A \*FREE\* FLYING PUPPY In ROBLOX ADOPT ME!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=gJ0-uuqC0uQ
+    * 15 SECRET OWNER CROWN CODES IN SABER SIMULATOR! \*MUST GET\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=4RRSugQCUdM
+    * Roblox Restaurant Tycoon 2 BUT I Can't Actually Cook... \*GONE WRONG\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ts3wfsBda08
+    * Finding 11 SECRET SPOOKY CODES In MAGNET SIMULATOR! \*YOU NEED THESE!\* (Roblox)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=dLeMahqYO5I
+    * Roblox Saber Simulator But Instead You Swing A Hammer.. ITS ACTUALLY GOOD!?
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=_ntB9IhD1tY
+    * If I Swing A Saber In Roblox Saber Simulator, The Video Ends..
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=EmgWUGA4gTY
+    * ALL 10 SECRET CROWN AND STRENGTH CODES IN SABER SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=7XFGGQeikbY
+    * UNLOCKING \*MAX\* MAGMA REWARD ISLAND PETS IN BUBBLE GUM SIMULATOR!! \*SUPER OP\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ttATP1cx_F0
+    * ALL 28 SECRET GIFTED WINDY BEE UPDATE CODES IN BEE SWARM SIMULATOR! \*BEST BEE\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=AMMiGuH8N-Q
+    * NEW UNDERWORLD, MAX BUBBLE PASS 2 CODES AND MORE IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Ih699y-KciU
+    * PET SIMULATOR 2 RELEASE!? \*ALL YOU NEED TO KNOW!\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=H_hG5WE583o
+    * NEW SPECIAL CODES!? 14X BEST SHINY KNIGHT PETS IN MAGNET SIMULATOR! \*MUST HAVE\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=CdEqQOFwvI4
+    * SECRET REWARD CHEST UPDATE CODES IN MAGNET SIMULATOR UPDATE 18! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=2_bqU6dWS-0
+    * I Spent $14,000 ROBUX And I Got.. SCAMMED By LIFTING SIMULATOR?! \*RIP ROBUX\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=C9l_YSF8Ipg
+    * 8 SECRET OWNER MONEY CODES IN SABER SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=EvgkElDXprs
+    * ALL 14 SECRET PET CODES IN MAGNET SIMULATOR!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Gq-X8tL-Srg
+    * NEW SPACE EVENT PET CODES IN MAGNET SIMULATOR!! \*FREE PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Pbw8lFFwf7k
+    * NOOB VS PRO YOUTUBER VS HACKER IN MAGNET SIMULATOR! Roblox \*Funny\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=la58rczgqGw
+    * I FULL TEAM OF SHINY KORBLOX DEATHSPEAKER IN MAGNET SIMULATOR! \*SUPER OP\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=NiM6ihYkIp8
+    * ALL MONEY AND PET CODES IN MAGNET SIMULATOR UPDATE 17! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=idbaw6DHDI8
+    * HOW TO GET FREE SHINY NINJA PETS IN MAGNET SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=_Wqu26uESvk
+    * I GOT 2700.000.000.000.000.000 REBIRTH TOKENS IN MAGNET SIMULATOR \*MOST EVER\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=_2Akohpk9iU
+    * 14X BEST NINJA SHINY PET AND REBIRTH SECRETS IN MAGNET SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=cPwVrN-NF_0
+    * I GOT ALL SHINY NINJA PETS IN MAGNET SIMULATOR UPDATE 16!! \*BEST PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=JkxF0uzQd1Y
+    * FILLING INFINITE BACKPACK AND FREE X2 CASH IN MAGNET SIMULATOR! \*World First\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=A2ZF6BRVbH8
+    * FULL TEAM OF BEST SHINY AQUATIC PETS IN MAGNET SIMULATOR! \*BEST PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=P4Uad2ZsZIs
+    * NOOB To LIFTING GOD!! MAX POWER, MAX SIZE IN LIFTING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=OrCwFy9GTQ8
+    * I BOUGHT The NEW $1,400,000,000,000,000 MAGNET And 1 MILLION REBIRTHS In MAGNET SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ndMXmXDlaks
+    * PRANKING YOUTUBERS WITH FIRE! - Minecraft Youtuber Survival \#4
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=A1x5sQZNvY0
+    * 7 NEW Skeletons that MINECRAFT Should Add!!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=4w096E8OVCM
+    * DIAMOND MINING! - Minecraft Youtuber Survival \#3
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=HDEClXz22m8
+    * 7 NEW Zombies that MINECRAFT Should Add!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=8kLwTDzOREA
+    * NEW YOUTUBERS JOIN! - Minecraft Youtuber Survival \#2
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=wNAqxmEx6kQ
+    * Minecraft BUT Chat Decided EVERYTHING I Do... \*BAD IDEA\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=iFJSE_wZHz4
+    * SHINY TYCOONIST PETS, MAGNETS AND MORE! IN MAGNET SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=kln6PAbVWC8
+    * I GOT BEST LEGENDARY SCYTHE AND GODRAY SPELL IN WIZARD SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=QTlJEh0FWrc
+    * NOOB TO MASTER! BEST MAGNETS AND EVERYTHING UNLOCKED! MAGNET SIMULATOR! \*NO ROBUX\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=uRofZQx8Yow
+    * NEW BEST HATS AND SEALAND REBIRTH ZONE IN MAGNET SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=YN8Nm54kO1g
+    * FREE SHINY LAVA PETS AND BEST DUAL MAGNET IN MAGNET SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=jt_qQaNGmWQ
+    * Roblox CAMPING With KIRABERRY! (The Hotel) \*GONE WRONG\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=y3FPGYEbqm8
+    * PLAYING BOTTED ROBLOX SIMULATOR GONE WRONG... \*BAD IDEA\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=dy9m4DLh_-w
+    * ALL SECRET FAIRY UPDATE MONEY CODES IN UNBOXING SIMULATOR! (Roblox)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=sdOMl1zdVGo
+    * GETTING SECRET SHINY PETS IN WIZARD SIMULATOR! \*BEST PETS\* (Roblox)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Rgke3pElAUo
+    * REVIVE UPDATE CODES! Unboxing Simulator \*UPDATES ARE BACK!\* (Roblox)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Pnxhi7OI9-o
+    * How To Get FREE GAMEPASSES In WIZARD SIMULATOR! Roblox \*Giveaway\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=FZDn1Z0PejE
+    * NOOB VS PRO VS HACKER IN ROBLOX WIZARD SIMULATOR! (Funny)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Nf_7T9ymLe8
+    * ALL SPELLS, MAX LEVEL GEAR AND CODES IN WIZARD SIMULATOR! (Roblox)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=MsVOp3K7OOs
+    * I GOT BEST DRAGON PET AND CODES IN WIZARD SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=8NckbcJUiPg
+    * I Went UNDERCOVER As A GIRL And THIS HAPPEND!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Ko3xSPznbpw
+    * How To Get A FREE PREMIUM BUBBLE PASS In BUBBLE GUM SIMULATOR! (Roblox)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=m-m56JsSQNw
+    * LEVEL 0 VS MAX LEVEL DRAGON IN DRAGON ADVENTURES! Roblox \*SUPER HUGE!\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=_afZljGIe_0
+    * 👏 CODE REVIEW 👏 ALL 21 MONEY CODES In RO GHOUL! Roblox \#CODEWEEK
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=FwAHKPp_0mg
+    * 👏 CODE REVIEW 👏 ALL 9 FROST CODES In TOWER DEFENCE SIMULATOR! Roblox \#CODEWEEK
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ee1Uoy8v_gA
+    * 👏 CODE REVIEW 👏 ALL 9 HIDDEN CODES In Mad City! Roblox \#CODEWEEK
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Qd2BjyFFPoQ
+    * 👏 CODE REVIEW 👏 ALL 26 CODES IN POWER SIMULATOR! Roblox \#CODEWEEK
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=biUusTjl72k
+    * 4 STORM EVENT CODES, ALL METEOR SHARD LOCATIONS IN POWER SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=PCJx09sTijs
+    * USER MADE CATALOG ITEMS, PREMIUM AND MORE IN ROBLOX!! RDC 2019 NEWS
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=3ADL9YQSlxg
+    * Roblox Song ♪ "I Unbox Alone" Roblox Parody (Roblox Animation)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=p5motL0fp0c
+    * ALL SECRET AREA 51 CODES IN ROBLOX TOWER DEFENCE SIMULATOR!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=S3w7ifJtED0
+    * ALL SECRET METEOR Training Areas In POWER SIMULATOR! (Roblox)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=51pn57UhDw8
     * GIANT METEOR LIVE EVENT IN POWER SIMULATOR! \*NEW AREAS!\* Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=uQv3_EKss3k
@@ -1494,6 +2095,489 @@ The following channels had nothing appear with manual searching. Videos may exis
     * LEVELED A MYTHICAL PET TO LEVEL 100,000 THEN THIS HAPPENED.. IN UNBOXING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=94vh-UTFet0
+    * NINJA TEMPLE UPDATE MONEY CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=By58x5wuo_I
+    * GODLY NINJA HAT, 200SP+ DMG AND X1000 EXP IN UNBOXING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=-JSuT0TEGWw
+    * I DEFEATED THANOS AND GOT INFINITY SUIT IN SUPERHERO SIMULATOR UPDATE! Roblox \*code\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=KjWnZlBSlVM
+    * I GOT SECRET PETS AND MYTHICAL CONE HAT IN UNBOXING SIMULATOR! Roblox \*INSANE LEVELS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=WccVpULAEmo
+    * QUEST GEMS AND EGG GAMEPASS UPDATE CODES IN UNBOXING SIMULATOR! ROBLOX
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ANYwugz6m80
+    * GETTING MY SECRET LEGENDARY PET 🦄 IN ADOPT ME PETS UPDATE!! Roblox \*SO CUTE\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=PZ0BLimNNOY
+    * FULL TEAM OF THE BEST MYTHICAL PETS IN OM NOM SIMULATOR! Roblox \*RIP 6000 ROBUX\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=lNky7NdzfSY
+    * 12 MYTHICAL PET UPDATE CODES IN OM NOM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ow9IqEewN80
+    * SECRET CONSTRUCTION UPDATE COIN CODES IN UNBOXING SIMULATOR! Roblox \*21 OC COINS!\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=zxttJfqRqxU
+    * MYTHICAL NINJA PET, GIANT PRESENT AND TRADING?! IN UNBOXING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=t4rUVwyEXNs
+    * ALL 20 SECRET UPDATE BOOST CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=YVWY4HqC5C0
+    * NEW CONSTRUCTION UPDATE SOON! Roblox Unboxing Simulator
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=EyiHT5uMKXE
+    * 3 SECRET RAINFOREST BOOST CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=AiuoKrtkd2s
+    * ALL SECRET SPEED CODES IN LEGENDS OF SPEED SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=F6cFwF-uXqs
+    * RAINFOREST UPDATE CODES AND PET EGGS LEAKED IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=hThBfbyq2TQ
+    * RAINFOREST MISC CHEST AND OP GODLY HAT IN UNBOXING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Qo0Frzw5JXE
+    * 400M OVERLOAD UPDATE CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=dzIbFa0KaFs
+    * RAINFOREST UPDATE LEAK AND MYTHICAL DUCK HAT IN UNBOXING SIMULATOR! Roblox \*2.5 SP DMG!\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=CNmx-9meXAE
+    * SECRET HAT DROP POTION CODE AND BEST TOOL IN UNBOXING SIMULTOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=kDMqs_lnzAU
+    * SECRET BATHTUB CODES AND X32 BILLION DMG TOOL IN UNBOXING SIMULATOR! \*300SX+ DMG\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=YC3e8Sx-bsI
+    * BATHTUB DUNGEON, POTIONS AND LEVEL 1 MILLION HATS IN UNBOXING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=6tkDPgabDZk
+    * SECRET LEVEL 10.000+ MYTHICAL PET IN UNBOXING SIMULATOR!? Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=9BpS594j0UQ
+    * x100 ENCHANTING, F2P IS NOW OP IN UNBOXING SIMULATOR UPDATE!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=X5Pl7Hb8OqY
+    * 11 DESERT UPDATE LEVEL CODES IN TREASURE QUEST SIMULATOR!? Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=XRy0cYITazE
+    * BATHTUB DUNGEON UPDATE AND CODE LEAKED IN UNBOXING SIMULATOR!!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=bRo4badaoig
+    * NEW MINECRAFT SURVIVAL ADVENTURE! - Minecraft 1.14 NostalgiaSMP \#1
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ASpJdS-RwJs
+    * ALL CODES AND HIDDEN LAVA BLADE LOCATION IN TREASURE QUEST SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=H151aUfHipM
+    * ALL 24 OWNER CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=zxACdW7AMww
+    * NEW MYTHICAL PETS AND 3 PYRAMID PARADISE UPDATE CODES IN UNBOXING SIMULATOR!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=c5tT5PBvo1U
+    * PYRAMID PARADISE LEAKS AND 3 CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=jT5jbZS2IgM
+    * 3 CODES, MAKING ALL BOXES PRESENTS AND THIS HAPPENED.. IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=8hEN0q1bTFU
+    * BEST 4X EXP LEVELING GUIDE AND 2 CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=K2AqeYMhSY8
+    * 6 SECRET MATRIX BOOST CODES IN UNBOXING SIMULATOR!? Roblox \*150% DMG BOOST\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=CJ2LhG1Mr_g
+    * MATRIX LAND BOOST CODE AND 4X EXP IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=BhtNBpM7k38
+    * SUMMER SECRET PET EGG UPDATE CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=jGfrt6pJav8
+    * BUYING 8000 ROBUX MYTHICAL SWORD IN UNBOXING SIMULATOR!? Roblox \*100QA DMG\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=tyMPtSsHZ9g
+    * SECRET TOY BOOST CODES IN UNBOXING SIMULATOR! Roblox \*30 SX COINS!?\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=hyIsIxg9tXc
+    * TOY LAND UPDATE CODE AND TOOLS IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=IjEqGAPszuQ
+    * ALL 12 SECRET OWNER CODES IN VACUUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=o9fvDTNWzeM
+    * ROBLOX NOOB VS PRO VS OWNER - UNBOXING SIMULATOR \*FUNNY\*!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=AOIl51OBHqQ
+    * ALL POTIONS CRAFTING RECIPES AND CODES IN UNBOXIN SIMULATOR UPDATE! \*600T DMG\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=yuhKA0N8HEY
+    * CRAFTING UPDATE LEAKED, 100T DMG AND MORE IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=GtoRyEY-27Q
+    * ALL 20 YOUTUBER CODES AND CRAFTING UPDATE SOON IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=1RwJRR-JCXI
+    * I SPEND 1 BILLION GEMS AND GOT THIS... IN UNBOXING SIMULATOR Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Pf4VUT57ro4
+    * ALL 36 SECRET OWNER CODES IN UNBOXING SIMULATOR! Roblox \*INSANE BOOSTS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=W1q8TVRDjiM
+    * SECRET ICE KINGDOM CODES AND GIANT FROST EGG IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=VR6ZpkGCjZw
+    * 8 BEST MYTHICAL HATS MADE ME THE \#1 PLAYER IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=7xzV9DaWwxw
+    * 25 PRO PLAYERS VS DUNGEON IN UNBOXING SIMULATOR! \*330 TRILLION DMG\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Kc5VTL4x-oQ
+    * 3 SECRET FOODLAND CODES AND 12 TRILLION DAMAGE IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=MwUAz_dEe9g
+    * 6 OWNER CODES AND SECRET GRYPHON PET IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=0YDpROZm2oU
+    * CLEARING NEW DUNGEON + CODES IN UNBOXING SIMULATOR! Roblox \*THIS IS INSANE\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=n468HhayBvw
+    * SECRET DUNGEON UPDATE CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=1Z8W_lJIuKI
+    * SECRET PET CODE AND MAGMORAUG BOSS IN GHOST SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ma1rnqA_V5M
+    * OWNER GAVE ME INFINITE PETS IN UNBOXING SIMULATOR! \*500+ PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=3BtteIHyndc
+    * PHOENIX BOSS, 450.000 GEMS OPENING IN GHOST SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=dAPSbZrHM10
+    * LEVEL 6000+ MYTHICAL HATS AND PETS IN UNBOXING SIMULATOR! Roblox \*INSANE\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=2BEQfqLJwtY
+    * ALL 20 SUPER CODES IN UNBOXING SIMULATOR! Roblox \*SUPER OP\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=VsVTjt2fLEE
+    * ALL 7 SECRET HIDDEN MAP CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=hjEEJ_5DpAc
+    * I GOT THE BEST GODLY VACUUM AND ALL PETS IN GHOST SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=zlJCO9ldwDI
+    * OP OWNER 35,000 TRILLION COINS CODE IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=4qSTZKJ-RGY
+    * SECRET FREE MYTHICAL PET IN GHOST SIMULATOR!? Roblox \*SUPER OP\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=fsD7NrGZ8yo
+    * I GOT THE BEST MYTHICAL PETS AND HATS IN UNBOXING SIMULATOR!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=DjrHyRe-bJw
+    * SECRET OWNER PET CODE AND OP GODLY PETS IN GHOST SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=i1Jc2u3zXuw
+    * I GOT A SECRET "Roblox" EGG HUNT 2019 ROBLOX EGG!? \*INSANE\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=b8U3UBelKZI
+    * SECRET BEST WAY TO LEVEL PETS FAST IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=sZ8A77W48No
+    * SECRET 1500 TRILLION COINS CODE IN UNBOXING SIMULATOR!? Roblox \*THIS IS CRAZY\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=XgAXwYppL9o
+    * BEST WAY TO GET MYTHICAL HATS AND PETS FAST IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Tjjvon0DEMA
+    * OWNER GAVE ME SECRET YOUTUBER CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=8fTlm6nFY4A
+    * ALL UNBOXING SIMULATOR CODES AND LEVEL 1000 GODLY HAT! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=OvjP13HYkK4
+    * NEW CANDY LAND PETS AND 500M CHALLENGE IN UNBOXING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ZZGQ3i7knwI
+    * 10 SECRET UPDATE CODES AND GIANT PEARL PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=GHyxgaZwZqU
+    * NEW SEA PHOENIX, SECRET PET AND NEW ATLANTIS HATS IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ur-258CjJ4E
+    * BUYING FULL TEAM OF BEST PETS IN UNBOXING SIMULATOR! Roblox \*10K ROBUX\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=oO22DRex1xY
+    * We Played ROBLOX MINING SIMULATOR AFTER 1 YEAR! \*NOSTALGIA\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ixBvb0aTjsA
+    * TURNING NOOBS TO PRO IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=yh8eoJk3vYY
+    * I GOT SECRET SHINY EASTER BASKET PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=bgoFTtDeegc
+    * SECRET EASTER PET TREATS IN ROBLOX BUBBLE GUM SIMULATOR!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=CCmj2CbtG_k
+    * ALL EASTER EVENT EGG LOCATIONS IN ROBLOX BUBBLE GUM SIMULATOR! \*QUICK GUIDE\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=HnoLR4fYTCc
+    * SHINY EASTER BUNNY CODES IN ROBLOX BUBBLE GUM SIMULATOR UPDATE!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Lx8NXcL-lf8
+    * NEW EASTER BASKET SECRET PET IN ROBLOX BUBBLE GUM SIMULATOR UPDATE!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=l1Jiw1yyPU4
+    * HOW TO GET AVENGER EGGS + THANOS EGG IN 10 MINUTES! - Roblox Egg Hunt 2019
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=U9jkP_Nk9E8
+    * GIVING THE VIDEO STAR EGG + ALL EGG LOCATIONS IN ROBLOX EGG HUNT 2019!!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=6Bk-2LnlDLc
+    * ALL 23 BEE SWARM SIMULATOR CODES! Roblox \*MICRO CONVERTERS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=MXBK7OwUTRM
+    * ALL SECRET DRILLING SIMULATOR CODES! Roblox \*FREE PETS!\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=U4nbCuVZNUc
+    * 3 SECRET BUBBLE GUM SIMULATOR ATLANTIS PET CODES! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=F56rLn98YK0
+    * I GOT BEST ATLANTIS GUARDIAN PET IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Ux5-77M_RS0
+    * BUBBLE GUM SIMULATOR SECRET BINGO PET EGG CHALLENGE! Roblox  /w KIRABERRY
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=GTM929EqN0M
+    * FREE BEST LEGENDARY PETS GIVEAWAY IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=T2m0kHHPYs0
+    * FREE SECRET OBSCURE ENTITY PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=vat_twGjpho
+    * ALL PET RANCH SIMULATOR CODES! Roblox \*SECRET SHINY PETS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=nyWb1suDO80
+    * NOOB TROLLS PRO WITH 9 \*RAREST\* SHINY KING CRABS IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=NcaQYWHlfDM
+    * ALL BUILDING SIMULATOR SECRET CODES! Roblox \*GIANT TOOLS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=skGrahFetk4
+    * ROBLOX WORLD // ZERO!! ALL CHEST LOCATIONS + ALPHA ACCESS GIVEAWAY! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Cht8YyawUbY
+    * 10 BUBBLE GUM SIMULATOR SECRETS YOU DIDN'T KNOW!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=XIraflv-dGw
+    * MIDORIYA (DEKU) VS TOKOYAMI IN ROBLOX! - Boku No Roblox Remasted / My Hero Academia
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=lHW0zS-Ub2M
+    * ALL 48 BUBBLE GUM SIMULATOR SECRET PET CODES! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=rREXp2kYRZM
+    * ALL BOKU NO ROBLOX REMASTERED CODES! \*FREE\* SECRET QUIRKS!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=CBjQRdr3P6o
+    * OWNER GAVE ME LEGENDARY PET SPAWNERS IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=8h9kxYOYBd8
+    * SECRET SHINY KING CRAB CODES!! | Roblox Bubble Gum Simulator
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=i9CIz02H8uY
+    * SECRET ObscureEntity PET HAT IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=23GyPQX1pSY
+    * PET SIMULATOR + POKEMON = PET TRAINER SIMULATOR!? Roblox \*INSANE\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=QuE7pYEZ5kU
+    * I GOT BEST LEGENDARY KING CRAB IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=WHpYGseXBBs
+    * I GOT THE BEST GODLY PETS IN PET DIGGING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=uLE1JKm4YNA
+    * GETTING SECRET PETS + LEGENDARY PET GIVEAWAYS IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=8NxVSHaEfFQ
+    * SECRET OWNER PET CODES IN GOD SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=_mkT0zD_VyA
+    * 6 SHINY QUEEN OVERLORD CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=psC3-tgqo80
+    * SHINY 300M TROPHY PET (MAX LEVEL) IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=gKztxFXGcEw
+    * PET SIMULATOR 2 RELEASE!? NEW PETS AND MORE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=onwJsx7Xal0
+    * I GOT THE SECRET 300M PET IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=7aOcQA0xY94
+    * GETTING THE MOST REBIRTHS POSSIBLE ON COOKIE SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=OoRzQenPMxY
+    * DUNGEON QUEST!! FREE SPELLS + WEAPONS GIVEAWAY! - Roblox /w KiraBerry
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=j-apoWKl2cs
+    * ROBLOX PIZZA PARTY EVENT! FREE EXCLUSIVE CREATOR PURPLE PARTY AFRO!!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=b_Dz89TbXzw
+    * SECRET CODES MADE ME THE BIGGEST BABY ON BABY SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=WbSd2oblbII
+    * THESE SECRET CODES MADE ME OP IN RPG WORLD SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=HpBYlT1QO4A
+    * BEST WAY TO GET POT O' GOLD PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=3qKBIuZc4tU
+    * SHINY POT O' GOLD, LUCKY OVERLORD PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=sp8ojY529WY
+    * LEGENDARY LUCKY DOMINUS CODES IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Pbe-9D2x47U
+    * NOOB TROLLS PRO WITH 9 SHINY JELLY FISH PETS! BUBBLE GUM SIMULATOR! Roblox \*FUNNY\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=RWNrMBfNXXU
+    * THESE BUBBLE GUM SIMULATOR PETS GIVE 10,000 ROBUX! Roblox Battles
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=cNCR2PD2cLc
+    * 16 PLAYERS VS HARDCORE WINTER OUTPOST IN DUNGEON QUEST! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=4tci4pLmRLs
+    * HOW TO GET ALL SECRET PETS IN ROBLOX BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=PjZsNGMZbsI
+    * I GOT THE BEST SPELLS IN ROBLOX DUNGEON QUEST! \#1
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=R5bN4fX_2jk
+    * I OPENED 10.000 WATER EGGS GOT THESE PETS IN BUBBLE GUM SIMULATOR!? Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=E-CA98I1FAY
+    * RAREST JELLY FISH PET CODES IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=-HIdcAk7WV8
+    * GET FREE SEA URCHIN PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=IdkkW_7inhc
+    * BEST ROBUX DOMINUS PET IN BALLOON SIMULATOR! \*BREAKS GAME\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Cw2HIH4vCBk
+    * RAREST SHINY CLASSIC TRIO PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=dpqLLPLQx9U
+    * SECRET GODLY SPARKLER CODES IN FIREWORK SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=97uuDPPfWoQ
+    * LEGENDARY TREASURE CHEST CODES IN PET RANCH SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Bw1_Fa4dpJs
+    * LEGENDARY SEA URCHIN BEACH CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=fy5b8YNVNVg
+    * LEGENDARY LIGHT SERPENT PET CODES IN PET RANCH SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=B9ZAb_dyAFA
+    * LEGENDARY SEA URCHIN AND BEACH HYDRA IN BUBBLE GUM SIMULATOR BEACH UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=rZgGUAb8_ss
+    * BEST LEGENDARY PET IN DASHING SIMULATOR MOON UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=pz-41v22Fl4
+    * 10 SECRET OWNER BOOST CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=jT0YqgQXnnM
+    * RAREST SYLENTLY PET IN BUBBLE GUM SIMULATOR! Roblox \*2.5 MILLION STATS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=O6wGRmAdoU0
+    * DOMINUS PET CODES IN SLAYING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=s3_sCGhwsnw
+    * ALL SECRET PET CODES IN DASHING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ffA7He_JcCk
+    * FREE QUEEN BEE PET IN BUBBLE GUM SIMULATOR! Roblox \*GamePass Giveaway\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=X8L8fUwggjM
+    * 5 ENCHANT BOOST CODES IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=38uzCzRC6xM
+    * SECRET LAVA PET CODES IN SLAYING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=p-wrAkQqQIA
+    * LEGENDARY CHAOS SWORD IN NINJA WIZARD SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=GX16EHMItDs
+    * PET ENCHANT UPDATE IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=vCxniIw_eLQ
+    * GODMODE AND PRESTIGE PETS IN SLAYING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=dPolwOt4JWQ
+    * SECRET 4M PET UPDATE CODES IN SLAYING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=gCAZFidqRk8
+    * RAREST SHINY VALENTIUM PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=hfsRyf8jUmY
+    * SECRET LEGENDARY PET CODES IN SLAYING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=QvyvFgWpdOU
+    * RAREST SHINY SOUL HEART PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=eGhDBuWWmvQ
+    * ALL CODES + 100 GOLDEN CHESTS IN HOT SAUCE SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=nfzlmBr9n20
+    * VALENTINE UPDATE CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=aVyFzgaYLXk
+    * GETTING THE BEST RANDOM SHINY PETS IN BLOB SIMULATOR 2! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=evZERi3yenI
+    * 6 SECRET LEGENDARY BOOST CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=nw5-EouVhAw
+    * SECRET QUIZ GIVES FREE LEGENDARY PETS IN BUBBLE GUM SIMULATOR!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=C-nFgeoRdy0
+    * TEAM OF DIAMOND OVERLORDS BREAK BUBBLE GUM SIMULATOR!! Roblox \*INFINITE BLOCKS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=mgAzRbU1EE4
+    * FREE SHINY LEGENDARY PET BOOSTERS IN BUBBLE GUM SIMULATOR! Roblox \*Gamepass Giveaways\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ChqBl_-mcUY
+    * FREE LEGENDARY BOOST CODES IN ROBLOX BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=kiYZGxNQH3k
+    * DIAMOND OVERLORD AND FREE LEGENDARY BOOSTS IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=uCy6llGvHbc
+    * OPEN THIS EGG To Win FREE GAMEPASSES In BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Sy4yX76ki_E
+    * R.I.P HELICOPTER + CODES IN ROBLOX MAD CITY! \*GAMEPASS GIVEAWAYS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Qq-MsU0Mqfc
+    * BUYING THE $1.000.000 ROADSTER IN ROBLOX MAD CITY! \*GAMEPASS GIVEAWAYS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=rL5abc9XrG4
+    * FREE ELECTRIC HYDRA DOMINUS IN BUBBLE GUM SIMULATOR!? Roblox \*GamePass Giveaways\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=AijCwOhOH4I
+    * UNLIMITED FREE NEW ULTRA BEAST PETS IN NINJA LEGENDS!! \*Roblox\* (Giveaway)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Z93A9lAF90E
 * Denis (DenisDaily)
   * Information Collection
     * SIR MEOWS A LOT TAKES OVER ROBLOX!
@@ -1528,6 +2612,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * KICKING CRIMINALS BEFORE THEY KILL ME!!! \*TROLL\* (Roblox Jailbreak)
       * Robux giveaway uses a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=MrJgNha16DM
+    * THE 10,000 ROBUX AUTUMN DESIGNER CONTEST!!! (Roblox Bloxburg)
+      * Robux giveaway uses a Roblox group using group funds.
+      * URL: https://www.youtube.com/watch?v=LX96A2b_kZE
+    * EVERYTIME I DIE, YOU GET 1000 ROBUX!!!
+      * Robux giveaway uses a Roblox group using group funds.
+      * URL: https://www.youtube.com/watch?v=ZxVu1Q6MPAg
 * DimerDillon (TheDimer)
   * Information Collection
     * IM ALWAYS THE GOAT! \[ROBLOX SUPER BLOCKY BALL RACING!\]
@@ -2083,6 +3173,136 @@ The following channels had nothing appear with manual searching. Videos may exis
     * PEGUEI 3 MILHÕES  DE NINJUTSU NO NINJA ASSASSIN !! MINHA NOVA AURA !!! (ROBLOX)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=fQl60B3lBHQ
+  * Other
+    * LOCAL DA CHAVE COPPER CROWN REVELADO?!?! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=VyrABQtYsV4
+    * NO JAILBREAK EXISTEM QUANTAS ÁRVORES?? DESAFIO IMPOSSÍVEL!?!!  (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=nYVEV_hWCCY
+    * O MASCARADO NO JAILBREAK !! VOCÊ PODE SER O PRÓXIMO!!(ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=xKDaRGUjaKQ
+    * TODOS FORAM EXCLUÍDOS  !!! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=oqH3cnTo9bQ
+    * ENCONTREI OVO DE ALIENÍGENA NO JAILBREAK !!? ELE VAI ABRIR ? \#TEORIA (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=prkN23KB7rU
+    * CUIDADO COM AS MENINAS ASSASSINAS DO JAILBREAK !! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=joVFaP8GhSs
+    * CUIDADO JOGADORES DE JAILBREAK !!ELES ESTÃO CHEGANDO!! INVASÃO (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=lmyuWNE7FUc
+    * NOVO CÓDIGO DE DINHEIRO NO GHOST BUSTER !! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=9fLKhUWTK0M
+    * SIMULADOR DE CAÇA FANTASMA NO ROBLOX!!
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=dMW9VRlF44I
+    * NOVO BUG JAILBREAK !! CONSIGO VOAR POR BAIXO??! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=GyGDKsBhb30
+    * TÚNEL SECRETO NO JAILBREAK!!! TEM DINHEIRO???! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=QxEsk-1gqF8
+    * ELE PEGOU MEU GRUPO DO ROLOX??!
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=OYo0e9WcNO4
+    * O BISCOITO ASSASSINO CHEGOU NO JAILBREAK !!!(ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=ytPP5pBCJ0w
+    * JAILBREAK VAI CAIR NOVAMENTE ?!! PIOR ATUALIZAÇÃO ?!! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=EoXE-O4CR68
+    * VOCÊ VAI GANHAR 45 ITENS DE GRAÇA NO ROBLOX!!! (MELHOR EVENTO)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=a1fWbsZL2T8
+    * REVELANDO MOTIVO POR CRIADOR DO JAILBREAK ASIMO TER SIDO BANIDO!!!
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=qauZNGiSgeY
+    * MÁGICO NO JAILBREAK !! FAZ APARECER DINHEIRO?!! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=wAWrS6RGlLc
+    * 2 BILHÕES EM 10 MINUTOS COM ESSES DOIS ITEMS NO TREASURE HUNT SIMULATOR !!!(ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=5MdIgkc4PMY
+    * MISTÉRIO DA NOVA AREIA DO TREASURE HUNT SIMULATOR AREIA 666 !!!!! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=DhLABO9NjL4
+    * BUG QUE FUNCIONA NO TREASURE HUT SIMULATOR!! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=2ftR--MX6J8
+    * NOVA AREIA DO TREASURE HUNT SIMULATOR !!! QUE COR É ? (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=RptWWRwwBOA
+    * CRIADOR DO JAILBREAK FOI BANIDO (ASIMO) !!! FOI UM HACKER? (TWITTER)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=z38aA8vUsLk
+    * NOVO ITEM ME DEU 1 BILHÃO NO TREASURE HUNT SIMULATOR !! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=8GdNG61RUYM
+    * NOVA ATUALIZAÇÃO TREASURE HUNT SIMULATOR!! PET QUE DÁ MUITO DINHEIRO?!! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=StA5Bc4-NVY
+    * PET DE 200 MILHÕES NO TREASURE HUNT SIMULATOR !!! COMO É TELO ?!!(ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=eS0O6afNAFk
+    * CAPACETE DE 1000 MOEDAS DE OURO NO BOOGA BOOGA !! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=THbiuUAcpew
+    * JAILBREAK VAI VOLTAR ?? OU CAIRÁ NOVAMENTE !!?? (ROBLOX) \#EMPIRENOTICIA!!
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=4Sw0Kye-QpU
+    * COMO CONSEGUIR MUITA MOEDA DE OURO NO BOOGA BOOGA !!! ROBLOX
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=5tJZ_DRrkVQ
+    * NOVIDADES DA NOVA ATUALIZAÇÃO DO JAILBREAK !!! PIOR ATUALIZAÇÃO?? (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=q40A2O-vfNs
+    * MEGA ATUALIZAÇÃO !!! COMO FAZER OURO NO BOOGA BOOGA !!! ROBLOX
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=36nWxc2Q424
+    * CARA ESTRANHO DANDO DINHEIRO NO JAILBREAK!!!(ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=4y1B_pobPKQ
+    * CARA ENCONTRADO CONGELADO !!! ESTÁ VIVO?? ROBLOX (BOOGA BOOGA)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=md6dOoRYxcA
+    * FERRAMENTAS MAIS CARAS PERDIDAS NO MAPA!!! BOOGA BOOGA (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=-AMuYEOfibQ
+    * COMO PASSAR DE NÍVEL RÁPIDO NO BOOGA BOOGA ROBLOX!!! \#1
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=EUyw_gyoMNw
+    * NOVO BUG DE DINHEIRO NO JAILBREAK !! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=IFTtqpBT08M
+    * LUGAR SECRETO QUE DÁ MUITO XP NO BOOGA BOOGA !!! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=RvHZUP3hC54
+    * CUIDADO COM A PAREDE MISTERIOSA NO MINING SIMULATOR !!(ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=d6rRj0_NLAY
+    * A PEDRA AMARELA 666!!!! MINING SIMULATOR(ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=g-VkGKzwsng
+    * COMA ISSO E MORRA !!! BOOGA BOOGA !! (ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=iAblAUIEjss
+    * ISSO PODE DESTRUIR UM MAPA DO ROBLOX?? (NUKE REAL OU FAKE) MINING SIMULATOR!!
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=Kyr5nmlENhA
+    * BUG DE COMO TER MUITO DINHEIRO NO MINING SIMULATOR !!(ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=b9_wExSt9KI
+    * COMO TER ILHA PRIVADA DE GRAÇA NO TREASURE HUN SIMULATOR!!(CHEAT?)~ROBLOX~
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=OhVgAnkJ7oI
+    * COMO GANHAR MUITO DINHEIRO RÁPIDO NO MINING SIMULATOR!!(ROBLOX)
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=ameLwuP4Uvc
 * FunkySquadHD (UseCode_Funky)
   * Information Collection
     * I GOT ON THE LEADERBOARD! North Pole Simulator 🎅
@@ -3137,6 +4357,10 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Robbing The \*NEW\* Jewel Store, & Treasury in Roblox GTA 5! (Wanted: New Update)
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=tKnirMp6jJk
+  * Non-Giftcard Robux Giveaways
+    * FULL THROTTLE RACING TOURNAMENT! \[SUBSCRIBERS WIN FREE ROBUX!\]
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=Oihdfs3SsM0
 * Jamie ThatBloxer (Jamiethatgirl)
   * Information Collection
     * HOW TO GET FREE ROBUX AND BC | UPDATED 2016
@@ -4510,6 +5734,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKING A FAN's ROBLOX ACCOUNT GONE WRONG .. \*HE CAUGHT ME\*
       * URL: https://www.youtube.com/watch?v=oYpxpdjgY-E
   * Non-Giftcard Robux Giveaways
+    * DONATING $60,000 ROBUX TO ROBLOX FANS ..
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=i1cj_n9yZ7k
+    * free robux .. ( Roblox )
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=Azvi95olEqc
     * ROBLOX CHANGED THE TERMS OF SERVICE .. \*BECAUSE OF US\*
       * Uses a new account and giving away the password to give free robux.
       * URL: https://www.youtube.com/watch?v=NCgtwqrIwZc
@@ -4534,9 +5764,60 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 1 MILLION FREE ROBUX .. ( Roblox )
       * Uses a Roblox Group with group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=tAfs1t-RezQ
+    * IF YOU CAN FIND HIM, WIN FREE ROBUX!!! (Roblox Jailbreak HIDE AND SEEK)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=ByQ08LtMnZQ
+    * FREE ROBUX JAILBREAK HIDE AND SEEK .. (Roblox)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=Gpc3u2MUVes
+    * i sent a fan 25,000 robux on accident .. (Roblox)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=S-ATSQM1GME
+    * \*VOICE CHAT\* SURPRISING FAN with 35,000 FREE ROBUX! (Roblox Jailbreak)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=J8_aRqjUjRo
+    * SURPRISING A FAN WITH 35,000 FREE ROBUX!!! (Roblox Jailbreak)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=k23t9yZ7WbI
+    * kid wins 15,000 robux by cheating in jailbreak .. (roblox)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=8z18UL-IRTg
+    * IF YOU FIND HIM, WIN 50,000 FREE ROBUX! (Roblox Jailbreak)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=G0G4Qm8-4_o
+    * The BIGGEST FREE ROBUX GROUP in ROBLOX .. (Roblox Groups)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=i8vbfclLAKs
+    * 10,000 ROBUX FAN RACE in VEHICLE SIMULATOR! (Roblox Vehicle Simulator)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=3bz_DtAs9-k
+    * GIVING A FAN 100k FREE ROBUX!!! (Roblox Groups)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=pGVF2WWyDDg
+    * ACROSS THE MAP RACE for FREE ROBUX in ROBLOX JAILBREAK ..
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=2udekZjZU9M
+    * This ROBLOX GROUP is GIVING MEMBERS FREE ROBUX!!!!
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=ldVEn74ndTU
+    * IF YOU FIND HIM, WIN 10,000 FREE ROBUX! (Roblox Jailbreak)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=3h8384Gf3P8
     * \*\*ACCIDENTALLY\*\* GIVING A FAN 15,000 ROBUX .. (Roblox)
       * Uses a Roblox Group with group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=4KIN7ERG_P4
+    * SPENDING $100,000 ROBUX for 100k SUBSCRIBERS (Roblox)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=BnlN0m12GX0
+    * JOIN THIS GROUP for FREE ROBUX!!! (Roblox Groups)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=MMg99bIUMvY
+    * IF YOU SEE HIM, YOU WIN FREE ROBUX (Roblox JAILBREAK)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=C24TVONSpqc
+    * IF YOU FIND HIM, YOU WIN FREE ROBUX!! (Roblox Jailbreak)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=TCoMoruGc2A
 * Linkmon99 (Linkmon99)
   * Information Collection
     * Donating ALL MY ROBUX to Fans At VIDCON!! - Linkmon99 IRL \#18
@@ -4545,6 +5826,37 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * IF YOU FIND ME, WIN 15,000 ROBUX!! (Fan HIDE & SEEK Challenge) - Linkmon99 ROBLOX
       * URL: https://www.youtube.com/watch?v=aQVzK3xhRAs
+* LOGinHDi (L0GinHDi)
+  * Non-Giftcard Robux Giveaways
+    * If I Get Scared.. I Giveaway Robux!
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=mOPmy0Mgw-A
+    * If I Rage Quit.. I Giveaway Robux!
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=A-gXdyn1j7w
+    * IF I LAUGH.. I GIVEAWAY ROBUX!
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=Pg59O3UjmAo
+    * 50,000 ROBUX GIVEAWAY!
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=ivZA173jzqM
+* Lonnie (GPR3)
+  * Non-Giftcard Robux Giveaways
+    * GIVING AWAY FREE ROBUX TO FANS!! (Roblox) \*CLICK TO ENTER!!\*
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=NEu-7Z0vfTE
+    * FREE ROBUX GIVEAWAY! \*CLICK TO ENTER\* (REAL)
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=0VwLM8MEcN4
+    * Giving a Fan 10,000 ROBUX! \*YOU CAN GET SOME TOO!\*
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=SPRA4wgIGmo
+    * FREE PRESENTS GIVEAWAY WINNER!!!
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=NWEzobZkrKk
+    * FREE ROBUX GIVEAWAY WINNERS!!!!
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=JVemQZY5iro
 * MuneebParwazMP (MuneebParwazMP)
   * Phishing
     * (GONE WRONG) HACKING A FAN AND GIVING THEM FREE ROBUX!!! | Roblox
@@ -6038,6 +7350,10 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*FREE ROBUX\* ARREST ME FOR FREE ROBUX! (Roblox Jailbreak)
       * Gives away Robux for being arrested in Jailbreak.
       * URL: https://www.youtube.com/watch?v=gekomtzuIoE
+* The Monkey (MonkeyVsRoblocks)
+  * Phishing
+    * HACKING A GIRL IN ROBLOX!! (SPENDING ALL THEIR ROBUX)
+      * URL: https://www.youtube.com/watch?v=viNT9Ow-hFk
 * TheLaughingUnicorn (kristiexo)
   * Information Collection
     * PINK HOLLYWOOD MANSION! || BLOXBURG HOUSE TOUR
@@ -6233,6 +7549,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW PAINTING CODE! | Lumber Tycoon 2 ROBLOX
       * Description references the "black market for limiteds" and information collection website rbx.place.
       * URL: https://www.youtube.com/watch?v=sfviFcrM7PU
+    * 10,000 ROBUX GIVEAWAY (OPEN)
+      * Uses a Robux giveaway to skew the ratings of a game on an external platform.
+      * URL: https://www.youtube.com/watch?v=Y9Zr70rgyKk
 * Tofuu (forstaken)
   * Information Collection
     * WE CRAFTED THE RAREST MYTHIC! (Roblox Assassin)
