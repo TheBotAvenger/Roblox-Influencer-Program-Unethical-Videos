@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 16, 2020<br>
+Generated February 18, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 230,446 videos
-* Total videos found that match keywords: 12,963 videos
-  * Total unprocessed videos: 3,248 videos
-* Total videos found that are processed and marked: 2,469 videos 
-  * Information Collection: 1,520 videos
+* Total videos: 232,140 videos
+* Total videos found that match keywords: 13,101 videos
+  * Total unprocessed videos: 3,385 videos
+* Total videos found that are processed and marked: 2,470 videos 
+  * Information Collection: 1,521 videos
   * Non-Giftcard Robux Giveaways: 842 videos
   * Other: 80 videos
   * Phishing: 26 videos
@@ -241,10 +241,12 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Febatista 
 * FGTeeV (FGteev and DrizzMcNizz)
 * Fraser2TheMax (Fraser2TheMax)
+* frenchrxses (french_rxses)
 * FUDZ (fudsim)
 * Furious Jumper (furi0us_jumper)
 * GabriellaGames 
 * Gallant Gaming (GallantGaming)
+* GianBlox (GianBloxBRz)
 * Godenot (godenot)
 * GoldenGlare (GOLD3NGLARE)
 * GoldenOwl (GoldenOwl_Youtub3)
@@ -280,6 +282,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * KIRON (SoyKiron)
 * KraoESP (KraoESP)
 * Lakshart Nia (Laksharth)
+* Lawlieet 20 (XLAWLIEETX)
 * Leah Ashe (NotLeah)
 * locus (locus200k)
 * Lokis (lokis9340)
@@ -329,6 +332,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShanePlays (SGC_Shane)
 * Shaylo (YTshaylo)
 * skyleree (skyleree)
+* Snug Life (YT_SnugLife)
 * Spagz Blox (Spagzox)
 * SrPrismatico (SrPrismatico)
 * TanqR (TanqR)
@@ -342,7 +346,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ThunberGames (ThunberGames)
 * TinenQa (TinenQa1)
 * TitanHammer Roblox (TitanHammerYT)
-* Troyanonano Returns (TroyanoNanoReturns)
+* TroyanoNanoReturns (TroyanoNanoReturns)
 * TwiistedPandora (TwistedPandora)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * XdarzethX - Roblox & More! (xdarzethx)
@@ -5606,6 +5610,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKER BOB ESPONJA ELE AINDA EXISTE ?? :O ‹ Roblox Mistérios ›
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=er8bmm9FcD0
+* Jie GamingStudio (jieeroblox)
+  * Information Collection
+    * Jie 100k ROBLOX Art Contest(CLOSED)
+      * Description references the data collection website easyrobux.today.
+      * URL: https://www.youtube.com/watch?v=b1c0hl_WBiM
 * Karola20 (karola20YT)
   * Information Collection
     * MEEPCITY BAILE DÍA DEL AMOR CON MIS ALUMNOS💖PROPUESTA DEL PROFESOR😱💖- ROBLOX
