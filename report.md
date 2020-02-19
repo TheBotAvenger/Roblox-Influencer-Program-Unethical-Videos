@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 18, 2020<br>
+Generated February 19, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,13 +184,12 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 232,140 videos
 * Total videos found that match keywords: 13,101 videos
-  * Total unprocessed videos: 3,385 videos
+  * Total unprocessed videos: 3,021 videos
 * Total videos found that are processed and marked: 2,470 videos 
   * Information Collection: 1,521 videos
   * Non-Giftcard Robux Giveaways: 842 videos
-  * Other: 80 videos
+  * Other: 81 videos
   * Phishing: 26 videos
-  * Gambling: 1 video
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -6782,7 +6781,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=nO7J7m7NpBY
 * Poke (Pokediger1)
-  * Gambling
+  * Other
     * SPIN THE ROBLOX DEATH WHEEL (HE LOST 25,000 ROBUX)
       * Video is about a wheel that has a chance to win or spend Robux.
       * URL: https://www.youtube.com/watch?v=3vQT9KP6EeE
