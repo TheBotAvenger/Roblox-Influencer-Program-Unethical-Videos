@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 19, 2020<br>
+Generated February 20, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 232,140 videos
 * Total videos found that match keywords: 13,101 videos
-  * Total unprocessed videos: 3,021 videos
-* Total videos found that are processed and marked: 2,470 videos 
+  * Total unprocessed videos: 2,998 videos
+* Total videos found that are processed and marked: 2,473 videos 
   * Information Collection: 1,521 videos
-  * Non-Giftcard Robux Giveaways: 842 videos
+  * Non-Giftcard Robux Giveaways: 845 videos
   * Other: 81 videos
   * Phishing: 26 videos
 
@@ -5772,6 +5772,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 1 MILLION FREE ROBUX .. ( Roblox )
       * Uses a Roblox Group with group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=tAfs1t-RezQ
+    * FREE ROBUX 2018 .. ( Roblox )
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=3nCxELjvkz0
+    * FREE ROBUX .. ( Roblox Christmas )
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=Am-MwWDVZuU
+    * FREE ROBUX .. (Roblox)
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=xTE5qNkDqf4
     * IF YOU CAN FIND HIM, WIN FREE ROBUX!!! (Roblox Jailbreak HIDE AND SEEK)
       * Uses a Roblox Group with group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ByQ08LtMnZQ
