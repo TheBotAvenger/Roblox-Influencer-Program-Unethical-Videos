@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 23, 2020<br>
+Generated February 24, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -193,7 +193,7 @@ to the report if this happens.
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
-* 3SB Games (Cakemiix and shadodoo)
+* 3SB Games (Cakemiix and ododahs)
 * Alex (CraftedRL)
 * Aline Games (AliineGamesYT)
 * AlvinBlox (Alvin_Blox)
@@ -335,7 +335,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Spagz Blox (Spagzox)
 * SrPrismatico (SrPrismatico)
 * TanqR (TanqR)
-* TapWater (UseCode_Tap)
+* TapWater (0UseCode_Tap)
 * Tex HS (TexWillerHS)
 * THE KAPOLAR (Kapolar1)
 * The Star Squad Gaming (StarSquadMolly)
@@ -353,7 +353,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Z00LD 
 * ZaiLetsPlay (YT_ZaiLetsPlay)
 * Zerophyx (Zerophyx)
-* ZNac (Z_Nac and jessetc)
+* ZNac (Z_Nac and JohnGodSlayer1)
 * ZULY (ItsZulyYT)
 
 ### Videos Found
@@ -3306,7 +3306,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMO GANHAR MUITO DINHEIRO RÁPIDO NO MINING SIMULATOR!!(ROBLOX)
       * Description references a Roblox Cheat Engine bypass using mega.nz.
       * URL: https://www.youtube.com/watch?v=ameLwuP4Uvc
-* FunkySquadHD (UseCode_Funky)
+* FunkySquadHD (0UseCode_Funky)
   * Information Collection
     * I GOT ON THE LEADERBOARD! North Pole Simulator 🎅
       * Description references the data collection website irobux.com.
@@ -5627,7 +5627,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * DRAWING & GFX CONTEST (WINNERS!!!)
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=X_i7rcVVtMg
-* Keisyo (Keisyo)
+* Kerstin (Keisyo)
   * Non-Giftcard Robux Giveaways
     * GETTING REVENGE ON BULLY AS PRINCIPAL / Roblox High School / Roblox Principal / Roblox Funny Moments
       * Link references a Robux giveaway through group funds
