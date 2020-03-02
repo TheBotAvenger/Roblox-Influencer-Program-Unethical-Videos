@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 1, 2020<br>
+Generated March 2, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -193,7 +193,7 @@ to the report if this happens.
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
-* 3SB Games (Cakemiix and ododahs)
+* 3SB Games (Cakemiix and NooblyNoobington)
 * Alex (CraftedRL)
 * Aline Games (AliineGamesYT)
 * AlvinBlox (Alvin_Blox)
@@ -248,7 +248,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GianBlox (GianBloxBRz)
 * Godenot (godenot)
 * GoldenGlare (GOLD3NGLARE)
-* GoldenOwl (GoldenOwl_Youtub3)
+* GoldenOwl (GoldenOwlYT)
 * Gravycatman (GrumpyGravy)
 * Hagazo (Hagazo9)
 * hannnahlovescows (hannnahlovescows)
@@ -357,7 +357,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ZULY (ItsZulyYT)
 
 ### Videos Found
-* Ant (AntRavioli)
+* Ant (Cringley)
   * Other
     * So I MADE A ROBLOX GAME.. It's called DETECTIVE (Roblox)
       * Description mentions giving Robux for liking the game, which is not possible since there is no way to check if someone liked the game. It is a scam, and also an attempt at social engineering.
