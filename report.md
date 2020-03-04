@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 3, 2020<br>
+Generated March 4, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,12 +182,12 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 233,115 videos
-* Total videos found that match keywords: 13,101 videos
-  * Total unprocessed videos: 2,998 videos
+* Total videos: 234,228 videos
+* Total videos found that match keywords: 13,272 videos
+  * Total unprocessed videos: 2,790 videos
 * Total videos found that are processed and marked: 2,473 videos 
-  * Information Collection: 1,521 videos
-  * Non-Giftcard Robux Giveaways: 845 videos
+  * Information Collection: 1,520 videos
+  * Non-Giftcard Robux Giveaways: 846 videos
   * Other: 81 videos
   * Phishing: 26 videos
 
@@ -254,6 +254,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * hannnahlovescows (hannnahlovescows)
 * HappyHopper (MooseCraftRoblox)
 * HelloItsVG (HelloItsVinh)
+* Honey The Unicorn - Roblox (HoneyTheUnicornYT)
 * HulkBR (hulkbr_oficial)
 * Hyper - Roblox (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
@@ -280,6 +281,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Kindly Keyin (KindlyKeyin)
 * KIRON (SoyKiron)
 * KraoESP (KraoESP)
+* Krystin Plays (KrystinPlays)
 * Lakshart Nia (Laksharth)
 * Lawlieet 20 (XLAWLIEETX)
 * Leah Ashe (NotLeah)
@@ -5878,6 +5880,10 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Phishing
     * (GONE WRONG) HACKING A FAN AND GIVING THEM FREE ROBUX!!! | Roblox
       * URL: https://www.youtube.com/watch?v=NJzfMDUMmMw
+  * Non-Giftcard Robux Giveaways
+    * (Giveaway Ended)
+      * Video shows giving away Robux using group funds for specific amounts based on paid access rates for games.
+      * URL: https://www.youtube.com/watch?v=0BK6m8uRrNU
 * NikTac 
   * Non-Giftcard Robux Giveaways
     * \*SECRET\* HALLOWEEN BEES & EVIL BEAR COMING IN Roblox Bee Swarm Simulator!? (Update Theory)
@@ -7498,9 +7504,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Build a boat \*NEW\* TELEPORT GLITCH!
       * Description references the data collection website earnrobux.co.
       * URL: https://www.youtube.com/watch?v=yGW_Y0RvVMg
-    * \*BEST\* way to GRIND Blue Present \*BOSS\*! | Build a boat For Treasure ROBLOX
-      * Description references the data collection website claimrbx.com.
-      * URL: https://www.youtube.com/watch?v=olixPsTG_tg
     * HOW TO GET THE \*NEW\* GREEN GIFT! | Build a Boat for Treasure ROBLOX
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=r26GshuLRYM
