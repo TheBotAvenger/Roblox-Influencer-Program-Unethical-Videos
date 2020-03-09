@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 8, 2020<br>
+Generated March 9, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -193,7 +193,7 @@ to the report if this happens.
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
-* 3SB Games (Cakemiix and NooblyNoobington)
+* 3SB Games (Cakemiix and shadodoo)
 * Alex (CraftedRL)
 * Aline Games (AliineGamesYT)
 * AlvinBlox (Alvin_Blox)
@@ -355,7 +355,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Z00LD 
 * ZaiLetsPlay (YT_ZaiLetsPlay)
 * Zerophyx (Zerophyx)
-* ZNac (Z_Nac and JohnGodSlayer1)
+* ZNac (Z_Nac and jessetc)
 * ZULY (ItsZulyYT)
 
 ### Videos Found
@@ -5629,7 +5629,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * DRAWING & GFX CONTEST (WINNERS!!!)
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=X_i7rcVVtMg
-* Kerstin (Keisyo)
+* Keisyo (Keisyo)
   * Non-Giftcard Robux Giveaways
     * GETTING REVENGE ON BULLY AS PRINCIPAL / Roblox High School / Roblox Principal / Roblox Funny Moments
       * Link references a Robux giveaway through group funds
