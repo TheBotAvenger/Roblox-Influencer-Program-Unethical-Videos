@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 9, 2020<br>
+Generated March 10, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 234,825 videos
-* Total videos found that match keywords: 13,323 videos
-  * Total unprocessed videos: 2,786 videos
-* Total videos found that are processed and marked: 2,473 videos 
-  * Information Collection: 1,520 videos
+* Total videos: 235,631 videos
+* Total videos found that match keywords: 13,385 videos
+  * Total unprocessed videos: 2,842 videos
+* Total videos found that are processed and marked: 2,479 videos 
+  * Information Collection: 1,526 videos
   * Non-Giftcard Robux Giveaways: 846 videos
   * Other: 81 videos
   * Phishing: 26 videos
@@ -416,6 +416,24 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * 💰 23 SECRET SHIPWRECK GEMS UPDATE CODES IN FISHING SIMULATOR! \*FREE GEMS\* Roblox
+      * Description references a Roblox Cheat Engine bypass using p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vRA00Lip8o8
+    * 😱 NEW SECRET CHAOS LEGENDS PET CODES IN NINJA LEGENDS UPDATE! \*BEST SWORDS AND RANK!\* Roblox
+      * Description references a Roblox Cheat Engine bypass using p4f.gg.
+      * URL: https://www.youtube.com/watch?v=PMxt7D4fFno
+    * 😲 ALL LEGENDARY PORTAL PET CODES IN BUBBLE GUM SIMULATOR UPDATE! \*OP INSTANTLY\* Roblox
+      * Description references a Roblox Cheat Engine bypass using p4f.gg.
+      * URL: https://www.youtube.com/watch?v=AaRgEMtBodc
+    * 💰 6 SECRET HYBRID LAVA PET CODES IN SPEED CHAMPIONS! \*BEST PETS\* Roblox
+      * Description references a Roblox Cheat Engine bypass using p4f.gg.
+      * URL: https://www.youtube.com/watch?v=x3k_ErTp91Q
+    * 😲 TRADING FREE SECRET INDEX PETS IN BUBBLE GUM SIMULATOR! \*Giveaway\* Roblox
+      * Description references a Roblox Cheat Engine bypass using p4f.gg.
+      * URL: https://www.youtube.com/watch?v=lvwoQ0bZXFg
+    * UNLIMITED FREE CHAOS TITAN PETS IN NINJA LEGENDS!! \*Roblox\* (Giveaway)
+      * Description references a Roblox Cheat Engine bypass using p4f.gg.
+      * URL: https://www.youtube.com/watch?v=j_N7QNxMhLo
     * 2 FREE MYTHICAL SCYTHES AND SECRETS IN ROBLOX MINING SIMULATOR!
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=5aQW3cJdNT8
