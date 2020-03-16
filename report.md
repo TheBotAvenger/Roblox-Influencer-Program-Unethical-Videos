@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 15, 2020<br>
+Generated March 16, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -337,7 +337,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Spagz Blox (Spagzox)
 * SrPrismatico (SrPrismatico)
 * TanqR (TanqR)
-* TapWater (0UseCode_Tap)
+* TapWater (UseCode_Tap)
 * Tex HS (TexWillerHS)
 * THE KAPOLAR (Kapolar1)
 * The Star Squad Gaming (StarSquadMolly)
@@ -3755,19 +3755,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * CUIDADO CON ESTE ZOMBIE QUE TE MATA EN ROBLOX 😭 \[Roleplay\]
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=l3qwVIOIwgc
-* iifnatik (iifnatik)
-  * Phishing
-    * HACKING MY VIEWER AND SPENDING ALL OF HIS ROBUX!!!
-      * URL: https://www.youtube.com/watch?v=j3ao8hO0ANI
-    * HACKING INTO MY FANS' ACCOUNTS?!
-      * URL: https://www.youtube.com/watch?v=QQWTL6qob4M
-  * Non-Giftcard Robux Giveaways
-    * GIVING AWAY 15,000+ ROBUX FOR... (Roblox)
-      * Video announces a Robux giveaway.
-      * URL: https://www.youtube.com/watch?v=df0NiP-SRUQ
-    * EASIEST WAY TO EARN ROBUX FROM ME!!! \*FREE ROBUX GIVEAWAYS\*
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=WZ7dbUBOePA
 * InquisitorMaster (inquisitormaster)
   * Phishing
     * I HACKED A FAN AND CAN'T BELIEVE WHAT I SAW! | Roblox Social Experiment
@@ -5894,6 +5881,19 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FREE ROBUX GIVEAWAY WINNERS!!!!
       * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=JVemQZY5iro
+* MIKEYDOOD (IMMIKEYDOOD)
+  * Phishing
+    * HACKING MY VIEWER AND SPENDING ALL OF HIS ROBUX!!!
+      * URL: https://www.youtube.com/watch?v=j3ao8hO0ANI
+    * HACKING INTO MY FANS' ACCOUNTS?!
+      * URL: https://www.youtube.com/watch?v=QQWTL6qob4M
+  * Non-Giftcard Robux Giveaways
+    * GIVING AWAY 15,000+ ROBUX FOR... (Roblox)
+      * Video announces a Robux giveaway.
+      * URL: https://www.youtube.com/watch?v=df0NiP-SRUQ
+    * EASIEST WAY TO EARN ROBUX FROM ME!!! \*FREE ROBUX GIVEAWAYS\*
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=WZ7dbUBOePA
 * MuneebParwazMP (MuneebParwazMP)
   * Phishing
     * (GONE WRONG) HACKING A FAN AND GIVING THEM FREE ROBUX!!! | Roblox
@@ -6854,7 +6854,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO BECOME A PIRATE ON ROBLOX!
       * Video includes  "f\*\*\*" (59x),"s\*\*\*" (12x), and "b\*\*\*\*" (4x), "a\*\*" (2x), "r\*\*\*" (4x), and "c\*\*\*" (1x).
       * URL: https://www.youtube.com/watch?v=CNqOrpkX1xU
-* RazorFishGaming (RazorFishGamingYT and RazorFishPengiYT)
+* RazorFishGaming (UseCodeRAZORFISH and RazorFishPengiYT)
   * Information Collection
     * ALL 2 NEW SUPERHERO SIMULATOR CODES - New Game Release/ Roblox
       * Description references the data collection website gainblox.com.
