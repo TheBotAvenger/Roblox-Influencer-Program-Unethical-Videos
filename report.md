@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 16, 2020<br>
+Generated March 17, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 235,631 videos
-* Total videos found that match keywords: 13,385 videos
-  * Total unprocessed videos: 2,786 videos
-* Total videos found that are processed and marked: 2,479 videos 
-  * Information Collection: 1,526 videos
+* Total videos: 236,608 videos
+* Total videos found that match keywords: 13,457 videos
+  * Total unprocessed videos: 2,850 videos
+* Total videos found that are processed and marked: 2,487 videos 
+  * Information Collection: 1,534 videos
   * Non-Giftcard Robux Giveaways: 846 videos
   * Other: 81 videos
   * Phishing: 26 videos
@@ -416,6 +416,27 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * 💰 INFINITE FREE ZX LEGENDS PETS IN NINJA LEGENDS! \*FREE MOST OP PETS\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=BgxRPv62lRk
+    * FREE 0.001% ZX LEGEND PET PACK CODES IN NINJA LEGENDS! \*SUPER OP\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=yqiVEeFPEi0
+    * 😱 NEW FREE GALACTIC SHOCK PET CODES IN BUBBLE GUM SIMULATOR UPDATE! \*SUPER OP PETS\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=905KTXjZVy8
+    * ✨FREE HYBRID MOON PET UPDATE CODES IN SPEED CHAMPIONS! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=UCzkG6F1Vdc
+    * 🍀 TRADING A LUCKY VIEWER A MAX ENCHANT LUCKY TOPHAT IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=2ARjjibuE9o
+    * 😲 I TRADED FREE CHAOS TITAN PACKS PETS IN NINJA LEGENDS! \*Giveaway\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=maLi-UoRg0A
+    * ALL 10 MAXIMUM GEM PET CODES IN BLADE THROWING SIMULATOR! \*2T GEMS FREE!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=EUQWqO7F_vQ
     * 💰 23 SECRET SHIPWRECK GEMS UPDATE CODES IN FISHING SIMULATOR! \*FREE GEMS\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=vRA00Lip8o8
@@ -1367,6 +1388,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO MAKE 500.000$ EVERY HOUR IN POKEMON BRICK BRONZE!!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=UP-Q00zCrvw
+    * 👉 FREE MAXED REWARD EVENT PETS IN BUBBLE GUM SIMULATOR! \*SUPER OP\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=8Ae1_HILUaY
   * Non-Giftcard Robux Giveaways
     * MAX UNLOCKED VALENTINE EVENT PET CODES IN BUBBLE GUM SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
