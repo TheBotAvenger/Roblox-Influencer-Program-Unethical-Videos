@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 17, 2020<br>
+Generated March 18, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,12 +184,12 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 236,608 videos
 * Total videos found that match keywords: 13,457 videos
-  * Total unprocessed videos: 2,850 videos
-* Total videos found that are processed and marked: 2,487 videos 
-  * Information Collection: 1,534 videos
-  * Non-Giftcard Robux Giveaways: 846 videos
+  * Total unprocessed videos: 2,814 videos
+* Total videos found that are processed and marked: 2,482 videos 
+  * Information Collection: 1,531 videos
+  * Non-Giftcard Robux Giveaways: 845 videos
   * Other: 81 videos
-  * Phishing: 26 videos
+  * Phishing: 25 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -301,6 +301,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MicroGuardian (MicroGuardian)
 * Milo Mine (BebeMiloAmiwito)
 * MrLokazo86 (Lokazo86)
+* MuneebParwazMP (MuneebParwazMP)
 * MyUsernamesThis (UseStarCode_BACON)
 * NapkinNate (NapkinNate)
 * Natasha Panda (NatashaPandaaYT)
@@ -5918,14 +5919,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * EASIEST WAY TO EARN ROBUX FROM ME!!! \*FREE ROBUX GIVEAWAYS\*
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=WZ7dbUBOePA
-* MuneebParwazMP (MuneebParwazMP)
-  * Phishing
-    * (GONE WRONG) HACKING A FAN AND GIVING THEM FREE ROBUX!!! | Roblox
-      * URL: https://www.youtube.com/watch?v=NJzfMDUMmMw
-  * Non-Giftcard Robux Giveaways
-    * (Giveaway Ended)
-      * Video shows giving away Robux using group funds for specific amounts based on paid access rates for games.
-      * URL: https://www.youtube.com/watch?v=0BK6m8uRrNU
 * NikTac 
   * Non-Giftcard Robux Giveaways
     * \*SECRET\* HALLOWEEN BEES & EVIL BEAR COMING IN Roblox Bee Swarm Simulator!? (Update Theory)
@@ -6892,12 +6885,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW FAME SIMULATOR CODES Roblox (Update 1)
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=CRjUtFMHGE4
-    * \[NEW CODE\] FREE 20 REBIRTH TOKENS CODE! (June 2018)
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=Q8Ct5KVpEjU
-    * ALL 3 NEW CODES FOR MINING SIMULATOR - MYTHICAL CRATE/ EGG UPDATE ROBLOX
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=y8O2OeUthec
     * Roblox Jailbreak - NEW DINOSAUR MUSEUM ROBBERY! NEW UPDATE OUT! | New Car,  Museum & More!
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=BUFZAMYACdQ
@@ -6907,12 +6894,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*NEW\* How To Rob The MUSEUM! \[FULL WALK-THROUGH\]  Roblox Jailbreak Museum Update
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=wORbD2ARvEU
-    * FREE ROBUX GIVEAWAY IN ROBLOX | Live 🔴
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=44a18G6qCYk
-    * HOW TO GET FREE ROBUX IN ROBLOX! - Working 2018 (Easy 100% Legit)
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=LrCnayF66Ns
     * HOW TO GET TONS OF ROBUX FOR CHEAP
       * Description references the data collection website bloxmarket.com.
       * URL: https://www.youtube.com/watch?v=-TCZhPO6Z0w
@@ -7546,6 +7527,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Build a boat \*NEW\* TELEPORT GLITCH!
       * Description references the data collection website earnrobux.co.
       * URL: https://www.youtube.com/watch?v=yGW_Y0RvVMg
+    * \*BEST\* way to GRIND Blue Present \*BOSS\*! | Build a boat For Treasure ROBLOX
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=olixPsTG_tg
     * HOW TO GET THE \*NEW\* GREEN GIFT! | Build a Boat for Treasure ROBLOX
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=r26GshuLRYM
