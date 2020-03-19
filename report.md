@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 18, 2020<br>
+Generated March 19, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,12 +184,12 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 236,608 videos
 * Total videos found that match keywords: 13,457 videos
-  * Total unprocessed videos: 2,814 videos
-* Total videos found that are processed and marked: 2,482 videos 
+  * Total unprocessed videos: 2,786 videos
+* Total videos found that are processed and marked: 2,484 videos 
   * Information Collection: 1,531 videos
-  * Non-Giftcard Robux Giveaways: 845 videos
+  * Non-Giftcard Robux Giveaways: 846 videos
   * Other: 81 videos
-  * Phishing: 25 videos
+  * Phishing: 26 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -301,7 +301,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MicroGuardian (MicroGuardian)
 * Milo Mine (BebeMiloAmiwito)
 * MrLokazo86 (Lokazo86)
-* MuneebParwazMP (MuneebParwazMP)
 * MyUsernamesThis (UseStarCode_BACON)
 * NapkinNate (NapkinNate)
 * Natasha Panda (NatashaPandaaYT)
@@ -5919,6 +5918,14 @@ The following channels had nothing appear with manual searching. Videos may exis
     * EASIEST WAY TO EARN ROBUX FROM ME!!! \*FREE ROBUX GIVEAWAYS\*
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=WZ7dbUBOePA
+* MuneebParwazMP (MuneebParwazMP)
+  * Phishing
+    * (GONE WRONG) HACKING A FAN AND GIVING THEM FREE ROBUX!!! | Roblox
+      * URL: https://www.youtube.com/watch?v=NJzfMDUMmMw
+  * Non-Giftcard Robux Giveaways
+    * (Giveaway Ended)
+      * Video shows giving away Robux using group funds for specific amounts based on paid access rates for games.
+      * URL: https://www.youtube.com/watch?v=0BK6m8uRrNU
 * NikTac 
   * Non-Giftcard Robux Giveaways
     * \*SECRET\* HALLOWEEN BEES & EVIL BEAR COMING IN Roblox Bee Swarm Simulator!? (Update Theory)
