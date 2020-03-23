@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 22, 2020<br>
+Generated March 23, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -208,7 +208,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bandites (Bandites)
 * Bebe Adri (BebeAdriYT)
 * BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
-* Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
+* Blox4Fun (SgGamersDad and GustTv)
 * bobjenz 
 * Brianna (TBNRwife)
 * Buur (BuurmanTenus)
@@ -355,7 +355,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Z00LD 
 * ZaiLetsPlay (YT_ZaiLetsPlay)
 * Zerophyx (Zerophyx)
-* ZNac (Z_Nac and jessetc)
+* ZNac (Z_Nac and B1lly15G0d)
 * ZULY (ItsZulyYT)
 
 ### Videos Found
