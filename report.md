@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 23, 2020<br>
+Generated March 24, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 236,608 videos
-* Total videos found that match keywords: 13,457 videos
-  * Total unprocessed videos: 2,786 videos
-* Total videos found that are processed and marked: 2,484 videos 
-  * Information Collection: 1,531 videos
+* Total videos: 237,659 videos
+* Total videos found that match keywords: 13,521 videos
+  * Total unprocessed videos: 2,843 videos
+* Total videos found that are processed and marked: 2,491 videos 
+  * Information Collection: 1,538 videos
   * Non-Giftcard Robux Giveaways: 846 videos
   * Other: 81 videos
   * Phishing: 26 videos
@@ -416,6 +416,27 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * ❄️ I Got NEW Secret SHINY FROST SENTINEL Pet In Roblox Bubble Gum Simulator! \*Best Pet\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=nSRnEdj7bgw
+    * BOUGHT The $250.000.000.000 TOXIC DEMON And Then THIS HAPPENED In BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=uHJxnnSMmIs
+    * I HATCHED THE SECRET CLOVER EGG PET IN BUBBLE GUM SIMULATOR! \*1 IN 8 MILLION\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=BilC3fYHyZ8
+    * NEW SEASON 7 FREE PREMIUM BUBBLE PASS CODES IN BUBBLE GUM SIMULATOR! \*Giveaway!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=dmRKtbcStI8
+    * 👉 INFINITE FREE ZXLEGENDS PETS AND PACK IN NINJA LEGENDS! \*GIVEAWAY\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=DX8gN0UH6yU
+    * ALL 34 ZX LEGEND PET PACK CODES IN NINJA LEGENDS! \*SUPER OP\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=rXh-9PSirWo
+    * 14 SECRET FREE ANGELIC PET CODES IN BLADE THROWING SIMULATOR! \*SUPER OP\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=erWIgMRxqvk
     * 💰 INFINITE FREE ZX LEGENDS PETS IN NINJA LEGENDS! \*FREE MOST OP PETS\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=BgxRPv62lRk
