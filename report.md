@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 24, 2020<br>
+Generated March 25, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 237,659 videos
 * Total videos found that match keywords: 13,521 videos
-  * Total unprocessed videos: 2,843 videos
-* Total videos found that are processed and marked: 2,491 videos 
-  * Information Collection: 1,538 videos
+  * Total unprocessed videos: 2,814 videos
+* Total videos found that are processed and marked: 2,490 videos 
+  * Information Collection: 1,537 videos
   * Non-Giftcard Robux Giveaways: 846 videos
   * Other: 81 videos
   * Phishing: 26 videos
@@ -2721,9 +2721,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SEASON 3 MAD CITY !! TUDO SOBRE A NOVA ATUALIZAÇÃO !! CARRO GRÁTIS?? (100 RANK)
       * Contains an ad for the information collection website makerobux.co.
       * URL: https://www.youtube.com/watch?v=nbImW_7VfpQ
-    * CAMPING!! COMO NUNCA MORRER ENVENENADO OU SEMPRE SOBREVIVER !!! ROBLOX
-      * Contains an ad for the information collection website makerobux.co.
-      * URL: https://www.youtube.com/watch?v=EuRCuNo1rkQ
     * NOVA ATUALIZAÇÃO MAD CITY COM NOVO MISTÉRIO E TEMPORADA 3 ESTÁ CHEGANDO !!
       * Description references the data collection website rblx.pro.
       * URL: https://www.youtube.com/watch?v=_Lgkxx2N7dY
