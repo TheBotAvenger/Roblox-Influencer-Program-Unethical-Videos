@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 29, 2020<br>
+Generated March 30, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -210,13 +210,13 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
 * Blox4Fun (SgGamersDad and GustTv)
 * bobjenz 
-* Brianna (TBNRwife)
+* Brianna (zBriannaGamez)
 * Buur (BuurmanTenus)
 * ByDerank (ByDerank_YT)
 * Captain Tate (CaptainTate21)
 * cazum8 (cazum8)
 * Cerso (Cerso93)
-* Chocoblox (Nilcobaax)
+* Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Collins Kosuke (Kosukei)
 * Conor3D (Conor3D)
