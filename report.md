@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 4, 2020<br>
+Generated April 5, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,7 +182,7 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 237,659 videos
+* Total videos: 241,368 videos
 * Total videos found that match keywords: 13,521 videos
   * Total unprocessed videos: 2,786 videos
 * Total videos found that are processed and marked: 2,490 videos 
@@ -206,10 +206,12 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ayzria (Ayzria)
 * Bandi (BandiRue)
 * Bandites (Bandites)
+* Baxtrix \[EN\] (DefinitelyNotBaxtrix)
 * Bebe Adri (BebeAdriYT)
 * BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
 * Blox4Fun (SgGamersDad and GustTv)
 * bobjenz 
+* BramP (bramp1996)
 * Brianna (zBriannaGamez)
 * Buur (BuurmanTenus)
 * ByDerank (ByDerank_YT)
@@ -237,6 +239,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * EthanGamer (EthanGamerTV)
 * Evanbear1 (Evanbear1)
+* Faeglow (faeglow)
 * Febatista 
 * FGTeeV (FGteev and DrizzMcNizz)
 * Fraser2TheMax (Fraser2TheMax)
@@ -271,12 +274,16 @@ The following channels had nothing appear with manual searching. Videos may exis
 * javie12 (javie12)
 * Jayingee (jayingee)
 * Jeancof ツ (Jeancof)
+* Jenstine (jenstine and jenstinex)
+* JoeyDaPlayer (UseStarCodee_JOEY)
 * JonesGotGame (JonesGotGame)
 * Jr e Mi (JuniorGuimaraes and micandeloro)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
 * JunRoots (JunioRoots)
 * jvnq (jvnqYT)
+* Karim Juega (karimjuega)
 * Kawaii Kunicorn Gaming (kawaii_kunicorn)
+* Kelogish (Kelogish)
 * Kepu The Cat (KepuTheCat)
 * Kindly Keyin (KindlyKeyin)
 * KIRON (SoyKiron)
@@ -317,7 +324,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
 * Playonyx Tech (okgamerman)
-* PrestonMobile (PrestonPlayz)
+* PrestonGamez (PrestonPlayz)
 * Pretzel Etzel (Pretzel_Etzel)
 * ProSidu (prosiduzao)
 * Raconidas (Raconidas)
@@ -346,6 +353,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ThnxCya (NotThnxCya)
 * ThunberGames (ThunberGames)
 * TinenQa (TinenQa1)
+* TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
 * TroyanoNanoReturns (TroyanoNanoReturns)
 * TwiistedPandora (TwistedPandora)
