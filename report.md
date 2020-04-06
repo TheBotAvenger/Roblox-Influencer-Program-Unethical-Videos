@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 5, 2020<br>
+Generated April 6, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -269,7 +269,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
 * Its SugarCoffee (SugarCoffee123)
 * ItsFunneh (Funnehcake)
-* J-Bug (JBug_RBLX)
+* J-Bug (J_Buggo)
 * Janet and Kate (KittyJanet and Kate9071)
 * javie12 (javie12)
 * Jayingee (jayingee)
@@ -282,7 +282,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JunRoots (JunioRoots)
 * jvnq (jvnqYT)
 * Karim Juega (karimjuega)
-* Kawaii Kunicorn Gaming (kawaii_kunicorn)
 * Kelogish (Kelogish)
 * Kepu The Cat (KepuTheCat)
 * Kindly Keyin (KindlyKeyin)
@@ -352,6 +351,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Thinknoodles (ImNotThinknoodles)
 * ThnxCya (NotThnxCya)
 * ThunberGames (ThunberGames)
+* Timo (kawaii_kunicorn)
 * TinenQa (TinenQa1)
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
