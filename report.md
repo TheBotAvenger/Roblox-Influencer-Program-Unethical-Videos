@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 6, 2020<br>
+Generated April 7, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 241,368 videos
-* Total videos found that match keywords: 13,521 videos
-  * Total unprocessed videos: 2,786 videos
-* Total videos found that are processed and marked: 2,490 videos 
-  * Information Collection: 1,537 videos
+* Total videos: 243,548 videos
+* Total videos found that match keywords: 13,768 videos
+  * Total unprocessed videos: 3,017 videos
+* Total videos found that are processed and marked: 2,506 videos 
+  * Information Collection: 1,553 videos
   * Non-Giftcard Robux Giveaways: 846 videos
   * Other: 81 videos
   * Phishing: 26 videos
@@ -424,6 +424,51 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * ALL 6 SECRET OWNER BANHAMMER CODES IN SIZZLING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=qVUGahY260I
+    * I Used 40X LUCK To Get ALL SHINY MUSHROOM PETS In ROBLOX BUBBLE GUM SIMULATOR! \*BROKEN\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ydx2psrYJyo
+    * BLIND TRADING Fans DARK ELEMENT PACK Pets In Roblox Ninja Legends!! \*MOST OP\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Ej_FSiGIfu0
+    * UNLIMITED MAXED DARK ELEMENT PETS IN NINJA LEGENDS \*Giveaway!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=0VaLEwqgc6Y
+    * 🍄 MYTHICAL MUSHROOM Pet CODES In Bubble Gum Simulator!! \*AMAZING PETS\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=rpDXE-WOGGY
+    * FREE DARK ELEMENT PET PACK CODES IN NINJA LEGENDS! \*SECRET CRYSTAL\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Rs7ZqPXA0ro
+    * How To Get UNLIMITED "SECRET PETS" In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ogI88kRe0y0
+    * 14 GLITCHED Free OWNER Pet Codes In Blade Throwing Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=IzwNhktxQJM
+    * Opening Mythical Egg For All SECRET PETS For 24 Hours In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=IolPVTW2qds
+    * Why Roblox Ninja Legends Is NOT updating...
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=7pXid9SD7Q4
+    * I GOT EVERY NEW MYTHIC PET IN BUBBLE GUM SIMULATOR!! \*MAX REWARDS PETS\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=qkYIUDoSQ9k
+    * MYTHICAL DEMONCORE PET Update Codes In BUBBLE GUM SIMULATOR!! \*GIANT UPDATE!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=1P0dUx8zjm0
+    * SECRET MYTHICAL PET Codes In Roblox SODA SIMULATOR! \*INSTANT MAX RANK!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=tTJxxrkU18w
+    * ⚔️ Defeating NEW LAVA GOLEM For \*BROKEN\* ANCIENT PETS In BLADE THROWING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Q0ccUh86noQ
+    * 🙊 This NOOB Has $1,000,000,000,000 RAINBOWS In Roblox Bubble Gum Simulator! \*RICHEST NOOB!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=eB6JCYgFtKA
     * ❄️ I Got NEW Secret SHINY FROST SENTINEL Pet In Roblox Bubble Gum Simulator! \*Best Pet\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=nSRnEdj7bgw
@@ -5894,6 +5939,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=TCoMoruGc2A
 * Linkmon99 (Linkmon99)
   * Information Collection
+    * Guess My ROBUX to WIN IT ALL!!! (R$?!) - Linkmon99 Richest Roblox Player
+      * Description references the data collection website rbxtoys.com.
+      * URL: https://www.youtube.com/watch?v=325_ILeNJ40
     * Donating ALL MY ROBUX to Fans At VIDCON!! - Linkmon99 IRL \#18
       * Description references the data collection website rbxtoys.com.
       * URL: https://www.youtube.com/watch?v=lqwtj7bfh-I
