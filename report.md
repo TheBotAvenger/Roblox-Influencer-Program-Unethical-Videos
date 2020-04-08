@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 7, 2020<br>
+Generated April 8, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,12 +182,12 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 243,548 videos
-* Total videos found that match keywords: 13,768 videos
-  * Total unprocessed videos: 3,017 videos
-* Total videos found that are processed and marked: 2,506 videos 
-  * Information Collection: 1,553 videos
-  * Non-Giftcard Robux Giveaways: 846 videos
+* Total videos: 246,323 videos
+* Total videos found that match keywords: 13,880 videos
+  * Total unprocessed videos: 2,841 videos
+* Total videos found that are processed and marked: 2,523 videos 
+  * Information Collection: 1,569 videos
+  * Non-Giftcard Robux Giveaways: 847 videos
   * Other: 81 videos
   * Phishing: 26 videos
 
@@ -209,6 +209,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Baxtrix \[EN\] (DefinitelyNotBaxtrix)
 * Bebe Adri (BebeAdriYT)
 * BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
+* BLAH SQUAD (BLAH_Squad)
 * Blox4Fun (SgGamersDad and GustTv)
 * bobjenz 
 * BramP (bramp1996)
@@ -221,6 +222,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Collins Kosuke (Kosukei)
+* ComfySunday (ComfySunday)
 * Conor3D (Conor3D)
 * CPat (StarC0de_CPAT)
 * Crainer Roblox 
@@ -257,6 +259,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * hannnahlovescows (hannnahlovescows)
 * HappyHopper (MooseCraftRoblox)
 * HelloItsVG (HelloItsVinh)
+* Hey Sant (heysant2018)
 * Honey The Unicorn - Roblox (HoneyTheUnicornYT)
 * HulkBR (hulkbr_oficial)
 * Hyper - Roblox (DylanTheHyper)
@@ -274,6 +277,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * javie12 (javie12)
 * Jayingee (jayingee)
 * Jeancof ツ (Jeancof)
+* Jeenius (RealJeen)
 * Jenstine (jenstine and jenstinex)
 * JoeyDaPlayer (UseStarCodee_JOEY)
 * JonesGotGame (JonesGotGame)
@@ -289,9 +293,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * KraoESP (KraoESP)
 * Krystin Plays (KrystinPlays)
 * Lakshart Nia (Laksharth)
+* LankyBox (LankyBoxGamesAdam)
 * Lawlieet 20 (XLAWLIEETX)
 * Leah Ashe (NotLeah)
-* locus (locus200k)
 * Lokis (lokis9340)
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
@@ -356,6 +360,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
 * TroyanoNanoReturns (TroyanoNanoReturns)
+* TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * XdarzethX - Roblox & More! (xdarzethx)
@@ -5948,6 +5953,11 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * IF YOU FIND ME, WIN 15,000 ROBUX!! (Fan HIDE & SEEK Challenge) - Linkmon99 ROBLOX
       * URL: https://www.youtube.com/watch?v=aQVzK3xhRAs
+* locus (locus200k)
+  * Non-Giftcard Robux Giveaways
+    * I Trapped 100 Kids And Gave Them Swords... Winner Gets 1000 ROBUX! (Roblox)
+      * Uses group funds to give away Robux for a competition.
+      * URL: https://www.youtube.com/watch?v=_Sz6sWDSoqs
 * LOGinHDi (L0GinHDi)
   * Non-Giftcard Robux Giveaways
     * If I Get Scared.. I Giveaway Robux!
@@ -5979,6 +5989,84 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FREE ROBUX GIVEAWAY WINNERS!!!!
       * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=JVemQZY5iro
+* Lons Gamer (LonssGamer)
+  * Information Collection
+    * Roblox - Brincando de Carrinho Bate-Bate com inscritos no Lumber Tycoon 2!! (Valendo Robux)
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=9diQlI93dnA
+    * Roblox - ABRI MAIS DE 200K EM COFRES NO JAILBREAK!! (Será que tive sorte?)
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=fela7wO9ClQ
+    * Roblox - COMO ROUBAR O TREM NO JAILBREAK!! (Muito Fácil)
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=dYa9SzTMk6I
+    * MELHOR RÉPLICA DO MARIO 64 NO ROBLOX!! (Robot 64)
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=6lZ4PeJQXrM
+    * VIREI UM GODZILLA NO ROBLOX!! (Godzilla Simulator)
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=023PVydZDjE
+    * Roblox - CONSEGUI O "Bee Axe" (Lumber Tycoon 2)
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=v9QNVIpRM_s
+    * Roblox - OQUE VEM DENTRO DE CADA PRESENTE DA ATUALIZAÇÃO!! (Lumber Tycoon 2)
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=AxoEYU2x5mg
+    * Roblox - MOSTRANDO O CÓDIGO 8!! (Lumber Tycoon 2)
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=vVnfW4CAkWA
+    * Roblox - COMO CONSEGUIR O SUPOSTO "Bee Axe" (Lumber Tycoon 2)
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=-Lc2nobh8E8
+    * Roblox - MOSTRANDO O CÓDIGO 7!!, E EXPLICANDO OS CÓDIGOS 1, 2, e 3 (Lumber Tycoon 2)
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=aHi3L6QUJZ8
+    * Roblox - O PRESENTE DO LABIRINTO!! (Lumber Tycoon 2)
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=8d3U25QHg_s
+    * MELHOR RÉPLICA DO CLUB DAS WINX NO ROBLOX!!
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=TreMy4yhGN0
+    * MELHOR REPLICA DE CUPHEAD NO ROBLOX!!
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=yGZyD7yMo2A
+    * Roblox - DICAS DE COMO SE TORNAR O MELHOR NINJA!! (Ninja Assassin)
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=_QmSz1DVsqE
+    * Roblox - FIZEMOS UMA SPOOK WOOD GIGANTE NO LUMBER TYCOON 2!!
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=Mk-WIRWiiq0
+    * Roblox - A CAIXA MAIS RARA DO LUMBER TYCOON 2!!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=PjipkRCDeEY
 * MIKEYDOOD (IMMIKEYDOOD)
   * Phishing
     * HACKING MY VIEWER AND SPENDING ALL OF HIS ROBUX!!!
