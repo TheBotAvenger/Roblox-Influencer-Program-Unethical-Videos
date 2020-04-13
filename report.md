@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 12, 2020<br>
+Generated April 13, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -206,7 +206,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ayzria (Ayzria)
 * Bandi (BandiRue)
 * Bandites (Bandites)
-* Baxtrix \[EN\] (DefinitelyNotBaxtrix)
+* Baxtrix (DefinitelyNotBaxtrix)
 * Bebe Adri (BebeAdriYT)
 * BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
 * BLAH SQUAD (BLAH_Squad)
@@ -257,7 +257,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Gravycatman (GrumpyGravy)
 * Hagazo (Hagazo9)
 * hannnahlovescows (hannnahlovescows)
-* HappyHopper (MooseCraftRoblox)
 * HelloItsVG (HelloItsVinh)
 * Hey Sant (heysant2018)
 * Honey The Unicorn - Roblox (HoneyTheUnicornYT)
@@ -265,7 +264,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Hyper - Roblox (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
 * iamSanna (notiamsanna)
-* iBeMaine (ibemaine)
+* iBeMaine (xLastSamurai)
 * iGuz (iGuzGames)
 * iKotori (iKotori)
 * Inemafoo (Inemajohn)
@@ -310,6 +309,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Michaels Mayhem 
 * MicroGuardian (MicroGuardian)
 * Milo Mine (BebeMiloAmiwito)
+* Moose Roblox (MooseCraftRoblox)
 * MrLokazo86 (Lokazo86)
 * MyUsernamesThis (UseStarCode_BACON)
 * NapkinNate (NapkinNate)
@@ -328,7 +328,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PinkLeaf (RenLeaf)
 * Playonyx Tech (okgamerman)
 * PrestonGamez (PrestonPlayz)
-* Pretzel Etzel (Pretzel_Etzel)
+* Pretzel Etzel (WinnieBarlow)
 * ProSidu (prosiduzao)
 * Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
@@ -5835,7 +5835,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=hqsYQu9twno
     * HACKING A FANS ROBLOX ACCOUNT AND GIVING THEM FREE ROBUX!! | Roblox LIVE 🔴
       * URL: https://www.youtube.com/watch?v=hC5BdAC2X8o
-* Landon - lol 
+* Landon - ARKH 
   * Phishing
     * buying fans robux .. ( roblox )
       * Logs into the fan's account to buy Robux, although it was to redeem the VISA giftcard.
