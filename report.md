@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 13, 2020<br>
+Generated April 14, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 246,323 videos
-* Total videos found that match keywords: 13,880 videos
-  * Total unprocessed videos: 2,728 videos
-* Total videos found that are processed and marked: 2,523 videos 
-  * Information Collection: 1,569 videos
+* Total videos: 247,596 videos
+* Total videos found that match keywords: 13,981 videos
+  * Total unprocessed videos: 2,821 videos
+* Total videos found that are processed and marked: 2,531 videos 
+  * Information Collection: 1,577 videos
   * Non-Giftcard Robux Giveaways: 847 videos
   * Other: 81 videos
   * Phishing: 26 videos
@@ -429,6 +429,30 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * ADOPT ME SECRET \*RAINBOW\* NEON PETS UPDATE!? \*LEAKED\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=CVoWm1JpKDY
+    * Adopt Me \*HIDDEN\* Free PET ACCESSORY Challenge!! \*CRAZY\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=yB11IzxUdjQ
+    * ADOPT ME FREE New PET ACCESSORIES Event! NEW Adopt Me Update (Roblox)
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ZRDgSOzpxzg
+    * HOW TO GET \*FREE\* PET ACCESSORIES IN ADOPT ME UPDATE!! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ybQu5D51v2E
+    * NEW Secret \*FREE\* GOLDEN BUNNY PET Codes In SPEED CHAMPIONS! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=_fiZk5lszvI
+    * Bubble Gum Simulator BUT Every Trade Is A Random Legendary!? \*FREE Secret Pet?!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vn4LMIT4sf4
+    * ALL 49 EGGHUNT 2020 LOCATIONS!! FabergEgg, Eggveloper EGG, X Y Z EGG! \*How To Get\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=XHHUovaz0YY
+    * FREE STAR CREATOR EGG + GETTING ALL 2020 EGGHUNT EGGS IN ROBLOX EGGHUNT 2020!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=pjJkuYwTVsI
     * ALL 6 SECRET OWNER BANHAMMER CODES IN SIZZLING SIMULATOR! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=qVUGahY260I
