@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 17, 2020<br>
+Generated April 18, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,12 +183,12 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 247,693 videos
-* Total videos found that match keywords: 13,981 videos
+* Total videos found that match keywords: 13,983 videos
   * Total unprocessed videos: 2,728 videos
-* Total videos found that are processed and marked: 2,533 videos 
+* Total videos found that are processed and marked: 2,535 videos 
   * Information Collection: 1,577 videos
   * Non-Giftcard Robux Giveaways: 849 videos
-  * Other: 81 videos
+  * Other: 83 videos
   * Phishing: 26 videos
 
 ### No Videos Found
@@ -200,7 +200,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Amberry (Amberrry)
 * AnielicA (ANIELICA01)
 * Anix (iamAnix)
-* Arazhul (Arazhulino)
 * Ashleyosity (itsAshleyosity)
 * Augus (augusvidal)
 * Ayzria (Ayzria)
@@ -334,7 +333,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Remainings (Remainings)
 * Robotz (R_obotz)
 * RoTomek (RoTomek1)
-* Rovi23 (byRovi23 and MelLovesBunnys)
 * Ruby Games (ruby_rubeYT)
 * Ryguy - Roblox (ryguyrocky)
 * SallyGreenGamer 
@@ -383,6 +381,11 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=viMN3GP9p04
     * HACKING MY FRIENDS ROBLOX ACCOUNT WHILE HE WAS SLEEPING!!
       * URL: https://www.youtube.com/watch?v=KiJbY9mkYMc
+* Arazhul (Arazhulino)
+  * Other
+    * VIRUS SIMULATOR?! - Roblox \[Deutsch/HD\]
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=FD6SJcbDIAY
 * AshleyTheUnicorn (ashelycoin)
   * Phishing
     * HACKING A FAN AND GIVING THEM FREE ROBUX IN ROBLOX!
@@ -7190,6 +7193,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMO TENER TUS PRIMEROS 30 ROBUX!!! 2017 ❌ (YA NO FUNCIONA)
       * Video is about the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=TuasoFIzwkw
+* Rovi23 (byRovi23 and MelLovesBunnys)
+  * Other
+    * Roblox CORONAVIRUS Simulator...
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=Axa-VTK3src
 * RussoPlays (RussoTalks)
   * Non-Giftcard Robux Giveaways
     * THE WINNERS OF THE 50k ROBUX GIVEAWAY ARE.... (10 WINNERS)
