@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 19, 2020<br>
+Generated April 20, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -193,7 +193,7 @@ to the report if this happens.
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
-* 3SB Games (Cakemiix and shadodoo)
+* 3SB Games (Cakemiix and ododahs)
 * Alex (CraftedRL)
 * Aline Games (AliineGamesYT)
 * AlvinBlox (Alvin_Blox)
@@ -326,7 +326,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PinkLeaf (RenLeaf)
 * Playonyx Tech (okgamerman)
 * PrestonGamez (PrestonPlayz)
-* Pretzel Etzel (WinnieBarlow)
+* Pretzel Etzel (pretzel_etzel)
 * ProSidu (prosiduzao)
 * Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
@@ -365,7 +365,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Z00LD 
 * ZaiLetsPlay (YT_ZaiLetsPlay)
 * Zerophyx (Zerophyx)
-* ZNac (Z_Nac and B1lly15G0d)
+* ZNac (Z_Nac and BlakeBroYoutube)
 * ZULY (ItsZulyYT)
 
 ### Videos Found
