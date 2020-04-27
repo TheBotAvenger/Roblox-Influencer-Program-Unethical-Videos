@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 26, 2020<br>
+Generated April 27, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -263,7 +263,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Hyper - Roblox (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
 * iamSanna (notiamsanna)
-* iBeMaine (xLastSamurai)
+* iBeMaine (ibemaine)
 * iGuz (iGuzGames)
 * iKotori (iKotori)
 * Inemafoo (Inemajohn)
@@ -285,6 +285,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JunRoots (JunioRoots)
 * jvnq (jvnqYT)
 * Karim Juega (karimjuega)
+* Kawaii Kunicorn Gaming (kawaii_kunicorn)
 * Kelogish (Kelogish)
 * Kepu The Cat (KepuTheCat)
 * Kindly Keyin (KindlyKeyin)
@@ -352,7 +353,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Thinknoodles (ImNotThinknoodles)
 * ThnxCya (NotThnxCya)
 * ThunberGames (ThunberGames)
-* Timo (kawaii_kunicorn)
 * TinenQa (TinenQa1)
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
@@ -3867,7 +3867,7 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Phishing
     * I HACKED A ROBLOX ODER | Roblox High School Dorm Life | Roblox ODer Trolling
       * URL: https://www.youtube.com/watch?v=XdMWvYf4Rjk
-* Geko97 - Roblox (Geko97)
+* Geko97 - Roblox (Flexer97YT)
   * Information Collection
     * NUEVA FORMA de CONSEGUIR ROBUX GRATIS 🤑 \[Roblox\]
       * Description references the data collection website rbxcash.com.
