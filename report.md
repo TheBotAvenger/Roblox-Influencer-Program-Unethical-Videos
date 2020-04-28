@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 27, 2020<br>
+Generated April 28, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 247,693 videos
-* Total videos found that match keywords: 13,983 videos
-  * Total unprocessed videos: 2,728 videos
-* Total videos found that are processed and marked: 2,535 videos 
-  * Information Collection: 1,577 videos
+* Total videos: 250,025 videos
+* Total videos found that match keywords: 14,149 videos
+  * Total unprocessed videos: 2,873 videos
+* Total videos found that are processed and marked: 2,556 videos 
+  * Information Collection: 1,591 videos
   * Non-Giftcard Robux Giveaways: 849 videos
-  * Other: 83 videos
+  * Other: 90 videos
   * Phishing: 26 videos
 
 ### No Videos Found
@@ -205,17 +205,17 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ayzria (Ayzria)
 * Bandi (BandiRue)
 * Bandites (Bandites)
-* Baxtrix (DefinitelyNotBaxtrix)
 * Bebe Adri (BebeAdriYT)
 * BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
 * BLAH SQUAD (BLAH_Squad)
-* Blox4Fun (SgGamersDad and GustTv)
+* Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * bobjenz 
 * BramP (bramp1996)
 * Brianna (zBriannaGamez)
 * Buur (BuurmanTenus)
 * ByDerank (ByDerank_YT)
 * Captain Tate (CaptainTate21)
+* Cari - Roblox (Carihyper)
 * cazum8 (cazum8)
 * Cerso (Cerso93)
 * Chocoblox (Chocoblox_93)
@@ -341,7 +341,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShanePlays (SGC_Shane)
 * Shaylo (YTshaylo)
 * skyleree (skyleree)
-* Snug Life (YT_SnugLife)
 * Spagz Blox (Spagzox)
 * SrPrismatico (SrPrismatico)
 * TanqR (TanqR)
@@ -400,6 +399,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * WIN FREE ROBUX WHEN I DIE IN THIS ROBLOX GAME!
       * Gives away Robux using group funds as part of a challenge.
       * URL: https://www.youtube.com/watch?v=DLRQLwcL6MI
+* Baxtrix (DefinitelyNotBaxtrix)
+  * Other
+    * SNEEZING On 9999 PEOPLE in Sneezing simulator! // Roblox
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=Sl0h1X-pXfs
 * Betroner y Noangy (Betroner and Noangy)
   * Non-Giftcard Robux Giveaways
     * Robux para ti! Mejor que los eventos de Roblox!
@@ -431,6 +435,48 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * We Found a SECRET MONKEY PET Treasure Map IN ADOPT ME! Roblox Adopt Me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=nlFEWE2X9mk
+    * I Sold HOTDOGS In Adopt Me For 24 HOURS And THIS HAPPENED! Roblox Adopt Me How To Make MONEY
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=DKlRxvzYcEc
+    * TRADING PIRATE ACCESSORIES PACKS ONLY In ADOPT ME! Roblox Adopt Me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Op9blZplSfE
+    * HOW TO GET A FREE PIRATE HOUSE AND PIRATE ACCESSORIES IN ADOPT ME UPDATE! Roblox Adopt me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=12aa-BU6SiA
+    * WE BOUGHT THE NEW PIRATE HOUSE IN ADOPT ME! Roblox Adopt Me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=67rwsroy4II
+    * I GOT A MEGA NEON TURTLE AND NEW MONKEY IN ADOPT ME! \*BEST LEGENDARY PET\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=cfkN0lPIkAo
+    * 6 SECRET Ways To Make MILLIONS Of MONEY In ADOPT ME!! \*How To Make MONEY in Adopt Me Roblox\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=BcANtmNa5hc
+    * New CIRCUS PETS And MORE In Adopt Me UPDATE?! \*LEGENDARY Monkey pet\* Roblox Adopt Me!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=DH1JVS87FUI
+    * Trading UNLIMITED Robux Items For MEGA NEONS In Adopt Me Update!  \*25,000 Robux\* (Roblox)
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=dXTYWtbftQU
+    * SPENDING 25,000 ROBUX ON MEGA NEON PETS + ACCESSORIES IN ADOPT ME?! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=3vPSmbwhacE
+    * \*NEW\* FREE MEGA NEON PETS IN ADOPT ME UPDATE!! \*MAX UPGRADE\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ni30s-d-CjE
+    * This PRESENT Gives A FREE RAINBOW NEON Pet In Adopt! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=u8z7KbAqRjg
+    * How To Get A FREE Legendary GOLDEN RAT In Adopt Me!! \*LIMITED PET\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=1SUjtehwUrU
+    * Hidden LIMITED \*NEON\* PET ACCESSORIES In Adopt Me UPDATE! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=UbVCnNIaJJQ
     * ADOPT ME SECRET \*RAINBOW\* NEON PETS UPDATE!? \*LEAKED\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=CVoWm1JpKDY
@@ -7213,6 +7259,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
 * Seniac (MrSeniac)
   * Other
+    * ROBLOX SNEEZING SIMULATOR
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=dtQF432tcyM
     * HOW TO GET FREE ROBUX!
       * Description references the "black market for limiteds" and information collection website rbx.place.
       * URL: https://www.youtube.com/watch?v=EakQDIc9ZLM
@@ -7234,6 +7283,23 @@ The following channels had nothing appear with manual searching. Videos may exis
     * This Is How You Get Robux For Free!
       * Description references the data collection website flame.gg.
       * URL: https://www.youtube.com/watch?v=DCsV0c7K5qE
+* Snug Life (YT_SnugLife)
+  * Other
+    * SNEEZING SIMULATOR NEW UPDATE! I UNBOXED THE BEST LEGENDARY HAT IN-GAME! \*SUPER OP\* EASY REBIRTHS!
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=kVDf7wX-e94
+    * YOU CAN NOW TRAVEL IN \*SPACE\* IN SNEEZING SIMULATOR?! NEW EVOLUTIONS! NEW SPACESHIP?! NEW CODES!
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=BIoWma7yQPQ
+    * SNEEZING SIMULATOR ADDED A \*REBIRTH SHOP!\* YOU CAN NOW REBIRTH AND \*UNLOCK\* PERM BOOSTS!
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=yMOXbkwQ-TY
+    * I SPENT 50,000,000 MILLION POINTS ON THE \*NEW\* ANCIENT PHARAOH IN ANCIENT RUINS! SNEEZING SIMULATOR!
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=SeDqmaXmspU
+    * \*NEW\* SNEEZING SIMULATOR! HOW TO INFECT PEOPLE \*SUPER FAST!\* AND GAIN FAST POINTS!!!!\*KING NOOB OP\*
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=NmJMdWhG9-8
 * SrtaLuly (SrtaLuly03)
   * Information Collection
     * BALDI o GRANNY? QUÉ PREFIERES? en ROBLOX 😱
