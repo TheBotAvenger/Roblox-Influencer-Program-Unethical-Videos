@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 28, 2020<br>
+Generated April 29, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,12 +184,12 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 250,025 videos
 * Total videos found that match keywords: 14,149 videos
-  * Total unprocessed videos: 2,873 videos
-* Total videos found that are processed and marked: 2,556 videos 
-  * Information Collection: 1,591 videos
-  * Non-Giftcard Robux Giveaways: 849 videos
-  * Other: 90 videos
-  * Phishing: 26 videos
+  * Total unprocessed videos: 3,007 videos
+* Total videos found that are processed and marked: 2,554 videos 
+  * Information Collection: 1,590 videos
+  * Non-Giftcard Robux Giveaways: 850 videos
+  * Other: 89 videos
+  * Phishing: 25 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -338,6 +338,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ryguy - Roblox (ryguyrocky)
 * SallyGreenGamer 
 * SDMittens (SDMittens)
+* SeeDeng (SeeDank)
 * ShanePlays (SGC_Shane)
 * Shaylo (YTshaylo)
 * skyleree (skyleree)
@@ -390,6 +391,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKING A FAN AND GIVING THEM FREE ROBUX IN ROBLOX!
       * URL: https://www.youtube.com/watch?v=cpnK6Dnu2M4
   * Non-Giftcard Robux Giveaways
+    * How To Get FREE GAMEPASSES In Bloxburg and Tips And Tricks! (Roblox)
+      * Video shows giving away Robux using group funds for specific amounts based on paid access rates for games.
+      * URL: https://www.youtube.com/watch?v=9skyudqZPkg
     * LIKE THIS VIDEO AND GET FREE ROBUX! How to Get Free Robux!
       * Claims to giveaway 100 Robux per day using group funds.
       * URL: https://www.youtube.com/watch?v=7cfDn34L1Q0
@@ -2778,9 +2782,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=Z93A9lAF90E
 * Denis (DenisDaily)
   * Information Collection
-    * SIR MEOWS A LOT TAKES OVER ROBLOX!
-      * Description references the data collection website growbux.net.
-      * URL: https://www.youtube.com/watch?v=dwbGKuIDfxA
     * *HOW TO GET FREE ROBUX... I'm not even kidding*
       * *Description references the data collection website growbux.net.*
       * *URL: https://www.youtube.com/watch?v=7Q80_9-GgmU*
@@ -7252,16 +7253,8 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HUGE 50,000 ROBUX GIVEAWAY \*HOW TO ENTER\*
       * Video is about entering a Robux giveaway using group funds.
       * URL: https://www.youtube.com/watch?v=92-bOP8egXE
-* SeeDeng (SeeDank)
-  * Phishing
-    * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
-      * Logs into the account of a fan. Mentions a lot of other people sent their username and passwords.
-      * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
 * Seniac (MrSeniac)
   * Other
-    * ROBLOX SNEEZING SIMULATOR
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=dtQF432tcyM
     * HOW TO GET FREE ROBUX!
       * Description references the "black market for limiteds" and information collection website rbx.place.
       * URL: https://www.youtube.com/watch?v=EakQDIc9ZLM
