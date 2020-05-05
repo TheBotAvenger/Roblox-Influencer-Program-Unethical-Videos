@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 4, 2020<br>
+Generated May 5, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 250,025 videos
-* Total videos found that match keywords: 14,149 videos
-  * Total unprocessed videos: 2,728 videos
-* Total videos found that are processed and marked: 2,557 videos 
-  * Information Collection: 1,591 videos
+* Total videos: 251,239 videos
+* Total videos found that match keywords: 14,224 videos
+  * Total unprocessed videos: 2,796 videos
+* Total videos found that are processed and marked: 2,564 videos 
+  * Information Collection: 1,596 videos
   * Non-Giftcard Robux Giveaways: 850 videos
-  * Other: 90 videos
+  * Other: 92 videos
   * Phishing: 26 videos
 
 ### No Videos Found
@@ -438,6 +438,21 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * ALL Adopt me "HACKS" and Secrets In Adopt Me! Roblox Adopt Me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=zAvtjbmQAyA
+    * SECRET Challenge Gives Free MEGA NEON PANDA In Adopt Me! Roblox Adopt Me!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=kDyYCJoT4Ww
+    * Adopt me CANCELLED Weekly Updates Forever..!? Roblox Adopt Me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=sbwV4m9dtDk
+    * LIMITED EGGS Are BACK In ADOPT ME!? Safari Egg, Jungle Egg and MORE! Roblox Adopt Me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=3mXUfabSirU
+    * New BUCKS Trading & Doctor Role in Adopt me!? Roblox Adopt Me Ideas
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=qIrTIbJV5vg
     * We Found a SECRET MONKEY PET Treasure Map IN ADOPT ME! Roblox Adopt Me
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=nlFEWE2X9mk
@@ -7288,6 +7303,12 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=DCsV0c7K5qE
 * Snug Life (YT_SnugLife)
   * Other
+    * I ACCIDENTALLY DELETED THE NEW \*MYTHIC\* PURPLE SPARKLE TIME FEDORA IN SNEEZING SIMULATORS NEW UPDATE
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=yRRwd3t7ZRw
+    * HOW TO GET THE \*SECRET HAT\* IN SNEEZING SIMULATOR! BEST HAT IN-GAME! ABSOLUTELY DISGUSTING STATS!
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=qM-vMFgWPBk
     * SNEEZING SIMULATOR NEW UPDATE! I UNBOXED THE BEST LEGENDARY HAT IN-GAME! \*SUPER OP\* EASY REBIRTHS!
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
       * URL: https://www.youtube.com/watch?v=kVDf7wX-e94
