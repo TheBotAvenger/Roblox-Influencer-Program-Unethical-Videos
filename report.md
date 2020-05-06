@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 5, 2020<br>
+Generated May 6, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,11 +184,11 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 251,239 videos
 * Total videos found that match keywords: 14,224 videos
-  * Total unprocessed videos: 2,796 videos
-* Total videos found that are processed and marked: 2,564 videos 
-  * Information Collection: 1,596 videos
-  * Non-Giftcard Robux Giveaways: 850 videos
-  * Other: 92 videos
+  * Total unprocessed videos: 3,077 videos
+* Total videos found that are processed and marked: 2,561 videos 
+  * Information Collection: 1,595 videos
+  * Non-Giftcard Robux Giveaways: 849 videos
+  * Other: 91 videos
   * Phishing: 26 videos
 
 ### No Videos Found
@@ -299,6 +299,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lokis (lokis9340)
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
+* Lyna (Lynitaa)
 * Magikarp Films (Magikarpfilms)
 * Manucraft (ManucraftYT)
 * Mary - Frozencrystal 
@@ -2796,9 +2797,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=Z93A9lAF90E
 * Denis (DenisDaily)
   * Information Collection
-    * SIR MEOWS A LOT TAKES OVER ROBLOX!
-      * Description references the data collection website growbux.net.
-      * URL: https://www.youtube.com/watch?v=dwbGKuIDfxA
     * *HOW TO GET FREE ROBUX... I'm not even kidding*
       * *Description references the data collection website growbux.net.*
       * *URL: https://www.youtube.com/watch?v=7Q80_9-GgmU*
@@ -6157,11 +6155,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Roblox - A CAIXA MAIS RARA DO LUMBER TYCOON 2!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=PjipkRCDeEY
-* Lyna (Lynitaa)
-  * Non-Giftcard Robux Giveaways
-    * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
 * MIKEYDOOD (IMMIKEYDOOD)
   * Phishing
     * HACKING MY VIEWER AND SPENDING ALL OF HIS ROBUX!!!
@@ -7277,9 +7270,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
 * Seniac (MrSeniac)
   * Other
-    * ROBLOX SNEEZING SIMULATOR
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=dtQF432tcyM
     * HOW TO GET FREE ROBUX!
       * Description references the "black market for limiteds" and information collection website rbx.place.
       * URL: https://www.youtube.com/watch?v=EakQDIc9ZLM
