@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 6, 2020<br>
+Generated May 7, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 251,239 videos
-* Total videos found that match keywords: 14,224 videos
-  * Total unprocessed videos: 3,077 videos
-* Total videos found that are processed and marked: 2,561 videos 
-  * Information Collection: 1,595 videos
-  * Non-Giftcard Robux Giveaways: 849 videos
-  * Other: 91 videos
+* Total videos: 253,191 videos
+* Total videos found that match keywords: 14,273 videos
+  * Total unprocessed videos: 2,728 videos
+* Total videos found that are processed and marked: 2,565 videos 
+  * Information Collection: 1,596 videos
+  * Non-Giftcard Robux Giveaways: 851 videos
+  * Other: 92 videos
   * Phishing: 26 videos
 
 ### No Videos Found
@@ -207,6 +207,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bandites (Bandites)
 * Bebe Adri (BebeAdriYT)
 * BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
+* Bia Gamer (zVampBia)
 * BLAH SQUAD (BLAH_Squad)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * bobjenz 
@@ -216,6 +217,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ByDerank (ByDerank_YT)
 * Captain Tate (CaptainTate21)
 * Cari - Roblox (Carihyper)
+* Carol TV (coolforlovato)
 * cazum8 (cazum8)
 * Cerso (Cerso93)
 * Chocoblox (Chocoblox_93)
@@ -229,6 +231,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * CrystalSims (CrystalSims)
 * cybernova games (THEREALCYBERNOVA)
 * DandanPH (DandanPH)
+* Danny Jesden (DannyJesdenYT)
 * DaPandaGirl (Da_PandaGirl)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
 * DeeterPlays (DeeterPlays)
@@ -262,7 +265,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HulkBR (hulkbr_oficial)
 * Hyper - Roblox (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
-* iamSanna (notiamsanna)
 * iBeMaine (ibemaine)
 * iGuz (iGuzGames)
 * iKotori (iKotori)
@@ -296,10 +298,10 @@ The following channels had nothing appear with manual searching. Videos may exis
 * LankyBox (LankyBoxGamesAdam)
 * Lawlieet 20 (XLAWLIEETX)
 * Leah Ashe (NotLeah)
+* Legolaz (LegolazYoutube)
 * Lokis (lokis9340)
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
-* Lyna (Lynitaa)
 * Magikarp Films (Magikarpfilms)
 * Manucraft (ManucraftYT)
 * Mary - Frozencrystal 
@@ -316,8 +318,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Natasha Panda (NatashaPandaaYT)
 * Nezi Plays Roblox (NeziPlaysROBLOX)
 * NightFoxx (Night_foxx)
+* NO\_DATA (NO\_DATA)
 * noekje (noekje)
-* ObliviousHD (ObliviousHD)
+* Oblivious (ObliviousHD)
 * PaintingRainbows (RainbowsYT)
 * Pankayz (Pankayz)
 * Papile (jupapile)
@@ -2797,6 +2800,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=Z93A9lAF90E
 * Denis (DenisDaily)
   * Information Collection
+    * SIR MEOWS A LOT TAKES OVER ROBLOX!
+      * Description references the data collection website growbux.net.
+      * URL: https://www.youtube.com/watch?v=dwbGKuIDfxA
     * *HOW TO GET FREE ROBUX... I'm not even kidding*
       * *Description references the data collection website growbux.net.*
       * *URL: https://www.youtube.com/watch?v=7Q80_9-GgmU*
@@ -3943,6 +3949,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * CUIDADO CON ESTE ZOMBIE QUE TE MATA EN ROBLOX 😭 \[Roleplay\]
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=l3qwVIOIwgc
+* iamSanna (notiamsanna)
+  * Non-Giftcard Robux Giveaways
+    * WIN 10,000 ROBUX In This \*NEW\* Adopt Me FASHION CONTEST! (Adopt Me)
+      * Uses group funds to give away Robux for a competition.
+      * URL: https://www.youtube.com/watch?v=L7_cIHzhFpw
 * InquisitorMaster (inquisitormaster)
   * Phishing
     * I HACKED A FAN AND CAN'T BELIEVE WHAT I SAW! | Roblox Social Experiment
@@ -6155,6 +6166,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Roblox - A CAIXA MAIS RARA DO LUMBER TYCOON 2!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=PjipkRCDeEY
+* Lyna (Lynitaa)
+  * Non-Giftcard Robux Giveaways
+    * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
 * MIKEYDOOD (IMMIKEYDOOD)
   * Phishing
     * HACKING MY VIEWER AND SPENDING ALL OF HIS ROBUX!!!
@@ -7270,6 +7286,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
 * Seniac (MrSeniac)
   * Other
+    * ROBLOX SNEEZING SIMULATOR
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=dtQF432tcyM
     * HOW TO GET FREE ROBUX!
       * Description references the "black market for limiteds" and information collection website rbx.place.
       * URL: https://www.youtube.com/watch?v=EakQDIc9ZLM
