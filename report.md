@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 10, 2020<br>
+Generated May 11, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -207,7 +207,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bandites (Bandites)
 * Bebe Adri (BebeAdriYT)
 * BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
-* Bia Gamer (zVampBia)
+* Bia Gamer (BiiiaGamerYT)
 * BLAH SQUAD (BLAH_Squad)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * bobjenz 
@@ -243,7 +243,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * EthanGamer (EthanGamerTV)
 * Evanbear1 (Evanbear1)
-* Faeglow (faeglow)
+* faeglow (faeglow)
 * Febatista 
 * FGTeeV (FGteev and DrizzMcNizz)
 * Fraser2TheMax (Fraser2TheMax)
@@ -312,7 +312,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Michaels Mayhem 
 * MicroGuardian (MicroGuardian)
 * Milo Mine (BebeMiloAmiwito)
-* Moose Roblox (MooseCraftRoblox)
+* MooseCraft Roblox (MooseCraftRoblox)
 * MrLokazo86 (Lokazo86)
 * NapkinNate (NapkinNate)
 * Natasha Panda (NatashaPandaaYT)
