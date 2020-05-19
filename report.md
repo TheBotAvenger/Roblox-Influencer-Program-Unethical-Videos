@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 18, 2020<br>
+Generated May 19, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 253,191 videos
-* Total videos found that match keywords: 14,273 videos
-  * Total unprocessed videos: 2,728 videos
-* Total videos found that are processed and marked: 2,565 videos 
-  * Information Collection: 1,596 videos
+* Total videos: 255,426 videos
+* Total videos found that match keywords: 14,435 videos
+  * Total unprocessed videos: 2,874 videos
+* Total videos found that are processed and marked: 2,581 videos 
+  * Information Collection: 1,609 videos
   * Non-Giftcard Robux Giveaways: 851 videos
-  * Other: 92 videos
+  * Other: 95 videos
   * Phishing: 26 videos
 
 ### No Videos Found
@@ -206,7 +206,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bandi (BandiRue)
 * Bandites (Bandites)
 * Bebe Adri (BebeAdriYT)
-* BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
 * Bia Gamer (BiiiaGamerYT)
 * BLAH SQUAD (BLAH_Squad)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
@@ -411,6 +410,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SNEEZING On 9999 PEOPLE in Sneezing simulator! // Roblox
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
       * URL: https://www.youtube.com/watch?v=Sl0h1X-pXfs
+* BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
+  * Other
+    * GOT THE RONA in ROBLOX | SNEEZING SIMULATOR
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=bstE2x5chO8
 * Betroner y Noangy (Betroner and Noangy)
   * Non-Giftcard Robux Giveaways
     * Robux para ti! Mejor que los eventos de Roblox!
@@ -442,6 +446,45 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * HOW TO GET \*FREE\* GILDED GOD TOOLS IN ROBLOX SKYBLOCK!!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=XU_46hHluL8
+    * NEW GOLD \*GOD\* TOOLS AND BLOCKS IN ROBLOX SKYBLOCK UPDATE \*SUPER EXPENSIVE!!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=NOZsZi7szNM
+    * How To Get A FREE SHINY THE KEEPER In Bubble Gum Simulator Spring Update! \*Giveaway\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=1xs1AVkCjGw
+    * FREE SEASON 9 SHINY BUBBLE PASS PET CODES IN BUBBLE GUM SIMULATOR! \*FREE SPRING PETS\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=xaw1PeEFD2s
+    * SECRET 1 MILLION $$$ BUILD QUEST IN SKYBLOCK!? Roblox Skyblock
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Yc2_DE7Bt98
+    * I Made MAX HIGHT \*BROKEN\* AUTOFARM In Roblox Skyblock (Free MILLIONS Daily!)
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=_gwkqWuz-W4
+    * I Made A MULTI MILLION $$ SKYBLOCK ISLAND \*INSTANT RICH\* Roblox SkyBlock
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=IDmKXijJL2Q
+    * 7 FREE Shiny MYTHICAL Pet Codes In Bubble Gum Simulator Update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=3cazQpaRjrs
+    * The RICHEST ADOPT ME ACCOUNT! \*BUYING 1,000,000 BUCKS!\* | Roblox Adopt Me Gameplay
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=_Xs__xxpYks
+    * The RICHEST ADOPT ME ACCOUNT! \*Buying 1,000,000 BUCKS!\* Roblox Adopt Me Gameplay
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=v92Ce1CAeoM
+    * Trading This SECRET LEGENDARY ITEM Got me NEW LEGENDARY PETS! Adopt Me Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=fnS2tNkCyCw
+    * We Found A HIDDEN EXTRA Scoob! QUEST in Adopt Me! \*FREE MEGA NEON?!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=EY8WZcMirvo
+    * Pet REWORK & RIP Twitter Codes In Adopt Me!? Roblox Adopt Me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Egsd0Aj7d8U
     * ALL Adopt me "HACKS" and Secrets In Adopt Me! Roblox Adopt Me
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=zAvtjbmQAyA
@@ -7312,6 +7355,12 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=DCsV0c7K5qE
 * Snug Life (YT_SnugLife)
   * Other
+    * MASSIVE CHEST AT SPAWN HAS BEEN DESTROYED! GOALS HAVE BEEN REACHED! NEW REWARD? | SNEEZING SIMULATOR
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=Uwn7ve1P-BY
+    * I Broke the game in the new Carnival Update..... | Sneezing Simulator
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=FWwAA1hiM9Y
     * I ACCIDENTALLY DELETED THE NEW \*MYTHIC\* PURPLE SPARKLE TIME FEDORA IN SNEEZING SIMULATORS NEW UPDATE
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
       * URL: https://www.youtube.com/watch?v=yRRwd3t7ZRw
