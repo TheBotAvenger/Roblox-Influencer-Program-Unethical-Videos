@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 24, 2020<br>
+Generated May 25, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -366,7 +366,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Z00LD 
 * ZaiLetsPlay (YT_ZaiLetsPlay)
 * Zerophyx (Zerophyx)
-* ZNac (Z_Nac and BlakeBroYoutube)
+* ZNac (Z_Nac and chiIlthill709)
 * ZULY (ItsZulyYT)
 
 ### Videos Found
@@ -7232,7 +7232,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX REMOVES LIMITEDS FOR RTHRO LTD!?
       * Description references a Robux giveaway on Twitter.
       * URL: https://www.youtube.com/watch?v=yEDwbsr4ii8
-* Realistic Gaming (ImTheRealRG)
+* Realistic Gaming (ImTheRealRealistic)
   * Information Collection
     * HOW TO GET FREE ROBUX in 2018! APP THAT GIVES YOU ROBUX FOR PLAYING GAMES! FREE ROBUX 2018
       * Description references a download for a data collection mobile app.
