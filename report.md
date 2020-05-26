@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 25, 2020<br>
+Generated May 26, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 255,426 videos
-* Total videos found that match keywords: 14,435 videos
-  * Total unprocessed videos: 2,728 videos
-* Total videos found that are processed and marked: 2,582 videos 
-  * Information Collection: 1,609 videos
+* Total videos: 256,619 videos
+* Total videos found that match keywords: 14,513 videos
+  * Total unprocessed videos: 2,799 videos
+* Total videos found that are processed and marked: 2,589 videos 
+  * Information Collection: 1,616 videos
   * Non-Giftcard Robux Giveaways: 852 videos
   * Other: 95 videos
   * Phishing: 26 videos
@@ -450,6 +450,27 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * TRADING, NEW TOTEMS AND SLIMES IN SKYBLOCK UPDATE SOON?! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Blsv1XGpqSA
+    * How To Get FREE MAXED MYTHIC SPRING PETS In Bubble Gum Simulator!! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=YIXOfzOmgFc
+    * How To Get EVERY Vine Egg Pet For FREE!! In Bubble Gum Simulator Roblox \*SUPER OP\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=GJYHHsMH7mo
+    * All \*FREE\* SPRING DRAGON REWARD PET Codes In Bubble gum simulator update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=UneGbjznEM4
+    * I Let Fans Do ANYTHING To My Roblox Skyblock Island... \*BAD IDEA!?\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=9uzCeNtysGM
+    * Making A \*GLITCHED\* Glass Onion Farm In Roblox Skyblock \*MASSIVE BUG\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Am1IDZ7i3tg
+    * ALL 37 \*FINAL\* Update Codes in Ninja Legends \*RIP\* Roblox Ninja Legends
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=2hhNqMcQGGE
     * HOW TO GET \*FREE\* GILDED GOD TOOLS IN ROBLOX SKYBLOCK!!
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=XU_46hHluL8
