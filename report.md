@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 26, 2020<br>
+Generated May 27, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,12 +184,12 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 256,619 videos
 * Total videos found that match keywords: 14,513 videos
-  * Total unprocessed videos: 2,799 videos
-* Total videos found that are processed and marked: 2,589 videos 
-  * Information Collection: 1,616 videos
-  * Non-Giftcard Robux Giveaways: 852 videos
-  * Other: 95 videos
-  * Phishing: 26 videos
+  * Total unprocessed videos: 3,178 videos
+* Total videos found that are processed and marked: 2,574 videos 
+  * Information Collection: 1,615 videos
+  * Non-Giftcard Robux Giveaways: 839 videos
+  * Other: 93 videos
+  * Phishing: 27 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -205,6 +205,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ayzria (Ayzria)
 * Bandi (BandiRue)
 * Bebe Adri (BebeAdriYT)
+* BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
 * Bia Gamer (BiiiaGamerYT)
 * BLAH SQUAD (BLAH_Squad)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
@@ -221,7 +222,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Collins Kosuke (Kosukei)
-* ComfySunday (ComfySunday)
 * Conor3D (Conor3D)
 * CPat (StarC0de_CPAT)
 * Crainer Roblox 
@@ -297,6 +297,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lawlieet 20 (XLAWLIEETX)
 * Leah Ashe (NotLeah)
 * Legolaz (LegolazYoutube)
+* locus (locus200k)
 * Lokis (lokis9340)
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
@@ -312,6 +313,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Milo Mine (BebeMiloAmiwito)
 * MooseCraft Roblox (MooseCraftRoblox)
 * MrLokazo86 (Lokazo86)
+* MyUsernamesThis (UseStarCode_BACON)
 * NapkinNate (NapkinNate)
 * Natasha Panda (NatashaPandaaYT)
 * Nezi Plays Roblox (NeziPlaysROBLOX)
@@ -414,11 +416,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SNEEZING On 9999 PEOPLE in Sneezing simulator! // Roblox
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
       * URL: https://www.youtube.com/watch?v=Sl0h1X-pXfs
-* BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
-  * Other
-    * GOT THE RONA in ROBLOX | SNEEZING SIMULATOR
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=bstE2x5chO8
 * Betroner y Noangy (Betroner and Noangy)
   * Non-Giftcard Robux Giveaways
     * Robux para ti! Mejor que los eventos de Roblox!
@@ -443,6 +440,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Giving A Noob 50,000 Robux!! (He Went Mad!)
       * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=YYWu5J6ryPo
+* ComfySunday (ComfySunday)
+  * Phishing
+    * Giving A Fan A 5,000 ROBUX MAKEOVER! | ROBLOX
+      * Offers to give Robux in exchange for a username and password over Discord.
+      * URL: https://www.youtube.com/watch?v=g49cxhhSGkc
 * Cylito (Cylito)
   * Non-Giftcard Robux Giveaways
     * Bloxburg: Victorian Roleplay House 62K
@@ -2868,9 +2870,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=Z93A9lAF90E
 * Denis (DenisDaily)
   * Information Collection
-    * SIR MEOWS A LOT TAKES OVER ROBLOX!
-      * Description references the data collection website growbux.net.
-      * URL: https://www.youtube.com/watch?v=dwbGKuIDfxA
     * *HOW TO GET FREE ROBUX... I'm not even kidding*
       * *Description references the data collection website growbux.net.*
       * *URL: https://www.youtube.com/watch?v=7Q80_9-GgmU*
@@ -6120,11 +6119,6 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * IF YOU FIND ME, WIN 15,000 ROBUX!! (Fan HIDE & SEEK Challenge) - Linkmon99 ROBLOX
       * URL: https://www.youtube.com/watch?v=aQVzK3xhRAs
-* locus (locus200k)
-  * Non-Giftcard Robux Giveaways
-    * I Trapped 100 Kids And Gave Them Swords... Winner Gets 1000 ROBUX! (Roblox)
-      * Uses group funds to give away Robux for a competition.
-      * URL: https://www.youtube.com/watch?v=_Sz6sWDSoqs
 * LOGinHDi (L0GinHDi)
   * Non-Giftcard Robux Giveaways
     * If I Get Scared.. I Giveaway Robux!
@@ -6260,11 +6254,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * (Giveaway Ended)
       * Video shows giving away Robux using group funds for specific amounts based on paid access rates for games.
       * URL: https://www.youtube.com/watch?v=0BK6m8uRrNU
-* MyUsernamesThis (UseStarCode_BACON)
-  * Non-Giftcard Robux Giveaways
-    * HIDE and SEEK on NEW MAP for 3000 ROBUX! | Roblox Jailbreak
-      * Uses group funds to give away Robux for a competition.
-      * URL: https://www.youtube.com/watch?v=5UQfA8iJm8s
 * NikTac 
   * Non-Giftcard Robux Giveaways
     * \*SECRET\* HALLOWEEN BEES & EVIL BEAR COMING IN Roblox Bee Swarm Simulator!? (Update Theory)
@@ -7185,12 +7174,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKING AND GIVING A FAN FREE ROBUX ON ROBLOX!!
       * URL: https://www.youtube.com/watch?v=dQEnfrcMALQ
   * Non-Giftcard Robux Giveaways
-    * IMPOSSIBLE HIDE AND SEEK WITH MORPH COMMAND!  (Roblox)
-      * URL: https://www.youtube.com/watch?v=a80GNiucA_c
-    * I Trapped A POKE HATER In My \*SECRET\* ESCAPE ROOM! (Roblox)
-      * URL: https://www.youtube.com/watch?v=h9BR34DoLzQ
-    * IF THEY CHOOSE THE RIGHT CUP, THEY WIN FREE ROBUX! (Roblox)
-      * URL: https://www.youtube.com/watch?v=zO9TU0qdcIo
     * BELIEVE I'M POKE, WIN 1000 ROBUX! (Roblox)
       * URL: https://www.youtube.com/watch?v=R1_7Zp5RN2A
 * Rainway (UseCode_Rainway)
@@ -7354,9 +7337,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
 * Seniac (MrSeniac)
   * Other
-    * ROBLOX SNEEZING SIMULATOR
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=dtQF432tcyM
     * HOW TO GET FREE ROBUX!
       * Description references the "black market for limiteds" and information collection website rbx.place.
       * URL: https://www.youtube.com/watch?v=EakQDIc9ZLM
@@ -7729,30 +7709,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
 * TeraBrite Games (SabrinaBrite and DJMonopoli)
   * Non-Giftcard Robux Giveaways
-    * GOTTA CATCH EM ALL! \#3 | ROBLOX - Pokemon Brick Bronze | TeraBrite Games
-      * Uses group funds to giveaway Robux.
-      * URL: https://www.youtube.com/watch?v=S4XIsjE7blA
-    * 🚙 NEW JAILBREAK ATV UPDATE! | ATVs, DONUT STORE & TIRE POPPING! | ROBLOX JAILBREAK UPDATE
-      * Uses group funds to giveaway Robux.
-      * URL: https://www.youtube.com/watch?v=ZQzPEVYATEA
-    * GOTTA CATCH EM ALL! \#2 | ROBLOX - Pokemon Brick Bronze | TeraBrite Games
-      * Uses group funds to giveaway Robux.
-      * URL: https://www.youtube.com/watch?v=ldKGLO3-mkY
-    * IT'S MY BIRTHDAY! | ROBLOX | TeraBrite Games
-      * Uses group funds to giveaway Robux.
-      * URL: https://www.youtube.com/watch?v=9v2Y5pJeedc
-    * GETTING A MOTORCYCLE! | JAILBREAK ROBLOX | TeraBrite Games
-      * Uses group funds to giveaway Robux.
-      * URL: https://www.youtube.com/watch?v=XX6MM-8n_LE
-    * VIEWER BATTLES! | Pokemon Brick Bronze ROBLOX | TeraBrite Games
-      * Uses group funds to giveaway Robux.
-      * URL: https://www.youtube.com/watch?v=aJ0CxvQkBwI
-    * MOTORCYCLES IN JAILBREAK! | ROBLOX | TeraBrite Games
-      * Uses group funds to giveaway Robux.
-      * URL: https://www.youtube.com/watch?v=tWrF1SHyJjQ
-    * NEW MAP YAY! | Murder Mystery 2 ROBLOX | TeraBrite Games
-      * Uses group funds to giveaway Robux.
-      * URL: https://www.youtube.com/watch?v=z8J3eihTnts
     * ARCADE UPDATE & GETTING DITTO | Pokemon Brick Bronze
       * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=kDes9B7s9Lw
