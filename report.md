@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 31, 2020<br>
+Generated June 1, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -206,7 +206,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bandi (BandiRue)
 * Bebe Adri (BebeAdriYT)
 * Bia Gamer (BiiiaGamerYT)
-* BLAH SQUAD (BLAH_Squad)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * bobjenz 
 * BramP (bramp1996)
@@ -220,6 +219,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cerso (Cerso93)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
+* Chyna Gaming (Iamchynagaming)
 * Collins Kosuke (Kosukei)
 * Conor3D (Conor3D)
 * CPat (StarC0de_CPAT)
@@ -4034,7 +4034,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * WHEN A STRANGER FINDS 1,000 ROBUX | Roblox Social Experiment
       * Randomly gives out Robux using a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=wgXTsve1zOs
-* IntelPlayz (UseCode_IntelPlayz)
+* IntelPlayz (PengGotBars)
   * Information Collection
     * THE PORTAL FINALLY OPENED | Pet Simulator
       * Description references the data collection website irobux.com.
@@ -7995,7 +7995,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=Qr-olKdTSgA
     * HACKING A FAN'S ROBLOX ACCOUNT! (I SPENT ALL THEIR ROBUX)
       * URL: https://www.youtube.com/watch?v=6_Xb00zC_m4
-* VeD\_DeV (VeD\_DeV)
+* VeD\_DeV (UseC0de\_VEDDEV)
   * Non-Giftcard Robux Giveaways
     * DO NOT MOVE TO WIN ROBUX in Jailbreak! (Roblox)
       * URL: https://www.youtube.com/watch?v=m6ueDABWlE0
