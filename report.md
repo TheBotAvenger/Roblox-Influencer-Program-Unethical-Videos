@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 1, 2020<br>
+Generated June 2, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 256,619 videos
-* Total videos found that match keywords: 14,513 videos
-  * Total unprocessed videos: 2,728 videos
-* Total videos found that are processed and marked: 2,590 videos 
-  * Information Collection: 1,616 videos
+* Total videos: 257,799 videos
+* Total videos found that match keywords: 14,591 videos
+  * Total unprocessed videos: 2,799 videos
+* Total videos found that are processed and marked: 2,597 videos 
+  * Information Collection: 1,622 videos
   * Non-Giftcard Robux Giveaways: 852 videos
-  * Other: 95 videos
+  * Other: 96 videos
   * Phishing: 27 videos
 
 ### No Videos Found
@@ -454,6 +454,24 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * I Made INFINITE VENDING MACHINES But EVERYTHING Is FREE IN Roblox Skyblock!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=umx_A5biOww
+    * Bought The HIDDEN SECRET PET For 750 BILLION Flowers!! 2X Flower Event In Bubble Gum Simulator!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=-3bNIwyN1-0
+    * SECRET 500,000 CARROT CHALLENGE IN ROBLOX SKYBLOCK \*FREE 12 MILLION $$$\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=wrXBODitim8
+    * Went From Noob To LEGEND In Clicking Simulator 2.0! Earned 10 BILLION Rebirths!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vSEiWryBdlg
+    * I Hired YOUTUBERS Builders For $5,000,000 And THIS Happened In Sky Block Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=W5oD0tj4hZs
+    * NEW POTATOES, BUILD BLOCKS AND MORE IN ROBLOX SKYBLOCK UPDATE! \*NEW MEGAFARMS\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vm-hMkCZB7s
     * TRADING, NEW TOTEMS AND SLIMES IN SKYBLOCK UPDATE SOON?! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=Blsv1XGpqSA
@@ -7384,6 +7402,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=DCsV0c7K5qE
 * Snug Life (YT_SnugLife)
   * Other
+    * I \*CRAFTED\* a SHINY BEACH MYTHIC HAT! 20,000,000 TOTAL INFECT! \*SUPER OP!\* In Sneezing Simulator!
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=4WAP4u2-l7k
     * MASSIVE CHEST AT SPAWN HAS BEEN DESTROYED! GOALS HAVE BEEN REACHED! NEW REWARD? | SNEEZING SIMULATOR
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
       * URL: https://www.youtube.com/watch?v=Uwn7ve1P-BY
