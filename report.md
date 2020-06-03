@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 2, 2020<br>
+Generated June 3, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,11 +184,11 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 257,799 videos
 * Total videos found that match keywords: 14,591 videos
-  * Total unprocessed videos: 2,799 videos
-* Total videos found that are processed and marked: 2,597 videos 
-  * Information Collection: 1,622 videos
-  * Non-Giftcard Robux Giveaways: 852 videos
-  * Other: 96 videos
+  * Total unprocessed videos: 3,150 videos
+* Total videos found that are processed and marked: 2,585 videos 
+  * Information Collection: 1,615 videos
+  * Non-Giftcard Robux Giveaways: 849 videos
+  * Other: 94 videos
   * Phishing: 27 videos
 
 ### No Videos Found
@@ -205,6 +205,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ayzria (Ayzria)
 * Bandi (BandiRue)
 * Bebe Adri (BebeAdriYT)
+* BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
 * Bia Gamer (BiiiaGamerYT)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * bobjenz 
@@ -413,11 +414,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SNEEZING On 9999 PEOPLE in Sneezing simulator! // Roblox
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
       * URL: https://www.youtube.com/watch?v=Sl0h1X-pXfs
-* BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
-  * Other
-    * GOT THE RONA in ROBLOX | SNEEZING SIMULATOR
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=bstE2x5chO8
 * Betroner y Noangy (Betroner and Noangy)
   * Non-Giftcard Robux Giveaways
     * Robux para ti! Mejor que los eventos de Roblox!
@@ -2890,9 +2886,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=Z93A9lAF90E
 * Denis (DenisDaily)
   * Information Collection
-    * SIR MEOWS A LOT TAKES OVER ROBLOX!
-      * Description references the data collection website growbux.net.
-      * URL: https://www.youtube.com/watch?v=dwbGKuIDfxA
     * *HOW TO GET FREE ROBUX... I'm not even kidding*
       * *Description references the data collection website growbux.net.*
       * *URL: https://www.youtube.com/watch?v=7Q80_9-GgmU*
@@ -6205,41 +6198,11 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website bloxawards.com.
       * Description references the data collection website rbxpoints.com.
       * URL: https://www.youtube.com/watch?v=023PVydZDjE
-    * Roblox - CONSEGUI O "Bee Axe" (Lumber Tycoon 2)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpoints.com.
-      * URL: https://www.youtube.com/watch?v=v9QNVIpRM_s
     * Roblox - OQUE VEM DENTRO DE CADA PRESENTE DA ATUALIZAÇÃO!! (Lumber Tycoon 2)
       * Description references the data collection website oprewards.com.
       * Description references the data collection website bloxawards.com.
       * Description references the data collection website rbxpoints.com.
       * URL: https://www.youtube.com/watch?v=AxoEYU2x5mg
-    * Roblox - MOSTRANDO O CÓDIGO 8!! (Lumber Tycoon 2)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpoints.com.
-      * URL: https://www.youtube.com/watch?v=vVnfW4CAkWA
-    * Roblox - COMO CONSEGUIR O SUPOSTO "Bee Axe" (Lumber Tycoon 2)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpoints.com.
-      * URL: https://www.youtube.com/watch?v=-Lc2nobh8E8
-    * Roblox - MOSTRANDO O CÓDIGO 7!!, E EXPLICANDO OS CÓDIGOS 1, 2, e 3 (Lumber Tycoon 2)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpoints.com.
-      * URL: https://www.youtube.com/watch?v=aHi3L6QUJZ8
-    * Roblox - O PRESENTE DO LABIRINTO!! (Lumber Tycoon 2)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpoints.com.
-      * URL: https://www.youtube.com/watch?v=8d3U25QHg_s
-    * MELHOR RÉPLICA DO CLUB DAS WINX NO ROBLOX!!
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpoints.com.
-      * URL: https://www.youtube.com/watch?v=TreMy4yhGN0
     * MELHOR REPLICA DE CUPHEAD NO ROBLOX!!
       * Description references the data collection website oprewards.com.
       * Description references the data collection website bloxawards.com.
@@ -7207,12 +7170,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKING AND GIVING A FAN FREE ROBUX ON ROBLOX!!
       * URL: https://www.youtube.com/watch?v=dQEnfrcMALQ
   * Non-Giftcard Robux Giveaways
-    * IMPOSSIBLE HIDE AND SEEK WITH MORPH COMMAND!  (Roblox)
-      * URL: https://www.youtube.com/watch?v=a80GNiucA_c
-    * I Trapped A POKE HATER In My \*SECRET\* ESCAPE ROOM! (Roblox)
-      * URL: https://www.youtube.com/watch?v=h9BR34DoLzQ
-    * IF THEY CHOOSE THE RIGHT CUP, THEY WIN FREE ROBUX! (Roblox)
-      * URL: https://www.youtube.com/watch?v=zO9TU0qdcIo
     * BELIEVE I'M POKE, WIN 1000 ROBUX! (Roblox)
       * URL: https://www.youtube.com/watch?v=R1_7Zp5RN2A
 * Rainway (UseCode_Rainway)
@@ -7376,9 +7333,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
 * Seniac (MrSeniac)
   * Other
-    * ROBLOX SNEEZING SIMULATOR
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=dtQF432tcyM
     * HOW TO GET FREE ROBUX!
       * Description references the "black market for limiteds" and information collection website rbx.place.
       * URL: https://www.youtube.com/watch?v=EakQDIc9ZLM
