@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 7, 2020<br>
+Generated June 8, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -366,7 +366,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Z00LD 
 * ZaiLetsPlay (YT_ZaiLetsPlay)
 * Zerophyx (Zerophyx)
-* ZNac (Z_Nac and chiIlthill709)
+* ZNac (Z_Nac and DatDinoPoo123)
 * ZULY (ItsZulyYT)
 
 ### Videos Found
@@ -387,7 +387,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * VIRUS SIMULATOR?! - Roblox \[Deutsch/HD\]
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
       * URL: https://www.youtube.com/watch?v=FD6SJcbDIAY
-* AshleyTheUnicorn (ashelycoin)
+* AshleyTheUnicorn (codeeunicorn)
   * Phishing
     * HACKING A FAN AND GIVING THEM FREE ROBUX IN ROBLOX!
       * URL: https://www.youtube.com/watch?v=cpnK6Dnu2M4
@@ -7970,7 +7970,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=Qr-olKdTSgA
     * HACKING A FAN'S ROBLOX ACCOUNT! (I SPENT ALL THEIR ROBUX)
       * URL: https://www.youtube.com/watch?v=6_Xb00zC_m4
-* VeD\_DeV (UseC0de\_VEDDEV)
+* VeD\_DeV (VeD\_DeV)
   * Non-Giftcard Robux Giveaways
     * DO NOT MOVE TO WIN ROBUX in Jailbreak! (Roblox)
       * URL: https://www.youtube.com/watch?v=m6ueDABWlE0
