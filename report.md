@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 8, 2020<br>
+Generated June 9, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 257,799 videos
 * Total videos found that match keywords: 14,591 videos
-  * Total unprocessed videos: 3,150 videos
-* Total videos found that are processed and marked: 2,585 videos 
+  * Total unprocessed videos: 3,079 videos
+* Total videos found that are processed and marked: 2,586 videos 
   * Information Collection: 1,615 videos
-  * Non-Giftcard Robux Giveaways: 849 videos
+  * Non-Giftcard Robux Giveaways: 850 videos
   * Other: 94 videos
   * Phishing: 27 videos
 
@@ -6247,6 +6247,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=0BK6m8uRrNU
 * MyUsernamesThis (UseStarCode_BACON)
   * Non-Giftcard Robux Giveaways
+    * FIRST to FIND ME WINS 1000 ROBUX! | Roblox Jailbreak
+      * Uses group funds to give away Robux for a competition.
+      * URL: https://www.youtube.com/watch?v=duvl59tIFe0
     * HIDE and SEEK on NEW MAP for 3000 ROBUX! | Roblox Jailbreak
       * Uses group funds to give away Robux for a competition.
       * URL: https://www.youtube.com/watch?v=5UQfA8iJm8s
