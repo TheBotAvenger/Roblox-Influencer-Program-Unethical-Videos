@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 9, 2020<br>
+Generated June 10, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,11 +184,11 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 257,799 videos
 * Total videos found that match keywords: 14,591 videos
-  * Total unprocessed videos: 3,079 videos
-* Total videos found that are processed and marked: 2,586 videos 
-  * Information Collection: 1,615 videos
-  * Non-Giftcard Robux Giveaways: 850 videos
-  * Other: 94 videos
+  * Total unprocessed videos: 2,728 videos
+* Total videos found that are processed and marked: 2,592 videos 
+  * Information Collection: 1,616 videos
+  * Non-Giftcard Robux Giveaways: 853 videos
+  * Other: 96 videos
   * Phishing: 27 videos
 
 ### No Videos Found
@@ -205,7 +205,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ayzria (Ayzria)
 * Bandi (BandiRue)
 * Bebe Adri (BebeAdriYT)
-* BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
 * Bia Gamer (BiiiaGamerYT)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * bobjenz 
@@ -414,6 +413,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SNEEZING On 9999 PEOPLE in Sneezing simulator! // Roblox
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
       * URL: https://www.youtube.com/watch?v=Sl0h1X-pXfs
+* BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
+  * Other
+    * GOT THE RONA in ROBLOX | SNEEZING SIMULATOR
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=bstE2x5chO8
 * Betroner y Noangy (Betroner and Noangy)
   * Non-Giftcard Robux Giveaways
     * Robux para ti! Mejor que los eventos de Roblox!
@@ -2886,6 +2890,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=Z93A9lAF90E
 * Denis (DenisDaily)
   * Information Collection
+    * SIR MEOWS A LOT TAKES OVER ROBLOX!
+      * Description references the data collection website growbux.net.
+      * URL: https://www.youtube.com/watch?v=dwbGKuIDfxA
     * *HOW TO GET FREE ROBUX... I'm not even kidding*
       * *Description references the data collection website growbux.net.*
       * *URL: https://www.youtube.com/watch?v=7Q80_9-GgmU*
@@ -7173,6 +7180,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKING AND GIVING A FAN FREE ROBUX ON ROBLOX!!
       * URL: https://www.youtube.com/watch?v=dQEnfrcMALQ
   * Non-Giftcard Robux Giveaways
+    * IMPOSSIBLE HIDE AND SEEK WITH MORPH COMMAND!  (Roblox)
+      * URL: https://www.youtube.com/watch?v=a80GNiucA_c
+    * I Trapped A POKE HATER In My \*SECRET\* ESCAPE ROOM! (Roblox)
+      * URL: https://www.youtube.com/watch?v=h9BR34DoLzQ
+    * IF THEY CHOOSE THE RIGHT CUP, THEY WIN FREE ROBUX! (Roblox)
+      * URL: https://www.youtube.com/watch?v=zO9TU0qdcIo
     * BELIEVE I'M POKE, WIN 1000 ROBUX! (Roblox)
       * URL: https://www.youtube.com/watch?v=R1_7Zp5RN2A
 * Rainway (UseCode_Rainway)
@@ -7336,6 +7349,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
 * Seniac (MrSeniac)
   * Other
+    * ROBLOX SNEEZING SIMULATOR
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=dtQF432tcyM
     * HOW TO GET FREE ROBUX!
       * Description references the "black market for limiteds" and information collection website rbx.place.
       * URL: https://www.youtube.com/watch?v=EakQDIc9ZLM
