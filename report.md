@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 14, 2020<br>
+Generated June 15, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -4052,7 +4052,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * WHEN A STRANGER FINDS 1,000 ROBUX | Roblox Social Experiment
       * Randomly gives out Robux using a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=wgXTsve1zOs
-* IntelPlayz (PengGotBars)
+* IntelPlayz (IntelPlayzWasTaken)
   * Information Collection
     * THE PORTAL FINALLY OPENED | Pet Simulator
       * Description references the data collection website irobux.com.
@@ -7807,7 +7807,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=ilMQ9WXxCbY
     * 20K CONTEST || ROBUX REWARDS!
       * URL: https://www.youtube.com/watch?v=ZpZQ6bOAA9w
-* TheOfficial Fuzion (TheOfficial_FuzionYT)
+* TheOfficial Fuzion 
   * Information Collection
     * I found another SECRET in the BOSS AREA!! | Build a boat for Treasure ROBLOX
       * Description references the data collection website gainrobux.gg.
