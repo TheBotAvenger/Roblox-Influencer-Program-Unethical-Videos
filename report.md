@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 22, 2020<br>
+Generated June 23, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 259,951 videos
-* Total videos found that match keywords: 14,591 videos
-  * Total unprocessed videos: 2,728 videos
-* Total videos found that are processed and marked: 2,592 videos 
-  * Information Collection: 1,616 videos
+* Total videos: 261,105 videos
+* Total videos found that match keywords: 14,696 videos
+  * Total unprocessed videos: 2,825 videos
+* Total videos found that are processed and marked: 2,600 videos 
+  * Information Collection: 1,624 videos
   * Non-Giftcard Robux Giveaways: 853 videos
   * Other: 96 videos
   * Phishing: 27 videos
@@ -454,6 +454,30 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * I Had 1 hour To Trade A Kitty In Bubble Gum Simulator.. AND GOT THESE PETS!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=LgU12BtFlPw
+    * NEW OMEGA SPACE PET TAPPING SIMULATOR CODES! \*3.31 SP TAPS!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=da2BGKwLqGo
+    * NEW Washing Station CHANGED AUTOFARMS FOREVER.. In Roblox Skyblock \*NEW BEST FARM\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=KnrBUI8UEb8
+    * ALL 20 MYTHICAL GEM PET CODES IN FISHING SIMULATOR! \*MAGIC MYTHICAL PETS\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=hyC1oU5QVYg
+    * 25 FREE MYTHIC Jumbo June Pack CODES IN BEE SWARM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VA0sHpm4eCQ
+    * New $10,000,000 Lottery Vending Machine In Roblox Skyblock! \*INSANE MONEY\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=d4Rk-f8rFGg
+    * This Update Could END Bubble Gum Simulator 😭 \*GIANT METEOR\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=xgpinLX9xr8
+    * 😔Noob VS 😎Pro VS 😈HACKERS In ROBLOX SKYBLOCK! \*Funny\*✨
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=sFXytKCo3l0
     * I Made INFINITE VENDING MACHINES But EVERYTHING Is FREE IN Roblox Skyblock!
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=umx_A5biOww
