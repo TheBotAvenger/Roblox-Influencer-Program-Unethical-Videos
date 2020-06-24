@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 23, 2020<br>
+Generated June 24, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,11 +184,11 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 261,105 videos
 * Total videos found that match keywords: 14,696 videos
-  * Total unprocessed videos: 2,825 videos
-* Total videos found that are processed and marked: 2,600 videos 
-  * Information Collection: 1,624 videos
-  * Non-Giftcard Robux Giveaways: 853 videos
-  * Other: 96 videos
+  * Total unprocessed videos: 3,054 videos
+* Total videos found that are processed and marked: 2,573 videos 
+  * Information Collection: 1,600 videos
+  * Non-Giftcard Robux Giveaways: 852 videos
+  * Other: 94 videos
   * Phishing: 27 videos
 
 ### No Videos Found
@@ -205,6 +205,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ayzria (Ayzria)
 * Bandi (BandiRue)
 * Bebe Adri (BebeAdriYT)
+* BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
 * Bia Gamer (BiiiaGamerYT)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * bobjenz 
@@ -333,6 +334,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
 * Remainings (Remainings)
+* ROBLOXMuff (Intervin)
 * Robotz (R_obotz)
 * RoTomek (RoTomek1)
 * Ruby Games (ruby_rubeYT)
@@ -391,6 +393,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKING A FAN AND GIVING THEM FREE ROBUX IN ROBLOX!
       * URL: https://www.youtube.com/watch?v=cpnK6Dnu2M4
   * Non-Giftcard Robux Giveaways
+    * Win 10,000 ROBUX In THIS NEW Bloxburg Obby! (Roblox)
+      * Uses group funds to give away Robux for a competition.
+      * URL: https://www.youtube.com/watch?v=ksrEdvk2WrI
     * How To Get FREE GAMEPASSES In Bloxburg and Tips And Tricks! (Roblox)
       * Video shows giving away Robux using group funds for specific amounts based on paid access rates for games.
       * URL: https://www.youtube.com/watch?v=9skyudqZPkg
@@ -413,11 +418,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SNEEZING On 9999 PEOPLE in Sneezing simulator! // Roblox
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
       * URL: https://www.youtube.com/watch?v=Sl0h1X-pXfs
-* BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
-  * Other
-    * GOT THE RONA in ROBLOX | SNEEZING SIMULATOR
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=bstE2x5chO8
 * Betroner y Noangy (Betroner and Noangy)
   * Non-Giftcard Robux Giveaways
     * Robux para ti! Mejor que los eventos de Roblox!
@@ -1751,9 +1751,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET CIRCUS EVENT PET UPDATE CODES IN BUBBLE GUM SIMULATOR! \*INSANE PETS\* Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=6s7rHCRJ_IM
-    * SECRET INFINITE FREE Z-MASTER PET CODES BREAK NINJA LEGENDS! Roblox \*INFINITE MONEY\*
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=fTF6WckLJlg
     * INFINITE FLOWER CURRENCY 50X PET CODES IN LAWN MOWING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=4CLdShxdM4c
@@ -2914,9 +2911,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=Z93A9lAF90E
 * Denis (DenisDaily)
   * Information Collection
-    * SIR MEOWS A LOT TAKES OVER ROBLOX!
-      * Description references the data collection website growbux.net.
-      * URL: https://www.youtube.com/watch?v=dwbGKuIDfxA
     * *HOW TO GET FREE ROBUX... I'm not even kidding*
       * *Description references the data collection website growbux.net.*
       * *URL: https://www.youtube.com/watch?v=7Q80_9-GgmU*
@@ -4342,9 +4336,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * One Plot Challenge Getting Started (Season 2) | Lumber Tycoon 2
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=-iwYu8QAm-c
-    * 50 RAINBOW SHOCKS vs RAREST CHEST | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=LyXiheH_zYw
     * WATCH ME DUPE (Trolling) | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=CRd2Reni498
@@ -5053,9 +5044,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMPRANDO O NOVO PET E FAZENDO BURACOS NEGROS NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=au-3SdBtJg0
-    * NOVO CÓDIGO DE PET E COMPRANDO O PET DE 500,000 MONEY NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=9y35Lqjafco
     * OQUE VAI VIR NA ATUALIZAÇÃO DE EXPANSÃO NO SNOW SHOVELING SIMULATOR ?❄️ - ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=B7AHcVZc4ms
@@ -6281,9 +6269,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FIRST to FIND ME WINS 1000 ROBUX! | Roblox Jailbreak
       * Uses group funds to give away Robux for a competition.
       * URL: https://www.youtube.com/watch?v=duvl59tIFe0
-    * HIDE and SEEK on NEW MAP for 3000 ROBUX! | Roblox Jailbreak
-      * Uses group funds to give away Robux for a competition.
-      * URL: https://www.youtube.com/watch?v=5UQfA8iJm8s
 * NikTac 
   * Non-Giftcard Robux Giveaways
     * \*SECRET\* HALLOWEEN BEES & EVIL BEAR COMING IN Roblox Bee Swarm Simulator!? (Update Theory)
@@ -7196,10 +7181,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=nO7J7m7NpBY
 * Poke (Pokediger1)
-  * Other
-    * SPIN THE ROBLOX DEATH WHEEL (HE LOST 25,000 ROBUX)
-      * Video is about a wheel that has a chance to win or spend Robux.
-      * URL: https://www.youtube.com/watch?v=3vQT9KP6EeE
   * Phishing
     * HACKING AND GIVING A FAN FREE ROBUX ON ROBLOX!!
       * URL: https://www.youtube.com/watch?v=dQEnfrcMALQ
@@ -7301,11 +7282,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TROLLING A SCAMMER ON ROBLOX - WE EXPLOITED HIM
       * Video contains a lot of explicit text.
       * URL: https://www.youtube.com/watch?v=PwJ7jKxJ3Tc
-* ROBLOXMuff (Intervin)
-  * Information Collection
-    * Poor To Rich 2 | Roblox A Sad Bloxburg Movie
-      * Description references the data collection website rbxtoys.com.
-      * URL: https://www.youtube.com/watch?v=CLFAnszu3nk
 * RODNY (RODNY_ROBLOX)
   * Information Collection
     * ESCAPANDO de la PRISIÓN de ROBLOX!!! 😂 | RODNY ROBLOX
@@ -7836,30 +7812,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I found another SECRET in the BOSS AREA!! | Build a boat for Treasure ROBLOX
       * Description references the data collection website gainrobux.gg.
       * URL: https://www.youtube.com/watch?v=3yF-6-iXOo0
-    * 99% OF PEOPLE MISSED THIS SECRET... | Build a boat for Treasure ROBLOX
-      * Description references the data collection website gainrobux.gg.
-      * URL: https://www.youtube.com/watch?v=r2vHSDiWfn4
     * HOW TO START THE NEW BOSS!! | Build a boat for Treasure ROBLOX
       * Description references the data collection website gainrobux.gg.
       * URL: https://www.youtube.com/watch?v=ZUjpXxPlkXI
-    * UPDATE INCOMING! (plushies, Boss, Secrets & codes) | Build a boat for Treasure ROBLOX
-      * Description references the data collection website gainrobux.gg.
-      * URL: https://www.youtube.com/watch?v=FBEgC1qlEQo
-    * \*NEW\* 5 BEST CODES OF ALL TIME!! (Redeem FAST) | Build a boat for Treasure ROBLOX
-      * Description references the data collection website gainrobux.gg.
-      * URL: https://www.youtube.com/watch?v=frpjRiypsk0
-    * \*HUGE\* SECRET AREA!! (best update) | Build a boat for Treasure ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Susicjaz_FU
-    * \*NEW\* REVOLVER GUN UPDATE!! 🔫| Build a boat For Treasure ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=p02BA6AUJ2s
-    * \*NEW\* EGGS HATCHING CODE!! | Build a boat for Treasure ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=ky-Y1L2oWkY
-    * 4 WORKING \*NEW\* CODES! (April 2019) | Build a boat For Treasure ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=0OF9kcfPGSo
     * NEW BLOCK LOCATION! \*HARD TO FIND\* | Build a boat For Treasure ROBLOX
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=AUn3fHpQzcg
@@ -7872,9 +7827,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * THE \#1 BEST CODE EVER! | Build a boat For Treasure ROBLOX
       * Description references the data collection website earnrobux.co.
       * URL: https://www.youtube.com/watch?v=4CyzbIWiMIo
-    * \*NEW\* BEST MAGNET GOLD GLITCH! | Build a boat For Treasure ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=3rWV5hcFLHk
     * Can You Move the TREASURE CHEST using MAGNETS? | Build a boat For Treasure ROBLOX
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=w__bjPD7iCQ
@@ -7887,21 +7839,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*INSANE\* AUTOMATIC CANNONS💣| Build a boat For Treasure ROBLOX
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=pX2hJXEGHCc
-    * SCALE TOOL \*REVIEW\* (Is it Worth 9,000 Gold?) | Build a boat For Treasure ROBLOX
-      * Description references the data collection website earnrobux.co.
-      * URL: https://www.youtube.com/watch?v=nWJsHFYnO3I
-    * BLACK HOLE BLOCK in Build a boat! | Roblox
-      * Description references the data collection website claimrbx.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=F27X__bawfg
-    * WHATS INSIDE THE VOLCANO? | Build a boat for Treasure ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=QGwSzDCmQhI
     * TRADING UPDATE in Build a boat! (Update Idea)
       * Description references the data collection website earnrobux.co.
       * URL: https://www.youtube.com/watch?v=dgP6XZnWdXc
-    * CRAZY SOCCER BALL \*GLITCHES\* | Build a boat For Treasure ROBLOX
-      * Description references the data collection website earnrobux.co.
-      * URL: https://www.youtube.com/watch?v=8s0Imn8oJio
     * NEW YEARS \*SECRET\* CODE! | Build a boat For Treasure ROBLOX
       * Description references the data collection website claimrbx.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=SOZeDiqS_Mk
@@ -7929,9 +7869,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * RAREST \*NEW\* WINTER CODE!🎅 | Build a boat For Treasure ROBLOX
       * Description references the data collection website claimrbx.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=mbf50j_fdRY
-    * Build a boat \*NEW\* TELEPORT GLITCH!
-      * Description references the data collection website earnrobux.co.
-      * URL: https://www.youtube.com/watch?v=yGW_Y0RvVMg
     * \*BEST\* way to GRIND Blue Present \*BOSS\*! | Build a boat For Treasure ROBLOX
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=olixPsTG_tg
@@ -7947,55 +7884,34 @@ The following channels had nothing appear with manual searching. Videos may exis
     * PLANE UPDATE in Build a boat✈️ (BIGGEST UPDATE EVER!)
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=m64UVHMbick
-    * NEW BLOCK MOVED! \*LOCATION\* | Build a boat For Treasure ROBLOX
-      * Description references the data collection website freebux.club.
-      * URL: https://www.youtube.com/watch?v=5lwlNNDpoKE
     * \*NEW\* PET DUPLICATION GLITCH! | Pet simulator ROBLOX
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=IKHsLyWGPOM
     * \*NEW\* BEST CODES! ($900,000) | Vehicle Simulator ROBLOX
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=eA8cZ6HlOBY
-    * CUSTOM SWORD GLITCH in Build a boat!
-      * Description references the data collection website easyrobux.today.
-      * URL: https://www.youtube.com/watch?v=u69mAi4wv2U
     * GETTING 50,000 GOLD in BUILD A BOAT!
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=JDPfrcSGYy0
-    * How To Do The HELICOPTER GLITCH! | Build A Boat For Treasure ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=6Tr6JzgH9p0
     * EXPLORING THE SECRET PLACE! | Build A Boat For Treasure ROBLOX
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=e47c_QVKZfs
     * HIGHJACK BOATS \*GLITCH\* | Build A Boat For Treasure ROBLOX
       * Description references the "black market for limiteds" rbx.market.
       * URL: https://www.youtube.com/watch?v=fQVhEJJWY2k
-    * THIS BOAT WILL BLOW YOUR MIND! | Build A Boat For Treasure ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=P6rgmtD2w30
     * \*NEW\* TELEPORTING BLOCK (UPDATE) | Build A Boat For Treasure ROBLOX
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=1Hn6ZxCl-P8
     * INSANE MODDED TRUCK! (IN GAME) | Lumber Tycoon ROBLOX
       * Description references the data collection website rbx.gifts.
       * URL: https://www.youtube.com/watch?v=0Vs6jDxKf68
-    * How To Get FREE ROBUX! | Roblox 2017 \*LEGIT\*
-      * Description references the data collection website earnrobux.today.
-      * URL: https://www.youtube.com/watch?v=FU2BBv-Kpgk
     * INSANE JET SKI | Build A Boat For Treasure ROBLOX
       * Description references the data collection website earnrobux.today.
       * URL: https://www.youtube.com/watch?v=a8AtKMxrXiE
     * MANSION BOAT! (1) | Build A Boat For Treasure Roblox
       * Description references the data collection website rbxrich.com.
       * URL: https://www.youtube.com/watch?v=mOzfWoAE1UE
-    * HOW I HAVE 3M ROBUX WORTH OF ITEMS! | Roblox
-      * Description references the data collection website rbxrich.com.
-      * URL: https://www.youtube.com/watch?v=u2GfiWoLDjw
-    * 9,999,999 Feet (BROKE THE GAME) | Roblox Build A Boat For Treasure
-      * Description references the data collection website rbxrich.com.
-      * URL: https://www.youtube.com/watch?v=HkwxrfsEm1M
   * Other
     * NEW PAINTING CODE! | Lumber Tycoon 2 ROBLOX
       * Description references the "black market for limiteds" and information collection website rbx.place.
