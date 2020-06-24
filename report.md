@@ -183,12 +183,12 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 261,105 videos
-* Total videos found that match keywords: 14,696 videos
-  * Total unprocessed videos: 3,054 videos
-* Total videos found that are processed and marked: 2,573 videos 
-  * Information Collection: 1,600 videos
-  * Non-Giftcard Robux Giveaways: 852 videos
-  * Other: 94 videos
+* Total videos found that match keywords: 14,922 videos
+  * Total unprocessed videos: 2,929 videos
+* Total videos found that are processed and marked: 2,553 videos 
+  * Information Collection: 1,578 videos
+  * Non-Giftcard Robux Giveaways: 853 videos
+  * Other: 95 videos
   * Phishing: 27 videos
 
 ### No Videos Found
@@ -202,11 +202,12 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Anix (iamAnix)
 * Ashleyosity (itsAshleyosity)
 * Augus (augusvidal)
+* Axiore (axiore)
 * Ayzria (Ayzria)
 * Bandi (BandiRue)
 * Bebe Adri (BebeAdriYT)
-* BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
 * Bia Gamer (BiiiaGamerYT)
+* BIGHEAD (I_BIGHEAD)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * bobjenz 
 * BramP (bramp1996)
@@ -239,6 +240,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DOLLASTIC PLAYS! (DollasticDreams)
 * DraconiteDragon (ItsDraconiteDragon)
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
+* Erik Carr (ErikCarrKZ)
 * EthanGamer (EthanGamerTV)
 * Evanbear1 (Evanbear1)
 * faeglow (faeglow)
@@ -265,6 +267,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HyperCookiie (HyperCookiie)
 * iBeMaine (ibemaine)
 * iGuz (iGuzGames)
+* iiisxphie (iiisxphie)
 * iKotori (iKotori)
 * Inemafoo (Inemajohn)
 * It's Akeila (itsakeila)
@@ -275,12 +278,14 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Janet and Kate (KittyJanet and Kate9071)
 * javie12 (javie12)
 * Jayingee (jayingee)
+* JD (Thexz)
 * Jeancof ツ (Jeancof)
 * Jeenius (RealJeen)
 * Jenstine (jenstine and jenstinex)
 * JoeyDaPlayer (UseStarCodee_JOEY)
 * JonesGotGame (JonesGotGame)
 * Jr e Mi (JuniorGuimaraes and micandeloro)
+* Juega y Diviertete con Vicky (Vickycasti_laPro)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
 * JunRoots (JunioRoots)
 * jvnq (jvnqYT)
@@ -301,6 +306,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
 * Magikarp Films (Magikarpfilms)
+* Maislie (Maislie)
 * Manucraft (ManucraftYT)
 * Mary - Frozencrystal 
 * mayrushart (mayrushart)
@@ -333,6 +339,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ProSidu (prosiduzao)
 * Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
+* Rambling Ramul (RamblingRamul)
 * Remainings (Remainings)
 * ROBLOXMuff (Intervin)
 * Robotz (R_obotz)
@@ -346,10 +353,13 @@ The following channels had nothing appear with manual searching. Videos may exis
 * skyleree (skyleree)
 * Spagz Blox (Spagzox)
 * SrPrismatico (SrPrismatico)
+* SuperCelery (Celery_YT)
+* SuperDog Tyler (superdog_tyler)
 * TanqR (TanqR)
 * TapWater (UseCode_Tap)
 * Tex HS (TexWillerHS)
 * THE KAPOLAR (Kapolar1)
+* The Pals (RealSubZeroExtabyte)
 * The Star Squad Gaming (StarSquadMolly)
 * TheAtlanticCraft (TheCrazyMaverick)
 * Thinknoodles (ImNotThinknoodles)
@@ -418,6 +428,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SNEEZING On 9999 PEOPLE in Sneezing simulator! // Roblox
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
       * URL: https://www.youtube.com/watch?v=Sl0h1X-pXfs
+* BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
+  * Other
+    * GOT THE RONA in ROBLOX | SNEEZING SIMULATOR
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=bstE2x5chO8
 * Betroner y Noangy (Betroner and Noangy)
   * Non-Giftcard Robux Giveaways
     * Robux para ti! Mejor que los eventos de Roblox!
@@ -2911,6 +2926,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=Z93A9lAF90E
 * Denis (DenisDaily)
   * Information Collection
+    * SIR MEOWS A LOT TAKES OVER ROBLOX!
+      * Description references the data collection website growbux.net.
+      * URL: https://www.youtube.com/watch?v=dwbGKuIDfxA
     * *HOW TO GET FREE ROBUX... I'm not even kidding*
       * *Description references the data collection website growbux.net.*
       * *URL: https://www.youtube.com/watch?v=7Q80_9-GgmU*
@@ -6269,6 +6287,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FIRST to FIND ME WINS 1000 ROBUX! | Roblox Jailbreak
       * Uses group funds to give away Robux for a competition.
       * URL: https://www.youtube.com/watch?v=duvl59tIFe0
+    * HIDE and SEEK on NEW MAP for 3000 ROBUX! | Roblox Jailbreak
+      * Uses group funds to give away Robux for a competition.
+      * URL: https://www.youtube.com/watch?v=5UQfA8iJm8s
 * NikTac 
   * Non-Giftcard Robux Giveaways
     * \*SECRET\* HALLOWEEN BEES & EVIL BEAR COMING IN Roblox Bee Swarm Simulator!? (Update Theory)
@@ -7181,6 +7202,10 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=nO7J7m7NpBY
 * Poke (Pokediger1)
+  * Other
+    * SPIN THE ROBLOX DEATH WHEEL (HE LOST 25,000 ROBUX)
+      * Video is about a wheel that has a chance to win or spend Robux.
+      * URL: https://www.youtube.com/watch?v=3vQT9KP6EeE
   * Phishing
     * HACKING AND GIVING A FAN FREE ROBUX ON ROBLOX!!
       * URL: https://www.youtube.com/watch?v=dQEnfrcMALQ
@@ -7809,48 +7834,12 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=ZpZQ6bOAA9w
 * TheOfficial Fuzion 
   * Information Collection
-    * I found another SECRET in the BOSS AREA!! | Build a boat for Treasure ROBLOX
-      * Description references the data collection website gainrobux.gg.
-      * URL: https://www.youtube.com/watch?v=3yF-6-iXOo0
-    * HOW TO START THE NEW BOSS!! | Build a boat for Treasure ROBLOX
-      * Description references the data collection website gainrobux.gg.
-      * URL: https://www.youtube.com/watch?v=ZUjpXxPlkXI
-    * NEW BLOCK LOCATION! \*HARD TO FIND\* | Build a boat For Treasure ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=AUn3fHpQzcg
-    * \*NEW\* SECRET UPDATE in Build a boat \*OUT NOW\*
-      * Description references the data collection website earnrobux.co.
-      * URL: https://www.youtube.com/watch?v=5N0zh9ujyfA
-    * HIDDEN SECRET \*FOUND\* (spells out Code!) | Build a boat for Treasure ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=BUlAOJZR350
-    * THE \#1 BEST CODE EVER! | Build a boat For Treasure ROBLOX
-      * Description references the data collection website earnrobux.co.
-      * URL: https://www.youtube.com/watch?v=4CyzbIWiMIo
-    * Can You Move the TREASURE CHEST using MAGNETS? | Build a boat For Treasure ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=w__bjPD7iCQ
-    * \*NEW\* LIMITED TIME CODE! | Build a boat for Treasure ROBLOX
-      * Description references the data collection website earnrobux.co.
-      * URL: https://www.youtube.com/watch?v=0h7NSH8gdoc
-    * The OWNER of Build a boat RESPONDED to my Message...
-      * Description references the data collection website claimrbx.com.
-      * URL: https://www.youtube.com/watch?v=vFAUAJNWYz0
-    * \*INSANE\* AUTOMATIC CANNONS💣| Build a boat For Treasure ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=pX2hJXEGHCc
-    * TRADING UPDATE in Build a boat! (Update Idea)
-      * Description references the data collection website earnrobux.co.
-      * URL: https://www.youtube.com/watch?v=dgP6XZnWdXc
     * NEW YEARS \*SECRET\* CODE! | Build a boat For Treasure ROBLOX
       * Description references the data collection website claimrbx.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=SOZeDiqS_Mk
     * Build a boat UPDATE!! (New Quest & Fireworks & More!) RELEASED
       * Description references the data collection website claimrbx.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=dvriTSsotAQ
-    * \*NEW\* FIREWORKS in Build a boat 🎆(LEAKED ITEMS)
-      * Description references the data collection website claimrbx.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=qnmKqh18ILg
     * LAWNMOWER GLITCH in Build a boat!
       * Description references the data collection website claimrbx.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=vlrhSjN13iQ
@@ -7878,44 +7867,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * GingerBread SECRETS! (They Follow you) | Build a boat For treasure ROBLOX
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=C0uu8r3QwPw
-    * \*HUGE\* CONTROLLABLE PLANE!✈️ | Build a boat For Treasure ROBLOX
-      * Description references the data collection website freebux.club.
-      * URL: https://www.youtube.com/watch?v=og9ZTqz4ONQ
-    * PLANE UPDATE in Build a boat✈️ (BIGGEST UPDATE EVER!)
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=m64UVHMbick
-    * \*NEW\* PET DUPLICATION GLITCH! | Pet simulator ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=IKHsLyWGPOM
-    * \*NEW\* BEST CODES! ($900,000) | Vehicle Simulator ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=eA8cZ6HlOBY
-    * GETTING 50,000 GOLD in BUILD A BOAT!
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=JDPfrcSGYy0
-    * EXPLORING THE SECRET PLACE! | Build A Boat For Treasure ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=e47c_QVKZfs
-    * HIGHJACK BOATS \*GLITCH\* | Build A Boat For Treasure ROBLOX
-      * Description references the "black market for limiteds" rbx.market.
-      * URL: https://www.youtube.com/watch?v=fQVhEJJWY2k
-    * \*NEW\* TELEPORTING BLOCK (UPDATE) | Build A Boat For Treasure ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=1Hn6ZxCl-P8
-    * INSANE MODDED TRUCK! (IN GAME) | Lumber Tycoon ROBLOX
-      * Description references the data collection website rbx.gifts.
-      * URL: https://www.youtube.com/watch?v=0Vs6jDxKf68
-    * INSANE JET SKI | Build A Boat For Treasure ROBLOX
-      * Description references the data collection website earnrobux.today.
-      * URL: https://www.youtube.com/watch?v=a8AtKMxrXiE
-    * MANSION BOAT! (1) | Build A Boat For Treasure Roblox
-      * Description references the data collection website rbxrich.com.
-      * URL: https://www.youtube.com/watch?v=mOzfWoAE1UE
   * Other
-    * NEW PAINTING CODE! | Lumber Tycoon 2 ROBLOX
-      * Description references the "black market for limiteds" and information collection website rbx.place.
-      * URL: https://www.youtube.com/watch?v=sfviFcrM7PU
     * 10,000 ROBUX GIVEAWAY (OPEN)
       * Uses a Robux giveaway to skew the ratings of a game on an external platform.
       * URL: https://www.youtube.com/watch?v=Y9Zr70rgyKk
