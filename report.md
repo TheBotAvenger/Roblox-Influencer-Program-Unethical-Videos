@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 24, 2020<br>
+Generated June 25, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,11 +184,11 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 261,105 videos
 * Total videos found that match keywords: 14,922 videos
-  * Total unprocessed videos: 2,929 videos
-* Total videos found that are processed and marked: 2,553 videos 
-  * Information Collection: 1,578 videos
+  * Total unprocessed videos: 2,911 videos
+* Total videos found that are processed and marked: 2,572 videos 
+  * Information Collection: 1,596 videos
   * Non-Giftcard Robux Giveaways: 853 videos
-  * Other: 95 videos
+  * Other: 96 videos
   * Phishing: 27 videos
 
 ### No Videos Found
@@ -425,6 +425,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=MMnpUXv_rsI
 * Baxtrix (DefinitelyNotBaxtrix)
   * Other
+    * Infecting 99999 ALIENS in Sneezing Simulator! // Roblox
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=9wjop4ZbqAE
     * SNEEZING On 9999 PEOPLE in Sneezing simulator! // Roblox
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
       * URL: https://www.youtube.com/watch?v=Sl0h1X-pXfs
@@ -472,27 +475,63 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I Had 1 hour To Trade A Kitty In Bubble Gum Simulator.. AND GOT THESE PETS!
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=LgU12BtFlPw
+    * HOW TO GET EVERY SECRET PET IN BUBBLE GUM SIMULATOR 2020! \*SUPER OP\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=KgBZ7tkOf60
     * NEW OMEGA SPACE PET TAPPING SIMULATOR CODES! \*3.31 SP TAPS!\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=da2BGKwLqGo
+    * All 25 ULTIMATE SECRET HAT Codes In Bomb Simulator!! \*FREE 45X COIN/GEMS\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=z70EIGC-XPI
+    * ALL 9 FREE SWORD STYLE CHIKARA CODES IN ANIME FIGHTING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VyT2flz8xcw
+    * NEW DOMINUS QUEST EVENT CODES IN BOMB SIMULATOR! Roblox \*LIVE\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=PtLHOpcNs9o
     * NEW Washing Station CHANGED AUTOFARMS FOREVER.. In Roblox Skyblock \*NEW BEST FARM\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=KnrBUI8UEb8
     * ALL 20 MYTHICAL GEM PET CODES IN FISHING SIMULATOR! \*MAGIC MYTHICAL PETS\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=hyC1oU5QVYg
+    * Hatched SHINY LEVEL 50 Galaxium! + FREE Season 10 Pass - Bubble Gum Simulator
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=cgP96KvAUrs
+    * SECRET SHADOW REALM POTION CODES IN BUBBLE GUM SIMULATOR UPDATE! \*How To Enter\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=65sfVBUJ5Mw
+    * BUYING 192T CYBER SWORD AND 3T GEM CODES IN BOMB SIMULATOR! ROBLOX
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=5XuQPy3xpCo
     * 25 FREE MYTHIC Jumbo June Pack CODES IN BEE SWARM SIMULATOR! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=VA0sHpm4eCQ
+    * NOOB To MASTER In Slamming Simulator \*SECRET OP TRAINING\* + CODES Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vYdSNDWhoIc
     * New $10,000,000 Lottery Vending Machine In Roblox Skyblock! \*INSANE MONEY\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=d4Rk-f8rFGg
+    * I Completed The SHINY Mythic Forest Index In Bubble Gum Simulator And THIS HAPPENED!?
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=BM9t4a3tYKk
+    * NOOB To MASTER IN BOMB SIMULATOR With OWNER COIN CODES! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=S8O3PsEAtXo
     * This Update Could END Bubble Gum Simulator 😭 \*GIANT METEOR\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=xgpinLX9xr8
     * 😔Noob VS 😎Pro VS 😈HACKERS In ROBLOX SKYBLOCK! \*Funny\*✨
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=sFXytKCo3l0
+    * ALL 14 SECRET CHIKARA CHAMPION CODES IN ANIME FIGHTING SIMULATOR! \*INSTANT BEST KAGUNE!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=FvTTfKn8NeU
+    * SECRET ADMIN ITEM SPAWN TOTEM In Roblox Skyblock! \*HOW TO GET ONE\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=wGjqcmA6F0Q
     * I Made INFINITE VENDING MACHINES But EVERYTHING Is FREE IN Roblox Skyblock!
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=umx_A5biOww
@@ -535,6 +574,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO GET \*FREE\* GILDED GOD TOOLS IN ROBLOX SKYBLOCK!!
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=XU_46hHluL8
+    * Opening 100,000 Blossom Eggs And Got SECRET PET In Bubble Gum Simulator!!! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=JKEtDrhhssk
     * NEW GOLD \*GOD\* TOOLS AND BLOCKS IN ROBLOX SKYBLOCK UPDATE \*SUPER EXPENSIVE!!\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=NOZsZi7szNM
@@ -544,6 +586,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FREE SEASON 9 SHINY BUBBLE PASS PET CODES IN BUBBLE GUM SIMULATOR! \*FREE SPRING PETS\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=xaw1PeEFD2s
+    * SECRET WAY To Get 1000 FREE Berry Seeds In Roblox Skyblock! \*INSANE METHOD!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=nqX0ErySgn4
     * SECRET 1 MILLION $$$ BUILD QUEST IN SKYBLOCK!? Roblox Skyblock
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=Yc2_DE7Bt98
@@ -571,6 +616,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Pet REWORK & RIP Twitter Codes In Adopt Me!? Roblox Adopt Me
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=Egsd0Aj7d8U
+    * Completing The New SCOOB! Quest In Adopt Me Update! Roblox Adopt Me!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=D0WoOb03a8M
     * ALL Adopt me "HACKS" and Secrets In Adopt Me! Roblox Adopt Me
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=zAvtjbmQAyA
@@ -691,6 +739,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET MYTHICAL PET Codes In Roblox SODA SIMULATOR! \*INSTANT MAX RANK!\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=tTJxxrkU18w
+    * 🙈 BLIND TRADING My SECRET FROST SENTINEL Pet In ROBLOX BUBBLE GUM SIMULATOR!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=YZcqa6l1Xow
     * ⚔️ Defeating NEW LAVA GOLEM For \*BROKEN\* ANCIENT PETS In BLADE THROWING SIMULATOR! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=Q0ccUh86noQ
@@ -742,6 +793,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 💰 23 SECRET SHIPWRECK GEMS UPDATE CODES IN FISHING SIMULATOR! \*FREE GEMS\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=vRA00Lip8o8
+    * 🍀 OPENING SECRET PORTAL UPDATE PETS FOR 24 HOURS IN BUBBLE GUM SIMULATOR! \*AND I GOT THIS\*Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=H9eAgOCDVNQ
     * 😱 NEW SECRET CHAOS LEGENDS PET CODES IN NINJA LEGENDS UPDATE! \*BEST SWORDS AND RANK!\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=PMxt7D4fFno
@@ -6163,6 +6217,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * *URL: https://www.youtube.com/watch?v=TCoMoruGc2A*
 * Linkmon99 (Linkmon99)
   * Information Collection
+    * HE SOLD my ROBLOX ACCOUNT on EBAY (CALLING THE SCAMMER!) - Linkmon99 Richest Roblox Player
+      * Description references the data collection website rbxtoys.com.
+      * URL: https://www.youtube.com/watch?v=VCIlVU8S-dg
     * Guess My ROBUX to WIN IT ALL!!! (R$?!) - Linkmon99 Richest Roblox Player
       * Description references the data collection website rbxtoys.com.
       * URL: https://www.youtube.com/watch?v=325_ILeNJ40
