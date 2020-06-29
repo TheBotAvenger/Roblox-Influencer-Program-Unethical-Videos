@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 28, 2020<br>
+Generated June 29, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -216,7 +216,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ByDerank (ByDerank_YT)
 * Captain Tate (CaptainTate21)
 * Cari - Roblox (Carihyper)
-* Carol TV (coolforlovato)
+* Carol TV (caaroltv)
 * cazum8 (cazum8)
 * Cerso (Cerso93)
 * Chocoblox (Chocoblox_93)
@@ -245,7 +245,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Evanbear1 (Evanbear1)
 * faeglow (faeglow)
 * Febatista 
-* FGTeeV (FGteev and DrizzMcNizz)
+* FGTeeV (FGTeeV and DrizzMcNizz)
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (french_rxses)
 * FUDZ (fudsim)
@@ -263,7 +263,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Hey Sant (heysant2018)
 * Honey The Unicorn - Roblox (HoneyTheUnicornYT)
 * HulkBR (hulkbr_oficial)
-* Hyper - Roblox (DylanTheHyper)
+* Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
 * iBeMaine (ibemaine)
 * iGuz (iGuzGames)
