@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 29, 2020<br>
+Generated June 30, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 261,105 videos
-* Total videos found that match keywords: 14,922 videos
-  * Total unprocessed videos: 2,911 videos
-* Total videos found that are processed and marked: 2,572 videos 
-  * Information Collection: 1,596 videos
+* Total videos: 262,536 videos
+* Total videos found that match keywords: 14,995 videos
+  * Total unprocessed videos: 2,977 videos
+* Total videos found that are processed and marked: 2,579 videos 
+  * Information Collection: 1,603 videos
   * Non-Giftcard Robux Giveaways: 853 videos
   * Other: 96 videos
   * Phishing: 27 videos
@@ -472,6 +472,27 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * I Maxed EVERYTHING In My Restaurant + Secret ??? BADGE In My Restaurant! \*MILLIONS OF $$$\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=NQUx1s2jG_o
+    * Hatched 800m Egg For 24 Hours And I Got These Pets! - Bubble Gum Simulator
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Vz_73XjwI00
+    * Easy Way For AFK CRYSTALIZED GOLD in Roblox Skyblock! Skyblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Yfgxfe_mWAE
+    * I Got RANK 1 In My Restaurant Simulator + FREE MONEY TREES! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vOqc9H1I9uk
+    * 100 SECRET PET EGG CHALLENGE IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=hWOIvgCR1tU
+    * I Got New OMEGA Pizza Pets In Tapping Simulator! 600QI Taps! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=0Exl1rNKBUU
+    * Secret 10,000 ROBUX FRUIT In Anime Fighting Simulator! - Challenge
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=c7Tfyv27Zn8
     * I Had 1 hour To Trade A Kitty In Bubble Gum Simulator.. AND GOT THESE PETS!
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=LgU12BtFlPw
