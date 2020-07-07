@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 6, 2020<br>
+Generated July 7, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 262,536 videos
-* Total videos found that match keywords: 14,995 videos
-  * Total unprocessed videos: 2,727 videos
-* Total videos found that are processed and marked: 2,579 videos 
-  * Information Collection: 1,603 videos
+* Total videos: 263,732 videos
+* Total videos found that match keywords: 15,080 videos
+  * Total unprocessed videos: 2,805 videos
+* Total videos found that are processed and marked: 2,586 videos 
+  * Information Collection: 1,610 videos
   * Non-Giftcard Robux Giveaways: 853 videos
   * Other: 96 videos
   * Phishing: 27 videos
@@ -471,6 +471,27 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * 2X SUPER REBIRTH Tokens Codes + MASTER PETS In Tapping Simulator!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=AmagYuPOx2E
+    * 96X SECRET PET Hatch Chance CODES In Bubble Gum Simulator! \*SUPER BROKEN\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=pAQ09lIp3u8
+    * FREE Firework Gamepass + MORE Blocks Update In Roblox Skyblock / Skyblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=mD4LvEFkAUE
+    * UNLIMITED RICH Celebrities And Luxury Furniture In My Restaurant! \*ULTRA FAST MONEY!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=a0b6z9UIwgA
+    * SECRET 8Bit OMEGA Pet Gem Codes In TAPPING SIMULATOR! \*130 QA Gems\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=aOq9UPXYiQ4
+    * INFINITE VIP CUSTOMERS With FREE Royal Bundle In My Restaurant! \*NEW ??? SPAWN SHRINE\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=tOhyP9bnbj0
+    * All 5 SUPER REBIRTH Codes in Tapping Simulator! \*Super Fast Rebirths!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=-YaKrRVL_1Y
     * I Maxed EVERYTHING In My Restaurant + Secret ??? BADGE In My Restaurant! \*MILLIONS OF $$$\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=NQUx1s2jG_o
