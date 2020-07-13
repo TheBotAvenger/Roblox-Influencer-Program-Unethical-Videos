@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 12, 2020<br>
+Generated July 13, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -255,7 +255,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GianBlox (GianBloxBRz)
 * Godenot (godenot)
 * GoldenGlare (GOLD3NGLARE)
-* GoldenOwl (ItzzGoldenn)
+* GoldenOwl 
 * Gravycatman (GrumpyGravy)
 * Hagazo (Hagazo9)
 * hannnahlovescows (hannnahlovescows)
@@ -376,7 +376,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Z00LD 
 * ZaiLetsPlay (YT_ZaiLetsPlay)
 * Zerophyx (Zerophyx)
-* ZNac (Z_Nac and DatDinoPoo123)
+* ZNac (Z_Nac and jessetc)
 * ZULY (ItsZulyYT)
 
 ### Videos Found
