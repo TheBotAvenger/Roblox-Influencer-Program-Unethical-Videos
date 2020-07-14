@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 13, 2020<br>
+Generated July 14, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 263,732 videos
-* Total videos found that match keywords: 15,121 videos
-  * Total unprocessed videos: 2,727 videos
-* Total videos found that are processed and marked: 2,627 videos 
-  * Information Collection: 1,610 videos
+* Total videos: 264,913 videos
+* Total videos found that match keywords: 15,202 videos
+  * Total unprocessed videos: 2,800 videos
+* Total videos found that are processed and marked: 2,635 videos 
+  * Information Collection: 1,618 videos
   * Non-Giftcard Robux Giveaways: 853 videos
   * Other: 137 videos
   * Phishing: 27 videos
@@ -471,6 +471,30 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * Super Rebirth SECRET PET Update CODES In Tapping Simulator! \*SUPER OP\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ZbcjXEEfoeE
+    * MEGA BOOST And FREE Season 11 Bubble Pass Codes In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=jVxBKIt4PD4
+    * NEW STARFRUIT SEEDS, BAMBOO, SWORDS In Roblox Skyblock! Skyblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ApfD7qykuF4
+    * FREE RESTAURANT THEMES, BOOST WISHING WELLS In My Restaurant Update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=JpbvSBDSeG4
+    * How To Super Rebirth Every 10 Seconds In Tapping Simulator! \*BUYING MAX EVERYTHING\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=yDyqpLJCqJw
+    * SECRET PETS + NEW Spawn UPDATE In Tapping Simulator!! \*SUPER BROKEN 😱\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=NpmIYEeLPL8
+    * All Hidden SECRET TIPS You SHOULD Know in Roblox Skyblock / Skyblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=wljQzTYd-g4
+    * SECRET 24 Hour Life Hack Boost Codes In Clicking Legends! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VWr5ypqBhn8
     * 2X SUPER REBIRTH Tokens Codes + MASTER PETS In Tapping Simulator!
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=AmagYuPOx2E
