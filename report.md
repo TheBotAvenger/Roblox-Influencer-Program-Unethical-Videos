@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 14, 2020<br>
+Generated July 15, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 264,913 videos
 * Total videos found that match keywords: 15,202 videos
-  * Total unprocessed videos: 2,800 videos
-* Total videos found that are processed and marked: 2,635 videos 
-  * Information Collection: 1,618 videos
-  * Non-Giftcard Robux Giveaways: 853 videos
+  * Total unprocessed videos: 2,730 videos
+* Total videos found that are processed and marked: 2,633 videos 
+  * Information Collection: 1,615 videos
+  * Non-Giftcard Robux Giveaways: 854 videos
   * Other: 137 videos
   * Phishing: 27 videos
 
@@ -3004,6 +3004,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * RAREST SHINY SOUL HEART PET IN BUBBLE GUM SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=eGhDBuWWmvQ
+    * ALL CODES + 100 GOLDEN CHESTS IN HOT SAUCE SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=nfzlmBr9n20
     * VALENTINE UPDATE CODES IN BUBBLE GUM SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=aVyFzgaYLXk
@@ -3355,6 +3358,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NOME REVELADO!! ESSE CARA VAI TE SEQUESTRAR NO ROBLOX ??
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=K4dtJ5kk9ow
+    * NOVO COFRE NO JAILBREAK E CORES RARAS QUE NÃO PODE SER COMPRADA NO JAILBREAK !! (ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=Nz4_lRevuhI
     * FALEI QUE SOU HACKER PARA CRIADOR DE MAPA BRASILEIRO !!!VAI FICAR BRAVO? (ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=kzID4fx3uaw
@@ -3979,9 +3985,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*NEW\* Bee Swarm Simulator CODE! Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=hFpTGqk58R4
-    * \*NEW\* Booga Booga Update Coming! Halloween Edition?! ROBLOX
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=oVqx8cLx0v0
     * BUYING ALL GAMEPASSES | Garbage Simulator! Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=dCJYTncBX1M
@@ -4150,9 +4153,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Bringing a NOOB Into The Void Dimension! (Ep.3)Booga Booga Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=61OMLEa6bUw
-    * New Booga Booga Game? Soybeen Announced A New Game (Booga Lands)
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=TdsEAsgCCI8
     * MOST RARE WEAPON ON BOOGA BOOGA! Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=fwgwGFTQkmA
@@ -5237,9 +5237,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMPRANDO O TRENÓ E FAZENDO MUITO DINHEIRO NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=zmZy3lI_VYs
-    * COMPRANDO O LIGHTNING BOLT E FIZ MUITO DINHEIRO NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=LDF9kyAgA-s
     * GUEST VS NOOB NO ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=iJWudyspNng
@@ -5393,9 +5390,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * VISITANDO JOGOS ABANDONADOS NO ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=CMC3hCtkCQw
-    * 3 NOVOS VEÍCULOS NO JAILBREAK E MUITO MAIS - SUPER ATUALIZAÇÃO(ROBLOX)
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=7dOC2HchtCg
     * COMO MUDAR O TEMA DO ROBLOX (TEMAS GRATUITOS PERSONALIZADOS)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=qOk-iJN7s9w
@@ -6344,11 +6338,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website bloxawards.com.
       * Description references the data collection website rbxpoints.com.
       * URL: https://www.youtube.com/watch?v=9diQlI93dnA
-    * Roblox - ABRI MAIS DE 200K EM COFRES NO JAILBREAK!! (Será que tive sorte?)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website rbxpoints.com.
-      * URL: https://www.youtube.com/watch?v=fela7wO9ClQ
     * Roblox - COMO ROUBAR O TREM NO JAILBREAK!! (Muito Fácil)
       * Description references the data collection website oprewards.com.
       * Description references the data collection website bloxawards.com.
@@ -7474,6 +7463,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ESTA PAGINA Te REGALA15 ROBUX 2017!!! ❌ YA NO FUNCIONA ❌
       * Contains an ad for the information collection website rbxpoints.com.
       * URL: https://www.youtube.com/watch?v=p2hijWLhzOw
+    * CÓMO OBTENER +100 ROBUX! 2017 ❌(YA NO FUNCIONA)❌
+      * Contains an ad for the information collection website rbx.gifts.
+      * URL: https://www.youtube.com/watch?v=coICmU-DxpM
     * GANA 15 ROBUX GRATIS 2017!!! ❌(YA NO FUNCIONA)
       * Contains an ad for the information collection website rbxpoints.com.
       * URL: https://www.youtube.com/watch?v=39aNz1kZwEo
@@ -7561,9 +7553,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BALDI o GRANNY? QUÉ PREFIERES? en ROBLOX 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=YNk_9NO-P_o
-    * BEBÉ LULY ESCAPA DE LA BESTIA SIN ROPA!! HACKEA Y HUYE en ROBLOX (Flee The Facility) 😱
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=jGkKsfAeatg
     * LE PEGAN UNA PALIZA POR QUERER SER SU AMIGO!! HISTORIA de BULLYING MUY TRISTE en ROBLOX 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=1BZyRQmHeig
@@ -7636,6 +7625,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MIS PEORES PESADILLAS SE HACEN REALIDAD en ESTE JUEGO de ROBLOX (JASON VIENE A POR NOSOTROS) 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=wC18tlK5zKg
+    * NUEVA HISTORIA DE BULLYING QUE HIZO LLORAR A TODO EL MUNDO en ROBLOX (Parte 1)😱
+      * Description references the data collection website rbxfree.com.
+      * URL: https://www.youtube.com/watch?v=fOxoLiiRgVs
     * LA CHICA MÁS INSOPORTABLE QUE HAY en ROBLOX 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=BrunwK0Kjyw
