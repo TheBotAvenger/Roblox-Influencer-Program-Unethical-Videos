@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 19, 2020<br>
+Generated July 20, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -274,7 +274,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
 * Its SugarCoffee (SugarCoffee123)
 * ItsFunneh (Funnehcake)
-* J-Bug (J_Buggo)
+* J-Bug (stupid_buggo)
 * Janet and Kate (KittyJanet and Kate9071)
 * javie12 (javie12)
 * Jayingee (jayingee)
@@ -3770,6 +3770,10 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMO GANHAR MUITO DINHEIRO RÁPIDO NO MINING SIMULATOR!!(ROBLOX)
       * Description references a Roblox Cheat Engine bypass using mega.nz.
       * URL: https://www.youtube.com/watch?v=ameLwuP4Uvc
+* Ethereum US (MonkeyVsRoblocks)
+  * Phishing
+    * HACKING A GIRL IN ROBLOX!! (SPENDING ALL THEIR ROBUX)
+      * URL: https://www.youtube.com/watch?v=viNT9Ow-hFk
 * FunkySquadHD (0UseCode_Funky)
   * Information Collection
     * I GOT ON THE LEADERBOARD! North Pole Simulator 🎅
@@ -7920,10 +7924,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*FREE ROBUX\* ARREST ME FOR FREE ROBUX! (Roblox Jailbreak)
       * Gives away Robux for being arrested in Jailbreak.
       * URL: https://www.youtube.com/watch?v=gekomtzuIoE
-* The Monkey (MonkeyVsRoblocks)
-  * Phishing
-    * HACKING A GIRL IN ROBLOX!! (SPENDING ALL THEIR ROBUX)
-      * URL: https://www.youtube.com/watch?v=viNT9Ow-hFk
 * TheLaughingUnicorn (kristiexo)
   * Information Collection
     * PINK HOLLYWOOD MANSION! || BLOXBURG HOUSE TOUR
