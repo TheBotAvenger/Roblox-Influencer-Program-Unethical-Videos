@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 26, 2020<br>
+Generated July 27, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -242,7 +242,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * Erik Carr (ErikCarrKZ)
 * EthanGamer (EthanGamerTV)
-* Ethereum US (MonkeyVsRoblocks)
 * Evanbear1 (Evanbear1)
 * faeglow (faeglow)
 * Febatista 
@@ -275,7 +274,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
 * Its SugarCoffee (SugarCoffee123)
 * ItsFunneh (Funnehcake)
-* J-Bug (stupid_buggo)
+* J-Bug (J_Buggo)
 * Janet and Kate (KittyJanet and Kate9071)
 * javie12 (javie12)
 * Jayingee (jayingee)
@@ -362,6 +361,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * The Pals (RealSubZeroExtabyte)
 * The Star Squad Gaming (StarSquadMolly)
 * TheAtlanticCraft (TheCrazyMaverick)
+* TheMonkey (MonkeyVsRoblocks)
 * Thinknoodles (ImNotThinknoodles)
 * ThnxCya (NotThnxCya)
 * ThunberGames (ThunberGames)
@@ -6406,7 +6406,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * (Giveaway Ended)
       * Video shows giving away Robux using group funds for specific amounts based on paid access rates for games.
       * URL: https://www.youtube.com/watch?v=0BK6m8uRrNU
-* MyUsernamesThis (UseStarCode_BACON)
+* MyUsernamesThis (UseStarCode_Bacon)
   * Non-Giftcard Robux Giveaways
     * FIRST to FIND ME WINS 1000 ROBUX! | Roblox Jailbreak
       * Uses group funds to give away Robux for a competition.
