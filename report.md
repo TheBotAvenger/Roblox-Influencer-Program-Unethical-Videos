@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 27, 2020<br>
+Generated July 28, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 264,913 videos
-* Total videos found that match keywords: 15,202 videos
-  * Total unprocessed videos: 2,728 videos
-* Total videos found that are processed and marked: 2,632 videos 
-  * Information Collection: 1,618 videos
+* Total videos: 267,147 videos
+* Total videos found that match keywords: 15,360 videos
+  * Total unprocessed videos: 2,871 videos
+* Total videos found that are processed and marked: 2,647 videos 
+  * Information Collection: 1,633 videos
   * Non-Giftcard Robux Giveaways: 852 videos
   * Other: 136 videos
   * Phishing: 26 videos
@@ -472,6 +472,51 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * BUYING THE 1,000,000,000,000 CARNIVAL LOL PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=HBIzfqagfl4
+    * EASY WAY To get a FREE SECRET BLUEPRINT WEAPON In Roblox Skyblock / Islands Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=CiTMvJclqNY
+    * Free SHINY Carnival PET Codes In Bubble Gum Simulator! \*SHINY SHADOW HUNTER\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=GVzoUl0b2IQ
+    * 9 SECRET Permanent HELL WORLD PET Codes In Tapping Simulator! \*NEW SECRET PETS\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=CnkKjYgvGvU
+    * How To Get INSTANT FREE Spellbooks In Roblox Skyblock / Islands
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=KQpnyXyvl1g
+    * Getting All Secret Pets In The HEAVEN EGG In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=TgTbGiK9uiI
+    * SECRET 30 Million Secret Pet Codes In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=NrY39GQ5CQE
+    * Mega 2X Event Opening For 24 Hours And Got THIS SECRET😱😱!! Bubbble Gum Simulator
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=5_VMNhWIpEY
+    * FREE MAX RANK And SHADOWSTORM Pets In Ninja Legends! \*SUPER BROKEN\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=1XTIZRZ5HD0
+    * FREE New Slot Machine + 3X Money GOLD Food In My Restaurant Update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=PRW9bRVwaRc
+    * 2X POWER Codes And BEST WORLD Unlocked In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=LzzqZ03dLok
+    * Free BEST SECRET Mystic Gem Pet In Clicking Legends! \*SUPER BROKEN\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=zH4xq_LIHJE
+    * New FREE SKYBLADE LEGENDS PACK CODES In Ninja Legends! \*SECRET PET CRYSTAL\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VyGbKPmQ5EY
+    * ALL 10 Secret GOD PET Codes in Clicking Legends! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=I7oJVdVc4vQ
+    * My Restaurant Makes 750 MILLION $$$ A Day!! \*My Restaurant Best Setup!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=EC6HW6IMi8Q
     * Super Rebirth SECRET PET Update CODES In Tapping Simulator! \*SUPER OP\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=ZbcjXEEfoeE
