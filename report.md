@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 2, 2020<br>
+Generated August 3, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -245,6 +245,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Evanbear1 (Evanbear1)
 * faeglow (faeglow)
 * Febatista 
+* FeelFree - Roblox (Celery_YT)
 * FGTeeV (FGTeeV and DrizzMcNizz)
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (french_rxses)
@@ -352,7 +353,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * skyleree (skyleree)
 * Spagz Blox (Spagzox)
 * SrPrismatico (SrPrismatico)
-* SuperCelery (Celery_YT)
 * SuperDog Tyler (superdog_tyler)
 * TanqR (TanqR)
 * TapWater (UseCode_Tap)
@@ -6450,7 +6450,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * (Giveaway Ended)
       * Video shows giving away Robux using group funds for specific amounts based on paid access rates for games.
       * URL: https://www.youtube.com/watch?v=0BK6m8uRrNU
-* MyUsernamesThis (UseStarCode_Bacon)
+* MyUsernamesThis (UseStarCode_BACON)
   * Non-Giftcard Robux Giveaways
     * FIRST to FIND ME WINS 1000 ROBUX! | Roblox Jailbreak
       * Uses group funds to give away Robux for a competition.
