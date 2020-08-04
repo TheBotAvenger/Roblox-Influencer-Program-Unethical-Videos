@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 3, 2020<br>
+Generated August 4, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 267,147 videos
-* Total videos found that match keywords: 15,360 videos
-  * Total unprocessed videos: 2,728 videos
-* Total videos found that are processed and marked: 2,650 videos 
-  * Information Collection: 1,633 videos
+* Total videos: 268,301 videos
+* Total videos found that match keywords: 15,435 videos
+  * Total unprocessed videos: 2,796 videos
+* Total videos found that are processed and marked: 2,657 videos 
+  * Information Collection: 1,640 videos
   * Non-Giftcard Robux Giveaways: 853 videos
   * Other: 137 videos
   * Phishing: 27 videos
@@ -471,6 +471,27 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * NEW POPULAR FREE JUKEBOX ISLANDS UPDATE! Roblox Islands / Skyblock
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=NqvHYALcClM
+    * SECRET ELEMENT PETS AND FREE POWER BOOST IN TAPPING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=mBPXLDDN0Sw
+    * MAXED CARNIVAL CHALLENGE CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vt1_sO224r4
+    * SECRET PET OPENING + BASILISK PET GIVEAWAY In Roblox Bubble Gum Simulator!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=00WWVt98Z5o
+    * ALL 57 FREE Secret Basilisk Pet Codes In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ObVb8rPhH-g
+    * 11 SECRET WILD WEST Super Gem Codes In Tapping Simulator! \*BEST PET\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=86abQKWkjn8
+    * Free KING CRIMSON Stand & MAGMA FRUIT Chikara Codes In Anime Fighting Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=OY94K_PNSjo
     * BUYING THE 1,000,000,000,000 CARNIVAL LOL PET IN BUBBLE GUM SIMULATOR! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=HBIzfqagfl4
