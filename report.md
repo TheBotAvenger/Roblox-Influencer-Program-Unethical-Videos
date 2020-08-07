@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 6, 2020<br>
+Generated August 7, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,7 +184,7 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 268,301 videos
 * Total videos found that match keywords: 15,435 videos
-  * Total unprocessed videos: 2,798 videos
+  * Total unprocessed videos: 2,728 videos
 * Total videos found that are processed and marked: 2,655 videos 
   * Information Collection: 1,639 videos
   * Non-Giftcard Robux Giveaways: 853 videos
@@ -196,6 +196,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * 3SB Games (Cakemiix and ododahs)
 * Alex (CraftedRL)
 * Aline Games (AliineGamesYT)
+* alixia (aIixiayt)
 * AlvinBlox (Alvin_Blox)
 * Amberry (Amberrry)
 * AnielicA (ANIELICA01)
@@ -218,6 +219,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
 * cazum8 (cazum8)
+* Cerority (Cerority)
 * Cerso (Cerso93)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
@@ -240,6 +242,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DOLLASTIC PLAYS! (DollasticDreams)
 * DraconiteDragon (ItsDraconiteDragon)
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
+* Elitelupus (elitelupus)
 * Erik Carr (ErikCarrKZ)
 * EthanGamer (EthanGamerTV)
 * Evanbear1 (Evanbear1)
@@ -255,6 +258,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Gallant Gaming (GallantGaming)
 * GianBlox (GianBloxBRz)
 * Godenot (godenot)
+* GoingLimited (GoingLimited)
 * GoldenGlare (GOLD3NGLARE)
 * GoldenOwl 
 * Gravycatman (GrumpyGravy)
@@ -321,6 +325,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * NapkinNate (NapkinNate)
 * Natasha Panda (NatashaPandaaYT)
 * Nezi Plays Roblox (NeziPlaysROBLOX)
+* Nicole Kimmi (Nicole_Kimmi)
 * NightFoxx (Night_foxx)
 * NO\_DATA (NO\_DATA)
 * noekje (noekje)
@@ -371,6 +376,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
+* XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
 * Yokai (Yokai_YT)
 * Z00LD 
