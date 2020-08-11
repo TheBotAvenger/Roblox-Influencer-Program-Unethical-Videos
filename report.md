@@ -183,12 +183,12 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 272,335 videos
-* Total videos found that match keywords: 15,940 videos
-  * Total unprocessed videos: 2,818 videos
-* Total videos found that are processed and marked: 2,662 videos 
+* Total videos found that match keywords: 15,941 videos
+  * Total unprocessed videos: 2 videos
+* Total videos found that are processed and marked: 2,665 videos 
   * Information Collection: 1,646 videos
   * Non-Giftcard Robux Giveaways: 853 videos
-  * Other: 136 videos
+  * Other: 139 videos
   * Phishing: 27 videos
 
 ### No Videos Found
@@ -3829,6 +3829,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMO PASSAR DE NÍVEL RÁPIDO NO BOOGA BOOGA ROBLOX!!! \#1
       * Description references a Roblox Cheat Engine bypass using mega.nz.
       * URL: https://www.youtube.com/watch?v=EUyw_gyoMNw
+    * JAILBREAK CAIRÁ PARA SEMPRE?? (ROBLOX) \#EMPIRENOTICIA !!
+      * Description references a Roblox Cheat Engine bypass using mega.nz.
+      * URL: https://www.youtube.com/watch?v=DwwMpLw8Wh4
     * NOVO BUG DE DINHEIRO NO JAILBREAK !! (ROBLOX)
       * Description references a Roblox Cheat Engine bypass using mega.nz.
       * URL: https://www.youtube.com/watch?v=IFTtqpBT08M
@@ -8420,6 +8423,12 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references a video about getting Robux for filling out surveys.
       * URL: https://www.youtube.com/watch?v=QTbRWUhK3wI
   * Other
+    * You won't believe what I found out about ROBLOX..
+      * Video involves impersonating Roblox employee accounts.
+      * URL: https://www.youtube.com/watch?v=CufmNdxOGmw
+    * Why ROBLOX Has Been Offline For 50 Days..
+      * Video involves impersonating Roblox employee accounts.
+      * URL: https://www.youtube.com/watch?v=B6cogz7V03E
     * ROBLOX plays MINECRAFT for the first time..
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=enUqVD_FsNw
