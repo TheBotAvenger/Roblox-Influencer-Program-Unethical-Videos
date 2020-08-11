@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 10, 2020<br>
+Generated August 11, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 268,301 videos
-* Total videos found that match keywords: 15,435 videos
-  * Total unprocessed videos: 2,728 videos
-* Total videos found that are processed and marked: 2,655 videos 
-  * Information Collection: 1,639 videos
+* Total videos: 272,335 videos
+* Total videos found that match keywords: 15,940 videos
+  * Total unprocessed videos: 2,818 videos
+* Total videos found that are processed and marked: 2,662 videos 
+  * Information Collection: 1,646 videos
   * Non-Giftcard Robux Giveaways: 853 videos
   * Other: 136 videos
   * Phishing: 27 videos
@@ -477,6 +477,27 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * BEST WAY To Get A FREE Secret VAMP BOW In Skyblock Islands - Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=9tdH7jCt0MQ
+    * ARTIFACT BOW, POTIONS, SCORPIONS In Skyblock Islands Update - Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=6McHbtJuJCw
+    * Roblox Skyblock But This Item Is Worth $10,000 Robux
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=e_gmhpz4U7k
+    * FREE 2X CLICK SUPERNOVA PETS UPDATE In Tapping Legends! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=n7fgw2DuITg
+    * All 23 SECRET FREE 10M PET CODES In Tapping Legends! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=h3VKtSIQKws
+    * SECRET GEAR 40M UPDATE CODES In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=m3atU6vFpF0
+    * BACK 2 BACK SECRET PETS IN Bubble Gum Simulator!? \*FREE OVERLORD PLUSHIE\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=2OiZDR4j01s
     * NEW POPULAR FREE JUKEBOX ISLANDS UPDATE! Roblox Islands / Skyblock
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=NqvHYALcClM
