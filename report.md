@@ -184,10 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 272,335 videos
 * Total videos found that match keywords: 15,941 videos
-  * Total unprocessed videos: 2 videos
-* Total videos found that are processed and marked: 2,665 videos 
+* Total videos found that are processed and marked: 2,666 videos 
   * Information Collection: 1,646 videos
-  * Non-Giftcard Robux Giveaways: 853 videos
+  * Non-Giftcard Robux Giveaways: 854 videos
   * Other: 139 videos
   * Phishing: 27 videos
 
@@ -220,7 +219,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Carol TV (caaroltv)
 * cazum8 (cazum8)
 * Cerority (Cerority)
-* Cerso (Cerso93)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Chyna Gaming (Iamchynagaming)
@@ -465,6 +463,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Giving A Noob 50,000 Robux!! (He Went Mad!)
       * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=YYWu5J6ryPo
+* Cerso (Cerso93)
+  * Non-Giftcard Robux Giveaways
+    * SORTEO DE ROBUX PARA ROBLOX GRATIS | Cerso Roblox en español
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=V5Y3MNZv4K8
 * ComfySunday (ComfySunday)
   * Phishing
     * Giving A Fan A 5,000 ROBUX MAKEOVER! | ROBLOX
