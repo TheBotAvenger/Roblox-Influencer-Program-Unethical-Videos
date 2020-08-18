@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 16, 2020<br>
+Generated August 18, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,10 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 272,335 videos
-* Total videos found that match keywords: 15,941 videos
-* Total videos found that are processed and marked: 2,666 videos 
-  * Information Collection: 1,646 videos
+* Total videos: 273,482 videos
+* Total videos found that match keywords: 16,050 videos
+  * Total unprocessed videos: 101 videos
+* Total videos found that are processed and marked: 2,674 videos 
+  * Information Collection: 1,654 videos
   * Non-Giftcard Robux Giveaways: 854 videos
   * Other: 139 videos
   * Phishing: 27 videos
@@ -480,6 +481,30 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * Roblox Arsenal BUT If You WIN You Get $10,000 Robux
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Oyr9Ww8erRY
+    * ALL 27 SECRET 1 BILLION CODES In Bee Swarm Simulator!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=gZzBLRBR7S0
+    * SHINY Season 12 Bubble Pass Codes In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=kJObC0GhxdI
+    * 5 BILLION $$$ Limited GLOBAL Trading Update In MY RESTAURANT Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=p1tz6exps6o
+    * Epic $10,000 Robux Anime Fighting Simulator Challenge! (Roblox)
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=qJ6ytSPToCw
+    * SECRET Lost World SUPER GEMS CODES In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=RWn7ZaXEy4Q
+    * Unlimited SUPER REBIRTH TOKEN PETS World In Tapping Simulator Update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=FmAiR6uoyGU
+    * Roblox Skyblock But The Best Island Wins $10,000 Robux
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=v2fAt7MfHLQ
     * BEST WAY To Get A FREE Secret VAMP BOW In Skyblock Islands - Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=9tdH7jCt0MQ
