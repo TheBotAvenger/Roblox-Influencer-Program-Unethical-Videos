@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 18, 2020<br>
+Generated August 19, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 273,482 videos
-* Total videos found that match keywords: 16,050 videos
-  * Total unprocessed videos: 101 videos
-* Total videos found that are processed and marked: 2,674 videos 
-  * Information Collection: 1,654 videos
-  * Non-Giftcard Robux Giveaways: 854 videos
-  * Other: 139 videos
+* Total videos: 274,399 videos
+* Total videos found that match keywords: 16,107 videos
+  * Total unprocessed videos: 7 videos
+* Total videos found that are processed and marked: 2,697 videos 
+  * Information Collection: 1,675 videos
+  * Non-Giftcard Robux Giveaways: 855 videos
+  * Other: 140 videos
   * Phishing: 27 videos
 
 ### No Videos Found
@@ -227,6 +227,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Conor3D (Conor3D)
 * CPat (StarC0de_CPAT)
 * Crainer Roblox 
+* CrazyErzy (xCrazyErzyYTx)
 * Cryptize (Cryptize)
 * CrystalSims (CrystalSims)
 * cybernova games (THEREALCYBERNOVA)
@@ -242,7 +243,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DraconiteDragon (ItsDraconiteDragon)
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * Elitelupus (elitelupus)
-* Erik Carr (ErikCarrKZ)
 * EthanGamer (EthanGamerTV)
 * Evanbear1 (Evanbear1)
 * faeglow (faeglow)
@@ -274,6 +274,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * iiisxphie (iiisxphie)
 * iKotori (iKotori)
 * Inemafoo (Inemajohn)
+* Infernasu (Infernasu)
 * It's Akeila (itsakeila)
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
 * Its SugarCoffee (SugarCoffee123)
@@ -691,6 +692,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BUYING 192T CYBER SWORD AND 3T GEM CODES IN BOMB SIMULATOR! ROBLOX
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=5XuQPy3xpCo
+    * 25 FREE MYTHIC Jumbo June Pack CODES IN BEE SWARM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VA0sHpm4eCQ
     * NOOB To MASTER In Slamming Simulator \*SECRET OP TRAINING\* + CODES Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=vYdSNDWhoIc
@@ -3218,6 +3222,10 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=T2dTXGlKF_U
+    * ONLY DIMES! \[RNFL 2 HEROES EDITION \#1\] \[ROBLOX\]
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=G-ChfLOF_YE
   * Other
     * Teleporting Simulator! (FUCK FUCK FUCK)
       * Video, title, and description contain the "F word" 8 times.
@@ -3887,6 +3895,59 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMO GANHAR MUITO DINHEIRO RÁPIDO NO MINING SIMULATOR!!(ROBLOX)
       * Description references a Roblox Cheat Engine bypass using mega.nz.
       * URL: https://www.youtube.com/watch?v=ameLwuP4Uvc
+* Erik Carr (ErikCarrKZ)
+  * Information Collection
+    * FÁBRICA DE LUCKY BLOCK - Roblox Lucky Block Tycoon
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=54YF6VFY0Mg
+    * TOWER OF HELL mas a gravidade está diferente - Roblox
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=af0_HlsVoF4
+    * ESSE CORREDOR É IMPOSSÍVEL - Roblox Corridor of Hell
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=4X5kg9fh-3Y
+    * Encontrei o CÓDIGO SECRETO da PORTA - Roblox Obby Troll
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=CoFF7zpfzVU
+    * Dando SUPER PULOS para TORRE INIMIGA - Roblox Super Doomspire
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=nbMYOJTlhfo
+    * Maneira mais FÁCIL de conseguir ROBUX GRÁTIS + SORTEIO
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=h8QnGhwODVM
+    * CADA NÍVEL, MAIS DIFÍCIL - Roblox Obby 9999 NÍVEIS
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=fE42wynwnO0
+    * PIGGY CAPÍTULO CASA GIGANTE! (Piggy Mapa dos Inscritos)
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=eL87_8lKMaY
+    * CADA VEZ QUE MORRO, É MAIS DIFÍCIL - Roblox Obby 9999 NÍVEIS
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=ZpYgbytu4Fw
+    * A IMPOSSÍVEL TORRE DE PARKOUR - Roblox Parkour Tower
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=VU5r7_mX6gA
+    * PIGGY CAPÍTULO MAIS DIFÍCIL! (Piggy Mapa dos Inscritos)
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=m7tZGgDhVrs
+    * ME TORNEI O SORVETEIRO - Roblox Jerry
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=YxYzkzVkMlA
+    * CLASH ROYALE no ROBLOX
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=hPDqbJf8sEA
+    * NOVO CAPÍTULO PIGGY? (Zoológico) - Roblox
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=XYLMDSgAqS4
+    * Caí de 9,999,999 METROS e NUNCA ACONTECEU ISSO COMIGO - Roblox Broken Bones
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Xr6f6JYEQbk
+    * Piggy Simulator CAPÍTULO 3 + VIP - Roblox
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Lbj2a2NsfP0
+    * Consiga ROBUX GRÁTIS Dessa Maneira - SORTEIO 2000 Robux
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Nda5CJd2LwQ
 * FunkySquadHD (0UseCode_Funky)
   * Information Collection
     * I GOT ON THE LEADERBOARD! North Pole Simulator 🎅
@@ -4352,6 +4413,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * WHATS ON TOP OF THE SECRET ISLAND | Snowman Simulator ☃️
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=HCQIR9xRsrE
+    * NEW UPDATE SNOW MAP & MYTHIC ZONE! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=bRBa-5goNg4
     * I BOUGHT 3 MILLION SILVER THEN GOT MYTHIC PRESENTS | Snowman Simulator ☃️
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=Zw4IjLUFJ7A
@@ -5447,6 +5511,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 10 COISAS QUE VOCÊ NUNCA SOUBE SOBRE O ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=G-1Olg4XJb4
+    * O DIA EM QUE O ROBUX FOI ADICIONADO NO ROBLOX💸
+      * Description references a video about the data collection website bloxawards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=34WI-ffIsFU
     * ALGUÉM AINDA LEMBRA DESSE JOGO DO ROBLOX??
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=Jeu5xtPghNk
@@ -6967,6 +7034,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MYTHICAL TIER UPDATE \*CODES\* & ALL ITEMS! - Roblox Mining Simulator (Update)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=GtGYDTNQijw
+    * SECRETS EVERY PLAYER SHOULD KNOW (CODES, ROYAL JELLYS TICKETS) - Roblox Bee Swarm Simulator
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=K_AbupEQsuM
     * HOW \*OP\* IS THE FIRE BANE?! (INSTANT BILLIONS!!) - Roblox Mining Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=cnQ6ISZfN_I
@@ -8607,6 +8677,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I Joined ROBLOX'S VIP Server..
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=BLTmlXJlB_U
+    * ROBLOX showed me the secret free catalog..
+      * Video involves impersonating Roblox employee accounts.
+      * URL: https://www.youtube.com/watch?v=Ada4kpvqJ0c
     * I Added ROBLOX As A Friend..
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=qUbU1akDnm4
