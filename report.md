@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 23, 2020<br>
+Generated August 24, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -334,7 +334,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Pankayz (Pankayz)
 * Papile (jupapile)
 * PeetahBread (PeetahBread)
-* PHMittens (Youtube_PHMittensRBX)
+* PHMittens (PHMittens_YoutubeRBX)
 * Phoeberry (Phoeberry)
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
