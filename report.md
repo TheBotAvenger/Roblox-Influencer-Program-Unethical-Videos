@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 24, 2020<br>
+Generated August 25, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,14 +182,14 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 274,399 videos
-* Total videos found that match keywords: 16,107 videos
-  * Total unprocessed videos: 7 videos
-* Total videos found that are processed and marked: 2,697 videos 
-  * Information Collection: 1,675 videos
+* Total videos: 277,237 videos
+* Total videos found that match keywords: 16,397 videos
+  * Total unprocessed videos: 198 videos
+* Total videos found that are processed and marked: 2,717 videos 
+  * Information Collection: 1,693 videos
   * Non-Giftcard Robux Giveaways: 855 videos
   * Other: 140 videos
-  * Phishing: 27 videos
+  * Phishing: 29 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -213,9 +213,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * bobjenz 
 * BramP (bramp1996)
 * Brianna (zBriannaGamez)
+* Bubbles (bubblestoxic)
 * Buur (BuurmanTenus)
 * ByDerank (ByDerank_YT)
 * Captain Tate (CaptainTate21)
+* Carakuchi (carakuchi)
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
 * cazum8 (cazum8)
@@ -273,6 +275,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * iGuz (iGuzGames)
 * iiisxphie (iiisxphie)
 * iKotori (iKotori)
+* iLeahxo (iLeahxo)
 * Inemafoo (Inemajohn)
 * Infernasu (Infernasu)
 * It's Akeila (itsakeila)
@@ -296,6 +299,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Karim Juega (karimjuega)
 * Kawaii Kunicorn Gaming (kawaii_kunicorn)
 * Kelogish (Kelogish)
+* Kelvingts (Kelvingts)
 * Kepu The Cat (KepuTheCat)
 * Kindly Keyin (KindlyKeyin)
 * KIRON (SoyKiron)
@@ -356,6 +360,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShanePlays (SGC_Shane)
 * Shaylo (YTshaylo)
 * skyleree (skyleree)
+* Solemrex Flame (solemrexRB and iJackeryz)
 * Spagz Blox (Spagzox)
 * SrPrismatico (SrPrismatico)
 * SuperDog Tyler (superdog_tyler)
@@ -375,7 +380,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TroyanoNanoReturns (TroyanoNanoReturns)
 * TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
+* Unicorn Twins - Roblox (moodyunicorntwin)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
+* VoltIsHyper (v0_1t)
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
 * Yokai (Yokai_YT)
@@ -482,6 +489,24 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * How To Get 3 MILLION Coins In Roblox Skyblock Islands FAST! (NOOB FRIENDLY) \*IN 1 HOUR\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=YDVHEDBAV0Y
+    * Infinite POWER Chest Item Glitch In Tapping Simulator! Roblox \*FREE RAINBOW GEAR\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=OFsloxTqwo8
+    * FREE INSTANT BILLIONS, Pirate Customers & Limiteds In My Restaurant Roblox!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=CcdeEOtMI3M
+    * All 50M PHOENIX UPDATE Codes In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=nuY55l0kbsk
+    * Owner Added MY Update In Roblox Islands Skyblock!? \*BEST UPDATE!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=LXNGrl4NGgc
+    * Hatched The \*BEST\* 1/15,000,000 Pet In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=wqBen6TAX20
     * Roblox Arsenal BUT If You WIN You Get $10,000 Robux
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=Oyr9Ww8erRY
@@ -3897,6 +3922,21 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=ameLwuP4Uvc
 * Erik Carr (ErikCarrKZ)
   * Information Collection
+    * VIAJANDO em PORTAIS DO UNIVERSO - Roblox Portal Rush
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=ty879ZN-i7Q
+    * Peguei a CAIXA TROLL, eu fui DESCONECTADO do Jogo - Roblox Obby Troll
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=0Qa8KTXx25M
+    * NOVO MAPA do FALL GUYS no ROBLOX - Slip Blox
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=GUTeFsZ4CGA
+    * ROBLOX + FALL GUYS
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=iM_1X1-6PdE
+    * Subindo a ESCADA IMPOSSÍVEL - Roblox Climb Time
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=iQzMjbx57o0
     * FÁBRICA DE LUCKY BLOCK - Roblox Lucky Block Tycoon
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=54YF6VFY0Mg
@@ -8205,6 +8245,36 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=a52W2QhS6YA
     * HIDE AND SEEK IN JAILBREAK FOR 1000 ROBUX! (Roblox)
       * URL: https://www.youtube.com/watch?v=Dr1ZAAN-mg8
+* Xegothasgot (Xegot)
+  * Information Collection
+    * HOW TO GET FREE ROBUX IN LESS THAN 1 MINUTE! \*\*Not Clickbait\*\*
+      * Description references the data collection website earnrobux.today.
+      * URL: https://www.youtube.com/watch?v=qmcgx0wJurc
+    * ATV BUGGY & DONUT SHOP! (ROBLOX Jailbreak) \[NEW UPDATE\]
+      * Description references a video offering Robux for downloading apps. Apps sometimes require signups which requires asking for personal information.
+      * URL: https://www.youtube.com/watch?v=lruqN9n_PTE
+    * ROBLOX | GOLD DIGGER PRANK! \[\#3\] | Roblox Social Experiment - (Gold Digger EXPOSED!!!)
+      * Description references a video offering Robux for downloading apps. Apps sometimes require signups which requires asking for personal information.
+      * URL: https://www.youtube.com/watch?v=MzN2bci0AEE
+    * Play ROBLOX On June 28th! \*ROBLOX WON'T BE HACKED\* (w/ Proof)
+      * Description references a video offering Robux for downloading apps. Apps sometimes require signups which requires asking for personal information.
+      * URL: https://www.youtube.com/watch?v=BcrTfmhJR0s
+    * ROBLOX | GOLD DIGGER PRANK! | Roblox Social Experiment
+      * Description references a video offering Robux for downloading apps. Apps sometimes require signups which requires asking for personal information.
+      * URL: https://www.youtube.com/watch?v=5Kf2jvrUUOU
+    * ROBLOX Jaibreak: How to Rob Jewelry Store Without Dying! - EARN $500k IN ROBBERY?!?
+      * Description references a video offering Robux for downloading apps. Apps sometimes require signups which requires asking for personal information.
+      * URL: https://www.youtube.com/watch?v=aTER3ODKzEY
+    * How to Get FREE ROBUX on Roblox! (NOT CLICKBAIT) \[MAY 2017\]
+      * Vidoe is about offering Robux for downloading apps. Apps sometimes require signups which requires asking for personal information.
+      * URL: https://www.youtube.com/watch?v=cSS12WVEBoI
+  * Phishing
+    * HACKING MY FANS ROBLOX ACCOUNTS! (Part 2) - Surprised Them With Robux!!!
+      * Offers to give Robux in exchange for a username and password via direct messages on Instagram.
+      * URL: https://www.youtube.com/watch?v=uqNPcqXwaJo
+    * HACKING A FANS ROBLOX ACCOUNT! (Free Robux & Builders Club)
+      * Offers to give Robux in exchange for a username and password via direct messages on Instagram.
+      * URL: https://www.youtube.com/watch?v=2odplgBeGh8
 * xMarcelo (xMarcelo)
   * Information Collection
     * 😱 PRÓXIMOS EVENTOS!! E POSSÍVEIS EVENTOS PATROCINADOS do ROBLOX 😍🎉
