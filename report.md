@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 30, 2020<br>
+Generated August 31, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -257,7 +257,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Furious Jumper (furi0us_jumper)
 * GabriellaGames 
 * Gallant Gaming (GallantGaming)
-* GianBlox (GianBloxBRz)
+* GianBlox (GiianBloxYT)
 * Godenot (godenot)
 * GoingLimited (GoingLimited)
 * GoldenGlare (GOLD3NGLARE)
@@ -287,7 +287,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * javie12 (javie12)
 * Jayingee (jayingee)
 * JD (Thexz)
-* Jeancof ツ (Jeancof)
+* Jeancof (Jeancof)
 * Jeenius (RealJeen)
 * Jenstine (jenstine and jenstinex)
 * JoeyDaPlayer (UseStarCodee_JOEY)
