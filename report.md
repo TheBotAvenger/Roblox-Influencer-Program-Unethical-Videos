@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 31, 2020<br>
+Generated September 1, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 277,237 videos
-* Total videos found that match keywords: 16,397 videos
-  * Total unprocessed videos: 1 video
-* Total videos found that are processed and marked: 2,717 videos 
-  * Information Collection: 1,693 videos
+* Total videos: 278,415 videos
+* Total videos found that match keywords: 16,502 videos
+  * Total unprocessed videos: 99 videos
+* Total videos found that are processed and marked: 2,724 videos 
+  * Information Collection: 1,700 videos
   * Non-Giftcard Robux Giveaways: 855 videos
   * Other: 140 videos
   * Phishing: 29 videos
@@ -489,6 +489,27 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * ALL BEE Update SECRETS You MUST Know In Roblox Islands Skyblock \*SUPER OP\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=XQ3FvYOrtCI
+    * All NEW CITRUS OVERLORD Pet Update Codes In BUBBLE GUM SIMULATOR! Roblox \*GET FREE!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=dM-5wb4VpXw
+    * FREE Diamond Play Button, YouTubers And More In MY RESTAURANT UPDATE! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Gqy259B4UUQ
+    * Roblox Pet Simulator The Best Forgotten Game.. Codes + More!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=pERWNSbgAdU
+    * Rainbow ROBUX Gear & Pets BREAK Tapping Simulator Forever... \*NOT GOOD\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=5yjQ0uWsHv0
+    * NOOB To MAX WAR GENERAL In War Simulator! Roblox \*30 MINUTES ONLY!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=8O2RW5jWlRA
+    * 25M VIP BOOST Update Codes In Tapping Legends! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=wGgw3L97Dq8
     * How To Get 3 MILLION Coins In Roblox Skyblock Islands FAST! (NOOB FRIENDLY) \*IN 1 HOUR\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=YDVHEDBAV0Y
