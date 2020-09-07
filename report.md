@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 6, 2020<br>
+Generated September 7, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -193,7 +193,7 @@ to the report if this happens.
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
-* 3SB Games (Cakemiix and ododahs)
+* 3SB Games (Cakemiix and shadodoo)
 * Alex (CraftedRL)
 * Aline Games (AliineGamesYT)
 * alixia (aIixiayt)
