@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 7, 2020<br>
+Generated September 8, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 278,415 videos
-* Total videos found that match keywords: 16,502 videos
-  * Total unprocessed videos: 1 video
-* Total videos found that are processed and marked: 2,724 videos 
-  * Information Collection: 1,700 videos
+* Total videos: 282,593 videos
+* Total videos found that match keywords: 16,632 videos
+  * Total unprocessed videos: 124 videos
+* Total videos found that are processed and marked: 2,731 videos 
+  * Information Collection: 1,707 videos
   * Non-Giftcard Robux Giveaways: 855 videos
   * Other: 140 videos
   * Phishing: 29 videos
@@ -208,6 +208,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bandi (BandiRue)
 * Bebe Adri (BebeAdriYT)
 * Bia Gamer (BiiiaGamerYT)
+* Bigbst4tz2 (BigBst4tz22)
 * BIGHEAD (I_BIGHEAD)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * bobjenz 
@@ -489,6 +490,27 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * RAINBOW FIREFLIES IN ROBLOX ISLANDS SKYBLOCK! \*Best Way To Get Them\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=-jmTjn9TBqA
+    * New Secret Obby World GLITCH \*Instant Finish\* In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=oWQ3nNiliu0
+    * Secret SHINY PREMIUM Pet Codes In Pet Battle Simulator! \*Instant Best Player!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=tsDPf7BhJxA
+    * 21 SECRET OP EGG UPDATE CODES IN TAPPING LEGENDS! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=oIDqlIofPt0
+    * All MEGA BOOST 60M Codes In Tapping Simulator \*FREE 10X BOOSTS!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=WvpcW62zX-M
+    * INFINITE \*AFK\* Crystallized Iron Farm \*9M $$$ A HOUR\* In Roblox Islands Skyblock
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VMkJObVTiM0
+    * MAXED Premium Fighting Pass Codes In Anime Fighting Simulator!! \*GET IT FREE\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=lsNZUNQ307c
     * ALL BEE Update SECRETS You MUST Know In Roblox Islands Skyblock \*SUPER OP\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=XQ3FvYOrtCI
