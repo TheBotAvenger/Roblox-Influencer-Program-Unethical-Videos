@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 13, 2020<br>
+Generated September 14, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -250,7 +250,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Evanbear1 (Evanbear1)
 * faeglow (faeglow)
 * Febatista 
-* FeelFree - Roblox (Celery_YT)
 * FGTeeV (FGTeeV and DrizzMcNizz)
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (french_rxses)
@@ -325,6 +324,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Michaels Mayhem 
 * MicroGuardian (MicroGuardian)
 * Milo Mine (BebeMiloAmiwito)
+* MinuteMadness (Celery_YT)
 * MooseCraft Roblox (MooseCraftRoblox)
 * MrLokazo86 (Lokazo86)
 * NapkinNate (NapkinNate)
@@ -411,6 +411,113 @@ The following channels had nothing appear with manual searching. Videos may exis
     * VIRUS SIMULATOR?! - Roblox \[Deutsch/HD\]
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
       * URL: https://www.youtube.com/watch?v=FD6SJcbDIAY
+* ARKH 
+  * Phishing
+    * *buying fans robux .. ( roblox )*
+      * *Logs into the fan's account to buy Robux, although it was to redeem the VISA giftcard.*
+      * *URL: https://www.youtube.com/watch?v=9FRfBVEDEWc*
+    * *CHRISTMAS HACKING A FANS ROBLOX ACCOUNT! \*FREE ROBUX SURPRISE\**
+      * *URL: https://www.youtube.com/watch?v=pl_R32VfSpY*
+    * *HACKING A FAN's ROBLOX ACCOUNT and HALLOWEEN PRANKING HIM! (Roblox Robux)*
+      * *URL: https://www.youtube.com/watch?v=Yo0nFKXRlq8*
+    * *HACKING A FAN's ROBLOX ACCOUNT and SPENDING ROBUX!!! (Roblox)*
+      * *URL: https://www.youtube.com/watch?v=ANtXgWmNO2U*
+    * *HACKING A FAN's ROBLOX ACCOUNT GONE WRONG .. \*HE CAUGHT ME\**
+      * *URL: https://www.youtube.com/watch?v=oYpxpdjgY-E*
+  * Non-Giftcard Robux Giveaways
+    * *DONATING $60,000 ROBUX TO ROBLOX FANS ..*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=i1cj_n9yZ7k*
+    * *free robux .. ( Roblox )*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=Azvi95olEqc*
+    * *ROBLOX CHANGED THE TERMS OF SERVICE .. \*BECAUSE OF US\**
+      * *Uses a new account and giving away the password to give free robux.*
+      * *URL: https://www.youtube.com/watch?v=NCgtwqrIwZc*
+    * *BYPASSING MY ROBLOX ACCOUNT PERM BAN!! ( Roblox Jailbreak )*
+      * *Uses a new account and giving away the password to give free robux.*
+      * *URL: https://www.youtube.com/watch?v=fSeftjImqtQ*
+    * *roblox banned me permanently for this video .. (part 2)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=tA6bEFouhm8*
+    * *roblox will ban me if they see this ..*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=-LnCwFja19M*
+    * *JOIN THIS GROUP for FREE ROBUX .. ( ROBLOX )*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=xBF9z89ogyo*
+    * *ROBLOX DELETED MY ACCOUNT AGAIN..*
+      * *Uses a new account and giving away the password to give free robux.*
+      * *URL: https://www.youtube.com/watch?v=MK2nKCcfvzg*
+    * *Dear Roblox, Do NOT Watch This Video ..*
+      * *Uses a new account and giving away the password to give free robux.*
+      * *URL: https://www.youtube.com/watch?v=2-muEkmlzdE*
+    * *1 MILLION FREE ROBUX .. ( Roblox )*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=tAfs1t-RezQ*
+    * *FREE ROBUX 2018 .. ( Roblox )*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=3nCxELjvkz0*
+    * *FREE ROBUX .. ( Roblox Christmas )*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=Am-MwWDVZuU*
+    * *FREE ROBUX .. (Roblox)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=xTE5qNkDqf4*
+    * *IF YOU CAN FIND HIM, WIN FREE ROBUX!!! (Roblox Jailbreak HIDE AND SEEK)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=ByQ08LtMnZQ*
+    * *FREE ROBUX JAILBREAK HIDE AND SEEK .. (Roblox)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=Gpc3u2MUVes*
+    * *i sent a fan 25,000 robux on accident .. (Roblox)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=S-ATSQM1GME*
+    * *\*VOICE CHAT\* SURPRISING FAN with 35,000 FREE ROBUX! (Roblox Jailbreak)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=J8_aRqjUjRo*
+    * *SURPRISING A FAN WITH 35,000 FREE ROBUX!!! (Roblox Jailbreak)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=k23t9yZ7WbI*
+    * *kid wins 15,000 robux by cheating in jailbreak .. (roblox)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=8z18UL-IRTg*
+    * *IF YOU FIND HIM, WIN 50,000 FREE ROBUX! (Roblox Jailbreak)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=G0G4Qm8-4_o*
+    * *The BIGGEST FREE ROBUX GROUP in ROBLOX .. (Roblox Groups)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=i8vbfclLAKs*
+    * *10,000 ROBUX FAN RACE in VEHICLE SIMULATOR! (Roblox Vehicle Simulator)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=3bz_DtAs9-k*
+    * *GIVING A FAN 100k FREE ROBUX!!! (Roblox Groups)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=pGVF2WWyDDg*
+    * *ACROSS THE MAP RACE for FREE ROBUX in ROBLOX JAILBREAK ..*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=2udekZjZU9M*
+    * *This ROBLOX GROUP is GIVING MEMBERS FREE ROBUX!!!!*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=ldVEn74ndTU*
+    * *IF YOU FIND HIM, WIN 10,000 FREE ROBUX! (Roblox Jailbreak)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=3h8384Gf3P8*
+    * *\*\*ACCIDENTALLY\*\* GIVING A FAN 15,000 ROBUX .. (Roblox)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=4KIN7ERG_P4*
+    * *SPENDING $100,000 ROBUX for 100k SUBSCRIBERS (Roblox)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=BnlN0m12GX0*
+    * *JOIN THIS GROUP for FREE ROBUX!!! (Roblox Groups)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=MMg99bIUMvY*
+    * *IF YOU SEE HIM, YOU WIN FREE ROBUX (Roblox JAILBREAK)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=C24TVONSpqc*
+    * *IF YOU FIND HIM, YOU WIN FREE ROBUX!! (Roblox Jailbreak)*
+      * *Uses a Roblox Group with group funds to give away Robux.*
+      * *URL: https://www.youtube.com/watch?v=TCoMoruGc2A*
 * AshleyTheUnicorn (codeeunicorn)
   * Phishing
     * HACKING A FAN AND GIVING THEM FREE ROBUX IN ROBLOX!
@@ -6447,113 +6554,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=hqsYQu9twno
     * HACKING A FANS ROBLOX ACCOUNT AND GIVING THEM FREE ROBUX!! | Roblox LIVE 🔴
       * URL: https://www.youtube.com/watch?v=hC5BdAC2X8o
-* Landon - ARKH 
-  * Phishing
-    * *buying fans robux .. ( roblox )*
-      * *Logs into the fan's account to buy Robux, although it was to redeem the VISA giftcard.*
-      * *URL: https://www.youtube.com/watch?v=9FRfBVEDEWc*
-    * *CHRISTMAS HACKING A FANS ROBLOX ACCOUNT! \*FREE ROBUX SURPRISE\**
-      * *URL: https://www.youtube.com/watch?v=pl_R32VfSpY*
-    * *HACKING A FAN's ROBLOX ACCOUNT and HALLOWEEN PRANKING HIM! (Roblox Robux)*
-      * *URL: https://www.youtube.com/watch?v=Yo0nFKXRlq8*
-    * *HACKING A FAN's ROBLOX ACCOUNT and SPENDING ROBUX!!! (Roblox)*
-      * *URL: https://www.youtube.com/watch?v=ANtXgWmNO2U*
-    * *HACKING A FAN's ROBLOX ACCOUNT GONE WRONG .. \*HE CAUGHT ME\**
-      * *URL: https://www.youtube.com/watch?v=oYpxpdjgY-E*
-  * Non-Giftcard Robux Giveaways
-    * *DONATING $60,000 ROBUX TO ROBLOX FANS ..*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=i1cj_n9yZ7k*
-    * *free robux .. ( Roblox )*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=Azvi95olEqc*
-    * *ROBLOX CHANGED THE TERMS OF SERVICE .. \*BECAUSE OF US\**
-      * *Uses a new account and giving away the password to give free robux.*
-      * *URL: https://www.youtube.com/watch?v=NCgtwqrIwZc*
-    * *BYPASSING MY ROBLOX ACCOUNT PERM BAN!! ( Roblox Jailbreak )*
-      * *Uses a new account and giving away the password to give free robux.*
-      * *URL: https://www.youtube.com/watch?v=fSeftjImqtQ*
-    * *roblox banned me permanently for this video .. (part 2)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=tA6bEFouhm8*
-    * *roblox will ban me if they see this ..*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=-LnCwFja19M*
-    * *JOIN THIS GROUP for FREE ROBUX .. ( ROBLOX )*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=xBF9z89ogyo*
-    * *ROBLOX DELETED MY ACCOUNT AGAIN..*
-      * *Uses a new account and giving away the password to give free robux.*
-      * *URL: https://www.youtube.com/watch?v=MK2nKCcfvzg*
-    * *Dear Roblox, Do NOT Watch This Video ..*
-      * *Uses a new account and giving away the password to give free robux.*
-      * *URL: https://www.youtube.com/watch?v=2-muEkmlzdE*
-    * *1 MILLION FREE ROBUX .. ( Roblox )*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=tAfs1t-RezQ*
-    * *FREE ROBUX 2018 .. ( Roblox )*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=3nCxELjvkz0*
-    * *FREE ROBUX .. ( Roblox Christmas )*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=Am-MwWDVZuU*
-    * *FREE ROBUX .. (Roblox)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=xTE5qNkDqf4*
-    * *IF YOU CAN FIND HIM, WIN FREE ROBUX!!! (Roblox Jailbreak HIDE AND SEEK)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=ByQ08LtMnZQ*
-    * *FREE ROBUX JAILBREAK HIDE AND SEEK .. (Roblox)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=Gpc3u2MUVes*
-    * *i sent a fan 25,000 robux on accident .. (Roblox)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=S-ATSQM1GME*
-    * *\*VOICE CHAT\* SURPRISING FAN with 35,000 FREE ROBUX! (Roblox Jailbreak)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=J8_aRqjUjRo*
-    * *SURPRISING A FAN WITH 35,000 FREE ROBUX!!! (Roblox Jailbreak)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=k23t9yZ7WbI*
-    * *kid wins 15,000 robux by cheating in jailbreak .. (roblox)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=8z18UL-IRTg*
-    * *IF YOU FIND HIM, WIN 50,000 FREE ROBUX! (Roblox Jailbreak)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=G0G4Qm8-4_o*
-    * *The BIGGEST FREE ROBUX GROUP in ROBLOX .. (Roblox Groups)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=i8vbfclLAKs*
-    * *10,000 ROBUX FAN RACE in VEHICLE SIMULATOR! (Roblox Vehicle Simulator)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=3bz_DtAs9-k*
-    * *GIVING A FAN 100k FREE ROBUX!!! (Roblox Groups)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=pGVF2WWyDDg*
-    * *ACROSS THE MAP RACE for FREE ROBUX in ROBLOX JAILBREAK ..*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=2udekZjZU9M*
-    * *This ROBLOX GROUP is GIVING MEMBERS FREE ROBUX!!!!*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=ldVEn74ndTU*
-    * *IF YOU FIND HIM, WIN 10,000 FREE ROBUX! (Roblox Jailbreak)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=3h8384Gf3P8*
-    * *\*\*ACCIDENTALLY\*\* GIVING A FAN 15,000 ROBUX .. (Roblox)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=4KIN7ERG_P4*
-    * *SPENDING $100,000 ROBUX for 100k SUBSCRIBERS (Roblox)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=BnlN0m12GX0*
-    * *JOIN THIS GROUP for FREE ROBUX!!! (Roblox Groups)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=MMg99bIUMvY*
-    * *IF YOU SEE HIM, YOU WIN FREE ROBUX (Roblox JAILBREAK)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=C24TVONSpqc*
-    * *IF YOU FIND HIM, YOU WIN FREE ROBUX!! (Roblox Jailbreak)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=TCoMoruGc2A*
 * Linkmon99 (Linkmon99)
   * Information Collection
     * HE SOLD my ROBLOX ACCOUNT on EBAY (CALLING THE SCAMMER!) - Linkmon99 Richest Roblox Player
