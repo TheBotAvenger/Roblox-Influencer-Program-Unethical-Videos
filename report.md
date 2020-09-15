@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 14, 2020<br>
+Generated September 15, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -276,6 +276,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * iiisxphie (iiisxphie)
 * iKotori (iKotori)
 * iLeahxo (iLeahxo)
+* ImaGamerGirl (lmaGamerGirI)
 * Inemafoo (Inemajohn)
 * Infernasu (Infernasu)
 * It's Akeila (itsakeila)
@@ -293,6 +294,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JoeyDaPlayer (UseStarCodee_JOEY)
 * JonesGotGame (JonesGotGame)
 * Jr e Mi (JuniorGuimaraes and micandeloro)
+* Juegahora (Juegahora_RBXL)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
 * JunRoots (JunioRoots)
 * jvnq (jvnqYT)
@@ -317,6 +319,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Maislie (Maislie)
 * Manucraft (ManucraftYT)
 * Mary - Frozencrystal 
+* MathFacter360 (MathFacter360)
 * mayrushart (mayrushart)
 * MeganPlays Roblox (TheMeganPlays)
 * MelzinhaMel Games (MelzinhaMelGames, Detona\_Anderson, and Princesa\_Alicinha)
@@ -331,10 +334,13 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Natasha Panda (NatashaPandaaYT)
 * Nezi Plays Roblox (NeziPlaysROBLOX)
 * Nicole Kimmi (Nicole_Kimmi)
+* Nicole Maffi (NicoleMaffi)
 * NightFoxx (Night_foxx)
 * NO\_DATA (NO\_DATA)
 * noekje (noekje)
 * Oblivious (ObliviousHD)
+* oGVexx (LouDaREALGamer)
+* OmegaNova (NotOmegaNova)
 * PaintingRainbows (RainbowsYT)
 * Pankayz (Pankayz)
 * Papile (jupapile)
@@ -350,6 +356,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
 * Rambling Ramul (RamblingRamul)
+* REDKILL (RedKill24YT)
+* Rektway (Rektway)
 * Remainings (Remainings)
 * ROBLOXMuff (Intervin)
 * Robotz (R_obotz)
@@ -363,6 +371,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * skyleree (skyleree)
 * Solemrex Flame (solemrexRB and iJackeryz)
 * Spagz Blox (Spagzox)
+* Squid Magic (Foolzy)
 * SrPrismatico (SrPrismatico)
 * SuperDog Tyler (superdog_tyler)
 * TanqR (TanqR)
@@ -379,6 +388,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
 * TroyanoNanoReturns (TroyanoNanoReturns)
+* TussyGames (TussyGames)
 * TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
 * Unicorn Twins - Roblox (moodyunicorntwin)
