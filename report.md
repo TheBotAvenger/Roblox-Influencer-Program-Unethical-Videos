@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 15, 2020<br>
+Generated September 16, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 282,593 videos
 * Total videos found that match keywords: 16,632 videos
-  * Total unprocessed videos: 124 videos
-* Total videos found that are processed and marked: 2,731 videos 
-  * Information Collection: 1,707 videos
-  * Non-Giftcard Robux Giveaways: 855 videos
+  * Total unprocessed videos: 143 videos
+* Total videos found that are processed and marked: 2,723 videos 
+  * Information Collection: 1,700 videos
+  * Non-Giftcard Robux Giveaways: 854 videos
   * Other: 140 videos
   * Phishing: 29 videos
 
@@ -257,6 +257,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Furious Jumper (furi0us_jumper)
 * GabriellaGames 
 * Gallant Gaming (GallantGaming)
+* Geko97 - Roblox (Flexer97YT)
 * GianBlox (GiianBloxYT)
 * Godenot (godenot)
 * GoingLimited (GoingLimited)
@@ -3758,9 +3759,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * OS CRIADORES DO ROBLOX VAI TE SUGAR?? MENSAGEM SUBLIMINAR !!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=EMvh1EDbW2E
-    * SOU INTERESSEIRO DO JAILBREAK ?!!! SÓ ANDO EM CARRO DE 1 MILHÃO!!(TESTE) (ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=hso3uYf5EJQ
     * GODENOT É ILLUMINATI ?? GOD NÃO ??? QUE MISTÉRIO SE ENCONTRA NELE!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=l_qDeCm8MFc
@@ -4563,20 +4561,6 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Phishing
     * I HACKED A ROBLOX ODER | Roblox High School Dorm Life | Roblox ODer Trolling
       * URL: https://www.youtube.com/watch?v=XdMWvYf4Rjk
-* Geko97 - Roblox (Flexer97YT)
-  * Information Collection
-    * NUEVA FORMA de CONSEGUIR ROBUX GRATIS 🤑 \[Roblox\]
-      * Description references the data collection website rbxcash.com.
-      * URL: https://www.youtube.com/watch?v=A_NIUghaUM0
-    * EL SECRETO QUE NADIE SABIA de JAILBREAK 😱 \[Roblox\] \[Historia Inventada\]
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=5Lt02hfeNbw
-    * POR FAVOR NUNCA ENTRES a ESTE JUEGO de ROBLOX 😰
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=lVRkb90j_go
-    * CUIDADO CON ESTE ZOMBIE QUE TE MATA EN ROBLOX 😭 \[Roleplay\]
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=l3qwVIOIwgc
 * iamSanna (notiamsanna)
   * Non-Giftcard Robux Giveaways
     * WIN 10,000 ROBUX In This \*NEW\* Adopt Me FASHION CONTEST! (Adopt Me)
@@ -4853,9 +4837,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HATS UPDATE! (Super OP) | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=YeYkmn-ZB4o
-    * One Plot Challenge Getting Started (Season 2) | Lumber Tycoon 2
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=-iwYu8QAm-c
     * 50 RAINBOW SHOCKS vs RAREST CHEST | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=LyXiheH_zYw
@@ -5693,9 +5674,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * VOCÊ E UM VERDADEIRO ROBLOXIANO?? DESCUBRA!!
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=IA4Hc8VlRDI
-    * VOCÊ TEM MENOS DE 24 HORAS PARA PEGAR ESSE NOVO ITEM GRÁTIS DO ROBLOX :O
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=X2X3JBPp04A
     * MEU VÍDEO ESTA NO \#48 EM ALTA OBRIGADO A TODOS :D
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=v-xii6jBEYg
@@ -7217,9 +7195,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * UNLOCKING \*NEW\* GODLY TABBY BEE!! - Roblox Bee Swarm Simulator (Update)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=Sg1-GiJWTIk
-    * \*UNLIMITED\* EMERALDS!! (Massive OPENING!) - Roblox Booga Booga (Emerald Update)
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=lGe4oaAoen8
     * SECRET EMERALD CAVES + GOD BAGS REMOVED (Future Updates) - Roblox Booga Booga
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=ZkUQaqEhMt4
@@ -7642,12 +7617,12 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references a private video about getting free Robux.
       * URL: https://www.youtube.com/watch?v=cfEXRXI2zrk
   * Other
-    * HOW TO BEAT FLOOD ESCAPE 2! (NEW ROBLOX GAME)
-      * Video includes  "s\*\*\*" (4x),"f\*\*\*" (2x), and "a\*\*" (1x).
-      * URL: https://www.youtube.com/watch?v=JP9_ofM_reI
-    * HOW TO BECOME A PIRATE ON ROBLOX!
-      * Video includes  "f\*\*\*" (59x),"s\*\*\*" (12x), and "b\*\*\*\*" (4x), "a\*\*" (2x), "r\*\*\*" (4x), and "c\*\*\*" (1x).
-      * URL: https://www.youtube.com/watch?v=CNqOrpkX1xU
+    * *HOW TO BEAT FLOOD ESCAPE 2! (NEW ROBLOX GAME)*
+      * *Video includes  "s\*\*\*" (4x),"f\*\*\*" (2x), and "a\*\*" (1x).*
+      * *URL: https://www.youtube.com/watch?v=JP9_ofM_reI*
+    * *HOW TO BECOME A PIRATE ON ROBLOX!*
+      * *Video includes  "f\*\*\*" (59x),"s\*\*\*" (12x), and "b\*\*\*\*" (4x), "a\*\*" (2x), "r\*\*\*" (4x), and "c\*\*\*" (1x).*
+      * *URL: https://www.youtube.com/watch?v=CNqOrpkX1xU*
 * RazorFishGaming (UseCodeRAZORFISH and RazorFishPengiYT)
   * Information Collection
     * ALL 2 NEW SUPERHERO SIMULATOR CODES - New Game Release/ Roblox
