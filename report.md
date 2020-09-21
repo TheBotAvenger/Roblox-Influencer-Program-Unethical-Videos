@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 20, 2020<br>
+Generated September 21, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,12 +182,12 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 282,593 videos
-* Total videos found that match keywords: 16,632 videos
+* Total videos: 288,889 videos
+* Total videos found that match keywords: 17,121 videos
   * Total unprocessed videos: 143 videos
-* Total videos found that are processed and marked: 2,723 videos 
+* Total videos found that are processed and marked: 2,737 videos 
   * Information Collection: 1,700 videos
-  * Non-Giftcard Robux Giveaways: 854 videos
+  * Non-Giftcard Robux Giveaways: 868 videos
   * Other: 140 videos
   * Phishing: 29 videos
 
@@ -320,7 +320,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Maislie (Maislie)
 * Manucraft (ManucraftYT)
 * Mary - Frozencrystal 
-* MathFacter360 (MathFacter360)
 * mayrushart (mayrushart)
 * MeganPlays Roblox (TheMeganPlays)
 * MelzinhaMel Games (MelzinhaMelGames, Detona\_Anderson, and Princesa\_Alicinha)
@@ -358,7 +357,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RadioJH Games (audreyradio)
 * Rambling Ramul (RamblingRamul)
 * REDKILL (RedKill24YT)
-* Rektway (Rektway)
 * Remainings (Remainings)
 * ROBLOXMuff (Intervin)
 * Robotz (R_obotz)
@@ -375,7 +373,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Squid Magic (Foolzy)
 * SrPrismatico (SrPrismatico)
 * SuperDog Tyler (superdog_tyler)
-* TanqR (TanqR)
+* TanqR (JustBetterAim)
 * TapWater (UseCode_Tap)
 * Tex HS (TexWillerHS)
 * THE KAPOLAR (Kapolar1)
@@ -394,7 +392,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TwiistedPandora (TwistedPandora)
 * Unicorn Twins - Roblox (moodyunicorntwin)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
-* VoltIsHyper (v0_1t)
+* Volt (v0_1t)
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
 * Yokai (Yokai_YT)
@@ -6645,6 +6643,44 @@ The following channels had nothing appear with manual searching. Videos may exis
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
+* MathFacter360 (MathFacter360)
+  * Non-Giftcard Robux Giveaways
+    * complete my CASTLE OBBY and WIN 5,000 ROBUX!!! (Roblox)
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=Ut3Ix9VnCBE
+    * FIRST PERSON TO COMPLETE EACH OTHER'S OBBY WINS 1000 ROBUX!!! | Obby Creator on Roblox \#4
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=r119uNIrSsA
+    * FIRST PERSON TO COMPLETE MY OBBY WINS 1000 ROBUX!!! | Obby Creator on Roblox \#3
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=YtDg9MtpPSs
+    * JTOH BUILDING COMPETITION FOR $1,000 ROBUX!!! | JToH on Roblox \#20
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=CBzk84ocnpI
+    * RACING RANDOM PEOPLE FOR \*1,000 ROBUX\*!!! | Tower of Hell on Roblox \#12
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=-Zqc-_02Bv4
+    * FIRST PERSON TO COMPLETE MY CHALLENGE OBBY WINS 1,000 ROBUX!!! (Roblox)
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=mHtH1lUFDZY
+    * 1v1ing Fans For 1,000 ROBUX!!! | Tower of Hell on Roblox \#6
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=hhF3A6Oq3IU
+    * COMPLETE THE TOWER TO WIN 1,000 ROBUX!!! | Tower of Hell on Roblox \#3
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=3ahQMgsa3LQ
+    * MAP TEST DEAL OR NO DEAL FOR 5,000 ROBUX!!! | Flood Escape 2 on Roblox \#87
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=MdEwfMKF8UI
+    * FIRST PERSON TO BEAT MY QUIZ MAP WINS 1,000 ROBUX!!! | Flood Escape 2 on Roblox \#74
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=okgH5NKdT54
+    * LAST PERSON TO DIE WINS 1,000 ROBUX!!! | Flood Escape 2 on Roblox \#71
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=q1QOpUU7V3M
+    * FIRST PERSON TO BEAT MY CHALLENGE MAP WINS 1,000 ROBUX!!! | Flood Escape 2 on Roblox \#63
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=JSuVk5xVn-E
 * MIKEYDOOD (IMMIKEYDOOD)
   * Phishing
     * HACKING MY VIEWER AND SPENDING ALL OF HIS ROBUX!!!
@@ -7671,6 +7707,14 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * 10,000 ROBUX GIVEAWAY CONTEST! WATCH TO FIND OUT HOW TO WIN! Robux Giveaway In Roblox
       * URL: https://www.youtube.com/watch?v=HqTKlVCJDFs
+* Rektway (Rektway)
+  * Non-Giftcard Robux Giveaways
+    * 1000 ROBUX GIVEAWAY WINNERS!
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=Ca1GhmgNCMg
+    * 1000 ROBUX GIVEAWAY!
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=jQ4yhK_55QI
 * Roblox Minigunner (skoonks)
   * Other
     * ROBLOX Exploiters In A Nutshell
