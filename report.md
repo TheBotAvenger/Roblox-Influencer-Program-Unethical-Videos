@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 23, 2020<br>
+Generated September 24, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 288,889 videos
 * Total videos found that match keywords: 17,121 videos
-  * Total unprocessed videos: 143 videos
-* Total videos found that are processed and marked: 2,737 videos 
-  * Information Collection: 1,700 videos
+  * Total unprocessed videos: 122 videos
+* Total videos found that are processed and marked: 2,741 videos 
+  * Information Collection: 1,704 videos
   * Non-Giftcard Robux Giveaways: 868 videos
   * Other: 140 videos
   * Phishing: 29 videos
@@ -257,7 +257,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Furious Jumper (furi0us_jumper)
 * GabriellaGames 
 * Gallant Gaming (GallantGaming)
-* Geko97 - Roblox (Flexer97YT)
 * GianBlox (GiianBloxYT)
 * Godenot (godenot)
 * GoingLimited (GoingLimited)
@@ -4559,6 +4558,20 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Phishing
     * I HACKED A ROBLOX ODER | Roblox High School Dorm Life | Roblox ODer Trolling
       * URL: https://www.youtube.com/watch?v=XdMWvYf4Rjk
+* Geko97 - Roblox (Flexer97YT)
+  * Information Collection
+    * HOW TO CREATE A PASSIVE INCOME GAMING 18 \#passiveincome \#gaming
+      * Description references the data collection website rbxcash.com.
+      * URL: https://www.youtube.com/watch?v=A_NIUghaUM0
+    * HOW TO CREATE A PASSIVE INCOME GAMING 32 \#passiveincome \#gaming
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=5Lt02hfeNbw
+    * HOW TO CREATE A PASSIVE INCOME GAMING 34 \#passiveincome \#gaming
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=lVRkb90j_go
+    * HOW TO CREATE A PASSIVE INCOME GAMING 35 \#passiveincome \#gaming
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=l3qwVIOIwgc
 * iamSanna (notiamsanna)
   * Non-Giftcard Robux Giveaways
     * WIN 10,000 ROBUX In This \*NEW\* Adopt Me FASHION CONTEST! (Adopt Me)
