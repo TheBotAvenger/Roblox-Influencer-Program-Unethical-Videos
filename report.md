@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 27, 2020<br>
+Generated September 28, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -271,7 +271,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HulkBR (hulkbr_oficial)
 * Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
-* iBeMaine (ibemaine)
+* iBeMaine (ibeSZN)
 * iGuz (iGuzGames)
 * iiisxphie (iiisxphie)
 * iKotori (iKotori)
@@ -372,7 +372,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Squid Magic (Foolzy)
 * SrPrismatico (SrPrismatico)
 * SuperDog Tyler (superdog_tyler)
-* TanqR (JustBetterAim)
+* TanqR (VoteCompetitiveMode)
 * TapWater (UseCode_Tap)
 * Tex HS (TexWillerHS)
 * THE KAPOLAR (Kapolar1)
