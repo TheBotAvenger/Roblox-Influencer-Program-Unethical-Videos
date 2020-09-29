@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 28, 2020<br>
+Generated September 29, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 288,889 videos
-* Total videos found that match keywords: 17,121 videos
-  * Total unprocessed videos: 122 videos
-* Total videos found that are processed and marked: 2,741 videos 
-  * Information Collection: 1,704 videos
+* Total videos: 291,987 videos
+* Total videos found that match keywords: 17,356 videos
+  * Total unprocessed videos: 335 videos
+* Total videos found that are processed and marked: 2,763 videos 
+  * Information Collection: 1,726 videos
   * Non-Giftcard Robux Giveaways: 868 videos
   * Other: 140 videos
   * Phishing: 29 videos
@@ -605,6 +605,69 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * All 135 Free Gamepass Codes In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VUV6IvntsOA
+    * I Pulled Off A 600 IQ Impostor Play In Roblox Impostor!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=eeKtYa1aDLo
+    * Roblox Impostor Hide And Seek! \*New Gamemode\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=oVNG6j_aUyg
+    * Winning With 500 IQ Vent Plays in Roblox Impostor...! - Roblox Among Us
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=SMXPAJAzRu4
+    * Everytime I KILL, I Can BREATHE In Roblox Impostor! \*Mr Beast Challenge!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vC6yqVcoLiA
+    * SECRET \*INSTANT WIN\* Hat CODES In Roblox Impostor! (Roblox Among Us)
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ZA-IWmWXtVg
+    * INSANE 100% Winrate SECRETS In Roblox Impostor! (Roblox Among Us)
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=e3AQV-z9s2o
+    * AMONG US But Its In ROBLOX! Roblox Impostor
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=h7DgqM-CUSw
+    * 3 Secret FREE GOLDEN HAMMER Codes! Mining Champions Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=d89QtsECjgQ
+    * How To Get \*NEW\* COPPER And STEEL In Roblox Islands! \*FACTORY UPDATE\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=jRp-bhYr15k
+    * RANK 1 MAX DMG IN NEW BOSS DUNGEON UPDATE!! Roblox Tapping Simulator
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=i5ufKb_I_mk
+    * NEW "LEAKED" Industrial Update In Roblox Islands! \*New Machines, Drills And more!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=SD6o27h62vE
+    * ALL 8 Roblox Mining Champions Codes! \*FREE AUTO MINE/SELL!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=7bz8w9exbPM
+    * EVERY Fall Event Egg Pets In Bubble Gum Simulator! \*SUPER OP\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=kVVCG3gQfZU
+    * 35 OWNER 1 YEAR VOID CHARM CODES IN SABER SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=qAUxn_x46rA
+    * FREE Maxed FALL EVENT Rewards & Secret Hat In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=tjxn7gI2Ufk
+    * MAXED Fall Event PREMIUM Bubble Pass Codes In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vEEOE3x3Ej4
+    * I Went From NOOB To MASTER In Roblox Cosmic Heroes \*DEFEATED OWNER\* W/ @MrWoofless
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=C1ma5g7wtMU
+    * ALL Secret DESERT PET Gem Codes In Tapping Simulator Update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=8TJZxq7t4W0
+    * How To Get EVERY Secret SKIN In Arsenal! \*Beelzebub, Manic, Bigfoot and more!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=V_XzUKz8t9A
+    * ALL 10 WORKING ROBLOX PROMO ITEM CODES! \*Free Cosmetics!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=FS-nAPwyzOo
     * RAINBOW FIREFLIES IN ROBLOX ISLANDS SKYBLOCK! \*Best Way To Get Them\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=-jmTjn9TBqA
@@ -4077,6 +4140,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=ameLwuP4Uvc
 * Erik Carr (ErikCarrKZ)
   * Information Collection
+    * A ARMA QUE CONGELA - Roblox Prison Tycoon
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=CSh_ZH64jrI
     * VIAJANDO em PORTAIS DO UNIVERSO - Roblox Portal Rush
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=ty879ZN-i7Q
