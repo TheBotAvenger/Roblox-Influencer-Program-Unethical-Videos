@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 4, 2020<br>
+Generated October 5, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -340,6 +340,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Oblivious (ObliviousHD)
 * oGVexx (LouDaREALGamer)
 * OmegaNova (NotOmegaNova)
+* Onyx Gaming - Playonyx Tech (okgamerman)
 * PaintingRainbows (RainbowsYT)
 * Pankayz (Pankayz)
 * Papile (jupapile)
@@ -348,7 +349,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Phoeberry (Phoeberry)
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
-* Playonyx Tech (okgamerman)
 * PrestonGamez (PrestonPlayz)
 * Pretzel Etzel (pretzel_etzel)
 * ProSidu (prosiduzao)
