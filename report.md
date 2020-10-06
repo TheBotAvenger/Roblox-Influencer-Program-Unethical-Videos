@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 5, 2020<br>
+Generated October 6, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 291,987 videos
-* Total videos found that match keywords: 17,356 videos
-  * Total unprocessed videos: 122 videos
-* Total videos found that are processed and marked: 2,718 videos 
-  * Information Collection: 1,691 videos
+* Total videos: 293,266 videos
+* Total videos found that match keywords: 17,449 videos
+  * Total unprocessed videos: 207 videos
+* Total videos found that are processed and marked: 2,726 videos 
+  * Information Collection: 1,699 videos
   * Non-Giftcard Robux Giveaways: 860 videos
   * Other: 139 videos
   * Phishing: 28 videos
@@ -602,6 +602,27 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * All MAXED Halloween Event Pets In Bubble Gum Simulator!! \*Giveaway\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=lew8Ylg-R2c
+    * FREE Halloween Moon Pet & Candy Codes In Saber Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=b3b2o25FVjY
+    * I Got ALL HALLOWEEN Pet Codes In Bubble Gum Simulator!! \*Max Reward Pet\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ADSvWmmVGaI
+    * FREE Tormentor Pet, 2X Treats In Bubble Gum Simulator Halloween Update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=slJ9ywLc_pE
+    * Secret UNDEAD CRYPT Boost Codes In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=7Ci7pI_A7vI
+    * GOLDEN Crown Codes, Vent BUFFS And MINIGAMES In Impostor Update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=YE8cuGOQYQc
+    * Insane 700 IQ Door Sabotage Plays In Roblox Impostor!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Entw4tLKhfg
     * All 135 Free Gamepass Codes In Bubble Gum Simulator! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=VUV6IvntsOA
@@ -6506,6 +6527,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=hC5BdAC2X8o
 * Linkmon99 (Linkmon99)
   * Information Collection
+    * PIGGY's CREATOR vs RICHEST ROBLOX PLAYER!! (EPIC 1v1 Piggy with MiniToon) - Linkmon99 Roblox
+      * Description references the data collection website rbxtoys.com.
+      * URL: https://www.youtube.com/watch?v=HqO5kfEsuMk
     * HE SOLD my ROBLOX ACCOUNT on EBAY (CALLING THE SCAMMER!) - Linkmon99 Richest Roblox Player
       * Description references the data collection website rbxtoys.com.
       * URL: https://www.youtube.com/watch?v=VCIlVU8S-dg
