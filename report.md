@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 7, 2020<br>
+Generated October 8, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 293,266 videos
 * Total videos found that match keywords: 17,449 videos
-  * Total unprocessed videos: 217 videos
-* Total videos found that are processed and marked: 2,721 videos 
-  * Information Collection: 1,712 videos
+  * Total unprocessed videos: 122 videos
+* Total videos found that are processed and marked: 2,724 videos 
+  * Information Collection: 1,715 videos
   * Non-Giftcard Robux Giveaways: 845 videos
   * Other: 137 videos
   * Phishing: 27 videos
@@ -8499,9 +8499,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * the GHOST took over my POPULAR Roblox game..
       * Description references the data collection website flame.gg.
       * URL: https://www.youtube.com/watch?v=0Gcy0TWV4Ew
+    * Easy Way To Get Robux Without Money! (Roblox)
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=dBUnHb_1kFo
     * MEETING JAILBREAK'S OWNER! OMG! (Roblox)
       * Description references the data collection website flame.gg.
       * URL: https://www.youtube.com/watch?v=N-NV4DX7aTI
+    * Get Robux With This App! (Roblox)
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=5GTA5jLNeEM
     * Robux in Roblox
       * Description references the data collection website flame.gg.
       * URL: https://www.youtube.com/watch?v=tUlxmfpDIqk
@@ -8523,6 +8529,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Why DanTDM Quit Roblox
       * Description references the data collection website flame.gg.
       * URL: https://www.youtube.com/watch?v=H3id5wKBPX4
+    * Get Robux WITHOUT Money (Roblox)
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=7XJCO2JXxyw
     * OMG NEW JAILBREAK UPDATE IN A MINUTE! | Roblox
       * Description references a download for a data collection mobile app.
       * URL: https://www.youtube.com/watch?v=D4gN-HfzNMk
