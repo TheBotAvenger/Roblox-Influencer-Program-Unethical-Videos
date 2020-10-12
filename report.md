@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 11, 2020<br>
+Generated October 12, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -373,8 +373,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Squid Magic (Foolzy)
 * SrPrismatico (SrPrismatico)
 * SuperDog Tyler (superdog_tyler)
-* TanqR (VoteCompetitiveMode)
-* TapWater (UseCode_Tap)
+* TanqR (Kara81161)
+* TapWater (tapwat4r)
 * Tex HS (TexWillerHS)
 * THE KAPOLAR (Kapolar1)
 * The Pals (RealSubZeroExtabyte)
