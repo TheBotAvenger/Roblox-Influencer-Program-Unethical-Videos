@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 12, 2020<br>
+Generated October 13, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 293,266 videos
-* Total videos found that match keywords: 17,449 videos
-  * Total unprocessed videos: 122 videos
-* Total videos found that are processed and marked: 2,724 videos 
-  * Information Collection: 1,715 videos
+* Total videos: 294,565 videos
+* Total videos found that match keywords: 17,540 videos
+  * Total unprocessed videos: 204 videos
+* Total videos found that are processed and marked: 2,731 videos 
+  * Information Collection: 1,722 videos
   * Non-Giftcard Robux Giveaways: 845 videos
   * Other: 137 videos
   * Phishing: 27 videos
@@ -599,6 +599,27 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * All Secret FREE 666 Spins Codes In Roblox Shinobi Life 2
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=02-GMN3HU88
+    * FREE HALLOWED SPIRIT Pet Update Codes In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=3ljfmzXAVd4
+    * Free PREMIUM Halloween Bubble Pass Pets In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=iUzJFMAZ9lU
+    * Spending 1,000,000 CHIKARA For New CHAMPIONS IN Anime Fighting Simulator! \*SUPER OP\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Ihyz9ub4X7c
+    * Noob With HALLOWEEN SECRET To PRO In Bubble Gum Simulator! \*SUPER BROKEN\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ULDAa8WQ56o
+    * New Secret Steampunk Pet Update Codes In Tapping Simulator! \*SUPER OP\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VpIbFNwrgto
+    * 15 FREE Bloodlines Halloween Update Codes In Anime Fighting Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ZVdbb6PpvYw
     * All MAXED Halloween Event Pets In Bubble Gum Simulator!! \*Giveaway\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=lew8Ylg-R2c
