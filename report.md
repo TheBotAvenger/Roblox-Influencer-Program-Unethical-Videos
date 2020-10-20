@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 19, 2020<br>
+Generated October 20, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 294,565 videos
-* Total videos found that match keywords: 17,540 videos
-  * Total unprocessed videos: 122 videos
-* Total videos found that are processed and marked: 2,719 videos 
-  * Information Collection: 1,696 videos
+* Total videos: 295,835 videos
+* Total videos found that match keywords: 17,636 videos
+  * Total unprocessed videos: 211 videos
+* Total videos found that are processed and marked: 2,726 videos 
+  * Information Collection: 1,703 videos
   * Non-Giftcard Robux Giveaways: 855 videos
   * Other: 139 videos
   * Phishing: 29 videos
@@ -605,6 +605,27 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * Suprising NOOBS With OP Halloween Pets In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=P3DCSZkIH-c
+    * 10X Secret Luck Event Challenge In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=gbM57o0ZjCQ
+    * FREE 1 MILLION CHIKARA BLOODLINE BATTLE In Anime Fighting Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=c3dkA8aNfC0
+    * FREE MEGA SHINY HALLOWEEN PETS AND SECRET OPENING IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=1Rmi1S1VGXA
+    * FREE HALLOWEEN PETS AND SECRET OPENING IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=GCYT14fBtbc
+    * All MAX SPEED Pet Codes In SPEED RUN SIMULATOR - Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=w06hybXnqDM
+    * ALL October Free Roblox Promo Codes 2020 \*Free Cosmetic items\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=R-UadbXWU5I
     * All Secret FREE 666 Spins Codes In Roblox Shinobi Life 2
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=02-GMN3HU88
