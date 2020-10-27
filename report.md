@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 26, 2020<br>
+Generated October 27, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 295,835 videos
-* Total videos found that match keywords: 17,636 videos
-  * Total unprocessed videos: 122 videos
-* Total videos found that are processed and marked: 2,702 videos 
-  * Information Collection: 1,692 videos
+* Total videos: 343,346 videos
+* Total videos found that match keywords: 20,281 videos
+  * Total unprocessed videos: 2,716 videos
+* Total videos found that are processed and marked: 2,743 videos 
+  * Information Collection: 1,733 videos
   * Non-Giftcard Robux Giveaways: 845 videos
   * Other: 136 videos
   * Phishing: 29 videos
@@ -209,7 +209,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bebe Adri (BebeAdriYT)
 * BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
 * Bia Gamer (BiiiaGamerYT)
+* Biano Games (BianoBetero)
 * Bigbst4tz2 (BigBst4tz22)
+* BigDadT (biggerdadt)
 * BIGHEAD (I_BIGHEAD)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * bobjenz 
@@ -222,6 +224,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Carakuchi (carakuchi)
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
+* CatFer (SoyCatFer)
 * cazum8 (cazum8)
 * Cerority (Cerority)
 * Chocoblox (Chocoblox_93)
@@ -229,9 +232,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Chyna Gaming (Iamchynagaming)
 * Collins Kosuke (Kosukei)
 * Conor3D (Conor3D)
+* Cookie Cutter (CookieCutterYT)
 * CPat (StarC0de_CPAT)
 * Crainer Roblox 
 * CrazyErzy (xCrazyErzyYTx)
+* Cristi Suki (CristiSukiYT)
 * Cryptize (Cryptize)
 * CrystalSims (CrystalSims)
 * cybernova games (THEREALCYBERNOVA)
@@ -247,26 +252,32 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DOLLASTIC PLAYS! (DollasticDreams)
 * DraconiteDragon (ItsDraconiteDragon)
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
+* DV Plays (DVwastaken)
 * Elitelupus (elitelupus)
 * EthanGamer (EthanGamerTV)
 * Evanbear1 (Evanbear1)
 * faeglow (faeglow)
+* FancySmash (RealFancySmash)
 * Febatista 
 * FGTeeV (FGTeeV and DrizzMcNizz)
+* Flxral (xoFlxral)
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (french_rxses)
 * FUDZ (fudsim)
 * Furious Jumper (furi0us_jumper)
 * GabriellaGames 
+* Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
 * GianBlox (GiianBloxYT)
 * Godenot (godenot)
 * GoingLimited (GoingLimited)
 * GoldenGlare (GOLD3NGLARE)
 * GoldenOwl 
+* grace k (yt_graceek)
 * Gravycatman (GrumpyGravy)
 * Hagazo (Hagazo9)
 * hannnahlovescows (hannnahlovescows)
+* HappyBlack (HappyThreePro)
 * HelloItsVG (HelloItsVinh)
 * Hey Sant (heysant2018)
 * Honey The Unicorn - Roblox (HoneyTheUnicornYT)
@@ -282,6 +293,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Inemafoo (Inemajohn)
 * Infernasu (Infernasu)
 * It's Akeila (itsakeila)
+* It's Siena (ItsNotSiena3)
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
 * Its SugarCoffee (SugarCoffee123)
 * ItsFunneh (Funnehcake)
@@ -294,6 +306,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Jeenius (RealJeen)
 * Jenstine (jenstine and jenstinex)
 * JoeyDaPlayer (UseStarCodee_JOEY)
+* JoJocraftHP (JoJocraftHP)
 * JonesGotGame (JonesGotGame)
 * Jr e Mi (JuniorGuimaraes and micandeloro)
 * Juegahora (Juegahora_RBXL)
@@ -310,6 +323,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * KraoESP (KraoESP)
 * Krystin Plays (KrystinPlays)
 * Lakshart Nia (Laksharth)
+* LaniPlayz (LaniiPlayzzz)
 * LankyBox (LankyBoxGamesAdam)
 * Lawlieet 20 (XLAWLIEETX)
 * Leah Ashe (NotLeah)
@@ -324,13 +338,17 @@ The following channels had nothing appear with manual searching. Videos may exis
 * mayrushart (mayrushart)
 * MeganPlays Roblox (TheMeganPlays)
 * MelzinhaMel Games (MelzinhaMelGames, Detona\_Anderson, and Princesa\_Alicinha)
+* Mia Games (MiaZaffyt)
 * MIANNN (MIANNNGAMER)
 * Michaels Mayhem 
 * MicroGuardian (MicroGuardian)
 * Milo Mine (BebeMiloAmiwito)
 * MinuteMadness (Celery_YT)
+* mk (real_mkYT)
 * MooseCraft Roblox (MooseCraftRoblox)
 * MrLokazo86 (Lokazo86)
+* Mxddsie (mxddsie)
+* NanoProdigy (NanoProdigy)
 * NapkinNate (NapkinNate)
 * Natasha Panda (NatashaPandaaYT)
 * Nezi Plays Roblox (NeziPlaysROBLOX)
@@ -351,8 +369,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Phoeberry (Phoeberry)
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
+* Play with me - Apps and Games (da\_dania and kaan\_xy2)
+* Premiumsalad (premiumsalad)
 * PrestonGamez (PrestonPlayz)
 * Pretzel Etzel (pretzel_etzel)
+* PREZLEY (PrezleyOfficial)
 * ProSidu (prosiduzao)
 * Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
@@ -364,7 +385,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RoTomek (RoTomek1)
 * Ruby Games (ruby_rubeYT)
 * Ryguy - Roblox (ryguyrocky)
+* S\_Viper (S\_Viper)
 * SallyGreenGamer 
+* ScriptedMatt (0ScriptedMatt)
 * SDMittens (SDMittens)
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
@@ -374,6 +397,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Spagz Blox (Spagzox)
 * Squid Magic (Foolzy)
 * SrPrismatico (SrPrismatico)
+* Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
 * TanqR (VoteCompetitiveMode)
 * TapWater (UseCode_Tap)
@@ -382,13 +406,16 @@ The following channels had nothing appear with manual searching. Videos may exis
 * The Pals (RealSubZeroExtabyte)
 * The Star Squad Gaming (StarSquadMolly)
 * TheAtlanticCraft (TheCrazyMaverick)
+* TheEvilShark (TheEvilShark1)
 * Thinknoodles (ImNotThinknoodles)
 * ThnxCya (NotThnxCya)
+* Thumbs Up Family (ThumbsUpFamily)
 * ThunberGames (ThunberGames)
 * TinenQa (TinenQa1)
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
 * TroyanoNanoReturns (TroyanoNanoReturns)
+* Turtles Wear Raincoats (TurtlesWearRaincoats)
 * TussyGames (TussyGames)
 * TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
@@ -398,8 +425,10 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
 * Yokai (Yokai_YT)
+* yTowakGb (yTowakGb)
 * Z00LD 
 * ZaiLetsPlay (YT_ZaiLetsPlay)
+* Zepyxl (Zepyxl)
 * Zerophyx (Zerophyx)
 * ZNac (Z_Nac and jessetc)
 * ZULY (ItsZulyYT)
@@ -600,6 +629,27 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * I HATCHED 750,000 EGGS 900M SECRET PETS IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vj7YGub31DQ
+    * FREE SHINY 900M Cartoon Pet CODES In BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=UiuWtaGQ9sA
+    * I HATCHED ALL 900M EGG PETS IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=XA8iffWlaWw
+    * ALL NEW 900M EGG LEGENDARY PETS IN BUBBLE GUM SIMULATOR! Roblox \*LEAKS\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=oRn-S4EJejY
+    * FREE 100,000 Chikara Champions In ANIME FIGHTING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=wR7gXNXz9iQ
+    * How Op Can I Get In 1 Hour As A NOOB In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=w_swNiqnjuk
+    * Trick or Treating BUT I Give OP Pets In Bubble Gum Simulator Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=XAko1zBfsBs
     * Suprising NOOBS With OP Halloween Pets In Bubble Gum Simulator! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=P3DCSZkIH-c
@@ -4099,6 +4149,21 @@ The following channels had nothing appear with manual searching. Videos may exis
     * A ARMA QUE CONGELA - Roblox Prison Tycoon
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=CSh_ZH64jrI
+    * ATUALIZAÇÃO! O Mapa Me Jogou pra 9.999.999 METROS DE ALTURA - Roblox Obby Troll
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=LS8ElNi07ZQ
+    * Comprei um HIDROAVIÃO no AEROPORTO - Roblox Airport Tycoon
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=STX7KQ1K67I
+    * EM BUSCA DA COROA no CORREDOR DOS YOUTUBERS - Roblox Corridor of YouTubers
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=IfLg5Ic8ycc
+    * Comprei um NAVIO de 5 MILHÕES - Roblox Airport Tycoon
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=LLaiKDSPa6s
+    * Como Ganhar ROBUX DE GRAÇA + SORTEIO - Gemsloot
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=ieAk5Fg3BQg
     * VIAJANDO em PORTAIS DO UNIVERSO - Roblox Portal Rush
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=ty879ZN-i7Q
@@ -5170,6 +5235,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FULL THROTTLE RACING TOURNAMENT! \[SUBSCRIBERS WIN FREE ROBUX!\]
       * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=Oihdfs3SsM0
+* ItzVexo (ItzVexo_YOUTUBE)
+  * Information Collection
+    * The SECRET HAT CRATE IN ROBLOX BUBBLE GUM SIMULATOR! (Glitch?)
+      * Description references the data collection website gainblox.com.
+      * URL: https://www.youtube.com/watch?v=Oil38_6fVWo
 * Jamie ThatBloxer (Jamiethatgirl)
   * Information Collection
     * HOW TO GET FREE ROBUX AND BC | UPDATED 2016
@@ -6500,6 +6570,96 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=hqsYQu9twno
     * HACKING A FANS ROBLOX ACCOUNT AND GIVING THEM FREE ROBUX!! | Roblox LIVE 🔴
       * URL: https://www.youtube.com/watch?v=hC5BdAC2X8o
+* Liege North (LiegeNorth)
+  * Information Collection
+    * MAKE INVISIBLE AND CUSTOM PORTALS!!! - Build a Boat For Treasure PORTAL UPDATE! ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=ViFPBvSMzE4
+    * How to Get TELEPORTERS in the NEW PORTAL UPDATE!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=a6wd3DsJwF4
+    * ALL NEW CHEST LOCATIONS!!!!! - Build a Boat For Treasure PORTAL UPDATE! ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=lm5j7NJmHqs
+    * BASEBALL in Build a Boat For Treasure ROBLOX!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=eYU9Te-uYgk
+    * GOD WALK GLITCH!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=9WamaYaQRw8
+    * TELEPORTING CAR GLITCH!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=gdfd2LJJb3Q
+    * Disappearing Blocks Glitch?! (Very Strange 🤔) - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=txyE_nnH3XU
+    * TREADMILL GLITCH!!! (Run in Place!) - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=xGQ2QGEHcbQ
+    * BACK FLIP GLITCH!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=g3Yh4QQrEbg
+    * INVISIBLE GAP FLOATING GLITCH!!! - Build a Boat For Treasure NEW Update! Boss, Chests & MORE! ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=nYYTuvbpSQ0
+    * Throw Objects with POTIONS!!! (Potion Glitch + TP Glitch!!) - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=PwVI90pXNBI
+    * HOW TO GET IN THE SECRET BOSS PLACE!!! - Build a Boat For Treasure ROBLOX (Read pinned comment)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=4J0A2x6G7Jk
+    * NEW UPDATE!!! BOSS, HIDDEN CHESTS, POTIONS & MORE!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=sM9lKIo-3IY
+    * SECRETLY CONTROL OTHERS'  CAR PARTS!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=2fdy3_u19QE
+    * NUKE BLOCKS!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=Cg9rpZBE1Bo
+    * SPIDER SPIRAL MECH!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=8RJiLw8DpGU
+    * BLACK HOLE GLITCH!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=RJksBVBcmQo
+    * 3 Life Hacks in Build a Boat For Treasure ROBLOX!
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=sLLtI-zfodo
+    * Infinitely Extend Springs!!! - Build a Boat 4th of July Update! 🎆 ROBLOX
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=driBWNIOPoM
+    * Floating Blocks Glitch!! - Build a Boat NEW Hinge Block! ROBLOX
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=mSizNYUw6c8
+    * ALL WORKING CODES!!! (Until July 7th 2019) - Build a Boat ROBLOX
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=AZv8nP6e6wg
+    * Orbit Hinge Glitch!!! ☄️ - Build a Boat 4th of July Update! 🎆 ROBLOX
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=flGYaymhGDA
+    * NEW 4th of July Build a Boat UPDATE!!! - ROBLOX
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=VO3oj9gfQ1w
+    * EPIC UFO Hinge Glitch!!! - Build a Boat ROBLOX
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=2rYHyiPEt4U
+    * Make Zig Zags Using Hearts! ♥️ - Build a Boat ROBLOX
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=b12wu7Nqb18
+    * NEW OP Lockable Door & Dynamite Grinding Glitch!!! - Build a Boat HATCHING EGGS UPDATE! 🐣 ROBLOX
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=vuAuC237bgQ
+    * FASTEST Piston Speed/Grinding Glitch!!! 🤑 - Build a Boat EGGS HATCHING UPDATE! 🐣 ROBLOX
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=-FMDsrgLb-Q
 * Linkmon99 (Linkmon99)
   * Information Collection
     * PIGGY's CREATOR vs RICHEST ROBLOX PLAYER!! (EPIC 1v1 Piggy with MiniToon) - Linkmon99 Roblox
@@ -6606,6 +6766,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
+* MaRcDoGy (ItzMaRcDoGy)
+  * Information Collection
+    * Robux Gratis !!! %100 Real No Va En Broma !!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=uuZbDvTa40M
 * MathFacter360 (MathFacter360)
   * Non-Giftcard Robux Giveaways
     * complete my CASTLE OBBY and WIN 5,000 ROBUX!!! (Roblox)
