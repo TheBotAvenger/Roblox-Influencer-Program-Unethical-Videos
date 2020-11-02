@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 1, 2020<br>
+Generated November 2, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,8 @@ to the report if this happens.
 * Total videos: 343,346 videos
 * Total videos found that match keywords: 20,281 videos
   * Total unprocessed videos: 121 videos
-* Total videos found that are processed and marked: 2,833 videos 
-  * Information Collection: 1,730 videos
+* Total videos found that are processed and marked: 2,842 videos 
+  * Information Collection: 1,739 videos
   * Non-Giftcard Robux Giveaways: 935 videos
   * Other: 137 videos
   * Phishing: 31 videos
@@ -202,6 +202,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * AnielicA (ANIELICA01)
 * Anix (iamAnix)
 * Ashleyosity (itsAshleyosity)
+* Atomic Web (Yokai_YT)
 * Augus (augusvidal)
 * Axiore (axiore)
 * Ayzria (Ayzria)
@@ -321,7 +322,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * KraoESP (KraoESP)
 * Krystin Plays (KrystinPlays)
 * Lakshart Nia (Laksharth)
-* LaniPlayz (LaniiPlayzzz)
+* LaniRoblox (LaniiPlayzzz)
 * LankyBox (LankyBoxGamesAdam)
 * Lawlieet 20 (XLAWLIEETX)
 * Leah Ashe (NotLeah)
@@ -378,7 +379,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RadioJH Games (audreyradio)
 * REDKILL (RedKill24YT)
 * Remainings (Remainings)
-* ROBLOXMuff (Intervin)
+* ROBLOXMuff (UseCode_ROBLOXMuff)
 * Robotz (R_obotz)
 * RoTomek (RoTomek1)
 * Ruby Games (ruby_rubeYT)
@@ -422,7 +423,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Volt (v0_1t)
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
-* Yokai (Yokai_YT)
 * yTowakGb (yTowakGb)
 * Z00LD 
 * ZaiLetsPlay (YT_ZaiLetsPlay)
@@ -8155,6 +8155,35 @@ The following channels had nothing appear with manual searching. Videos may exis
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
       * Logs into the account of a fan. Mentions a lot of other people sent their username and passwords.
       * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
+* SeerRblx (SeerRblxYT)
+  * Information Collection
+    * ALL NEW SECRET CODES in CLICKING CHAMPIONS! - Clicking Champions SECRET PETS Update ❓(Roblox)
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=5eNm8iCD8Hw
+    * ALL NEW SECRET PET CODES in TAPPING LEGENDS! - Tapping Legends ⭐X5 CLICKS UPDATE⭐  (Roblox)
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Wa4iiQ6CGgU
+    * ALL NEW SECRET PET CODES in TAPPING LEGENDS! - Tapping Legends ⭐FREE TRIPLE EGG UPDATE⭐  (Roblox)
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=QLXyWvleIig
+    * ALL 19 NEW MAD CITY CODES - Madcity Hyper Glider Update Codes 2020 (Roblox)
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=XAEruexDexE
+    * ALL \*NEW\* SECRET CODES in REBIRTH SIMULATOR 2.0! - 🚨4M UPDATE🚨Roblox Rebirth Simulator
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=7VZgQ_WGny4
+    * ALL NEW SECRET PET CODES in TAPPING LEGENDS! - Tapping Legends 🚨3M UPDATE🚨 (Roblox)
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=HSGwkquqtLg
+    * ❄️''ALL NEW ADOPT ME FREE PENGUIN CODES 2019''❄️PENGUIN❄️ Adopt Me! (Roblox)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=A7dp7CXfVJI
+    * 👿 ''ALL NEW MADCITY SEASON 4 CODES 2019'' Mad City 👿 SEASON 4 👿(Roblox)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=dLumX-mTK94
+    * HOW TO EARN EASY ROBUX!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=K1dB08DJ348
 * Seniac (MrSeniac)
   * Other
     * ROBLOX SNEEZING SIMULATOR
