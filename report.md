@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 2, 2020<br>
+Generated November 3, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,12 +182,12 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 343,346 videos
-* Total videos found that match keywords: 20,281 videos
-  * Total unprocessed videos: 121 videos
-* Total videos found that are processed and marked: 2,842 videos 
-  * Information Collection: 1,739 videos
-  * Non-Giftcard Robux Giveaways: 935 videos
+* Total videos: 346,278 videos
+* Total videos found that match keywords: 20,511 videos
+  * Total unprocessed videos: 245 videos
+* Total videos found that are processed and marked: 2,853 videos 
+  * Information Collection: 1,746 videos
+  * Non-Giftcard Robux Giveaways: 939 videos
   * Other: 137 videos
   * Phishing: 31 videos
 
@@ -303,6 +303,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Jeancof (Jeancof)
 * Jeenius (RealJeen)
 * Jenstine (jenstine and jenstinex)
+* JessEmma (TheJessEmma)
 * Jie GamingStudio (jieeroblox)
 * JoeyDaPlayer (UseStarCodee_JOEY)
 * JoJocraftHP (JoJocraftHP)
@@ -326,7 +327,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * LankyBox (LankyBoxGamesAdam)
 * Lawlieet 20 (XLAWLIEETX)
 * Leah Ashe (NotLeah)
-* Legolaz (LegolazYoutube)
 * Lokis (lokis9340)
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
@@ -342,6 +342,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MIANNN (MIANNNGAMER)
 * Michaels Mayhem 
 * MicroGuardian (MicroGuardian)
+* Mila FunPlayer (trxmila)
 * Milo Mine (BebeMiloAmiwito)
 * MinuteMadness (Celery_YT)
 * mk (real_mkYT)
@@ -382,6 +383,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ROBLOXMuff (UseCode_ROBLOXMuff)
 * Robotz (R_obotz)
 * RoTomek (RoTomek1)
+* Royale Roleplay (RxyaleRoleplayer)
 * Ruby Games (ruby_rubeYT)
 * Ryguy - Roblox (ryguyrocky)
 * S\_Viper (S\_Viper)
@@ -671,6 +673,24 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * ALL NEW ARMAMENTS, MAXED FIGHTING PASS IN ANIME FIGHTING SIMULATOR UPDATE! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=xsDAP4dzJ7M
+    * All SECRET Roblox Promo Item Codes! \*Free Roblox Avatar Items\* - November 2020
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=UcQ5ciNvJzQ
+    * All 17 TWITTER ADMIN Chikara CODES In ANIME FIGHTING SIMULATOR Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=PSoX83PA7zg
+    * SECRET 666,666 CHIKARA HALLOWEEN BATTLE IN ANIME FIGHTING SIMULATOR
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=WR2QVj307y0
+    * ALL MEGA SECRET 900M EGG PETS IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=KWMpSVRcmJI
+    * INSTANT FREE 900M EGG SECRET PETS IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=rXuhthEZGdM
     * I HATCHED 750,000 EGGS 900M SECRET PETS IN BUBBLE GUM SIMULATOR! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=vj7YGub31DQ
@@ -6597,6 +6617,11 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=hqsYQu9twno
     * HACKING A FANS ROBLOX ACCOUNT AND GIVING THEM FREE ROBUX!! | Roblox LIVE 🔴
       * URL: https://www.youtube.com/watch?v=hC5BdAC2X8o
+* Legolaz (LegolazYoutube)
+  * Information Collection
+    * ¡SOY EL MÁS GORDO DE ROBLOX! 🍕🍔🍟 \*CASÍ EXPLOTO\* | LEGOLAZ
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=92tgyLn5_kQ
 * Liege North (LiegeNorth)
   * Information Collection
     * MAKE INVISIBLE AND CUSTOM PORTALS!!! - Build a Boat For Treasure PORTAL UPDATE! ROBLOX
@@ -7900,6 +7925,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBUX GIVEAWAY EVERY 10 MIN WHILE PLAYING JAILBREAK
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZQi1EJfnE24
+    * 50 ROBUX GIVEAWAY EVERY 10 MIN IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=vlYsD5-kLSs
     * ROBUX GIVEAWAY EVERY 10 MINUTES IN JAILBREAK
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ap3RpSGDO58
@@ -7957,6 +7985,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Giving away free Robux every 15 minutes in Survivor
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=7EwgFZC2p2c
+    * GIVING AWAY FREE ROBUX EVERY 15 MINUTES IN JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=lr0jA_C20oE
     * GIVING AWAY FREE ROBUX EVERY 15 MINUTES + PLAYING POKEMON BRICK BRONZE
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=GPyMPomG3oo
@@ -7969,6 +8000,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * GIVING FREE ROBUX TO LUCKY PEOPLE + SURVIVOR IN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=DVJDMgq-YtM
+    * FREE ROBUX TO LUCKY PEOPLE + SURVIVOR IN ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=CnclykAGZyk
     * ROBUX GIVEAWAY + PLAYING SURVIVOR IN ROBLOX / COME PLAY
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=K8WSic-SaeI
@@ -7999,6 +8033,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * RESTAURANT TYCOON \#1 | CHEF RAMUL'S SUSHI | ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=5zA6YkYIGjU
+    * GIVING AWAY ROBUX & PLAYING SOME POKEMON BRICK BRONZE | ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=GjgJXJqI1T4
     * GIVING AWAY 50 ROBUX EVERY FEW MINUTES or so.. / PLAYING VARIOUS GAMES / ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=6XJ7Oj2TE4M
