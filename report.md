@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 3, 2020<br>
+Generated November 4, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,12 +184,12 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 346,278 videos
 * Total videos found that match keywords: 20,511 videos
-  * Total unprocessed videos: 245 videos
-* Total videos found that are processed and marked: 2,853 videos 
-  * Information Collection: 1,746 videos
-  * Non-Giftcard Robux Giveaways: 939 videos
-  * Other: 137 videos
-  * Phishing: 31 videos
+  * Total unprocessed videos: 128 videos
+* Total videos found that are processed and marked: 2,582 videos 
+  * Information Collection: 1,583 videos
+  * Non-Giftcard Robux Giveaways: 843 videos
+  * Other: 128 videos
+  * Phishing: 28 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -219,6 +219,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bubbles (bubblestoxic)
 * Buur (BuurmanTenus)
 * ByDerank (ByDerank_YT)
+* Calixo - Roblox Adventures (BuBreezy)
 * Captain Tate (CaptainTate21)
 * Carakuchi (carakuchi)
 * Cari - Roblox (Carihyper)
@@ -304,7 +305,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Jeenius (RealJeen)
 * Jenstine (jenstine and jenstinex)
 * JessEmma (TheJessEmma)
-* Jie GamingStudio (jieeroblox)
 * JoeyDaPlayer (UseStarCodee_JOEY)
 * JoJocraftHP (JoJocraftHP)
 * JonesGotGame (JonesGotGame)
@@ -314,6 +314,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JunRoots (JunioRoots)
 * jvnq (jvnqYT)
 * Karim Juega (karimjuega)
+* Karola20 (karola20YT)
 * Kawaii Kunicorn Gaming (kawaii_kunicorn)
 * Kelogish (Kelogish)
 * Kelvingts (Kelvingts)
@@ -333,7 +334,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Magikarp Films (Magikarpfilms)
 * Maislie (Maislie)
 * Manucraft (ManucraftYT)
-* MaRcDoGy (ItzMaRcDoGy)
 * Mary - Frozencrystal 
 * mayrushart (mayrushart)
 * MeganPlays Roblox (TheMeganPlays)
@@ -348,6 +348,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * mk (real_mkYT)
 * MooseCraft Roblox (MooseCraftRoblox)
 * MrLokazo86 (Lokazo86)
+* MuneebParwazMP (MuneebParwazMP)
 * Mxddsie (mxddsie)
 * NanoProdigy (NanoProdigy)
 * NapkinNate (NapkinNate)
@@ -427,6 +428,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XdarzethX - Roblox & More! (xdarzethx)
 * yTowakGb (yTowakGb)
 * Z00LD 
+* ZacharyZaxor (ZacharyZaxor)
 * ZaiLetsPlay (YT_ZaiLetsPlay)
 * Zepyxl (Zepyxl)
 * Zerophyx (Zerophyx)
@@ -508,12 +510,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * *FREE ROBUX JAILBREAK HIDE AND SEEK .. (Roblox)*
       * *Uses a Roblox Group with group funds to give away Robux.*
       * *URL: https://www.youtube.com/watch?v=Gpc3u2MUVes*
-    * *i sent a fan 25,000 robux on accident .. (Roblox)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=S-ATSQM1GME*
-    * *\*VOICE CHAT\* SURPRISING FAN with 35,000 FREE ROBUX! (Roblox Jailbreak)*
-      * *Uses a Roblox Group with group funds to give away Robux.*
-      * *URL: https://www.youtube.com/watch?v=J8_aRqjUjRo*
     * *SURPRISING A FAN WITH 35,000 FREE ROBUX!!! (Roblox Jailbreak)*
       * *Uses a Roblox Group with group funds to give away Robux.*
       * *URL: https://www.youtube.com/watch?v=k23t9yZ7WbI*
@@ -624,9 +620,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * GIFTING FREE ROBUX + CODES LIVE IN ROBLOX DUNGEON QUEST ORBITAL OUTPOST
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=arCJRH72Htg
-    * GIFTING FREE ROBUX + CODES LIVE IN ROBLOX DUNGEON QUEST ORBITAL OUTPOST
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=z6V59Zqst1E
     * FUNNY DISCORD MEME COMPETION FOR $1000 ROBUX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=lNcLqf-P3qk
@@ -651,11 +644,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBUX GIVEAWAY DAY ! ROBLOX LIVE ROBUX CODES GIVE-A-WAY
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=66gSQrZyGjo
-* Calixo - Roblox Adventures (BuBreezy)
-  * Non-Giftcard Robux Giveaways
-    * Giving A Noob 50,000 Robux!! (He Went Mad!)
-      * Uses group funds to giveaway Robux.
-      * URL: https://www.youtube.com/watch?v=YYWu5J6ryPo
 * Cerso (Cerso93)
   * Non-Giftcard Robux Giveaways
     * SORTEO DE ROBUX PARA ROBLOX GRATIS | Cerso Roblox en español
@@ -676,9 +664,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL NEW ARMAMENTS, MAXED FIGHTING PASS IN ANIME FIGHTING SIMULATOR UPDATE! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=xsDAP4dzJ7M
-    * All SECRET Roblox Promo Item Codes! \*Free Roblox Avatar Items\* - November 2020
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=UcQ5ciNvJzQ
     * All 17 TWITTER ADMIN Chikara CODES In ANIME FIGHTING SIMULATOR Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=PSoX83PA7zg
@@ -706,18 +691,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FREE 100,000 Chikara Champions In ANIME FIGHTING SIMULATOR! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=wR7gXNXz9iQ
-    * How Op Can I Get In 1 Hour As A NOOB In Bubble Gum Simulator! Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=w_swNiqnjuk
     * Trick or Treating BUT I Give OP Pets In Bubble Gum Simulator Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=XAko1zBfsBs
     * Suprising NOOBS With OP Halloween Pets In Bubble Gum Simulator! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=P3DCSZkIH-c
-    * 10X Secret Luck Event Challenge In Bubble Gum Simulator! Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=gbM57o0ZjCQ
     * FREE 1 MILLION CHIKARA BLOODLINE BATTLE In Anime Fighting Simulator! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=c3dkA8aNfC0
@@ -754,6 +733,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 15 FREE Bloodlines Halloween Update Codes In Anime Fighting Simulator! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=ZVdbb6PpvYw
+    * All MAXED Halloween Event Pets In Bubble Gum Simulator!! \*Giveaway\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=lew8Ylg-R2c
     * FREE Halloween Moon Pet & Candy Codes In Saber Simulator! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=b3b2o25FVjY
@@ -796,9 +778,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * AMONG US But Its In ROBLOX! Roblox Impostor
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=h7DgqM-CUSw
-    * 3 Secret FREE GOLDEN HAMMER Codes! Mining Champions Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=d89QtsECjgQ
     * How To Get \*NEW\* COPPER And STEEL In Roblox Islands! \*FACTORY UPDATE\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=jRp-bhYr15k
@@ -832,30 +811,18 @@ The following channels had nothing appear with manual searching. Videos may exis
     * How To Get EVERY Secret SKIN In Arsenal! \*Beelzebub, Manic, Bigfoot and more!\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=V_XzUKz8t9A
-    * ALL 10 WORKING ROBLOX PROMO ITEM CODES! \*Free Cosmetics!\*
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=FS-nAPwyzOo
     * RAINBOW FIREFLIES IN ROBLOX ISLANDS SKYBLOCK! \*Best Way To Get Them\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=-jmTjn9TBqA
     * New Secret Obby World GLITCH \*Instant Finish\* In Tapping Simulator! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=oWQ3nNiliu0
-    * Secret SHINY PREMIUM Pet Codes In Pet Battle Simulator! \*Instant Best Player!\* Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=tsDPf7BhJxA
     * 21 SECRET OP EGG UPDATE CODES IN TAPPING LEGENDS! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=oIDqlIofPt0
-    * All MEGA BOOST 60M Codes In Tapping Simulator \*FREE 10X BOOSTS!\* Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=WvpcW62zX-M
     * INFINITE \*AFK\* Crystallized Iron Farm \*9M $$$ A HOUR\* In Roblox Islands Skyblock
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=VMkJObVTiM0
-    * MAXED Premium Fighting Pass Codes In Anime Fighting Simulator!! \*GET IT FREE\*
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=lsNZUNQ307c
     * ALL BEE Update SECRETS You MUST Know In Roblox Islands Skyblock \*SUPER OP\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=XQ3FvYOrtCI
@@ -892,18 +859,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Owner Added MY Update In Roblox Islands Skyblock!? \*BEST UPDATE!\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=LXNGrl4NGgc
-    * Hatched The \*BEST\* 1/15,000,000 Pet In Bubble Gum Simulator! Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=wqBen6TAX20
     * Roblox Arsenal BUT If You WIN You Get $10,000 Robux
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=Oyr9Ww8erRY
     * ALL 27 SECRET 1 BILLION CODES In Bee Swarm Simulator!
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=gZzBLRBR7S0
-    * SHINY Season 12 Bubble Pass Codes In Bubble Gum Simulator! Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=kJObC0GhxdI
     * 5 BILLION $$$ Limited GLOBAL Trading Update In MY RESTAURANT Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=p1tz6exps6o
@@ -946,9 +907,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET ELEMENT PETS AND FREE POWER BOOST IN TAPPING SIMULATOR! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=mBPXLDDN0Sw
-    * MAXED CARNIVAL CHALLENGE CODES IN BUBBLE GUM SIMULATOR! Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=vt1_sO224r4
     * SECRET PET OPENING + BASILISK PET GIVEAWAY In Roblox Bubble Gum Simulator!
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=00WWVt98Z5o
@@ -1045,9 +1003,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET 8Bit OMEGA Pet Gem Codes In TAPPING SIMULATOR! \*130 QA Gems\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=aOq9UPXYiQ4
-    * INFINITE VIP CUSTOMERS With FREE Royal Bundle In My Restaurant! \*NEW ??? SPAWN SHRINE\*
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=tOhyP9bnbj0
     * All 5 SUPER REBIRTH Codes in Tapping Simulator! \*Super Fast Rebirths!\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=-YaKrRVL_1Y
@@ -1084,6 +1039,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * All 25 ULTIMATE SECRET HAT Codes In Bomb Simulator!! \*FREE 45X COIN/GEMS\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=z70EIGC-XPI
+    * ALL 9 FREE SWORD STYLE CHIKARA CODES IN ANIME FIGHTING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VyT2flz8xcw
     * NEW DOMINUS QUEST EVENT CODES IN BOMB SIMULATOR! Roblox \*LIVE\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=PtLHOpcNs9o
@@ -1099,21 +1057,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET SHADOW REALM POTION CODES IN BUBBLE GUM SIMULATOR UPDATE! \*How To Enter\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=65sfVBUJ5Mw
-    * BUYING 192T CYBER SWORD AND 3T GEM CODES IN BOMB SIMULATOR! ROBLOX
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=5XuQPy3xpCo
     * 25 FREE MYTHIC Jumbo June Pack CODES IN BEE SWARM SIMULATOR! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=VA0sHpm4eCQ
     * NOOB To MASTER In Slamming Simulator \*SECRET OP TRAINING\* + CODES Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=vYdSNDWhoIc
-    * New $10,000,000 Lottery Vending Machine In Roblox Skyblock! \*INSANE MONEY\*
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=d4Rk-f8rFGg
-    * I Completed The SHINY Mythic Forest Index In Bubble Gum Simulator And THIS HAPPENED!?
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=BM9t4a3tYKk
     * NOOB To MASTER IN BOMB SIMULATOR With OWNER COIN CODES! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=S8O3PsEAtXo
@@ -1138,6 +1087,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Went From Noob To LEGEND In Clicking Simulator 2.0! Earned 10 BILLION Rebirths!
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=vSEiWryBdlg
+    * I Hired YOUTUBERS Builders For $5,000,000 And THIS Happened In Sky Block Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=W5oD0tj4hZs
     * NEW POTATOES, BUILD BLOCKS AND MORE IN ROBLOX SKYBLOCK UPDATE! \*NEW MEGAFARMS\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=vm-hMkCZB7s
@@ -1168,9 +1120,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Opening 100,000 Blossom Eggs And Got SECRET PET In Bubble Gum Simulator!!! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=JKEtDrhhssk
-    * NEW GOLD \*GOD\* TOOLS AND BLOCKS IN ROBLOX SKYBLOCK UPDATE \*SUPER EXPENSIVE!!\*
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=NOZsZi7szNM
     * How To Get A FREE SHINY THE KEEPER In Bubble Gum Simulator Spring Update! \*Giveaway\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=1xs1AVkCjGw
@@ -1180,18 +1129,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET WAY To Get 1000 FREE Berry Seeds In Roblox Skyblock! \*INSANE METHOD!\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=nqX0ErySgn4
-    * SECRET 1 MILLION $$$ BUILD QUEST IN SKYBLOCK!? Roblox Skyblock
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=Yc2_DE7Bt98
     * I Made MAX HIGHT \*BROKEN\* AUTOFARM In Roblox Skyblock (Free MILLIONS Daily!)
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=_gwkqWuz-W4
     * I Made A MULTI MILLION $$ SKYBLOCK ISLAND \*INSTANT RICH\* Roblox SkyBlock
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=IDmKXijJL2Q
-    * 7 FREE Shiny MYTHICAL Pet Codes In Bubble Gum Simulator Update! Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=3cazQpaRjrs
     * The RICHEST ADOPT ME ACCOUNT! \*BUYING 1,000,000 BUCKS!\* | Roblox Adopt Me Gameplay
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=_Xs__xxpYks
@@ -1201,18 +1144,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Trading This SECRET LEGENDARY ITEM Got me NEW LEGENDARY PETS! Adopt Me Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=fnS2tNkCyCw
-    * We Found A HIDDEN EXTRA Scoob! QUEST in Adopt Me! \*FREE MEGA NEON?!\* Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=EY8WZcMirvo
     * Pet REWORK & RIP Twitter Codes In Adopt Me!? Roblox Adopt Me
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=Egsd0Aj7d8U
+    * Completing The New SCOOB! Quest In Adopt Me Update! Roblox Adopt Me!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=D0WoOb03a8M
     * ALL Adopt me "HACKS" and Secrets In Adopt Me! Roblox Adopt Me
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=zAvtjbmQAyA
-    * SECRET Challenge Gives Free MEGA NEON PANDA In Adopt Me! Roblox Adopt Me!
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=kDyYCJoT4Ww
     * Adopt me CANCELLED Weekly Updates Forever..!? Roblox Adopt Me
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=sbwV4m9dtDk
@@ -1249,9 +1189,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Trading UNLIMITED Robux Items For MEGA NEONS In Adopt Me Update!  \*25,000 Robux\* (Roblox)
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=dXTYWtbftQU
-    * SPENDING 25,000 ROBUX ON MEGA NEON PETS + ACCESSORIES IN ADOPT ME?! Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=3vPSmbwhacE
     * \*NEW\* FREE MEGA NEON PETS IN ADOPT ME UPDATE!! \*MAX UPGRADE\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=ni30s-d-CjE
@@ -1267,9 +1204,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ADOPT ME SECRET \*RAINBOW\* NEON PETS UPDATE!? \*LEAKED\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=CVoWm1JpKDY
-    * Adopt Me \*HIDDEN\* Free PET ACCESSORY Challenge!! \*CRAZY\* Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=yB11IzxUdjQ
     * ADOPT ME FREE New PET ACCESSORIES Event! NEW Adopt Me Update (Roblox)
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=ZRDgSOzpxzg
@@ -1309,9 +1243,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * How To Get UNLIMITED "SECRET PETS" In Bubble Gum Simulator! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=ogI88kRe0y0
-    * 14 GLITCHED Free OWNER Pet Codes In Blade Throwing Simulator! Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=IzwNhktxQJM
     * Opening Mythical Egg For All SECRET PETS For 24 Hours In Bubble Gum Simulator! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=IolPVTW2qds
@@ -1324,6 +1255,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MYTHICAL DEMONCORE PET Update Codes In BUBBLE GUM SIMULATOR!! \*GIANT UPDATE!\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=1P0dUx8zjm0
+    * SECRET MYTHICAL PET Codes In Roblox SODA SIMULATOR! \*INSTANT MAX RANK!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=tTJxxrkU18w
     * 🙈 BLIND TRADING My SECRET FROST SENTINEL Pet In ROBLOX BUBBLE GUM SIMULATOR!
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=YZcqa6l1Xow
@@ -1336,9 +1270,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ❄️ I Got NEW Secret SHINY FROST SENTINEL Pet In Roblox Bubble Gum Simulator! \*Best Pet\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=nSRnEdj7bgw
-    * BOUGHT The $250.000.000.000 TOXIC DEMON And Then THIS HAPPENED In BUBBLE GUM SIMULATOR! Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=uHJxnnSMmIs
     * I HATCHED THE SECRET CLOVER EGG PET IN BUBBLE GUM SIMULATOR! \*1 IN 8 MILLION\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=BilC3fYHyZ8
@@ -1375,12 +1306,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL 10 MAXIMUM GEM PET CODES IN BLADE THROWING SIMULATOR! \*2T GEMS FREE!\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=EUQWqO7F_vQ
-    * 💰 23 SECRET SHIPWRECK GEMS UPDATE CODES IN FISHING SIMULATOR! \*FREE GEMS\* Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=vRA00Lip8o8
-    * 🍀 OPENING SECRET PORTAL UPDATE PETS FOR 24 HOURS IN BUBBLE GUM SIMULATOR! \*AND I GOT THIS\*Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=H9eAgOCDVNQ
     * 😱 NEW SECRET CHAOS LEGENDS PET CODES IN NINJA LEGENDS UPDATE! \*BEST SWORDS AND RANK!\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=PMxt7D4fFno
@@ -1390,6 +1315,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 💰 6 SECRET HYBRID LAVA PET CODES IN SPEED CHAMPIONS! \*BEST PETS\* Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=x3k_ErTp91Q
+    * 😲 TRADING FREE SECRET INDEX PETS IN BUBBLE GUM SIMULATOR! \*Giveaway\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=lvwoQ0bZXFg
     * UNLIMITED FREE CHAOS TITAN PETS IN NINJA LEGENDS!! \*Roblox\* (Giveaway)
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=j_N7QNxMhLo
@@ -1459,9 +1387,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I GOT THIS FOR ONLY 100 ROBUX?! - Roblox Legendary Hat Opening In Roblox Mining Simulator!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=kPegxinrC2g
-    * NEW LEGENDARY HATS UPDATE, PRIVATE MINING AREA AND NEW ORES In Roblox Mining Simulator!
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=BkADs-KTLsA
     * \[NEW CLUE!!\] SEARCHING THE GOLDEN DOMINUS! (HOW TO GET EVERY KEY) - Roblox Ready Player One
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=qFR7OzR4T4Y
@@ -1483,15 +1408,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW SANDSTONE REALM, DARK HOLE TOOL AND EMERALD TREASURE In Roblox Treasure Hunt Simulator!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=8GzslpLjUoo
-    * (Code) NEW ITEM SHOP UPDATE IN ROBLOX FORTNITE! - Island Royale \*Come Join!\*
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=9vEcKNip34s
     * HOW TO GET THE JADE KEY IN ROBLOX! \*Puzzle Solver Included!\* - Ready Player One Event!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=jibjt0Q4VPc
-    * \*Easy\* HOW TO GET THE COPPER KEY IN LESS THEN 10 MINUTES! - Roblox Ready Player One Event!
+    * I'M GETTING THE COPPER KEY! \*JOIN TO KNOW HOW!\* - Roblox Ready Player One
       * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=KnIcz3p8yNw
+      * URL: https://www.youtube.com/watch?v=I0TBUI72lWQ
     * HOW TO GET THE COPPER KEY QUICK AND EASY! \*Full Tutorial\* - Roblox Ready Player One Event!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=wXTZzYi4F9w
@@ -1546,9 +1468,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*Omg\* BIG INSANE LEGENDARY CHEST OPENING IN ROBLOX BOOGA BOOGA!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=gMHyFZK45kI
-    * HOW TO RIDE MAMMOTHS, SHARKS AND EVERY ANIMAL IN Roblox Booga Booga! \*SUPER Insane\*
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=Qx4mQgA5Yas
     * GETTING READY FOR ROBLOX FORTNITE BATTLE ROYALE! \*Come Play\*
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=cIN20sVqkGY
@@ -1663,12 +1582,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * (Code) NEW BOSS ADDED / ICE CAVE REVAMP / NEW BOSS PETS In Roblox Snow Shoveling Simulator!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=H9AO6pa_Y08
-    * \[CODES\] \*NEW\* GETTING INSANE LEGENDARY CHESTS IN ROBLOX TREASURE HUNT SIMULATOR?!
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=cct9itil1SI
-    * ALL SECRET 8TH GYM UPDATE EASTER EGGS YOU MISSED In Pokemon Brick Bronze!
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=634Ude_w7cQ
     * HOW TO GET SANDYGAST / PALOSSAND In Pokemon Brick Bronze! \*Beach Ghost Mystery\*
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=cRTz8qHLusE
@@ -1678,15 +1591,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * (Live) PLAYING THE NEW COUNTER BLOX REMASTERED?! - Roblox
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=jON4XGrHG0w
-    * \*OMG\* INSANE Ben 10 VS VILGAX (Ben 10 Arrival Of Aliens) - Roblox
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=RNL3FtuwsJY
     * (New) HOW TO TRY ON ANY CATALOG ITEM ON ROBLOX! \*Try Before You Buy\*
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=XCx2dMtP9WY
     * LEGENDARY GIVEAWAY AND GETTING SHINY GOODRA! - POKEMON BRICK BRONZE - Roblox
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=rx-7CRLL8u0
+    * NEW SNOWBALL FIGHTS UPDATE IN Roblox Snow Shoveling Simulator!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=TXaHCrwFyZM
     * HOW TO GET BOUND (MINI) HOOPA In Pokemon Brick Bronze!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=wWJKbrx4Yqw
@@ -1711,9 +1624,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO GET HOOPA IN POKEMON BRICK BRONZE! \*8th Gym Update\*
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=Q2pJ8jpExFk
-    * (Update) NEW INSANE ALIEN VILGAX ADDED! \*Super Strong!\* (Ben 10 Arrival Of Aliens)
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=UDnuc_MmFX0
     * 8TH GYM RELEASED! SOLVING ALL SECRETS LIVE! - POKEMON BRICK BRONZE - Roblox
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=WAzog27nswA
@@ -1729,6 +1639,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * (Code) NEW ICE KING SPEAR And FASTEST WAY FOR ICE KING BACKPACK In Roblox Snow Shoveling Simulator!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=5EcOtndYRa0
+    * HOW TO SELL GAMES ON ROBLOX! \*Insane Money\* - Roblox Cashgrab Simulator
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=MYjIDOt1hnw
     * \*Professional editor!\* GETTING The OP MEGATON SWORD In Roblox Mining Simulator!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=gO2e7lVhxzs
@@ -1774,21 +1687,18 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*Epic\* GLITCHED RANDOM ALIEN OMNITRIX BATTLE! (Ben 10 Arrival Of Aliens)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=5ys3SLYPJrs
+    * INVISIBLE SNOW COP TROLLING IN JAILBREAK! \*THEY CAN'T SEE ME\* - Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=l3lGoPtHotA
     * SHINY LEGENDARY GIVEAWAY AND PREPARING FOR 8TH GYM UPDATE IN POKEMON BRICK BRONZE!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=QJDXvgL36bo
-    * \*INSANE\* GETTING THE MOST OP VEHICLE IN SNOW SHOVELING SIMULATOR! - Roblox
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=gI9MgqldJpQ
     * \*NEW\* OMNI ENCHANCED CANNONBOLT VS OMNI ENHANCED GREY MATTER! - Roblox Ben 10 Fighting Game
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=pq_afTSN2co
     * ENDLESS HORDES OF ZOMBIES INFILTRATE ROBLOX! \*HELP US\* (Roblox Zombie Attack)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=BKdle4-fB1o
-    * \*UPDATE\* NEW OMNITRIX, MOBILE VERSION AND ALIEN MENU IN BEN 10 ARRIVAL OF ALIENS!?
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=tMZraqLbu0I
     * \*NEW UPDATE\* BLACK HOLE PET AND FREE DIAMOND SNOW PETS ON SNOW SHOVELING SIMULATOR!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=LQV3xk_2BKo
@@ -1834,18 +1744,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*OMG\* How to FLYING TRAIN GLITCH in ROBLOX JAILBREAK!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=mHiGkaqWlmQ
-    * \*OMG\* We Get A NEW OMNITRIX? BIGGEST MYSTERY In Ben 10 Arrival Of Aliens!
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=un73qyVMCJ0
     * \*NEW\* Ben 10 ICE OMNITRIX vs EVIL OMNITRIX! (Ben 10 Arrival Of Aliens)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=EPYSupaRxAA
     * \*FREE\* NEW BEN 10 ALIEN SANTA GIVES FREE ROBUX PRESENTS!? (Ben 10 Arrival Of Aliens)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=9-SQCoknrLY
-    * \*New Alien\* HOW TO BE SANTA On Ben 10 Arrival Of Aliens On ROBLOX! \*Super Strong\*
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=xE2wKQPuNGY
     * \*OMG\* BEN 10 SAVES CHRISTMAS IN ROBLOX! (Ben 10 Arrival Of Aliens)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=76bVXBvVZ0s
@@ -1855,9 +1759,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*OMG\* BEN 10 ALIEN ROBS THE NEW TRAIN IN ROBLOX JAILBREAK!? (Ben 10 Jailbreak)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=xVI0kTAnmCg
-    * GETTING MEGA CHRISTMAS SCEPTILE!? \*WINTER EVENT UPDATE\* (Pokemon Brick Bronze)
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=-9i6PHeh968
     * \*NEW\* Ben 10 GHOST OMNITRIX vs NORMAL OMNITRIX! (Ben 10 Arrival Of Aliens)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=yPwufoAKBVM
@@ -1918,9 +1819,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BEN 10 VS MAD BEN 10 IN ROBLOX! \*REMATCH\* (Ben 10 Arrival Of Aliens)  - Ben 10 For Charity \#10
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=nET6bRDRKuI
-    * \*EPIC\* New ALIENS RATH VS CHROMASTONE In Ben 10!? (Roblox Ben 10)
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=HQfFgXJgFgA
     * \*MOST INSANE COMBACK\* 26 VS 10 VICTORY ROYALE?! - Fortnite 50 VS 50
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=ReEzJvBWieE
@@ -1930,9 +1828,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SO MANY VICTORY ROYALES!? \*MY WORLD RECORD\* 50 VS 50 UPDATE! - Fortnite Battle Royale
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=5Dj6hijO9d0
-    * \*EPIC\* NEW GOLD OMNITRIX GIVES THESE RANDOM ALIENS!? (Ben 10 Arrival Of Aliens) - Roblox Charity \#8
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=m_q4NkOdLQ8
     * \*OMG\* NEW Alien CHROMASTONE And Ben 10 GAME? (Ben 10 Arrival Of Aliens)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=NPHXyhgDbDk
@@ -1948,6 +1843,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW \*SUPER CAR\* And SNIPER In JAILBREAK WINTER UPDATE!! - Roblox Jailbreak
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=ON9GgVSfgCs
+    * \*Omg\* Insane GOOP ULTRA EVOLUTION! (Ben 10 Arrival Of Aliens) - Ben 10 For Charity \#5
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=jMdG1TCpdqk
     * \*EPIC\* INSANE NEW Random Alien ULTRA OMNITRIX!? (Ben 10 Arrival Of Aliens) Ben 10 For Charity \#4
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=eQJKoIU2z9w
@@ -1993,12 +1891,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*Ultimate\* EVOLUTION of ALIENS TRANSFORMATION! \*Challenge\* (Ben 10 Arrival Of Aliens)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=HiiDmJH_XY0
-    * \*OMG\* THe MOST Epic BEN 10 VS Random EVOLUTION Aliens! (Ben 10 Arrival Of Aliens)
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=HFeEHj7XTyY
-    * \*NEW\* Insane MULTIPLE Mode! 2 ALIENS At Once! (Ben 10 Arrival Of Aliens)
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=5hPg8ogmMCQ
     * BEN 10 GETS A POKEMON! - Roblox Ben 10 Arrival Of Aliens Roleplay
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=_5Y8-zM2Q_E
@@ -2035,9 +1927,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*Omg\* NEW Epic Ben 10 CLONING machine VS ALBEDO! (Ben 10 Movie Special)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=hRjDmD68l9M
-    * \*Omg\* NEW Random OMNITRIX Transforms In These ALIENS!? (Ben 10 Arrival Of Aliens)
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=jlLr5NMfEwM
     * \*INSANE\* NEW Aliens In Ben 10! (Ben 10 Arrival Of Aliens)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=PeueHloQDKY
@@ -2050,9 +1939,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * LEGENDARY STARTER!? Randomizer NUZLOCKE Challenge! (Pokemon Brick Bronze) \#1
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=1cyI_em_a7A
-    * \*Insane\* New Aliens RATH And ATOMIX And Future UPDATES!? (Ben 10 Arrival Of Aliens)
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=ZobGnN2d3nw
     * \*Epic\* How to get ANY LEGENDARY as your STARTER Pokemon In Pokemon Brick Bronze!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=md5GEd-u5_I
@@ -2077,9 +1963,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * The 8th GYM, Ultra Beast NECROZMA And SAFARI Zone In Pokemon Brick Bronze!?
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=XL9JPEBEe9E
-    * \*Insane\* FASTEST Alien In BEN 10? (Ben 10 Arrival Of Aliens)
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=c9S9n5iEf8E
     * \*Insane\* HUMUNGOUSAUR EVOLUTION Of Aliens BATTLE! (Ben 10 Arrival Of Aliens) /w ItsBear
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=EVApOF07dPY
@@ -2113,9 +1996,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*OMG\* PLAY THE NEW BEN 10 REVAMP!? (Ben 10 Arrival Of Aliens)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=Cw9sWNIQ4U0
-    * \*Live\* Getting SHINY Lugia in Pokemon Brick Bronze!
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=OYJf_JkbDyE
     * NEW ALIENS!! Battle Vs BEN 10 (Ben 10 Arrival Of Aliens)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=PDiah_BpUvc
@@ -2137,9 +2017,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW ALIENS and ABILITY UPDATES! \[Kevin 11, HeatBlast, Anubis\] (Ben 10 Arrival Of Aliens)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=Ohr2_viIScs
-    * GIANT TITAN TROLLING in TITAN SIMULATOR! (Roblox Titan Simulator)
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=ufS-xFYuR2k
     * \*NEW\* ALIENS and EPIC NEW ABILITIES \[Big Chill, Anubis, Feedback\] (Ben 10 Arrival Of Aliens)
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=Q2JFZM2J-jA
@@ -2218,15 +2095,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BACON HAIR FINDS HIDDEN LEGENDARY ENTRANCE IN POKEMON BRICK BRONZE!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=OWmsIWb_9v4
-    * KEN 10 VS BEN 10.000 IN ROBLOX (Ben 10 Arrival Of Aliens)
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=jGI9gqZ9EyI
     * HOW TO GET A GLIDER IN POKEMON BRICK BRONZE!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=o3fEEYBLWt4
-    * MIMIKYU? NEW HALLOWEEN EVENT IN POKEMON BRICK BRONZE! \[Theory\]
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=TeWUk_O_aUI
     * BACON HAIR GOT A GROUDON IN POKEMON BRICK BRONZE!? \[INSANE\] \*Not ClickBait\*
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=pU4wHGLiG7I
@@ -2281,24 +2152,21 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HE GOT THIS FOR FREE?! BACON HAIR HAS THESE LEGENDARIES IN POKEMON BRICK BRONZE! / Roblox
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=Rjcor6n2kYE
-    * THE BEST ROBLOX GAME TO PLAY WITH FRIENDS!! \*Must Watch\*
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=cgfC1YW3Xxc
     * THE 1.5 MILLION DOLLAR APARTMENT IN POKEMON BRICK BRONZE!!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=bLdo02Ggt38
-    * BACON HAIR FINDS HIDDEN TOP SECRET ESCAPE IN JAILBREAK!? \[Roblox\]
+    * How To Get THOUSANDS Of FREE ROBUX In ROBLOX EVERY DAY!! \*No Roblox Hack\*
       * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=vSshBVgLrng
+      * URL: https://www.youtube.com/watch?v=XC4QIzInssQ
     * THIS HAPPENS IF YOU JOIN TEAM ECLIPSE IN POKEMON BRICK BRONZE! \*DONT DO IT\*
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=cmByYpJ9UsI
+    * BACON HAIR FINDS THIS LEGENDARY IN POKEMON BRICK BRONZE!!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=KTNKdtuqWsg
     * HOW TO MAKE 500.000$ EVERY HOUR IN POKEMON BRICK BRONZE!!
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=UP-Q00zCrvw
-    * 👉 FREE MAXED REWARD EVENT PETS IN BUBBLE GUM SIMULATOR! \*SUPER OP\* Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=8Ae1_HILUaY
   * Non-Giftcard Robux Giveaways
     * MAX UNLOCKED VALENTINE EVENT PET CODES IN BUBBLE GUM SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
@@ -2306,9 +2174,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET 20X ANCIENT ULTRA BEAST PET CODES IN NINJA LEGENDS! \*FREE AUTO SWING\* Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=E6_-S-i23hY
-    * SECRET FREE REBIRTH PET TOKEN CODES IN LAWN MOWING SIMULATOR! \*INSANE PETS!\* Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=Du7rTAGeM_w
     * SECRET GODLIKE FREE PET CODES IN VIKING SIMULATOR! \*MAX SWORD AND ISLAND\* Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=zrTsKM4wsQE
@@ -2360,6 +2225,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * INFINITE RAINBOW PETS, MAX RANK AND MONEY IN PET SIMULATOR 2!!! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=Nxzgb43vi4s
+    * I GOT THE 30,000,000,000 TICKETS DRAGON PLUSHY IN BUBBLE GUM SIMULATOR! \*ALL SECRET PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=C8zmNKPmYQ8
     * Noob With Full Team of Z-LEGENDS Pets! x4.68B Boost! MAX RANK INSTANTLY! - Roblox Ninja Legends
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=5bxbyByPHiY
@@ -2381,9 +2249,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FREE UNLIMITED MAX LEVEL X GENESIS PETS  NINJA LEGENDS!! \*Roblox\* (Giveaway)
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=4B7wjsySi_g
-    * FREE MOUNT VIP PET CODES IN LAWN MOWING SIMULATOR! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=VopEOTr8OV4
     * SECRET INFINITE PETS GAMEPASS CODES IN CHAMPION SIMULATOR! \*FREE\* Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=UNNAdczOn9M
@@ -2423,9 +2288,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL 77 NOOB TO PRO 2020 PET CODES IN BUBBLE GUM SIMULATOR! \*SUPER BROKEN\* Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=aBBmo_xIpmA
-    * NEW BEST RUMBLE QUEST FROST LEGENDARY UPDATE CODES!! \*MUST USE!\* Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=zLtfjqRC6F4
     * UNLIMITED ELEMENTAL PETS ALTAR GIVEAWAY IN NINJA LEGENDS! Roblox \*SUPER BROKEN\*
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=7Vcc0hFkp78
@@ -2459,15 +2321,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET 10.000 ROBUX MAX PET CODES IN SNOWMAN SIMULATOR! \*UNLOCKED EVERYTHING\* Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=8x8wkNWRnXA
-    * SECRET Champion Simulator FREE HYBRID CHARM Codes!! \*FREE PETS\* Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=sM8Nn-rQveM
     * FREE SECRET NINJA LEGENDS ELEMENTAL PETS + CODES!! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=xa6PG11vz2g
-    * TOP 10 BEST ROBLOX GAMES You FORGOT Existed  In The Last Decade!!
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=MGchmRmm1OE
     * SECRET PET RANCH SIMULATOR 2 YOUTUBER PET CODES! \*OMG\* (Roblox)
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=RLopE2iaLZA
@@ -2510,15 +2366,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * GOLDEN PETS, FREE VIP DROPS AND ALL SECRET ROOMS IN PET SIMULATOR 2 UPDATE!! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=lu-iKwzd8Gg
-    * SECRET MAX RANK, FREE DUAL LEGEND PET CODES IN NINJA LEGENDS! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=v2HkZEw1Diw
     * I Unlocked EVERY UPGRADE And MAX CASH In PET SIMULATOR 2! \*HOVERBOARD AND MORE\* Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=k5yKGQaf7V4
-    * PET SIMULATOR 2 RELEASE! UNLOCKING EVERYTHING + GIVEAWAYS! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=UeJv9NY8qQg
     * FREE FOREVER VIP, SECRET CAVES AND MAX LEVEL IN PET SIMULATOR 2! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=f4GELA5StDE
@@ -2543,12 +2393,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I Unlocked The MAX "TERMINATOR" RANK And SECRET PETS In SABER SIMULATOR!! \*FULL TEAM\*
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=f5uLwr2xBdg
-    * I Unlocked ANCIENT BATTLE MASTER AND FREE MAX LEGEND PET IN NINJA LEGENDS! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=0_yx4iMXpHA
-    * I Unlocked The BEST AURA, SABER AND PET IN SABER SIMULATOR UPDATE! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=JsVP2BCffSs
     * FREE MASTER LEGEND PET PACK CODES IN NINJA LEGENDS! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=flpazxjWkAM
@@ -2576,6 +2420,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET OWNER TURKEY PET CODES IN SABER SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=l3WmiGs8MmQ
+    * FREE PREMIUM BUBBLE PASS CODES IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=eDieGjT6ujI
     * ROBLOX MEMES That Are BETTER Then Free Robux!
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=iuQnFLiYdwA
@@ -2606,6 +2453,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL SECRET YEN POWER CODES IN ANIME FIGHTING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=aQ87RKgBK-4
+    * TEAM OF "500" MOST OP GLITCHED PETS IN NINJA LEGENDS!? \*DONT TRY THIS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=D6O3Lz47C1A
     * I SPEND 5 BILLION CROWNS ON THIS PET IN SABER SIMULATOR.. \*RAREST PET\* Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=9Yj-mxtLlWY
@@ -2645,9 +2495,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET OMEGA INFERNO PET CODES IN MAGNET SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=4duQ-1qN2sg
-    * SECRET OVERSEER PET GAMEPASS CODES IN SABER SIMULATOR UPDATE! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=kC-BKTC04Uw
     * ALL 6 HEAVEN PET UPDATE CODES IN HALLOWEEN SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=Twtyzr2sIcw
@@ -2672,6 +2519,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 56 SECRET HALLOWEEN BOOST CODES IN BUBBLE GUM SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=3-llkEN5MYE
+    * 4 SECRET SHINY DOMINUS PET CODES IN HALLOWEEN SIMULATOR!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Q0p_pxyM79U
     * SECRET YOUTUBER CODES AND FREE LEGENDARY PET IN SABER SIMULATOR!? Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=2YlUcojabFo
@@ -2708,9 +2558,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ME And MY GIRLFRIEND Adopt A \*FREE\* FLYING PUPPY In ROBLOX ADOPT ME!
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=gJ0-uuqC0uQ
-    * 15 SECRET OWNER CROWN CODES IN SABER SIMULATOR! \*MUST GET\* Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=4RRSugQCUdM
     * Roblox Restaurant Tycoon 2 BUT I Can't Actually Cook... \*GONE WRONG\*
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=ts3wfsBda08
@@ -2747,9 +2594,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I Spent $14,000 ROBUX And I Got.. SCAMMED By LIFTING SIMULATOR?! \*RIP ROBUX\* Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=C9l_YSF8Ipg
-    * 8 SECRET OWNER MONEY CODES IN SABER SIMULATOR! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=EvgkElDXprs
     * ALL 14 SECRET PET CODES IN MAGNET SIMULATOR!! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=Gq-X8tL-Srg
@@ -2786,12 +2630,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NOOB To LIFTING GOD!! MAX POWER, MAX SIZE IN LIFTING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=OrCwFy9GTQ8
-    * I BOUGHT The NEW $1,400,000,000,000,000 MAGNET And 1 MILLION REBIRTHS In MAGNET SIMULATOR! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=ndMXmXDlaks
-    * PRANKING YOUTUBERS WITH FIRE! - Minecraft Youtuber Survival \#4
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=A1x5sQZNvY0
     * 7 NEW Skeletons that MINECRAFT Should Add!!
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=4w096E8OVCM
@@ -2810,6 +2648,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SHINY TYCOONIST PETS, MAGNETS AND MORE! IN MAGNET SIMULATOR UPDATE! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=kln6PAbVWC8
+    * I GOT BEST LEGENDARY SCYTHE AND GODRAY SPELL IN WIZARD SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=QTlJEh0FWrc
     * NOOB TO MASTER! BEST MAGNETS AND EVERYTHING UNLOCKED! MAGNET SIMULATOR! \*NO ROBUX\* Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=uRofZQx8Yow
@@ -2867,6 +2708,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 👏 CODE REVIEW 👏 ALL 26 CODES IN POWER SIMULATOR! Roblox \#CODEWEEK
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=biUusTjl72k
+    * 4 STORM EVENT CODES, ALL METEOR SHARD LOCATIONS IN POWER SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=PCJx09sTijs
     * USER MADE CATALOG ITEMS, PREMIUM AND MORE IN ROBLOX!! RDC 2019 NEWS
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=3ADL9YQSlxg
@@ -2885,15 +2729,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL 20 SECRET OWNER CODES IN POWER SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=NjSN2Kr3VdQ
-    * WORLD EVENT AND VILLAIN POWER UPDATE CODES IN POWER SIMULATOR! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=suBQdohqcG0
     * I Got ABDUCTED By HORROR BEARS In ROBLOX! \*Scary\*
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=PsGIXx9e6EY
-    * SECRET WAY TO GET EASY DUSKIT IN LOOMIAN LEGACY! (Roblox)
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=cv1WWSwibUY
     * I Got NEW MAX LEVEL SENTRY And Became OP In TOWER DEFENCE SIMULATOR! (Roblox)
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=_BpBsLi7_BI
@@ -2924,9 +2762,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FANCY OWNER PET UPDATE CODES IN BUBBLE GUM SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=ibos_2TBv8Y
-    * 22 SECRETS YOU DIDN'T KNOW ABOUT LOOMIAN LEGACY! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=-DS65EfwiYc
     * SECRET FASTEST WAY TO LEVEL IN LOOMIAN LEGACY! Roblox \*BEST EXP\*
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=NAwK7MPH-Dg
@@ -2945,15 +2780,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Find THIS HAT And Get $10,000 ROBUX!! Roblox Unboxing Simulator
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=gByQAHmSw-E
-    * Get THIS PET And YOU WIN $10,000 ROBUX! Roblox Bubble Gum Simulator
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=XbYl4ZqVJXQ
     * GETTING OUR FIRST RANKUP! Minecraft SKYBLOCK \#2 With Kiraberry
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=ZTElnpJNWd0
     * OUR NEW ADVENTURE! Minecraft SKYBLOCK \#1 /W Kiraberry
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=s7BLlohbeOc
+    * 10X RAREST SECRET PATRIOTIC ROBOT PET IN BUBBLE GUM SIMULATOR! \*MAX STARS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=MqgiKZsdIWI
     * SECRET CRYSTAL CANYON UPDATE CODES IN UNBOXING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=5ylD40q-QWM
@@ -2972,9 +2807,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BOTS ARE TAKING OVER ROBLOX..!!
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=JjIXrcium3w
+    * FREE LIMITED PETS AND ALL SUMMER CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=6AOThYqa8bw
     * SUPER SECRET FARMLAND COIN CODES IN UNBOXING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=oBDMjwjXa-0
+    * 4 SECRET SUMMER UPDATE CODES IN MINING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=kk_aU4D0i-s
     * NEW 4TH OF JULY PETS AND CODES IN BUBBLE GUM SIMULATOR UPDATE! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=2PjjqvbwEyQ
@@ -3017,9 +2858,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET RAINBOW UPDATE CODES IN BUBBLE GUM SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=i5eQlQfX0T4
-    * LEVELED A MYTHICAL PET TO LEVEL 100,000 THEN THIS HAPPENED.. IN UNBOXING SIMULATOR! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=94vh-UTFet0
     * NINJA TEMPLE UPDATE MONEY CODES IN UNBOXING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=By58x5wuo_I
@@ -3032,9 +2870,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I GOT SECRET PETS AND MYTHICAL CONE HAT IN UNBOXING SIMULATOR! Roblox \*INSANE LEVELS\*
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=WccVpULAEmo
-    * QUEST GEMS AND EGG GAMEPASS UPDATE CODES IN UNBOXING SIMULATOR! ROBLOX
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=ANYwugz6m80
     * GETTING MY SECRET LEGENDARY PET 🦄 IN ADOPT ME PETS UPDATE!! Roblox \*SO CUTE\*
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=PZ0BLimNNOY
@@ -3098,9 +2933,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW MINECRAFT SURVIVAL ADVENTURE! - Minecraft 1.14 NostalgiaSMP \#1
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=ASpJdS-RwJs
-    * ALL CODES AND HIDDEN LAVA BLADE LOCATION IN TREASURE QUEST SIMULATOR! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=H151aUfHipM
     * ALL 24 OWNER CODES IN UNBOXING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=zxACdW7AMww
@@ -3110,9 +2942,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * PYRAMID PARADISE LEAKS AND 3 CODES IN UNBOXING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=jT5jbZS2IgM
-    * 3 CODES, MAKING ALL BOXES PRESENTS AND THIS HAPPENED.. IN UNBOXING SIMULATOR! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=8hEN0q1bTFU
     * BEST 4X EXP LEVELING GUIDE AND 2 CODES IN UNBOXING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=K2AqeYMhSY8
@@ -3137,9 +2966,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL 12 SECRET OWNER CODES IN VACUUM SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=o9fvDTNWzeM
-    * ROBLOX NOOB VS PRO VS OWNER - UNBOXING SIMULATOR \*FUNNY\*!
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=AOIl51OBHqQ
     * ALL POTIONS CRAFTING RECIPES AND CODES IN UNBOXIN SIMULATOR UPDATE! \*600T DMG\*
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=yuhKA0N8HEY
@@ -3149,21 +2975,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL 20 YOUTUBER CODES AND CRAFTING UPDATE SOON IN UNBOXING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=1RwJRR-JCXI
-    * I SPEND 1 BILLION GEMS AND GOT THIS... IN UNBOXING SIMULATOR Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=Pf4VUT57ro4
     * ALL 36 SECRET OWNER CODES IN UNBOXING SIMULATOR! Roblox \*INSANE BOOSTS\*
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=W1q8TVRDjiM
     * SECRET ICE KINGDOM CODES AND GIANT FROST EGG IN UNBOXING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=VR6ZpkGCjZw
-    * 8 BEST MYTHICAL HATS MADE ME THE \#1 PLAYER IN UNBOXING SIMULATOR! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=7xzV9DaWwxw
-    * 25 PRO PLAYERS VS DUNGEON IN UNBOXING SIMULATOR! \*330 TRILLION DMG\* Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=Kc5VTL4x-oQ
     * 3 SECRET FOODLAND CODES AND 12 TRILLION DAMAGE IN UNBOXING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=MwUAz_dEe9g
@@ -3194,12 +3011,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL 7 SECRET HIDDEN MAP CODES IN UNBOXING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=hjEEJ_5DpAc
-    * I GOT THE BEST GODLY VACUUM AND ALL PETS IN GHOST SIMULATOR! Roblox
+    * OP OWNER 35,000 TRILLION COINS CODE IN UNBOXING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=zlJCO9ldwDI
+      * URL: https://www.youtube.com/watch?v=4qSTZKJ-RGY
     * SECRET FREE MYTHICAL PET IN GHOST SIMULATOR!? Roblox \*SUPER OP\*
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=fsD7NrGZ8yo
+    * I GOT THE BEST MYTHICAL PETS AND HATS IN UNBOXING SIMULATOR!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=DjrHyRe-bJw
     * SECRET OWNER PET CODE AND OP GODLY PETS IN GHOST SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=i1Jc2u3zXuw
@@ -3212,9 +3032,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET 1500 TRILLION COINS CODE IN UNBOXING SIMULATOR!? Roblox \*THIS IS CRAZY\*
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=XgAXwYppL9o
-    * BEST WAY TO GET MYTHICAL HATS AND PETS FAST IN UNBOXING SIMULATOR! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=Tjjvon0DEMA
     * OWNER GAVE ME SECRET YOUTUBER CODES IN UNBOXING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=8fTlm6nFY4A
@@ -3230,9 +3047,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BUYING FULL TEAM OF BEST PETS IN UNBOXING SIMULATOR! Roblox \*10K ROBUX\*
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=oO22DRex1xY
-    * We Played ROBLOX MINING SIMULATOR AFTER 1 YEAR! \*NOSTALGIA\*
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=ixBvb0aTjsA
     * TURNING NOOBS TO PRO IN BUBBLE GUM SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=yh8eoJk3vYY
@@ -3242,9 +3056,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET EASTER PET TREATS IN ROBLOX BUBBLE GUM SIMULATOR!
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=CCmj2CbtG_k
-    * ALL EASTER EVENT EGG LOCATIONS IN ROBLOX BUBBLE GUM SIMULATOR! \*QUICK GUIDE\*
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=HnoLR4fYTCc
     * SHINY EASTER BUNNY CODES IN ROBLOX BUBBLE GUM SIMULATOR UPDATE!
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=Lx8NXcL-lf8
@@ -3257,9 +3068,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * GIVING THE VIDEO STAR EGG + ALL EGG LOCATIONS IN ROBLOX EGG HUNT 2019!!
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=6Bk-2LnlDLc
-    * ALL 23 BEE SWARM SIMULATOR CODES! Roblox \*MICRO CONVERTERS\*
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=MXBK7OwUTRM
     * ALL SECRET DRILLING SIMULATOR CODES! Roblox \*FREE PETS!\*
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=U4nbCuVZNUc
@@ -3290,9 +3098,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX WORLD // ZERO!! ALL CHEST LOCATIONS + ALPHA ACCESS GIVEAWAY! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=Cht8YyawUbY
-    * 10 BUBBLE GUM SIMULATOR SECRETS YOU DIDN'T KNOW!! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=XIraflv-dGw
     * MIDORIYA (DEKU) VS TOKOYAMI IN ROBLOX! - Boku No Roblox Remasted / My Hero Academia
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=lHW0zS-Ub2M
@@ -3311,9 +3116,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET ObscureEntity PET HAT IN BUBBLE GUM SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=23GyPQX1pSY
-    * PET SIMULATOR + POKEMON = PET TRAINER SIMULATOR!? Roblox \*INSANE\*
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=QuE7pYEZ5kU
     * I GOT BEST LEGENDARY KING CRAB IN BUBBLE GUM SIMULATOR UPDATE! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=WHpYGseXBBs
@@ -3332,12 +3134,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SHINY 300M TROPHY PET (MAX LEVEL) IN BUBBLE GUM SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=gKztxFXGcEw
+    * PET SIMULATOR 2 RELEASE!? NEW PETS AND MORE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=onwJsx7Xal0
     * I GOT THE SECRET 300M PET IN BUBBLE GUM SIMULATOR UPDATE! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=7aOcQA0xY94
-    * GETTING THE MOST REBIRTHS POSSIBLE ON COOKIE SIMULATOR! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=OoRzQenPMxY
     * DUNGEON QUEST!! FREE SPELLS + WEAPONS GIVEAWAY! - Roblox /w KiraBerry
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=j-apoWKl2cs
@@ -3347,18 +3149,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET CODES MADE ME THE BIGGEST BABY ON BABY SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=WbSd2oblbII
-    * THESE SECRET CODES MADE ME OP IN RPG WORLD SIMULATOR! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=HpBYlT1QO4A
     * BEST WAY TO GET POT O' GOLD PET IN BUBBLE GUM SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=3qKBIuZc4tU
     * SHINY POT O' GOLD, LUCKY OVERLORD PET IN BUBBLE GUM SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=sp8ojY529WY
-    * LEGENDARY LUCKY DOMINUS CODES IN BUBBLE GUM SIMULATOR UPDATE! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=Pbe-9D2x47U
     * NOOB TROLLS PRO WITH 9 SHINY JELLY FISH PETS! BUBBLE GUM SIMULATOR! Roblox \*FUNNY\*
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=RWNrMBfNXXU
@@ -3389,9 +3185,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * RAREST SHINY CLASSIC TRIO PET IN BUBBLE GUM SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=dpqLLPLQx9U
-    * SECRET GODLY SPARKLER CODES IN FIREWORK SIMULATOR! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=97uuDPPfWoQ
     * LEGENDARY TREASURE CHEST CODES IN PET RANCH SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=Bw1_Fa4dpJs
@@ -3446,9 +3239,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET LEGENDARY PET CODES IN SLAYING SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=QvyvFgWpdOU
-    * RAREST SHINY SOUL HEART PET IN BUBBLE GUM SIMULATOR! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=eGhDBuWWmvQ
     * ALL CODES + 100 GOLDEN CHESTS IN HOT SAUCE SIMULATOR! Roblox
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=nfzlmBr9n20
@@ -3488,9 +3278,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FREE ELECTRIC HYDRA DOMINUS IN BUBBLE GUM SIMULATOR!? Roblox \*GamePass Giveaways\*
       * Description references a Roblox group for Robux giveaways.
       * URL: https://www.youtube.com/watch?v=AijCwOhOH4I
-    * UNLIMITED FREE NEW ULTRA BEAST PETS IN NINJA LEGENDS!! \*Roblox\* (Giveaway)
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=Z93A9lAF90E
 * Denis (DenisDaily)
   * Information Collection
     * SIR MEOWS A LOT TAKES OVER ROBLOX!
@@ -3507,12 +3294,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET JEWELRY STORE DOOR GLITCH!!! \*OPEN 100%\* (Roblox Jailbreak)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=9h-28A22srE
-    * HUNTING MY FANS FOR LARGE BOUNTIES!!! (Roblox Jailbreak)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=O1skXWjG3nU
     * THE REVERSE UBER FAN TROLL!!! \*BUGATTI & MONSTER TRUCK\* (Roblox Jailbreak)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=GUCtw8G1O1I
+    * TROLLING CRIMINALS WITH AN $5,000+ USD SPARKLE TIME!!! (Roblox Jailbreak)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=dag81qQCWAg
   * Phishing
     * HACKING A FAN'S ROBLOX ACCOUNT FOR HIS BIRTHDAY!!!
       * URL: https://www.youtube.com/watch?v=_jW4TxRsaFo
@@ -3522,9 +3309,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * KICKING CRIMINALS BEFORE THEY KILL ME!!! \*TROLL\* (Roblox Jailbreak)
       * Robux giveaway uses a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=MrJgNha16DM
-    * THE 10,000 ROBUX AUTUMN DESIGNER CONTEST!!! (Roblox Bloxburg)
-      * Robux giveaway uses a Roblox group using group funds.
-      * URL: https://www.youtube.com/watch?v=LX96A2b_kZE
     * EVERYTIME I DIE, YOU GET 1000 ROBUX!!!
       * Robux giveaway uses a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=ZxVu1Q6MPAg
@@ -3546,47 +3330,26 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=G-ChfLOF_YE
-  * Other
-    * Teleporting Simulator! (FUCK FUCK FUCK)
-      * Video, title, and description contain the "F word" 8 times.
-      * URL: https://www.youtube.com/watch?v=rh_sr6rEWWI
 * EmpireBlox (EmpireBloxOficial)
   * Information Collection
     * PEGUEI O NOVO JETPACK DO JAILBREAK!! E ME ARREPENDI !!
       * Description references the data collection website rbx.farm.
       * URL: https://www.youtube.com/watch?v=o3ys9JKB2ng
-    * SEASON 3 MAD CITY !! TUDO SOBRE A NOVA ATUALIZAÇÃO !! CARRO GRÁTIS?? (100 RANK)
-      * Contains an ad for the information collection website makerobux.co.
-      * Description references the data collection website makerobux.co.
-      * URL: https://www.youtube.com/watch?v=nbImW_7VfpQ
     * NOVA ATUALIZAÇÃO MAD CITY COM NOVO MISTÉRIO E TEMPORADA 3 ESTÁ CHEGANDO !!
       * Description references the data collection website rblx.pro.
       * URL: https://www.youtube.com/watch?v=_Lgkxx2N7dY
-    * NUNCA FIQUE SOZINHO NO CAMPING !! FINAL ALTERNATIVO EM MORTE !!
-      * Contains an ad for the information collection website makerobux.co.
-      * Description references the data collection website makerobux.co.
-      * URL: https://www.youtube.com/watch?v=N9wMf6vFq2c
-    * SOFRI ATAQUE HACKER POR CAUSA DA NOROK1 NO RO-GHOUL !! CUIDADO !!
-      * Description references the data collection website rblx.pro.
-      * URL: https://www.youtube.com/watch?v=OSOpOahE-eI
     * A NOVA KAGUNE DE 15 MILHÕES DE RC NO RO-GHOUL !! VOU PEGAR?
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=2EyKoWmZYnU
     * ADEUS TATARA !! JÁ FOI DECIDIDO !! RO-GHOUL ROBLOX
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=l5YDUqhM8As
-    * COMO PEGAR QUIRK NO BOKU NO ROBLOX  !! "GRÁTIS" ? PEGUEI A MELHOR ?
-      * Description references the data collection website gainblox.com.
-      * URL: https://www.youtube.com/watch?v=XvSzkCCzDog
     * COMO VENDER SEUS ITENS DE ROBUX NO ROBLOX !!
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=1z1iyJlptqY
     * NOVO HOVERBOARD NA NOVA ATUALIZAÇÃO MAD CITY !! VEJA COMO PEGAR !! -ROBLOX-
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=7r5Hp5FHJkA
-    * BUG TUDO DE GRAÇA NO NINJA MASTERS !! ROBLOX
-      * Description references the data collection website gainblox.com.
-      * URL: https://www.youtube.com/watch?v=aTzx12ao6uQ
     * O ROBLOX REALMENTE PODE ACABAR !! SÓ ASSISTA SE VOCÊ NÃO QUER QUE ISSO ACONTEÇA  !!
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=wNMnS7cAbpk
@@ -3620,12 +3383,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MEU FILHO CRIMINOSO ROUBOU O BANCO NO JAILBREAK !!(JeeffBABY)~ROBLOX~
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=tPpg55xeUQA
-    * COMPRAR ROBUX EM GRUPO É ROUBO ??(LENDO COMENTÁRIOS EM VIDEO)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=QgI52fzROD0
-    * MEU CACHORRO POLICIAL NO JAILBREAK !!! ~ROBLOX~
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=bLSbM7KnsgA
     * ESSA ARMA DESTRÓI MAPAS INTEIROS !! PERIGOSA!? (ROBLOX)!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=39Yrp62zQqU
@@ -3638,9 +3395,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMPREI SABRE DE LUZ QUE CUSTA 100.000+ !!!!CASH GRAB SIMULATOR !!(ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Uy_6CrwWzWc
-    * COMO GANHAR MUITO DINHEIRO E LEVEL NO ZOMBIE ATTACK !!FIQUE RICO !!(ROBLOX)
+    * BUG QUE DEIXA MUITO RÁPIDO NO JAILBREAK!!! GANHO DE UMA BUGATTI?? (ROBLOX)
       * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=9Zz-ND5jNKI
+      * URL: https://www.youtube.com/watch?v=j0ymKSKeNWk
     * NÃO JULGUE PELA APARÊNCIA !! PODER OCULTO??  ZOMBIE ATTACK!!(ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=unYnOsDF0cU
@@ -3653,30 +3410,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * PEGUEI LEVEL 2800+ NO ZOMBIE ATTACK!! PEGUEI 500 NÍVEIS  EM UMA PARTIDA VEJA COMO!!!(ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=VFux0NphDgw
-    * CORRIDA DE CREEPER NO ROBLOX !!! CUIDADO PARA NÃO ESXPLODIR !!!
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=4pBo1gaAg6Y
     * QUAL O MAIS FORTE ?? COMPREI TODOS OS PETS DO ZOMBIE ATTACK!! VEJA COMO !!(ROBLOX
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Zj5W0eMKaXM
     * A MAIOR E MAIS BUGADA MONTANHA RUSSA DO ROBLOX!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=HvQ55jaWShM
-    * JOALHERIA  DENTRO DA PRISÃO DO JAILBREAK ORIGINAL !!! VOCÊ NUNCA VIU !! (ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=YRTfaVjRLUw
-    * YOUTUBERS NÃO TE ADICIONA NO ROBLOX ??? VEJA VERDADEIRO MOTIVO!!
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ug8T4qQuMHQ
-    * ESSE MAPA FOI ESQUECIDO !! DESTRUI ELE !!(ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=I5jyWu24b-A
     * PEGUEI LEVEL 2000 NO ZOMBIE ATTACK ROBLOX!! PET NOVO !
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=pxN6wWxWuX0
-    * ACABOU DE VEZ ?? PAREI COM HACK!!! (ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=9BerN0ms2Yg
     * COMO NUNCA MORRER NO ZOMBIE ATTACK !! (ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Vzz0hZ_VamY
@@ -3729,18 +3471,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * OQUE TEM DEPOIS DO TÚNEL ??NOVOS ITENS !!! ☃️Snow Shoveling Simulator❄️ (ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=9A1lj52ebLE
-    * DESTRUÍ O MAPA DE NEVE INTEIRO !! USEI HACK ??? ☃️Snow Shoveling Simulator❄️(ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=li1emjpFHE4
     * O GUEST É MESMO O VILÃO NO ROBLOX?? ESSE VIDEO VAI MUDAR A FORMA QUE VOCÊ PENSA!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=4fXo1XrNhpg
     * COMO USAR QUALQUER DOMINUS NO ROBLOX !! (ADMIN COMANDOS)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Dw61Chbp2Jg
-    * HACKEANDO A CONTA DE UM INSCRITO NO ROBLOX !!! (TROLLAGEM)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=isqZkScG-UM
     * MUITO RÁPIDO NO ❄️SNOW SHOVELING SIMULATOR❄️ !!CORRI NA NEVE COMO FLASH !!(ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ua6Tsjg8e34
@@ -3750,12 +3486,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * QUASE PERDI O CANAL POR CAUSA DESSA CONTA DO ROBLOX !!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=hk27Y-P52D0
-    * TROLLEI JEFFBLOX !! ENTREI NA CONTA DELE E TRANSFORMEI EM MENINA!!(ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=K_ras1bAJic
     * MANDEI NUDS NO GRUPO !!! ROBLOX (TROLLAGEM)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=o9wN-AAGnLs
+    * FIZ HACKER NO GUEST 666 !! DESTRUÍ ELE ??(ROBLOX)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=5jhaKkVZpvc
     * PASSEI A SENHA DA MINHA CONTA PARA TODOS !! (TESTE HONESTIDADE  ) ROBLOX!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=JXJyNDrL-3w
@@ -3786,12 +3522,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * CUIDADO !! NOVO TIPO DE HACKERS NO ROBLOX!! ELES QUEREM SUA SENHA !!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=XVaHMCFP-Ac
-    * NOME REVELADO!! ESSE CARA VAI TE SEQUESTRAR NO ROBLOX ??
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=K4dtJ5kk9ow
-    * NOVO COFRE NO JAILBREAK E CORES RARAS QUE NÃO PODE SER COMPRADA NO JAILBREAK !! (ROBLOX
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=Nz4_lRevuhI
     * FALEI QUE SOU HACKER PARA CRIADOR DE MAPA BRASILEIRO !!!VAI FICAR BRAVO? (ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=kzID4fx3uaw
@@ -3807,9 +3537,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * CONFIRMADO!! TREM DO JAILBREAK VAI VIR E PODE SER ROUBADO !! CHEGA ESTA SEMANA !!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=1GQi68hFVvc
-    * FALEI QUE SOU HACKER PARA O CRIADOR DO JAILBREAK \#2!! ELE FICOU BRAVO ?
+    * ITEM DE GRAÇA ROBLOX !! PROMO CODE !! VOCÊ SÓ TEM HOJE PARA PEGAR !!
       * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=SvpdqlI0jCE
+      * URL: https://www.youtube.com/watch?v=2LCqodo3imE
     * JOGANDO NO NOVO BANCO DO JAILBREAK ??(TESTE) VI O TREM !!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=elOass51Hxg
@@ -3828,9 +3558,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * O HACKER DE IMORTALIDADE NO JAILBREAK É INÚTIL ?? FANTASMA !! (ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=dMbsPlwQobo
-    * TROLLANDO COM ADMIN COMANDOS \#2 !! TRANSFORMANDO TODOS EM PRINCESAS !!
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=CTf5o7A7IDs
     * IMORTALIDADE NO JAILBREK !!! VOU FICAR RICO !! 💰💰
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=_GB7dsXGn-U
@@ -3852,21 +3579,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMO IRRITAR UM LADRÃO DE ROBUX !!! (ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Mv4PSSN_ctI
-    * TROLLANDO COM ADMIN COMANDOS !!! TODO MUNDO ROSA !!(ROBLOX
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=9I6TA5jh4UE
     * ESTÃO ROUBANDO MEUS ROBUX !!! E AGORA?? CUIDADO!!! (ROBLOX)😲😲
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=gagoH9lCU8U
-    * VAMOS FAZER DE TODO CARRO UM CARRO DE POILICIA NO JAILBREAK??(ATUALIZAÇÃO)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=IbdG2yl-dUo
-    * VOU PARAR DE FALAR EM CHAT DO ROBLOX !!!!! VEJA O PORQUE!!
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=Qu3MdJTdlcQ
-    * FIM DOS HACKERS NO ROBLOX NOVAMENTE ??? ADEUS HACKER !!!
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=capvi_a9uZ0
     * INVADINDO GRUPO DE YOUTUBERS NO DISCORD!! (ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=yX_8VMxSBQY
@@ -3885,9 +3600,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * GODENOT É ILLUMINATI ?? GOD NÃO ??? QUE MISTÉRIO SE ENCONTRA NELE!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=l_qDeCm8MFc
-    * COLOQUEI MEU NOME DE TRÁS PARA FRENTE NO ROBLOX !!!😲E OLHA OQUE ACONTECEU!! 😲
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=ACrtRMsL1To
     * O CARA MAIS NOOB DO NINJA ASSASIN !!! VOU PARAR DE JOGAR ? (ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=VZCRupB-4kI
@@ -3900,9 +3612,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * VOU DAR ROBUX  PARA OS INSCRITOS DO CANAL DE GRAÇA !!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=A4vY5d7w1Jo
-    * UM CARA ME DEU 500,000 MIL NO LUMBER TYCOON 2 !!É MUITO DINHEIRO??(ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=J-DxTtjQDbI
     * 3 COISAS PROIBIDAS NO ROBLOX !! VOCÊ SERÁ BANIDO SE FIZER ISSO !!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=_bBlZ4C2pzE
@@ -3915,12 +3624,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SORTEIO DA CONTA DO ROBLOX !!O GANHADOR DA CONTA É ...!!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=lSN8-nV8XTE
+    * MINHA CONTA FOI BANIDA PERMANENTE DO ROBLOX!! NUNCA FAÇAM ISSO !! 😲
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=qrhaAPZB38A
     * MINHA EX CONTA FOI HACKEADA ? VOU TER QUE FAZER NOVO SORTEIO? (ROBLOX
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=TDKxXYiUa7U
-    * TENTEI FUGIR DO MEU LADO SOMBRIO!! (ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=zujJoqX_tTA
     * COMO SER IMORTAL NO GUN SIMULATOR!! AGUENTA MAIS QUE 1 TIRO?? (ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=hJd2_L2bMv8
@@ -3930,45 +3639,24 @@ The following channels had nothing appear with manual searching. Videos may exis
     * CONFIRMADO!!! VAI NEVAR NO JAILBREAK E TERÁ MUDANÇA NO MAPA!! (IMAGEN) ROBLOX
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=8ZeRA93r2qU
-    * ESTÃO TENTANDO HACKEAR A MINHA EX CONTA DO ROBLOX QUE DOEI!!
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=aHqcaggmWNg
-    * O ROBLOX MENTIU PRA VOCÊ SOBRE OS HACKERS !!! (BOMBA)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=czgecm_XA2E
     * O ITEM QUE CUSTA 1 TRILHÃO DE ROBUX NO ROBLOX!! MAIS CARO DE TODOS !
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=evEC69qIwjI
-    * VOU DAR MINHA CONTA DO ROBLOX HOJE !!! TODOS TEM CHANCE DE GANHAR!
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=DChi_HbIGg0
-    * PAPAI NOEL ASSASSINO !!! SANTA SIMULATOR ! NOVO JOGO (ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=OW3U48vfwTY
     * DANDO A CONTA DO ROBLOX AGORA NA DESCRIÇÃO !! CHEGUE PRIMEIRO E GANHE!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=uOV6RPFIp9A
     * ACHEI UM CARA COM 29 MILHÕES DE NINJÚTSU NO NINJA ASSASSIN!! (ROBLOX
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=DLVX2x68aZ0
-    * NOVO CARRO DO JAILBREAK!! MELHOR QUE A BUGATTI ?? (ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=pxV08xec8TU
     * O CARA QUE TEM TODOS OS ITENS E DO ROBLOX ?? ELE TEM O ITEM PROIBIDO!!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=AxL0ySIF0cE
-    * COMO CONSEGUIR UMA ESPADA NO JAILBREAK OFICIAL  !!(ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=Uu85v5TKS0U
     * O ANTHRO ESTÁ CHEGANDO NO ROBLOX ? (TESTE)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=lqKqqs2hna8
     * SIMULADOR DE KARATÊ NO ROBLOX !! (KARATE  SIMULATOR)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=5NtMaSOmF70
-    * TESTE DE HUMILDADE DA MENDIGA NO JAILBREAK! MUITO TRISTE!(ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=D5oDoHYyI0k
     * COMO USAR ADMIN COMMANDS NO JAILBREAK (CÓPIA) !! ROBLOX
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=rRUZCZwwlCk
@@ -3978,9 +3666,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * CORRIDA DE HOVERBOARD NO JEILBREAK !!! (ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ytjIFISotLE
-    * COMO VOAR NO JAILBREAK !!! NOVO MÉTODO !! (ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=DrnXcKDSh_Q
     * TENHO TODAS KNIFES (FACAS) NO KNIFE SIMULATOR !! ~ROBLOX~
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=odi3WfBdekA
@@ -3990,9 +3675,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * VAI TER NEVE NO JAILBREAK ?!! NOVIDADE !! (ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=CKe8s3af6Nc
-    * NOVO MÉTODO DE ATRAVESSAR PAREDE NO JAILBREAK !! (ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=iPYJAj7zii4
     * O ROBLOX PREJUDICOU MUITAS PESSOAS !!! FIM DOS (HACKERS)??
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=PoVHh8E06M0
@@ -4026,12 +3708,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * DESAFIEI O DONO DO ROBLOX FALEI QUE SOU HACKER !!! AGORA SIM BRINQUEI COM FOGO !!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=-2_mJMjf3Mc
-    * DESAFIEI O CRIADOR DO JAILBREAK FALEI QUE SOU HACKER !!! VOU SER BANIDO??(ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=rGXylDEOkHU
-    * O SIMULADOR DE PINGUIM NO ROBLOX COM OS INSCRITOS !!( Penguin Simulator)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=a54cxVsbaIc
     * FIZ HACKER NA FRENTE DO CRIADOR DO MAPA (ROBLOX) !!!! E OLHA OQUE ACONTECEU!!!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=mIjP3DAnptc
@@ -4120,18 +3796,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MISTÉRIO DA NOVA AREIA DO TREASURE HUNT SIMULATOR AREIA 666 !!!!! (ROBLOX)
       * Description references a Roblox Cheat Engine bypass using mega.nz.
       * URL: https://www.youtube.com/watch?v=DhLABO9NjL4
-    * BUG QUE FUNCIONA NO TREASURE HUT SIMULATOR!! (ROBLOX)
-      * Description references a Roblox Cheat Engine bypass using mega.nz.
-      * URL: https://www.youtube.com/watch?v=2ftR--MX6J8
     * NOVA AREIA DO TREASURE HUNT SIMULATOR !!! QUE COR É ? (ROBLOX)
       * Description references a Roblox Cheat Engine bypass using mega.nz.
       * URL: https://www.youtube.com/watch?v=RptWWRwwBOA
     * CRIADOR DO JAILBREAK FOI BANIDO (ASIMO) !!! FOI UM HACKER? (TWITTER)
       * Description references a Roblox Cheat Engine bypass using mega.nz.
       * URL: https://www.youtube.com/watch?v=z38aA8vUsLk
-    * NOVO ITEM ME DEU 1 BILHÃO NO TREASURE HUNT SIMULATOR !! (ROBLOX)
-      * Description references a Roblox Cheat Engine bypass using mega.nz.
-      * URL: https://www.youtube.com/watch?v=8GdNG61RUYM
     * NOVA ATUALIZAÇÃO TREASURE HUNT SIMULATOR!! PET QUE DÁ MUITO DINHEIRO?!! (ROBLOX)
       * Description references a Roblox Cheat Engine bypass using mega.nz.
       * URL: https://www.youtube.com/watch?v=StA5Bc4-NVY
@@ -4174,9 +3844,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * LUGAR SECRETO QUE DÁ MUITO XP NO BOOGA BOOGA !!! (ROBLOX)
       * Description references a Roblox Cheat Engine bypass using mega.nz.
       * URL: https://www.youtube.com/watch?v=RvHZUP3hC54
-    * CUIDADO COM A PAREDE MISTERIOSA NO MINING SIMULATOR !!(ROBLOX)
-      * Description references a Roblox Cheat Engine bypass using mega.nz.
-      * URL: https://www.youtube.com/watch?v=d6rRj0_NLAY
     * A PEDRA AMARELA 666!!!! MINING SIMULATOR(ROBLOX)
       * Description references a Roblox Cheat Engine bypass using mega.nz.
       * URL: https://www.youtube.com/watch?v=g-VkGKzwsng
@@ -4197,15 +3864,15 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=ameLwuP4Uvc
 * Erik Carr (ErikCarrKZ)
   * Information Collection
+    * A ARMA QUE CONGELA - Roblox Prison Tycoon
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=CSh_ZH64jrI
     * ATUALIZAÇÃO! O Mapa Me Jogou pra 9.999.999 METROS DE ALTURA - Roblox Obby Troll
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=LS8ElNi07ZQ
     * Comprei um HIDROAVIÃO no AEROPORTO - Roblox Airport Tycoon
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=STX7KQ1K67I
-    * EM BUSCA DA COROA no CORREDOR DOS YOUTUBERS - Roblox Corridor of YouTubers
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=IfLg5Ic8ycc
     * Comprei um NAVIO de 5 MILHÕES - Roblox Airport Tycoon
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=LLaiKDSPa6s
@@ -4269,9 +3936,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Piggy Simulator CAPÍTULO 3 + VIP - Roblox
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=Lbj2a2NsfP0
-    * Consiga ROBUX GRÁTIS Dessa Maneira - SORTEIO 2000 Robux
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=Nda5CJd2LwQ
 * FunkySquadHD (0UseCode_Funky)
   * Information Collection
     * I GOT ON THE LEADERBOARD! North Pole Simulator 🎅
@@ -4292,9 +3956,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MAKING THE BIGGEST BUBBLE! Bubble Gum Simulator | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=PaoHut5RWnA
-    * SPENDING 120k TOKENS! Super Power Training Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=3K9dFPlAxC4
     * Donating 60,000 TOKENS TO NOOB | Super Power Training Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=_dY7_z8m19Q
@@ -4307,6 +3968,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*NEW\* Dark Matter Pets! Pet Simulator Update 11 | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=Hw2t-rMXFUQ
+    * BOSSES on Pet Simulator? (Boss Arena Idea) Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=u2xXAlSwWtY
     * Pro Helps Noob (Noobs Get OP Pets!) Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=h7crUv-Pz5I
@@ -4379,6 +4043,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW Halloween Update! Pet Simulator | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=_3z5xhJ6Tdw
+    * Catching Scammers! Pet Simulator | Roblox \#3 (meanest scammer!)
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=CkLI6ZtNIqg
     * Trolling Noobs On Pet Simulator! Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=PC-kfNigMeQ
@@ -4406,18 +4073,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * This Chest Blew Up The Map! Pet Simulator | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=cmWKkqBVVXA
-    * Catching Scammers! Pet Simulator | Roblox \#1
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Zzm4YlSEziQ
     * How To Gain FAST XP on Super Power Training Simulator | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=0A1A5c_nLBk
     * This Game Is Better Than Phantom Forces! Roblox Fray
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=hPcj6hOHij8
-    * NOOB GETS RAINBOW CORE! Pet Simulator | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=_jnF9mNpjCU
     * \*INSANE\* New Volcano Coming To Jailbreak! Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=qO2nH9ZtT-Y
@@ -4445,15 +4106,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRAP ROULETTE on Fortnite Battle Royale!
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=3ps71B2Uj8E
+    * PRO HELPS NOOB! Noobs Get New Cyborg Pets | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=8sLRg9YmJc8
     * \*NEW\* Tier Cyborg PETS! Pet Simulator Update | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=BE_67GLo5uo
     * \*NEW\* Dragon Simulator CODE! Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=a7a8DCYUeWY
-    * Giving Rarest Pets To Noobs! Pet Simulator | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=yFOTBtHyjB8
     * I GOT THE RAREST PET! Pet Simulator | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=O8_1TcSsDVo
@@ -4463,9 +4124,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * INSANE Booga Booga Hacked Server! Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=zoDjpGiC0SA
-    * GIVING Noobs Gold Pets! Pet Simulator | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=6nZKJbw7hSI
     * \*NEW\* Destruction Simulator CODE! ROBLOX
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=JGd3mm6Bb5s
@@ -4514,9 +4172,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * PRO GIVES ME RAREST PET! Pet Simulator | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=eDnVm-CmNro
-    * OWNER Giving Away Blackhole Gamepass?! Destruction Simulator | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=sfW3QBSEwME
     * So This Happened... Destruction Simulator | Roblox \*buying blackhole\*
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=JS6CJUtUFO4
@@ -4559,9 +4214,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * OWNER vs EXPLOITER! Roblox Jailbreak
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=5cCj_oGp4Dk
-    * Building A Archery ROOM! Roblox Rovive \*MEGA TOWER\*
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=FQZlkG8ZYQQ
     * Roblox | Rovive Funny Moments! GET ON THE GROUND!!
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=-9j__AWU964
@@ -4601,15 +4253,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*INSANE\* Maze On Build A Boat | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=mFJxUqATie4
-    * GEARS ON BUILD A BOAT!
+    * \*NEW\* Build A Boat DEATH RUN! Roblox
       * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=6rW9JULjhdY
-    * CRAZY Glitch To End! Build A boat For Treasure | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=cljfmDGXor0
-    * \*CRAZY\* DEATH RUN on Build A Boat | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=5rEflLOOxWs
+      * URL: https://www.youtube.com/watch?v=r6-IwF1oFUw
     * Booga Booga Airdrops? Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=JTPXjmoKjBY
@@ -4622,9 +4268,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ADOPTING MY FIRST CHILD!! Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=ERTWXq1TjMI
-    * NEW BOOGA BOOGA GAME! COMING SOON | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=84kTJXxa6ME
     * CHICKEN BOSS! Egg Farm Simulator | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=P0mOdH8v6TI
@@ -4704,6 +4347,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=wgXTsve1zOs
 * IntelPlayz (IntelPlayzWasTaken)
   * Information Collection
+    * THE PORTAL FINALLY OPENED | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=PRkqgIxiiUk
     * UPDATE LEAKS! Underworld & More | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=iVl8nkLztVk
@@ -4740,9 +4386,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MAXING OUT MY ARMY | Army Control Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=XYf_lJ7EshU
-    * I GOT THE RAREST GODLY PET (update) | North Pole Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=onK_XjgMpZo
     * I GOT THE MOST POWERFUL SPELL & THE INF BAG! | Army Control Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=iyOJKxdNvIs
@@ -4758,9 +4401,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I BOUGHT EVERY GAMEPASS! | North Pole Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=UzxC0Eh4H-A
-    * GREAT GOLDEN SWORD (op)! | Army Control Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=-mLDQL0I6QI
     * SHINY PETS AND GEM GENIE  UPDATE!!  | Bubble Gum Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=8EoDCx1TVos
@@ -4770,9 +4410,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * THE OWNER GAVE ME UNLIMITED SPINS | Slot Machine Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=_85tzNOWE7o
-    * FIRST LOOK! (Snow Shoveling Simulator 2) | The North Pole
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=6hQ2JP8pzFU
     * REBIRTHING WITH ONLY THE HOT DOG STAND! (Challenge) | Billionaire Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=HB08FtH6Ev0
@@ -4788,18 +4425,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MAKING MILLIONS IN 10 MINUTES |  💰Billionaire Simulator💰
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=0zVTZj342-Q
-    * HE MADE A DISSTRACK ON ME (Reaction)
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=ZwR0ub0qmJo
     * WE GOT 5 GIANT CATS IN 1 SERVER (Insane) | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=t6JQCQpUlmw
-    * HOW I GOT 1 BILLION COINS AND ON THE LEADERBORED! | Bubble Gum Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=iyheovxKkxw
     * Noob vs Hacker vs Pro \[ Bubble Gum Simulator Edition\]
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=P_KSsgXTLVQ
+    * \*NEW\* VOID AREA & EGGS | Bubble Gum Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=k0v4gqkwNhQ
     * I GOT THE GIANT CAT | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=vR9RwO37unw
@@ -4809,9 +4443,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BUYING GAMEPASSES TO UNLOCK THE BEST FLAVOR | Bubble Gum Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=x7BLtu5273A
-    * CREATING A GIANT PENGUIN! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=JA8rR5LLRYg
     * RAINBOW DARK MATTER PETS! (Glitched) | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=OZPAQgr3I50
@@ -4827,9 +4458,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MAKING DARK MATTER DOMINUS HUGE (Bad Idea) | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=jN2jbIi1QTk
-    * WE USED 1200 DOGS AND BROKE THE GAME! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=wo4ApuvPd58
     * I GAVE HIM THE DARK MATTER DOMINUS HUGE | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=8n3BxHm2Shw
@@ -4863,9 +4491,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TIER 18 (Make ANYTHING Gold) | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=RaLzpRA50zg
-    * 150k Q&A + ROBLOX TOY CODES GIVEAWAY!
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=wfm7PSJD8x4
     * THE OWNER GAVE ME THIS PET | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=fRHHDS48bUw
@@ -4875,9 +4500,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO DUPE PETS & NOT GET BANNED! | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=KqaVxFmkanU
-    * I GOT BROKEN MOON COINS WITH THE BEST PET | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=7MjWRcRsiTE
     * EVERY DOMINUS HUGE vs DOMINUS CHEST (FAST)! | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=7aGDLJodIbQ
@@ -4920,6 +4542,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * So i Played Pet Simulator With Rthro (Anthro)......
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=9tQiFpoplQ0
+    * I GAVE HIM THE BEST PET | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=iZVvMw8-sVs
     * MY INFINITE PETS GAMEPASS STILL WORKS! | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=PYygObpnydg
@@ -4929,9 +4554,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BACON HAIR GETS THE RAREST CHEST | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=LtQTpuGB3c0
-    * HALLOWEEN UPDATE (Rare Pets) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=q_OzDgMEMj4
     * I GOT HACKED (800,000R$) & ALL MY STUFF | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=yhuRpmowFrw
@@ -4956,9 +4578,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HATS UPDATE! (Super OP) | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=YeYkmn-ZB4o
-    * One Plot Challenge Getting Started (Season 2) | Lumber Tycoon 2
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=-iwYu8QAm-c
     * 50 RAINBOW SHOCKS vs RAREST CHEST | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=LyXiheH_zYw
@@ -4989,9 +4608,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FRAY- The Beginning | Montage
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=5w_vt38Fx6I
-    * NEW \*EXCLUSIVE\* CODE! (Free Pet) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=fQFDvGriBkI
     * HUNTING FOR RAINBOW CORE SHOCK | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=YoyuFTBz7qs
@@ -5013,12 +4629,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HALLOWEEN OUTFIT 2018! | Spooky
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=MDkrpIH0-_8
-    * CHEST ONLY CHALLENGE | Pet Simulator
+    * BEST PET IN UPDATE 6? | Pet Simulator
       * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=pl6ogVSrUGg
+      * URL: https://www.youtube.com/watch?v=KzoEfbrRBbE
     * NEW UPDATE CYBORG PETS & EGGS (Teleport) | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=v1BdNLLmsEg
+    * DELETING ALL MY RAINBOW MORTUUS | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=lg9BgtaSByU
     * I Tried To Give a NOOB Pets and This Happend... | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=43HfOVrpGIs
@@ -5028,6 +4647,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * New Game \*EXCLUSIVE ITEMS\*(Codes) | Lumberjack Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=fqiqWkDc5fs
+    * BEST ITEM IN THE GAME! | Dragon Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=3TGszKeHrVw
     * I HOPE I DONT GET BANNED FOR THIS...... | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=OrhSCBAgPvQ
@@ -5040,18 +4662,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * WE GOT DOMOURTUS AND RAINBOW AME DAMNEE | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=_Vvo8WtnBsc
-    * GIVING RussoPlays THE BEST PET IN THE GAME! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=fB7qHrD39w4
     * She Gave Me The BEST Pet in PET SIMULATOR!! | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=jiNRP3_0LRU
     * HOW TO GET COINS \*MEGA\* FAST | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=aul1ZXoknpg
-    * MAKING MY RAREST PET GOLDEN | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=KdKselIwWWE
     * BUYING THE NEW GAMEPASSES (Good or No) | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=Lt2j6zuSNrs
@@ -5094,9 +4710,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HE GAVE ME THE BEST/RAREST PET IN THE GAME | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=tepd7ppa4EU
-    * I GAVE A NOOB THE RAREST PET | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=OIFlqMtpVRA
     * PRO HELPS NOOB | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=Prx6TVaV6PQ
@@ -5112,9 +4725,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW BEST PET (Updated Mortous) | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=S3GlpESeD2M
-    * NEW GOLDEN 1NE PET | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=wLaN_gW2J-E
     * FIRST LOOK | Mining Simulator X
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=2VJdVAD-a4M
@@ -5139,9 +4749,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * PRO HELPS NOOB | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=yIUYCMgU3Us
-    * I GOT THE 2 RAREST PETS | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=yDlhlAJ3DJQ
     * I EQUIP 500 TIER 14 PETS THEN THIS HAPPEN ....
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=T9Hi6syAjc0
@@ -5169,12 +4776,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HATS FOR PETS! (Coming soon) | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=Bzdm4PWbI0Y
-    * MAKING SPACE FOR THE \*NEW\* TIER 13 PETS | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Kxu4swFGLaQ
     * THE OWNER SHOWED ME THIS... | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=QwPwtbmpkC0
+    * i used 100 tier 12 pets, then this happened... | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=gZ3U0_clNw8
     * NOOB vs PRO vs ROBUX SPENDER | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=z3-Yx2NYeLU
@@ -5187,36 +4794,18 @@ The following channels had nothing appear with manual searching. Videos may exis
     * GOLD PETS , TRADING & EXPENSIVE GAMEPASS | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=GDB7F1AG9wc
-    * SHOP SPEED BUILD (New Game) | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=r_EK9-T_CIw
     * HOW TO SPAWN CHEST! | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=Amm4DSP3VN0
     * THERE IS A 1% CHANCE TO GET THIS EGG | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=M2Vt50cCK8Y
-    * JAILBREAK UPDATE (RPG,GRENADES,New Car) | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=ZcVDLYqaIVM
-    * Free For All MOD TROLLING | Bo2
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=boV9Kv7bazQ
-    * BUYING EVERY GAMEPASS (Super OP) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=U9c3qMT5oqM
     * LINKMON99 SENT ME A TRADE | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=FqaE3Al3bVk
-    * CHICKEN SPAWN GLITCH (Helping Noobs) | Egg Farm Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=r_u8G7yPTKA
     * UNLIMITED EGGS FROM THE DEALER | Egg Farm Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=6GO7BSu4YBY
-    * Noob vs Hacker vs Pro \[ Island Royale Edition \]
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=15s_8xqMaG4
     * I BOOSTED THE WHOLE ROBLOX SERVER! | Yard Work Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=2-1gyuXljMc
@@ -5226,9 +4815,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BUILD A BOAT OBBY w/ Z_Nac (SUPER FUNNY) | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=y4d0uJrrkas
-    * Egg Farm Simulator First Look! | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=7KCeh8nwymQ
     * DOMINUS GIVEAWAY!!! | Roblox
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=BzYg6a-y3P4
@@ -5241,15 +4827,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Mining Simulator REVENGE!
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=5lCMZRc2kXA
-    * Bad Roblox SUPER DURP
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=psxDS3Wu8T4
     * Filling The INF. Bag | Yard Work Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=8AeM-NJ-F6c
-    * FIRST EVER Pets Only Boss KILL! Snow Shoveling Simulator❄️| Roblox
-      * Description references the data collection website robux.network.
-      * URL: https://www.youtube.com/watch?v=66SKEiRH-W4
+    * I DevEx 1M R$! |Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=aXVuFp4d96M
 * ItsMatrix (MatrixPlaysRB)
   * Information Collection
     * Racing Is Finally Here! \*HUGE UPDATE\* (Roblox Ultimate Driving)
@@ -5261,9 +4844,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * We're Hunting Ghosts in Roblox!! \*EPIC NEW GAME\* (Ghost Hunting Simulator)
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=m1GB_G0oDv8
-    * \*OMG\* Custom Bey-Parts in Beyblade Rebirth! \[BEST UPDATE!\]
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=E7f54LayIDI
     * This is The Coolest Simulator of 2018! \[Codes\] (Roblox Ninja Simulator 2)
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=w5xuqq5FPJ8
@@ -5273,9 +4853,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I Returned to YouTube! + Drifting Simulator News.
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=YRKwvRsNf7k
-    * Claiming HUGE Bounties As A Mercenary in Wanted! \*Roblox GTA5\*
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=OcuPtUNvwWE
     * Best Exotic Super Car Under $1,000,000! (POOR to RICH Episode 4)
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=I2ef-FFW9qk
@@ -5324,18 +4901,21 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NOOB COM OS MELHORES PETS DESBLOQUEIA TUDO NO MAGNET SIMULATOR
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=GCCDNgGBn3I
-    * ABRI VÁRIOS OVOS MÍSTICOS E GANHEI O MELHOR PET NO MAGNET SIMULATOR - ROBLOX
-      * Description references the data collection website claimrbx.com.
-      * URL: https://www.youtube.com/watch?v=ucjA4UN0AJs
     * VOCÊ PRECISA VER O PREÇO DO NOVO OVO DO MAGNET SIMULATOR NO SERVER VIP!!
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=o6Fkv9_WY0A
+    * DOMINUS PET GRÁTIS NO BUBBLE GUM SIMULATOR😱(UPDATE 9)
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=BH4ZtcqbdH8
     * ESSE E O MELHOR IMÃ DO MAGNET SIMULATOR(Muito Apelão Parece H4ck)
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=dfWRapQur08
     * \*CÓDIGOS SECRETOS\* DO JETPACK SIMULATOR - ROBLOX
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=B77hPXvqX-0
+    * 3 JOGOS FAMOSOS QUE OS SCOOBIS JÁ FAZEM PARTE
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=-Go9l65Vjw4
     * OS SCOOBIS VÃO DOMINAR O ROBLOX
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=rCDdws35KrI
@@ -5345,12 +4925,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * A FORÇA DO IMÃ DO ESPAÇO - MAGNET SIMULATOR ROBLOX
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=lpixDxpkpNY
-    * FREE FIRE NO ROBLOX
-      * Description references the data collection website claimrbx.com.
-      * URL: https://www.youtube.com/watch?v=tWJ7HkBbdgU
-    * MEU NOVO AVATAR DE ANO NOVO NO ROBLOX 2019
-      * Description references the data collection website claimrbx.com.
-      * URL: https://www.youtube.com/watch?v=1PMAZ6uzAW8
     * MINHA PRIMEIRA VEZ NO CAOS CIBERNÉTICO - BRAWL STARS(com o max de recompensas)
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=4Z7PZjcUfMY
@@ -5363,9 +4937,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMO TER NOME COLORIDO NO BRAWL STARS
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=QI5Y4F674bU
-    * DESBLOQUEEI UM BRAWLER ÉPICO NO BRAWL STARS
-      * Description references the data collection website claimrbx.com.
-      * URL: https://www.youtube.com/watch?v=tetlbfuxMso
     * DESBLOQUEEI A ÚLTIMA ÁREA DO PET SIMULATOR - ROBLOX
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=Ji_gQAErBXo
@@ -5420,10 +4991,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references a video to a Robux giveaway
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=S1A0B-4kh2o
-    * NOVO CÓDIGO! E COMO ACHAR E MATAR O NOVO BOSS NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
-      * Description references a video to a Robux giveaway
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=-hayS7t6D0o
     * SOU O BRASILEIRO MAIS RICO DO CASH GRAB SIMULATOR?? - ROBLOX
       * Description references a video to a Robux giveaway
       * Description references a video about the data collection website bloxawards.com using a link shortener.
@@ -5468,10 +5035,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references a video to a Robux giveaway
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=GQLIgxlizXs
-    * BOLA DE GELO MISTERIOSA!! DA DINHEIRO?? SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
-      * Description references a video to a Robux giveaway
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=L9EqSqpTqWQ
     * SOU UM CACHORRO POLICIAL NO JAILBREAK - ROBLOX
       * Description references a video to a Robux giveaway
       * Description references a video about the data collection website bloxawards.com using a link shortener.
@@ -5480,14 +5043,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references a video to a Robux giveaway
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=AHfsX9Nckos
-    * OS 5 MELHORES JOGOS BRASILEIROS NO ROBLOX 🎮
-      * Description references a video to a Robux giveaway
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=qpXDK_uNJCw
-    * COMPRANDO A MELHOR FERRAMENTA E CAPTURANDO O CLIENTE ADMIN NO CASH GRAB SIMULATOR - ROBLOX
-      * Description references a video to a Robux giveaway
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=ss6u6Y20rq8
     * COMPRANDO A NOVA ARMA PRA MATAR O ICE BOSS NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
       * Description references a video to a Robux giveaway
       * Description references a video about the data collection website bloxawards.com using a link shortener.
@@ -5508,22 +5063,18 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references a video to a Robux giveaway
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=2w8Rmp23Pvk
-    * NOVOS CÓDIGOS PARA GANHAR DINHEIRO E SPEED NO CASH GRAB SIMULATOR - ROBLOX
-      * Description references a video to a Robux giveaway
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=O_j0XhOTd6U
     * VENDENDO MUITOS JOGOS LEGEND E FICANDO RICO NO CASH GRAB SIMULATOR - ROBLOX
       * Description references a video to a Robux giveaway
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=z05OXn0ZZt0
+    * COMPRANDO O BANK VAULT E FICANDO RICO NO CASH GRAB SIMULATOR - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references a video about the data collection website bloxawards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=71wyB9bQnL4
     * NOVOS CÓDIGOS!! E PULANDO AS RAMPAS DA MONTANHA NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
       * Description references a video to a Robux giveaway
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=9kf0gBkWoXI
-    * PRENDI MEU IRMÃO NOS TRILHOS DO TREM NO JAILBREAK - ROBLOX
-      * Description references a video to a Robux giveaway
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=Y--yRnySak0
     * NOVO CÓDIGO!! E MATANDO O ICE BOSS SOZINHO NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
       * Description references a video to a Robux giveaway
       * Description references a video about the data collection website bloxawards.com using a link shortener.
@@ -5560,10 +5111,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references a video to a Robux giveaway
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=Gx8QziDDL3k
-    * COMPREI O PET QUE CUSTA 1000 ROBUX NO ZOMBIE ATTACK - ROBLOX
-      * Description references a video to a Robux giveaway
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=iTTYemoOw8c
     * ENTREGUEI 20K DE ICE AO CAVE EXPERT E ACHEI ICE RARO NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
       * Description references a video to a Robux giveaway
       * Description references a video about the data collection website bloxawards.com using a link shortener.
@@ -5588,10 +5135,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references a video to a Robux giveaway
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=L5HYmkpL1FI
-    * COMPREI O NOVO SNOWMOBILE E ENTREI NA ICE MOUNTAIN NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
-      * Description references a video to a Robux giveaway
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=ZMS8IJ_zR8I
     * A MALUCA MOTO ABOMINÁVEL DA NEVE NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
       * Description references a video to a Robux giveaway
       * Description references a video about the data collection website bloxawards.com using a link shortener.
@@ -5676,15 +5219,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NOVO CÓDIGO DA MOCHILA TV E SUPER ATUALIZAÇÃO NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=-x9vxb9bkgk
-    * COMPRANDO O GRADER E FICANDO RICO NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=I4Z3WL2ugSw
     * TENTANDO ARRANCAR O TREM DOS TRILHOS NO JAILBREAK ☃️ - ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=qm2MZrbx_ys
     * COMO TER UMA ROUPA IGUAL A ESSA PACKAGE DE GRAÇA OU POR 10 ROBUX NO ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=WNUenod7pGk
+    * NOVOS CÓDIGOS PARA GANHAR BUCKS GRÁTIS NO ADOPT ME - ROBLOX
+      * Description references a video about the data collection website bloxawards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=nW-HsrjUD7g
     * COMPRANDO A NOVA MOTO ABOMINÁVEL NO SNOW SHOVELING SIMULATOR ❄️ - ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=vCNCDoot2CU
@@ -5736,9 +5279,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * VALE A PENA COMPRAR BUILDERS CLUB NO ROBLOX ?
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=buxEaP7RU9E
-    * TROLAGEM!! KIKANDO PESSOAS DO SERVER NO JAILBREAK - ROBLOX
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=wV89OcqRQNQ
     * OS 10 ITEMS CARO DO ROBLOX QUE ERAM QUASE DE GRAÇA!!
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=4wNTbIv1VnI
@@ -5754,6 +5294,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * OQUE VOCÊ PREFERE ? NO ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=zPAQxJB8agE
+    * FIZERAM UM JOGO SPEED RUN PARA MIN NO ROBLOX!!(MODO HARD)
+      * Description references a video about the data collection website bloxawards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=KEPHatcs_tg
     * ENTÃO, VOCÊ ACHA QUE CONHECE O ROBLOX??PROVE!!
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=WtaI4saHPDo
@@ -5772,30 +5315,21 @@ The following channels had nothing appear with manual searching. Videos may exis
     * CÓDIGOS PARA GANHAR DINHEIRO GRÁTIS NO SNOW SHOVELING SIMULATOR
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=eUzE5LR_sM8
+    * FINALMENTE O TREM NO JAILBREAK E NOVA FORMA DE ROUBO - ROBLOX (SUPER ATUALIZAÇÃO)
+      * Description references a video about the data collection website bloxawards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=A2iX-V9wTXU
     * VOCÊ E UM VERDADEIRO ROBLOXIANO?? DESCUBRA!!
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=IA4Hc8VlRDI
-    * VOCÊ TEM MENOS DE 24 HORAS PARA PEGAR ESSE NOVO ITEM GRÁTIS DO ROBLOX :O
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=X2X3JBPp04A
     * MEU VÍDEO ESTA NO \#48 EM ALTA OBRIGADO A TODOS :D
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=v-xii6jBEYg
     * O ÚLTIMO GUEST O JOGO NO ROBLOX 🎮
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=z6PEPEvv2Dc
-    * SAIUUU!! SEGUNDO PRESENTE GRÁTIS COM ITEM MISTERIOSO NO ROBLOX!🎁
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=1JL-W_fBpxs
-    * ESSE YOUTUBER TEM A CONTA MAIS TOP DO ROBLOX!!
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=g6YUA4ohLFs
     * 10 COISAS QUE VOCÊ NUNCA SOUBE SOBRE O ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=G-1Olg4XJb4
-    * O DIA EM QUE O ROBUX FOI ADICIONADO NO ROBLOX💸
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=34WI-ffIsFU
     * ALGUÉM AINDA LEMBRA DESSE JOGO DO ROBLOX??
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=Jeu5xtPghNk
@@ -5811,12 +5345,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TODOS OS COMANDOS DE MOVIMENTOS DO ROBLOX(Animation System)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=1Xplio6NoY4
-    * O ROBLOX VAI NOS DAR PRESENTES COM ITENS??🎁
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=JQHrW7G3c2k
-    * OS JOGOS MAIS RICOS DO ROBLOX 🤑
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=KPz-V7vlqJA
     * SUPER MODO ZOMBIE NO JAILBREAK ROBLOX!!
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=SbYk4zw3iI0
@@ -5826,9 +5354,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKER VS ADMIN NO ROBLOX!!
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=31t5ByRJ6xg
-    * NOVO CÓDIGO QUE DA 100MILHÕES DE CASH NO ZOO TYCOON - ROBLOX
+    * O ANTHRO R30 JÁ FOI ADICIONADO EM ALGUNS JOGOS DO ROBLOX!! 😲
       * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=Zh52WvCNECo
+      * URL: https://www.youtube.com/watch?v=bNG0WOfWA9Q
     * 5 COISAS QUE PODERIAM SER ADICIONADAS NO ROBLOX!!
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=RYUJJWEsMAE
@@ -5841,18 +5369,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * O CATALOG DO ROBLOX EM 2007 🤑 (10 ANOS ATRÁS)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=H0sBEvq-SEg
-    * COMO ATIRAR DEITADO NO JAILBREAK ROBLOX (NOVO GLITCH)
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=SekKYZ9JwiA
     * ✔COMO FAZER UM NECK(ITEM DE PESCOÇO) DE GRAÇA NO ROBLOX‼
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=eM100E9h9aM
     * AS 5 CAMISAS MAIS PERSONALIZADAS DO ROBLOX - ISSO E REAL??😲!!
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=nUReinqRF9A
-    * O TABLET QUE CUSTA 1 BILHÃO DE ROBUX NO ROBLOX!! EU TENHO ELE??
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=A0fwZunJcjo
     * VISITANDO JOGOS ABANDONADOS NO ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=CMC3hCtkCQw
@@ -5877,9 +5399,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SOU O HACKER BOB ESPONJA E O PATRICK NO ROBLOX!! :D
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=f7rPGkw79D0
-    * FUJA DO GODENOT NO ROBLOX
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=yNrIUUgBCwM
     * SIMULADOR DE PAPAI NOEL NO ROBLOX - SANTA SIMULATOR(NOVO JOGO)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=8gMFZ5noSdY
@@ -5889,12 +5408,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * A XJ6 MALUCA NO JAILBREAK - ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=i8m1w342IpU
-    * ESSE JOGO VAI ULTRAPASSAR O JAILBREAK ? 😲- ROBLOX
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=q0Y0l38XcIY
-    * NOVO CARRO TESLA ROADSTER 2020 EM BREVE NO JAILBREAK - ROBLOX(MELHOR QUE A BUGATTI??)
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=6PsJoNIQwvc
     * COMO TER UMA ESPADA NO JAILBREAK OFICIAL - ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=cK-YQVqhqow
@@ -5919,9 +5432,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ANDANDO DE HOVERBOARD NO JAILBREAK ROBLOX ? 😲
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=1vlUxB2HyDs
-    * SEJA UM YOUTUBER BRASILEIRO NO YOUTUBER BR TYCOON - ROBLOX
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=jYDlv2yl2XQ
     * TODO MUNDO USANDO ADMIN COMMANDS NA COPIA DO JAILBREAK ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=-IDbR_JPd5w
@@ -5946,9 +5456,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ACHEI ALGO SECRETO NO KNIFE SIMULATOR ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=AlzPbXL0da8
-    * SIMULANDO UM TORNADO NO JAILBREAK ROBLOX DESTRUIU TUDO ? ?
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=ZgY1eEu1zes
     * FOMOS PARA LUA DE FOGUETE NO JAILBREAK ROBLOX ?😲(FT.KAPOLAR)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=gvWAXUQCmVE
@@ -5961,12 +5468,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * A IDEIA DO TREM COMEÇOU HÁ 3 ANOS ATRAS (JAILBREAK ROBLOX)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=wU_9p3BJlF4
-    * ESSA ROUPA ME DA MUITA VELOCIDADE NO JAILBREAK - ROBLOX
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=cz-jK3ijDjs
     * PINGUIM GLITCH VS SNOWMAN GLITCH NO JAILBREAK ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=yqMphvA2rDw
+    * ESTE JOGO SUBSTITUIRÁ O JAILBREAK ROBLOX ? 😲
+      * Description references a video about the data collection website bloxawards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=R6ABMIkA4x4
     * COMO TER SEU PRÓPRIO JOGO OBBY NO ROBLOX(TUTORIAL MÉDIO)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=Vtclg_QqpN8
@@ -5985,9 +5492,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX - SEJA UM ANIMAL E FUJA PARA NÃO SER CAPTURADO NO PET ESCAPE(NOVO JOGO)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=XMRm9DeI-uc
-    * NOVO TRUQUE PARA FICAR INVISÍVEL NO JAILBREAK - ROBLOX(MOTORISTA FANTASMA)
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=EkAJSD0YWNc
     * ESSA CAMISA TE DEIXA INVISÍVEL NO JAILBREAK - ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=SzK8XoneZdk
@@ -6009,6 +5513,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * OS 30 ITENS PROIBIDOS DO ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=UodSMP5LRZo
+    * COMO SABER AONDE PASSAR DE NÍVEL RÁPIDO E DROPAR OS MELHORES ITENS NO SWORDBURST 2 - ROBLOX
+      * Description references a video about the data collection website bloxawards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=WOLJzzKJcHY
     * A VOLTA DO PODEROSO PINGUIM CRIMINAL NO JAILBREAK - ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=tMk4IGIUJeE
@@ -6027,6 +5534,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMO SERIA SE O JAILBREAK ADICIONA-SE UM HUMANO ?
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=usSJwQ5NE5s
+    * QUEM FAZ MAIS DINHEIRO NO JAILBREAK EM 4 MIN | POLICIAL OU CRIMINOSO ??
+      * Description references a video about the data collection website bloxawards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=-OUkGzuzZpM
     * ROBLOX - SOU UMA GALINHA COMILONA NO CHICKEN SIMULATOR
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=5jAv3UZeuoQ
@@ -6039,9 +5549,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * CRIADORES DE JAILBREAK MILIONÁRIOS GRAÇAS AO ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=tEI7CkQp3CE
-    * JOGANDO JAILBREAK COM OS INSCRITOS (ESPECIAL DE 20K)
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=tM3FggupXcc
     * NOOB VS PRO NO JAILBREAK ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=0utNkSWfFYM
@@ -6057,24 +5564,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * CONFIRMADO NAVE ESPACIAL NO JAILBREAK - ROBLOX ? 😲
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=cZoGCe9SrgU
-    * ROBLOX - TREINE PARA MUDAR DE HERÓI/VILÃO NO SUPER SIMULATOR 2(NOVO JOGO)
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=3x2yL9guJLw
     * ROBLOX - VINICIUSDOBR E O BR MAIS FORTE DO NINJA ASSASSIN? 😲
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=dsr95VI-ehk
     * DICAS DE COMO FICAR FORTE NO NINJA ASSASSIN - ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=B29uPdK_blY
-    * A CÓPIA DO JAILBREAK QUE NÃO DEU MUITO CERTO(ROBLOX)
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=bGgAWv8GtUo
     * NOVO JOGO QUE ESTA BOMBANDO NO ROBLOX - CRIE SEU PRÓPRIO MUNDO NO GALAXY SIMULATOR
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=lz8dqqkNUvA
-    * 5 COISAS QUE PODERIAM SER ADICIONADAS NO JAILBREAK - ROBLOX
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=y42Z-Mvb2Ho
     * COMO TESTAR OS CARROS DO VEHICLE  SIMULATOR ANTES DE COMPRAR - ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=XxrZl0DFNeo
@@ -6090,6 +5588,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 4 GLITCHES NOVOS NO JAILBREAK | POLICIAL AJUDANTE CRIMINAL
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=LxO5cGye10A
+    * ROBLOX - USANDO O CONJUNTO RAINBOW PACK NO NINJA ASSASSIN(CONJUNTO ARCO-IRIS)
+      * Description references a video about the data collection website bloxawards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=W9kEwp6YJQI
     * COMO PEGAR O HELICÓPTERO SEM PRECISAR DO KEYCARD NO JAILBREAK - ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=ikL08ORGHdM
@@ -6108,18 +5609,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX - TEM UM BONECO ESCONDIDO NO NINJA ASSASSIN?? (GRANDE MISTÉRIO)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=zBB0rCNXeJU
-    * O TREM ESTA VINDO PARA O JAILBREAK 😲 ?? - ROBLOX
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=C5QR9vzsAyk
-    * ROBLOX - TREINE PARA FICAR GRANDE E FORTE - TITAN SIMULATOR(NOVO JOGO)
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=D-TjHXynvuQ
     * O TREM JÁ ESTA COMPLETO NO JAILBREAK!!(ROBLOX)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=QHhtsSIvh28
-    * TODOS OS LUGARES SECRETOS DO NINJA ASSASSIN - ROBLOX
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=tvNunZLt33g
     * ROBLOX - O MAIS VELOZ E O MAIS FORTE - RUNNING SIMULATOR | RACING(NOVO JOGO)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=GdPHbqYmSe4
@@ -6132,9 +5624,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FAZENDO DRIFT E MANOBRAS COM O DUNE BUGGY NO JAILBREAK -- ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=0OGncwHJLY8
-    * NOVA ATUALIZAÇÃO DO JAILBREAK PRESTES A LANÇAR(VAI TER CHUVA,RAIOS E MUITO +) 😲
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=4YY4oRwB1eI
     * OS JOGOS MAIS ODIADOS DO ROBLOX ? 😲
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=ptRtTMVENY0
@@ -6159,12 +5648,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX - SOU O MAIS FORTE DO SERVIDOR - NINJA ASSASSIN
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=R0s-ckSC6Qg
-    * COMO AUMENTAR O NINJÚTSU MUITO RÁPIDO NO NINJA ASSASSIN(ROBLOX)
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=UMQvXb2CV3c
-    * ROUBANDO O MONSTER TRUCK(CARRO DE 1 MILHÃO) NO JAILBREAK ROBLOX
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=VcgeasKv0oI
     * ROBLOX - SOU O POLICIAL FANTASMA NO JAILBREAK
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=WurPjs2h3Ls
@@ -6180,12 +5663,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX - ESSE JOGO E MARAVILHOSO - NINJA ASSASSIN (NOVO JOGO)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=xN_FjXfZ7u0
-    * CURIOSIDADES DO JAILBREAK | OQUE TEM DENTRO DO FINAL DO TUNEL DO TREM ? 😲
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=Z2sh65Bfq7w
-    * REVELANDO LUGARES SECRETOS NA PRISÃO DO JAILBREAK (NUNCA VISTO) 😲
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=_4LQia3zFbg
     * CURIOSIDADES DO JAILBREAK | OQUE TEM DEPOIS DO FINAL DA PISTA ? 😲
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=bpDZChI00mI
@@ -6222,15 +5699,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * OS GUEST FORAM DESATIVADOS NO ROBLOX (EXPLICANDO O MOTIVO)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=zjHpPmTIlWM
-    * CUPHEAD NO ROBLOX (NOVO JOGO BETA)
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=xcZhaAt5yuM
     * ME VESTINDO DE PALHAÇO NO ROBLOX (PALHAÇO IT??)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=u6xIWen3gEo
-    * ROBLOX - BOB ESPONJA BOXEADOR NO BOXING SIMULATOR 2
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=7KrRpYku5sI
     * ROBLOX - SLITHERT.IO DE DRAGÕES NO ROBLOX??(DRAGON RIDERS)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=NpWtIWssvjw
@@ -6249,9 +5720,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX - O GORDO BOXEADOR NO EATING SIMULATOR
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=A2jXwsBw4aE
-    * ROBLOX - O CARA TEM QUASE 2 MILHÕES DE FORÇA NO BOXING SIMULATOR 2
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=b1oAA1osD1A
     * ROBLOX - MALHANDO AO AR LIVRE NO MUSCLE BUSTER(NOVO)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=omcecq1CJak
@@ -6318,9 +5786,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX - VENCENDO TODOS NO BOXING SIMULATOR 2
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=qxeMyTm_49k
-    * ROBLOX - PILOTANDO O NOVO JETSKI  NO SHARKBITE
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=BdQhKWQzYHw
     * ROBLOX - PEGUEI 100K DE FORÇA NO BOXING SIMULATOR 2
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=EkkGeBGNrZk
@@ -6387,9 +5852,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX - EM QUANTOS MINUTOS MATO 100 JOGADORES ?? NO WEIGHT LIFTING SIMULATOR 2
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=kyS59lvHWLE
-    * ROBLOX - PEGUEI 30K DE STRENGHT(FORÇA) NO WEIGHT LIFTING SIMULATOR 2
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=0OZxhodwEbU
     * ROBLOX - PRIVILÉGIOS VIP NO WEIGHT LIFTING SIMULATOR 2 (OQUE O VIP DA??)
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=klkZFkFYmFw
@@ -6402,9 +5864,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX - HELICÓPTERO DE GUERRA NO JAILBREAK ATIRANDO NOS CRIMINOSOS
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=P-NsWgfASoc
-    * ROBLOX - O MAIOR CARA DO JOGO WEIGHT LIFTING SIMULATOR 2
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=RRFrByzMx2U
     * ROBLOX TODOS OS CÓDIGOS DO JOGO ASSASSIN
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=ZerSNlLtBrc
@@ -6414,9 +5873,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX TODOS OS CÓDIGOS DO MURDER MYSTERY 2
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=wADu3-f8OhM
-    * VIRAMOS HUMANOS NO ROBLOX !! COMO ISSO E POSSÍVEL ??(Part.EmpireBlox)
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=KE0TkuxQtio
     * GRANDE MISTÉRIO UM ENIGMA NO JAILBREAK - ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=sqN8lEZcgi0
@@ -6453,18 +5909,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMO CRIAR UM JOGO NO ROBLOX NOÇÕES BÁSICAS !
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=uG-rCIoqydw
-    * PORQUE MUDEI O NOME DO MEU CANAL ?? :O
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=hDCPyZLCUIo
     * ROBLOX - ATUALIZAÇÃO NO JAILBREAK + NOVA PINTURA E NOVA FORMA DE ESCAPAR DA PRISÃO !!
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=yNasB0vUVfs
     * DECORANDO MEU APARTAMENTO NO JAILBREAK
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=42dG-ISQe74
-    * PRIMEIRO JOGO A SER CRIADO NO ROBLOX
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=pyanhrJHgY0
     * PEDRA FLUTUANTE DENTRO DA CACHOEIRA COMO ISSO E POSSÍVEL ?? JAILBREAK ROBLOX
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=R9yUHfM5jI8
@@ -6504,16 +5954,16 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKER BOB ESPONJA ELE AINDA EXISTE ?? :O ‹ Roblox Mistérios ›
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=er8bmm9FcD0
+* Jie GamingStudio (jieeroblox)
+  * Information Collection
+    * Jie 100k ROBLOX Art Contest(CLOSED)
+      * Description references the data collection website easyrobux.today.
+      * URL: https://www.youtube.com/watch?v=b1c0hl_WBiM
 * Juega y Diviertete con Vicky (Vickycasti_laPro)
   * Non-Giftcard Robux Giveaways
     * 🤑🤑 Robux Gratis 🤑✨REGALO 400 ROBUX✨🤑
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=VbZhoF9ZEM0
-* Karola20 (karola20YT)
-  * Information Collection
-    * MEEPCITY BAILE DÍA DEL AMOR CON MIS ALUMNOS💖PROPUESTA DEL PROFESOR😱💖- ROBLOX
-      * Description references the data collection website rbxtrade.com.
-      * URL: https://www.youtube.com/watch?v=ZoDzvJ-dCDc
 * Kavra (Kavra)
   * Non-Giftcard Robux Giveaways
     * DRAWING & VIDEO CONTEST (300K SUBS)
@@ -6533,9 +5983,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NOOBS RUIN ODER PARTY // Roblox Meepcity // Roblox Funny Moments // Roblox  Online Dating
       * Link references a Robux giveaway through group funds
       * URL: https://www.youtube.com/watch?v=eJxpBfC757s
-    * WE'RE MAKING OUR FIRST FRIENDS // Roblox Royale High School \#3 w/ Cybernova & Cheridet
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=wOZdJI5MKxs
     * DONATING 100K TO STRANGERS IN BLOXBURG 🎁🎄 // Roblox Bloxburg // Roblox Christmas // Bloxburg House
       * Link references a Robux giveaway through group funds
       * URL: https://www.youtube.com/watch?v=ExgopIeUs2s
@@ -6548,24 +5995,21 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BOYFRIEND DEFENDS ME FROM MY BULLY // Robloxian High School // Roblox Bully // Roblox High School
       * Link references a Robux giveaway through group funds
       * URL: https://www.youtube.com/watch?v=yO8_rvyVWnA
-    * TRAPPED IN SCHOOL WITH SLENDERMAN AND JASON 😱 // Robloxian High School // Roblox Creepy Pasta
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=qOqeAlfhXLA
     * KIDNAPPING FANS WITH ADMIN COMMANDS AND GETTING KIDNAPPED IN ROBLOX 😱 // Roblox Adopt and Raise
       * Link references a Robux giveaway through group funds
       * URL: https://www.youtube.com/watch?v=iqqcHLRqBI8
     * SPENDING OVER 25000 GEMS // GETTING A SKIRT & DECORATING OUR LOCKER //  Roblox Royale High School \#2
       * Link references a Robux giveaway through group funds
       * URL: https://www.youtube.com/watch?v=VTtVC02RJaA
+    * BULLIED BECAUSE I'M A YOUTUBER? 😟 // Roblox Runway Rumble // Roblox Funny Moments // Roblox Bully
+      * Link references a Robux giveaway through group funds
+      * URL: https://www.youtube.com/watch?v=DC4jIOsrM1k
     * LIFEGUARD WANTS TO DATE ME & GUEST 666?! 😱 // Robloxian Waterpark // Roblox Online Dating // Funny
       * Link references a Robux giveaway through group funds
       * URL: https://www.youtube.com/watch?v=1Tzg_H89AnU
     * CRAZY HACKER ATTACK ON HOSPITAL & SAVING LIVES // Roblox Hospital Life 2 // Roblox Funny Moments
       * Link references a Robux giveaway through group funds
       * URL: https://www.youtube.com/watch?v=7VCeVxKJvz4
-    * WE MADE HIM CRY :( // Roblox Sad Story // Roblox Working in a Cinema // Roblox Funny Moments
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=i9PocA7B5Dc
     * CREEPY DATER WON'T LEAVE US ALONE // Roblox Funny Moments // Roblox Creepy // Roblox Online Dating
       * Link references a Robux giveaway through group funds
       * URL: https://www.youtube.com/watch?v=CQ9j5GdAJ9E
@@ -6608,9 +6052,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TROLLING PEOPLE AS A TURKEY FOR THANKSGIVING // Roblox Trolling  // Roblox Funny Moments
       * Link references a Robux giveaway through group funds
       * URL: https://www.youtube.com/watch?v=skfoGY-5b2M
-    * OWNER TROLLS ME WITH ADMIN COMMANDS // Roblox Waterpark // Roblox Admin Trolling // Funny Moments
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=eeb7HEchoj4
 * KreekCraft (StarCode_RealKreek)
   * Phishing
     * ROBLOX HACKING A HATERS FAN ACCOUNT AND TURNING THEM INTO A THICC GIRL!!
@@ -6651,9 +6092,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BACK FLIP GLITCH!!! - Build a Boat For Treasure ROBLOX
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=g3Yh4QQrEbg
-    * INVISIBLE GAP FLOATING GLITCH!!! - Build a Boat For Treasure NEW Update! Boss, Chests & MORE! ROBLOX
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=nYYTuvbpSQ0
     * Throw Objects with POTIONS!!! (Potion Glitch + TP Glitch!!) - Build a Boat For Treasure ROBLOX
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=PwVI90pXNBI
@@ -6695,15 +6133,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=flGYaymhGDA
-    * NEW 4th of July Build a Boat UPDATE!!! - ROBLOX
-      * Description references the data collection website claimrbx.com.
-      * URL: https://www.youtube.com/watch?v=VO3oj9gfQ1w
     * EPIC UFO Hinge Glitch!!! - Build a Boat ROBLOX
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=2rYHyiPEt4U
-    * Make Zig Zags Using Hearts! ♥️ - Build a Boat ROBLOX
-      * Description references the data collection website claimrbx.com.
-      * URL: https://www.youtube.com/watch?v=b12wu7Nqb18
     * NEW OP Lockable Door & Dynamite Grinding Glitch!!! - Build a Boat HATCHING EGGS UPDATE! 🐣 ROBLOX
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
@@ -6714,18 +6146,12 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=-FMDsrgLb-Q
 * Linkmon99 (Linkmon99)
   * Information Collection
-    * HE SOLD my ROBLOX ACCOUNT on EBAY (CALLING THE SCAMMER!) - Linkmon99 Richest Roblox Player
-      * Description references the data collection website rbxtoys.com.
-      * URL: https://www.youtube.com/watch?v=VCIlVU8S-dg
     * Guess My ROBUX to WIN IT ALL!!! (R$?!) - Linkmon99 Richest Roblox Player
       * Description references the data collection website rbxtoys.com.
       * URL: https://www.youtube.com/watch?v=325_ILeNJ40
     * Donating ALL MY ROBUX to Fans At VIDCON!! - Linkmon99 IRL \#18
       * Description references the data collection website rbxtoys.com.
       * URL: https://www.youtube.com/watch?v=lqwtj7bfh-I
-  * Non-Giftcard Robux Giveaways
-    * IF YOU FIND ME, WIN 15,000 ROBUX!! (Fan HIDE & SEEK Challenge) - Linkmon99 ROBLOX
-      * URL: https://www.youtube.com/watch?v=aQVzK3xhRAs
 * locus (locus200k)
   * Non-Giftcard Robux Giveaways
     * I Trapped 100 Kids And Gave Them Swords... Winner Gets 1000 ROBUX! (Roblox)
@@ -6747,9 +6173,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=ivZA173jzqM
 * Lonnie (GPR3)
   * Non-Giftcard Robux Giveaways
-    * GIVING AWAY FREE ROBUX TO FANS!! (Roblox) \*CLICK TO ENTER!!\*
-      * Uses group funds to giveaway Robux.
-      * URL: https://www.youtube.com/watch?v=NEu-7Z0vfTE
     * FREE ROBUX GIVEAWAY! \*CLICK TO ENTER\* (REAL)
       * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=0VwLM8MEcN4
@@ -6812,6 +6235,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
+* MaRcDoGy (ItzMaRcDoGy)
+  * Information Collection
+    * Robux Gratis !!! %100 Real No Va En Broma !!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=uuZbDvTa40M
 * MathFacter360 (MathFacter360)
   * Non-Giftcard Robux Giveaways
     * complete my CASTLE OBBY and WIN 5,000 ROBUX!!! (Roblox)
@@ -6857,13 +6285,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKING INTO MY FANS' ACCOUNTS?!
       * URL: https://www.youtube.com/watch?v=QQWTL6qob4M
   * Non-Giftcard Robux Giveaways
-    * GIVING AWAY 15,000+ ROBUX FOR... (Roblox)
-      * Video announces a Robux giveaway.
-      * URL: https://www.youtube.com/watch?v=df0NiP-SRUQ
-* MuneebParwazMP (MuneebParwazMP)
-  * Phishing
-    * (GONE WRONG) HACKING A FAN AND GIVING THEM FREE ROBUX!!! | Roblox
-      * URL: https://www.youtube.com/watch?v=NJzfMDUMmMw
+    * EASIEST WAY TO EARN ROBUX FROM ME!!! \*FREE ROBUX GIVEAWAYS\*
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=WZ7dbUBOePA
 * MyUsernamesThis (UseStarCode_BACON)
   * Non-Giftcard Robux Giveaways
     * FIRST to FIND ME WINS 1000 ROBUX! | Roblox Jailbreak
@@ -6880,48 +6304,36 @@ The following channels had nothing appear with manual searching. Videos may exis
     * LEGENDARY ROBLOX ICE CREAM SIMULATOR CODES \*INFINITE SCOOPS\*
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=licG1WyF4BQ
-    * WORLDS BEST PLAYER SHARES SECRET TIPS & GLITCH!! - Roblox Super Power Training Simulator
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=8R5vUyuE9_E
-    * WORST NOOB PET WITH THE ROBUX HAT! (GAME BREAKING!) - Roblox Pet Simulator (Hats Update)
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=9fS67A74_xA
     * We found a GAME BREAKING Roblox Pet Simulator GLITCH... (Infinite Damage!) - Hats Update
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=YlvfLKwcc_w
     * UNLOCKING THE RAREST \*NEW\* UPDATE HAT ON ROBLOX PET SIMULATOR (Robux Hat!)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=tpSo81Vyt38
-    * UNDERCOVER NOOB TAKES CONTROL OF SERVER!! - Roblox Pet Simulator
+    * REBIRTH GLITCH, SKY GYM & TOP ON STRENGTH LEADERBOARD IN ROBLOX WEIGHT LIFTING SIMULATOR 3
       * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=PskCVgUINHI
+      * URL: https://www.youtube.com/watch?v=CI5vStdQEKU
     * Strength Code & OP Strength Reached IN Roblox Weight Lifting Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=XxisHB3xYEM
     * MAKING MY ACCOUNT \*INVINCIBLE\* (FINAL SKILL!)  - Roblox Super Power Training Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=1M1ZSnjGoZQ
-    * REACTING TO MY OLD CRINGEY VIDEOS! \*BAD\* (100K Special)
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=46pfEKLM_u4
     * \*NEW\* SECRET SUN BEAR QUEST CODES IN ROBLOX BEE SWARM SIMULATOR
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=GEjubazPaJs
     * COMPLETING ALL WITCH UPDATE QUESTS (SECRET REWARD!) - Roblox Mining Simulator (Halloween Update)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=5kMsDO9YwyI
-    * UNLOCKING VOLCANO AREA & BECOMING A POWERFUL SUPERHERO (Roblox Super Power Training Simulator)
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=swncWfh83hY
     * \*NEW\* HALLOWEEN UPDATE CODES & ITEMS! - Roblox Mining Simulator (Haunted Pack)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=Qsuz57YX7G0
     * NOOB WITH RAREST POSSIBLE PET!! (RAINBOW CORE SHOCK!) - Roblox Pet Simulator \*INSANE\*
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=YI6F1rfetBY
-    * ENTERING \*SECRET\* MAP LOCATIONS (TORNADO ZONE!)  - Roblox Super Power Training Simulator
+    * UNLOCKING CORE SHOCK PET & NEW CODES IN ROBLOX PET SIMULATOR (Update)
       * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=E_h59jTBksc
+      * URL: https://www.youtube.com/watch?v=SXNTALzdQxg
     * 26 GODLY \*NEW\* ROBLOX BEE SWARM SIMULATOR CODES! (OP 10x FIELD BOOST!)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=IpYTOXQ544s
@@ -6946,9 +6358,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRADING A NOOB GODLY DREAM PETS! (3x Rainbow Mortuus!) - Roblox Pet Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=ZHibjuJf9rA
-    * \*SECRET\* WATERFALL BASE DISCOVERED (FREE EGGS!) - Roblox Dragon Keeper Simulator
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=bQmIgXar_3c
     * NEW \*MYTHICAL\* CRYSTAL UPDATE CODES & AREA IN ROBLOX MINING SIMULATOR (New Items)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=G-D3nlb1gkE
@@ -6961,9 +6370,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRADING NOOB \*NEW\* RAREST PET IN PET SIMULATOR! \*INSTANT PRO\* (Roblox)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=zkmvUF-bDy0
-    * BUYING GODLY DOMORTUUS PET, CODES & RAINBOW UPDATE ON ROBLOX PET SIMULATOR
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=qYRY-c9NK10
     * \*NEW\* MYSTERY TIER 16 PETS IN ROBLOX PET SIMULATOR! (Update leak!)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=SmoxO-FVRSo
@@ -6988,30 +6394,18 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FULL \*NEW\* BEE SWARM SIMULATOR UPDATE REVIEW & OWNER LEAKS! (Roblox)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=QvjAwKNSStg
-    * MAKING A NOOB ACCOUNT \*INSTANTLY\* A MASTER!! (LEGIT) - Roblox Pet Simulator
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=VEMerM_WT8o
     * UNLOCKING \*LEGENDARY\* NEW UPDATE CODES AND AREAS IN ROBLOX DESTRUCTION SIMULATOR!
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=x-ttdXs4Lv8
     * \*NEW\* UPDATE & CODE LEAKED BY ROBLOX DESTRUCTION SIMULATOR OWNER!
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=Fj-uL18HDdA
-    * I EQUIPPED 1,000 TIER 15 PETS THEN CRASHED THE GAME...!! - Roblox Pet Simulator
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=xayP4TUlqQM
-    * Glitching Into The TOP AREA as a NOOB! - Roblox Pet Simulator
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=bPuxqppi_kg
     * PET SIMULATOR \*OWNER\* MESSAGED ME THEN I WON THIS!... (Roblox)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=d8qfBMA__fQ
     * BUYING 30 MYSTERY TIER EGGS ON ROBLOX PET SIMULATOR! \*WORTH IT?!\* (Candy Update)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=66cyGTFgK4Q
-    * BUYING \*100 TIER 15 PETS!\* IN ROBLOX PET SIMULATOR!! (CANDY UPDATE)
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=DpLZhZwhf-s
     * OWNER LEAKS \*NEW\* CANDY UPDATE INFO & PETS!! - Roblox Pet Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=bVRNJ4smCC8
@@ -7075,12 +6469,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET \*NEW\* GIFTED UPDATE CODE RELEASED! - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=2Pnb6dhrxRg
-    * GODLY SPACE BOSSES & NEW AREA UPDATE?! \*THEORY\* - Roblox Pet Simulator
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=m09RQLhzLlw
-    * FIND ME AND YOU GET FREE STAR EGGS!! (\*LEGIT\*)... - Roblox Bee Swarm Simulator
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=Je0n4bG2-Qg
     * \*LEGIT\* FREE BOSS GAMEPASS & ALL ROBLOX JAILBREAK UPDATE ITEMS! (Grenades, rocket launcher & More)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=OsCfoPvYgrg
@@ -7117,6 +6505,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ANSWER THIS CORRECT AND YOU GET 1 BILLION HONEY! - Roblox Bee Swarm Simulator w/OpaOsiris
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=gqFDn9GAttE
+    * ROBLOX PET SIMULATOR \*UNLOCKING ALL AREAS\* & DOMINUS PET!
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=RoF3Hr7-fL8
     * HOW TO \*INSTANTLY\* GET FREE STAR EGGS IN BEE SWARM SIMULATOR (SECRET!)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=TvgDSrnHYHY
@@ -7204,9 +6595,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW MYTHICAL UPDATE CODES & \*GOD\* ITEMS!! - Roblox Mining Simulator Codes
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=WuDIlxxenyQ
-    * UNLOCKING \*GOLDEN HOE\* & ALL AREAS!! - Roblox Farming Simulator
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=lpzRFx7xQB0
     * NEW \*SECRET\* UPDATE BEAR LEAKED (+GOD CODE!) - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=tnjcB60OqJI
@@ -7222,27 +6610,18 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*NEW\* ROBLOX ISLAND ROYALE CODE! (CLUTCH VICTORY!) - Roblox Fortnite
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=jVl--8jIYOo
-    * THE UNTOLD SECRETS OF MINING SIMULATOR \*MUST KNOW\* (Codes) -Roblox
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=UNKJB7MUkvw
     * \*SECRET\* 30+ NEW UPDATE BEES LEAKED!!? - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=qF62LQ5gvh0
     * NEW ROBLOX ISLAND ROYALE CODE! \*FREE BUCKS\* - Roblox Fortnite
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=wqFYHfh6m68
-    * (NEW) 20 LEGENDARY ROBLOX BEE SWARM SIMULATOR CODES \*NEW BEES\* (Update)
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=L8kuPH_qFbQ
     * KING ANT BOSS & ALL SECRET UPDATE INFO!! - Roblox Bee Swarm Simulator (Update)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=OvgD3wbn4YA
     * BUYING \*GODLY\* ELECTRIC HAMMER + NEW CODES!! - Roblox Mining Simulator (Update)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=5yOGDEof0Io
-    * NEW UPDATE, CODES & INSANE VEHICLE!! - Roblox Fire Fighting Simulator
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=SQvMJCptTio
     * ATLANTIS UPDATE \*CODES\* & ALL ITEMS!! (INSANE!) - Roblox Mining Simulator (Update)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=8vmLVe5wTTQ
@@ -7252,24 +6631,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 35 \*SECRET\* WAYS TO GET FREE ROYAL JELLIES & TICKETS! - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=yt-gV6Ff9Mo
-    * NEW MAP & SECRET LEVEL 30 FLOWER ARENA! (UPDATE LEAKED) - Roblox Bee Swarm Simulator
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=KYYaFD80CgI
     * 100+ LEGENDARY & MYTHICAL ROBLOX MINING SIMULATOR CODES \*MYTHICAL UPDATE CODES\*
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=1iu2pSrXY08
-    * (CODES) BUYING THE LEGENDARY BLASTER TOOL!! (OP) - Roblox Fire Fighting Simulator
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=gXXlqKxN3ZI
     * NEW CODES MAKE YOU AN INSTANT PRO!! (Noob to Pro) - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=aGg0x9LLUQI
     * (CODES!) INSTANTLY BUYING THE BEST ITEM (WORLD BACKPACK) - Roblox Fire Fighting Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=yfgnTVIi6ak
-    * SUMMER UPDATE, \*CODES\* & FREE ITEMS! - Roblox Mining Simulator (Update)
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=0zqrnkcWVAE
     * \*NEW\* THE BEST POSSIBLE MINING SIMULATOR ACCOUNT (TOP PLAYER) - Roblox Mining Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=MwcVdgZpfpE
@@ -7285,9 +6655,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO GET FREE MYTHICAL ITEMS! \*LEGIT\* - Roblox Mining Simulator (Giveaway)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=aqhbymprlu0
-    * (NEW) 17 LEGENDARY BEE SWARM SIMULATOR CODES \*OP PERKS\* Roblox
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=yVCmd_FMfJE
     * REBIRTH IN 2 SECONDS! \*LEGIT\* (MOAB Explosive) - Roblox Mining Simulator (Update)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=ghtWDJkLXMc
@@ -7306,9 +6673,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW \*FREE\* TICKET, BEE & ROYAL JELLY CODES! - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=tLjj1XqBPII
-    * UNLOCKING \*NEW\* CRIMSON & COBALT BEES (NEW TOOL) - Roblox Bee Swarm Simulator (Update)
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=ezfDIq7sL7c
     * \*ALL NEW\* LEGENDARY ROBLOX MINING SIMULATOR CODES! (New)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=jcWIgg82Pus
@@ -7339,9 +6703,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*NEW\* GUMMY UPDATE! (GUMMY BEE + BEAR) - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=vcpnaepkuwU
-    * LEGENDARY DINO UPDATE CODES!! (LEGENDARY EGG) - Roblox Mining Simulator
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=VOsMfiYsjLI
     * \*INSANE\* INVISIBILITY GLITCH LEAKED!! - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=zcwrs8bJEAY
@@ -7387,9 +6748,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*UNLIMITED\* EMERALDS!! (Massive OPENING!) - Roblox Booga Booga (Emerald Update)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=lGe4oaAoen8
-    * USING YOUTUBE STATUS TO GET GODLY GEAR!! (WORKED!) - Roblox Booga Booga
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=0uTdOnE2Kq8
     * THE BEST POSSIBLE ACCOUNT ON THE GAME!!? - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=rzuILsmDoZQ
@@ -7411,9 +6769,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * (INSTANT MILLIONS!) 60 MILLION BUCKO GUARD!! - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=AtuIJzq7dvY
-    * TAKING OVER A TOP PLAYERS ACCOUNT!! - Roblox Booga Booga
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=73cPVOugnEo
     * \*SECRET\* VOLCANO PARKOUR!! (TICKET LOCATIONS!) - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=0LOeFLOTPJA
@@ -7447,6 +6802,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * (Instant Honey!) $25,000,000 BEEKEEPER'S MASK!! - Roblox Bee Swarm Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=6xdju-BZuAw
+    * INSTANT \*MILLIONS\* IN CANDY LAND DIGSITE!! - Roblox Mining Simulator (Codes)
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=g6vMY2ho4F8
     * UNLIMITED OXYGEN GLITCH (MAXIMUM DEPTH!) - Roblox Scuba Diving Simulator
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=u7OSxx0-lXA
@@ -7459,9 +6817,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BUYING OP GOD BAG AND PICKAXE!! - Roblox Big Booga Dig (Simulator)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=bwYA8ZIkLMI
-    * \*NEW\* BOOGA BOOGA GAME!! - Big Booga Dig Roblox (Simulator)
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=sEGSJz9TXrk
     * 1 MILLION BELI IN 15 MINUITES! (Legit) - Roblox One Piece Bizarre Adventures
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=R4K6pfXe2mo
@@ -7471,9 +6826,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SECRET ALIEN BOSS EASTER EGG! (All Updates) - Roblox Jailbreak (Alien Update)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=R4QirQdrGo0
-    * TOP PLAYER SHOWS NEW SECRET AREA!! - Roblox Bee Swarm Simulator
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=WtnNd-MIjow
     * RAIDING THE SECRET BARBARIAN BASE!! - Roblox Booga Booga (Dusk)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=ANN7fdI0JmM
@@ -7546,15 +6898,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*WORLD RECORD\* BIGGEST BASE!! - Roblox Booga Booga
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=Ew3LC44mzLw
-    * WORLDS RICHEST PLAYER DROPS EVERYTHING!! - Roblox Booga Booga
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=t5SHS2dijUI
     * GIVING NOOBS OP GEAR!! (CRYSTAL GIVEAWAY!) - Roblox Booga Booga
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=gTdzIJcNO2I
-    * SECRET FLYING GLITCH (How to Fly!) - Roblox Booga Booga
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=_mNt3Br8zOg
     * RAIDING THE \*NEW\* CRYSTAL ISLAND FOR GEAR!!- Roblox Booga Booga
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=8fUGwHZxxa8
@@ -7585,18 +6931,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 3x GODLY ESSENCE CHEST UNBOXING!! - Booga Booga Roblox
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=f7ZOr_SNDJ8
-    * FINDING A GAME BREAKING GLITCH (UNLIMITED STONE!) - Roblox Mining Simulator (Beta)
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=HkqOAnvWZzM
-    * ALL MINING SIMULATOR CODES!! (Beta) - Mining Simulator Roblox \*2018\*
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=F198SQLx0SY
     * HOW OP IS THE ZEUS'S STAFF?! (1 MILLION STONE) - Roblox Mining Simulator Beta
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=w_QxXCHfiao
-    * OPENING 3 ROYAL CHESTS (LEGENDARIES!) - Bloc Blitz Roblox
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=emQQGdDPduA
     * SECRET GOLD TREE + NEW PETS! - Woodcutting Simulator Roblox
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=FWNLMHDcU8M
@@ -7687,12 +7024,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 1,000 ZOMBIES VS 1 KNIFE!! (Knife Only Challenge) - Zombie Attack Roblox Gameplay
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=KcVm1d_ANdI
-    * I FINALLY HIT IT!! (Level 1,000) - Zombie Attack Roblox Gameplay
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=6gOTtHqjAk4
     * LEVEL 1,000 IN TWO DAYS?!! | Zombie Attack Roblox Game (Demon Overlord Battle)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=bQ1Zilz8bT0
+    * LEVEL 500 AND $100,000+ SPENDING SPREE!! - Zombie Attack Roblox Game
+      * Description references Robux giveaways in the Roblox group.
+      * URL: https://www.youtube.com/watch?v=EVMR6Qr2HOc
     * OVER LEVEL 100 IN ONE DAY! | Zombie Attack Roblox Game (Predator Zombie)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=kvgByKVxoc8
@@ -7708,21 +7045,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Tazok - The King Of Roblox Clickbait \[Exposed\]
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=x1D_45nz83s
-    * MY BIGGEST ROBLOX KILLSTREAK! | Bullet Hell Roblox (Funny Moments)
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=nmjBtZNVBn0
     * EVIL ROBLOX DUCK KILLS EVERYONE! (Duck Dash Roblox)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=M8iGK9uWwng
-    * ROBLOX SPEED HACK \*1k SPEED IN 10 SECONDS!\* - Sprinting Simulator 5 Roblox
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=rOz-CstlUNM
     * WE WERE SO FAT WE BROKE THE GAME! | Super Fat Simulator 2 Roblox
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=UUwsboIbjew
-    * INSANE 15,000 POWER (BEST ON SERVER!) - Wrestling Simulator Roblox (New Game)
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=ahyg_uEKZSk
     * INSANE INSTA KILL KNIFE ABILITY \*HACK?\*  - Winter simulator Roblox
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=3QB-YwDE2Qc
@@ -7732,21 +7060,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MINING MILLIONS OF ROBUX GOLD!! - Roblox Gold Venture
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=oZ2RMzpeZsM
-    * JUMPING PAST THE MAP INTO SPACE!! - Ultra Jumping Simulator 2 (Roblox)
+    * INVISIBILITY TROLLING PATIENTS!! \*HOW?\* - Hospital Life 2 Roblox
       * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=1voII_nLQhM
+      * URL: https://www.youtube.com/watch?v=-DeTn6L7FlA
     * IM ALREADY ON THE LEADER BOARDS!! - Roblox Bloc Blitz (Beta + Glitches)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=UQ6BjE9Hc6w
     * THIS HAPPENS WHEN YOU BEAT THE GAME!? - Ultra Jump Simulator Roblox
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=aB_txwya3aM
-    * IM THE MOST POWERFUL NINJA! - Roblox Saiyan Simulator
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=9BTtdcgE04I
-    * \*GLITCHED THORS HAMMER!\* - ROBLOX GUN SIMULATOR!
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=EwhSfx8hzjM
     * I FOUND A GAME BREAKING GLITCH!! - Roblox Sprinting Simulator 3 (Christmas)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=WStFA7dsfYE
@@ -7756,9 +7078,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TROLLING AND BANNING ODERS!! (Royale High School Beta) - Roblox
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=F07Jl-jPlcg
-    * HITTING THE MOST INSANE TRICKSHOT! \*HACKS?\* - Roblox Knife Simulator
-      * Description references Robux giveaways in the Roblox group.
-      * URL: https://www.youtube.com/watch?v=qAHhCsIB6tw
     * THE FASTEST SWIMMER IN ROBLOX!! - Roblox Swimming Simulator (Funny Moments)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=nO7J7m7NpBY
@@ -7771,8 +7090,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKING AND GIVING A FAN FREE ROBUX ON ROBLOX!!
       * URL: https://www.youtube.com/watch?v=dQEnfrcMALQ
   * Non-Giftcard Robux Giveaways
-    * IMPOSSIBLE HIDE AND SEEK WITH MORPH COMMAND!  (Roblox)
-      * URL: https://www.youtube.com/watch?v=a80GNiucA_c
     * I Trapped A POKE HATER In My \*SECRET\* ESCAPE ROOM! (Roblox)
       * URL: https://www.youtube.com/watch?v=h9BR34DoLzQ
     * IF THEY CHOOSE THE RIGHT CUP, THEY WIN FREE ROBUX! (Roblox)
@@ -7808,15 +7125,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRYING TO DONATE REAL ROBUX TO PEOPLE \[ROBLOX Social Experiment\]
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=mCJHfYNT-_M
-    * ROBLOX : PLAYING JAILBREAK + WIN FREE ROBUX
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=Z9UV6-s4auo
     * ROBLOX : SURVIVOR VIP SERVER + WIN ROBUX EVERY 10 MIN
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=7eho3btt8hw
-    * \[ROBLOX\] PLAYING SOME SURVIVOR + ROBUX GIVEAWAY
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=g6935O7jojE
     * \[ROBLOX\] WIN FREE ROBUX IN MY LOTTERY IN SURVIVOR
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=-oDhbZUAa6Q
@@ -7832,15 +7143,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX JAILBREAK + WIN FREE ROBUX EVERY 10 MIN IN MY LOTTERY
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=tzWEBdn0ECk
-    * HOW TO GET FREE ROBUX ...Not Even Kidding (This Actually Works)
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=8xvAF51Dz2c
     * ROBLOX : PLAYING SHARKBITE + WIN FREE ROBUX EVERY 10 MIN
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=-zlfAHTv4Pw
-    * \[ROBLOX\] WIN FREE ROBUX IN MY LOTTERY IN SHARKBITE & SURVIVOR
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=4da7gz3CWCI
     * ROBLOX JAILBREAK + ROBUX LOTTERY EVERY 10 MIN
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=AsugmojDkd8
@@ -7850,9 +7155,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * WIN FREE ROBUX EVERY 10 MIN IN MY ROBLOX LOTTERY IN JAILBREAK
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=G0Z3AsOxXVk
-    * WIN FREE ROBUX IN MY ROBUX LOTTERY IN JAILBREAK
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=4BzaebIDLbA
     * PLAYING JAILBREAK & SHARKBITE + FREE ROBUX LOTTERY EVERY 10 MIN
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=jC4efMO5aZg
@@ -7885,9 +7187,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=xTvf8mrJa8M
     * FREE ROBUX GIVEAWAY EVERY 10 MIN IN JAILBREAK ROBLOX
       * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=6zzPWFku_PY
-    * FREE ROBUX GIVEAWAY EVERY 10 MIN IN JAILBREAK ROBLOX
-      * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=Nr-eoHCZvg0
     * ROBUX GIVEAWAYS IN JAILBREAK ROBLOX
       * Uses group funds to give away Robux.
@@ -7904,9 +7203,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FREE ROBUX GIVEAWAY EVERY 10 MIN IN JAILBREAK
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=BfsaB988chk
-    * FREE ROBUX GIVEAWAY EVERY 10 MIN IN JAILBREAK ROBLOX
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=I-7JLjx6bMY
     * THIS IS THE ONLY WAY TO GET FREE ROBUX IN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=WLXXgHH0E5U
@@ -7937,12 +7233,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW ESCAPE JAILBREAK UPDATE IN ROBLOX & ROBUX GIVEAWAY EVERY 10 MIN
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=SUfZeRl3HJA
-    * ROBUX GIVEAWAY EVERY 10 MIN IN JAILBREAK
+    * GIVING AWAY 50 ROBUX EVERY 10 MIN IN JAILBREAK
       * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=CxQ6LZuL9MM
-    * ROBUX Giveaway EVERY 10 Minutes While Robbing Stores In JAILBREAK
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=XhOwzJJRapk
+      * URL: https://www.youtube.com/watch?v=CDKQW-eonos
     * GIVING AWAY 50 ROBUX EVERY 10 MIN IN JAILBREAK ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=4bqVPzUXueU
@@ -7955,15 +7248,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * GIVING AWAY FREE ROBUX EVERY 10 MIN & ROBBING STORES IN JAILBREAK
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=v3uf91ghVT4
-    * JAILBREAK ROBBING GAS STATIONS UPDATE + ROBUX GIVEAWAY EVERY 10 MIN
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=H3Rtpt7Ew10
     * ROBLOX JAILBREAK / GIVING AWAY 50 ROBUX EVERY 10 MINUTES
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=yhrqIuutfoo
-    * 50 FREE ROBUX GIVEAWAY EVERY 10 MINUTES IN JAILBREAK | LOTTERY STYLE
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=MdEkGq30iQI
     * GIVING AWAY FREE ROBUX EVERY 10 MINUTES IN SURVIVOR
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=qU9jTvjY4AU
@@ -7979,12 +7266,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * GIVING AWAY FREE ROBUX EVERY 15 MINUTES IN JAILBREAK
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=1xsoFtBUB1c
-    * GIVING AWAY FREE ROBUX EVERY 15 MINUTES IN POKEMON BRICK BRONZE
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=yiHyYxDJHMs
-    * Giving away free Robux every 15 minutes in Survivor
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=7EwgFZC2p2c
     * GIVING AWAY FREE ROBUX EVERY 15 MINUTES IN JAILBREAK
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=lr0jA_C20oE
@@ -8024,33 +7305,21 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HUNTING FOR LEGENDS IN POKEMON BRICK BRONZE + ROBUX GIVEAWAY
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=D9X_d1UzEKI
-    * PLAYING SURVIVOR IN ROBLOX + ROBUX GIVEAWAY
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=DDSSUj_rc7Q
     * POKEMON BRICK BRONZE / HUNTING FOR MEW / ROBUX GIVEAWAY
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=YCvMYyxJ7Eg
     * RESTAURANT TYCOON \#1 | CHEF RAMUL'S SUSHI | ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=5zA6YkYIGjU
+    * GIVING AWAY 50 ROBUX EVERY FEW MINUTES / PLAYING PBB & ZOMBIE RUSH / ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=DZUOXsVkcRY
     * GIVING AWAY ROBUX & PLAYING SOME POKEMON BRICK BRONZE | ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=GjgJXJqI1T4
-    * GIVING AWAY 50 ROBUX EVERY FEW MINUTES or so.. / PLAYING VARIOUS GAMES / ROBLOX
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=6XJ7Oj2TE4M
-    * FREE ROBUX GIVEAWAY / GIVING AWAY ROBUX EVERY FEW MINUTES / ROBLOX
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=ENygEtzf4gI
-    * POKEMON BRICK BRONZE / HUNTING FOR LATIOS / FREE ROBUX GIVEAWAY
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=ggcZYwlXvhU
     * Giving Away 50 ROBUX every 5 new Subs / POKEMON BRICK BRONZE / PHIONE GIVEAWAY
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=OUZGgNpst_E
-    * Giving Away 50 ROBUX every 10 NEW SUBS in the live stream / Playing Roblox
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=pPlXxom7xNc
     * MANAPHY EGG HUNT + 2400 ROBUX GIVEAWAY / POKEMON BRICK BRONZE
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=q1nFZb81xCo
@@ -8068,9 +7337,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO CRAFT A KNIFE In Mad City Roblox
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=AFlAi6kUGb4
-    * NEW FAME SIMULATOR CODES Roblox (Update 1)
-      * Description references the data collection website gainblox.com.
-      * URL: https://www.youtube.com/watch?v=CRjUtFMHGE4
     * Roblox Jailbreak - NEW DINOSAUR MUSEUM ROBBERY! NEW UPDATE OUT! | New Car,  Museum & More!
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=BUFZAMYACdQ
@@ -8090,9 +7356,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL 14 NEW VACUUM SIMULATOR CODES - New Vacuum/ Update 3 | Roblox
       * Description references a Robux giveaway on Twitter.
       * URL: https://www.youtube.com/watch?v=augy23ui3WE
-    * ROBLOX REMOVES LIMITEDS FOR RTHRO LTD!?
-      * Description references a Robux giveaway on Twitter.
-      * URL: https://www.youtube.com/watch?v=yEDwbsr4ii8
 * Realistic Gaming (ImTheRealRealistic)
   * Information Collection
     * HOW TO GET FREE ROBUX in 2018! APP THAT GIVES YOU ROBUX FOR PLAYING GAMES! FREE ROBUX 2018
@@ -8115,9 +7378,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=jQ4yhK_55QI
 * Roblox Minigunner (skoonks)
   * Other
-    * ROBLOX Exploiters In A Nutshell
-      * Uses the "F word" (4x), "S word" (3x), and "P word"
-      * URL: https://www.youtube.com/watch?v=APz3TSj0NbU
     * How To Be a ROBLOX Hacker
       * Uses the "F word" (3x) and "S word"
       * URL: https://www.youtube.com/watch?v=KL8vtXmwrhs
@@ -8141,18 +7401,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TODOS se VUELVEN \*AMON_40L\* en MeepCity!!!💀 | Roblox |
       * Description references the data collection website fastbux.io.
       * URL: https://www.youtube.com/watch?v=Mrers56YGwg
-    * ME VUELVO UN \*SUPER HÉROE\* EN ROBLOX!!!💀
-      * Description references the data collection website rbxheaven.com.
-      * URL: https://www.youtube.com/watch?v=plsvkHwqiVg
     * ME DISFRAZO COMO GOKU EN JAILBREAK!!! 😱
       * Description references the data collection website rbxpacks.com.
       * URL: https://www.youtube.com/watch?v=PMN4eGpjeCM
     * EL JUGUETE MAS EXTRAÑO DE ROBLOX!!! 😰
       * Description references the data collection website rbxpacks.com.
       * URL: https://www.youtube.com/watch?v=zt0ScIZnvCc
-    * ESTE JUGADOR DE ROBLOX ESCONDE UN OSCURO SECRETO!!! 😰
-      * Description references the data collection website rbxpacks.com.
-      * URL: https://www.youtube.com/watch?v=W07eoBfom_A
     * PERDÍ MI ROPA EN ROBLOX!!! 😰
       * Description references the data collection website rbxpacks.com.
       * URL: https://www.youtube.com/watch?v=87dFvsvsW2E
@@ -8165,6 +7419,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMO TENER 20 ROBUX GRATIS! (YA NO FUNCIONA)
       * Video is about the data collection website rbxrich.com.
       * URL: https://www.youtube.com/watch?v=w3TGHToK2pI
+    * ESTA PAGINA Te REGALA15 ROBUX 2017!!! ❌ YA NO FUNCIONA ❌
+      * Contains an ad for the information collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=p2hijWLhzOw
     * CÓMO OBTENER +100 ROBUX! 2017 ❌(YA NO FUNCIONA)❌
       * Contains an ad for the information collection website rbx.gifts.
       * URL: https://www.youtube.com/watch?v=coICmU-DxpM
@@ -8184,9 +7441,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * THE WINNERS OF THE 50k ROBUX GIVEAWAY ARE.... (10 WINNERS)
       * Video is about giving away Robux using group funds.
       * URL: https://www.youtube.com/watch?v=-dT2QhiXCeM
-    * HUGE 50,000 ROBUX GIVEAWAY \*HOW TO ENTER\*
-      * Video is about entering a Robux giveaway using group funds.
-      * URL: https://www.youtube.com/watch?v=92-bOP8egXE
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
@@ -8200,6 +7454,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL NEW SECRET PET CODES in TAPPING LEGENDS! - Tapping Legends ⭐X5 CLICKS UPDATE⭐  (Roblox)
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=Wa4iiQ6CGgU
+    * ALL NEW SECRET CODES in VEHICLE SIMULATOR! - Vehicle Simulator💵 2020 (Roblox)
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=O8HFg9Mnzbo
     * ALL NEW SECRET PET CODES in TAPPING LEGENDS! - Tapping Legends ⭐FREE TRIPLE EGG UPDATE⭐  (Roblox)
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=QLXyWvleIig
@@ -8212,12 +7469,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL NEW SECRET PET CODES in TAPPING LEGENDS! - Tapping Legends 🚨3M UPDATE🚨 (Roblox)
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=HSGwkquqtLg
-    * ❄️''ALL NEW ADOPT ME FREE PENGUIN CODES 2019''❄️PENGUIN❄️ Adopt Me! (Roblox)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=A7dp7CXfVJI
-    * 👿 ''ALL NEW MADCITY SEASON 4 CODES 2019'' Mad City 👿 SEASON 4 👿(Roblox)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=dLumX-mTK94
     * HOW TO EARN EASY ROBUX!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=K1dB08DJ348
@@ -8230,9 +7481,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the "black market for limiteds" and information collection website rbx.place.
       * URL: https://www.youtube.com/watch?v=EakQDIc9ZLM
   * Non-Giftcard Robux Giveaways
-    * $10,000 ROBUX GIVEAWAY
-      * Robux giveaway uses a Roblox group using group funds.
-      * URL: https://www.youtube.com/watch?v=76Sg5bVi1Jo
     * $6000 ROBUX GIVEAWAY
       * Robux giveaway uses a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=EmAlMrw6e8A
@@ -8282,9 +7530,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BEBÉ LULY ESCAPA DE LA BESTIA SIN ROPA!! HACKEA Y HUYE en ROBLOX (Flee The Facility) 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=jGkKsfAeatg
-    * TROLEANDO A LA CHICA DEL VESTIDO ROJO de ROBLOX 😱
+    * LE PEGAN UNA PALIZA POR QUERER SER SU AMIGO!! HISTORIA de BULLYING MUY TRISTE en ROBLOX 😱
       * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=4OsqWJBpsgE
+      * URL: https://www.youtube.com/watch?v=1BZyRQmHeig
     * NO PUEDES SALTAR, NUNCA!✔️ RETO \*MUY DIFÍCIL\* FLEE THE FACILITY en ROBLOX 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=IYg_S3KNzIM
@@ -8327,9 +7575,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * REACCIONANDO A LOS VÍDEOS MUSICALES MÁS DIVERTIDOS 5 de ROBLOX 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=WOgAIH8p6dY
-    * BEBÉ LULY Y BEBÉ DERANKITO ARRESTAN A GRANNY en ROBLOX 😱
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=-JhOPfktorQ
     * LA ASESINA MÁS TRAVIESA APARECE EN LOS BAÑOS!! en ROBLOX (Murder Mystery!) 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=l8ebs5-zHLY
@@ -8348,9 +7593,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BEBÉ LULY ES LA MEJOR BESTIA de FLEE THE FACILITY!! HACKEA Y HUYE DE ELLA en ROBLOX 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=idks8TiNtCM
-    * MIS PEORES PESADILLAS SE HACEN REALIDAD en ESTE JUEGO de ROBLOX (JASON VIENE A POR NOSOTROS) 😱
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=wC18tlK5zKg
     * NUEVA HISTORIA DE BULLYING QUE HIZO LLORAR A TODO EL MUNDO en ROBLOX (Parte 1)😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=fOxoLiiRgVs
@@ -8393,9 +7635,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TROLLEANDO CON SKIN INVISIBLE en ROBLOX 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=Fz8XAqW_CRg
-    * REACCIONANDO A LOS VÍDEOS MUSICALES MÁS DIVERTIDOS 4 de ROBLOX 😱
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=1sAai42oxdY
     * NO PUEDES HUIR DE LA BESTIA ✔️ RETO \*MUY DIFÍCIL\* FLEE THE FACILITY en ROBLOX 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=ezPIwYy3OjQ
@@ -8423,18 +7662,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * CAMBIO RADICAL! LULY SE CONVIERTE EN ABUELA GRANNY en ROBLOX 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=pIZoCdD_j5A
-    * VIVIMOS EN LAS PEORES PESADILLAS de ROBLOX 😱
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=IAsfB82aC1c
-    * EL TOBOGÁN DE SLIME MÁS GRANDE DEL MUNDO (999.999.999 METROS) en ROBLOX 😱
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=yzwMbYtjDv8
     * REACCIONANDO A LOS VIDEOS MUSICALES MÁS GRACIOSOS de ROBLOX (Parte 3!) 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=D6sxa9N4Rvk
-    * SOLO PUEDES HACKEAR CON UNA PERSONA! ✔️ RETO \*MUY DIFÍCIL\* FLEE THE FACILITY en ROBLOX 😱
+    * LA HISTORIA DE COMO MORÍ ASESINADA SIN PIEDAD en ROBLOX (Murder Mystery!) 😱
       * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=eI1-rUhVn0c
+      * URL: https://www.youtube.com/watch?v=2W-_Tx-wcKo
 * Straw (STRAWHAT_LUFFi)
   * Non-Giftcard Robux Giveaways
     * Complete The HotWheel Track For R$1,000 Robux Challenge!
@@ -8448,9 +7681,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMO USAR EMOCIONES EN ROBLOX Y BAILAR CON COMANDOS EN ROBLOX
       * Contains an ad for the information collection website robuxhub.com.
       * URL: https://www.youtube.com/watch?v=iTDbvu-g1J4
-    * EN ESTE JUEGO PUEDES USAR LA HEADLESS COMPLETAMENTE GRATIS
-      * Contains an ad for the information collection website robuxhub.com.
-      * URL: https://www.youtube.com/watch?v=4vIo_qYMR00
     * TOP 5 PACKAGES O CUERPOS DE ROBLOX
       * Contains an ad for "black market" Robux.
       * URL: https://www.youtube.com/watch?v=-1ygRjClnJY
@@ -8493,9 +7723,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * LOS NUEVOS EH INCREIBLES ITEMS EN LA NUEVA TIENDA DE EL EGGHUNT 😮😱
       * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=vzqJGQ0fP6A
-    * COMO OBTENER GRATIS EL ESCUDO DE EL CAPITAN AMERICA INFINITY WAR ROPA GRATIS ROBLOX
-      * Contains an ad for the information collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=rKV2ihsk_Og
     * HABRAN OBJETOS GRATIS DE INFINITY WAR!! NUEVO ESCUDO DE EL CAPITAN AMERICA SERA GRATIS ROBLOX
       * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=-Q5QUr58XfE
@@ -8526,9 +7753,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMO CONSEGUIR LA LLAVE DE CRISTAL Y LA CORONA DE COBRE DE CRISTAL EN 5 MINUTOS O MENOS 🔑😱
       * Contains an ad for the information collection website ezrewards.com.
       * URL: https://www.youtube.com/watch?v=8fU1HOtJIy4
-    * ¿DONDE ESTA LA LLAVE DE CRISTAL? POSIBLES UBICACIONES PARA TENER LA CORONA GRATIS
-      * Description references the data collection website claimrbx.com.
-      * URL: https://www.youtube.com/watch?v=4Ly63UcDqyg
     * POSIBLES UBICACIONES DE LA LLAVE DE CRISTAL DE ROBLOX EVENTO READY PLAYER ONE 😵🔑
       * Contains an ad for the information collection website ezrewards.com.
       * URL: https://www.youtube.com/watch?v=ptsJAFzkH1A
@@ -8580,14 +7804,8 @@ The following channels had nothing appear with manual searching. Videos may exis
     * YOU WON FREE ROBUX!
       * Video is about a Robux giveaway using group funds.
       * URL: https://www.youtube.com/watch?v=aepdLCJIe6I
-    * HOW TO GET FREE ROBUX IN ROBLOX!
-      * Video is about a Robux giveaway using group funds.
-      * URL: https://www.youtube.com/watch?v=zI-GGfr-vTE
 * Suliin18YT (Suliin18YTT)
   * Non-Giftcard Robux Giveaways
-    * MI PRIMER MASCOTA Y COMPRO LA CASA DE HADAS - ADOPT ME ROBLOX
-      * Mentions Robux giveaways through nimo.tv.
-      * URL: https://www.youtube.com/watch?v=M5lLteKfC8Y
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
@@ -8617,9 +7835,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW MAP YAY! | Murder Mystery 2 ROBLOX | TeraBrite Games
       * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=z8J3eihTnts
-    * ARCADE UPDATE & GETTING DITTO | Pokemon Brick Bronze
-      * Uses group funds to giveaway Robux.
-      * URL: https://www.youtube.com/watch?v=kDes9B7s9Lw
     * SHINY MAKUHITA! | Pokemon Brick Bronze | ROBLOX
       * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=DEkXveVYbos
@@ -8636,13 +7851,8 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#5
       * Gives away Robux for being arrested in Jailbreak.
       * URL: https://www.youtube.com/watch?v=TogY_-vafSA
-    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#3
-      * URL: https://www.youtube.com/watch?v=zsYDcHOBOeg
     * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#2
       * URL: https://www.youtube.com/watch?v=o-gB8UlqGHY
-    * \*FREE ROBUX\* ARREST ME FOR FREE ROBUX! (Roblox Jailbreak)
-      * Gives away Robux for being arrested in Jailbreak.
-      * URL: https://www.youtube.com/watch?v=gekomtzuIoE
 * TheLaughingUnicorn (kristiexo)
   * Information Collection
     * PINK HOLLYWOOD MANSION! || BLOXBURG HOUSE TOUR
@@ -8667,6 +7877,8 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * 100K ART/VIDEO CONTEST || 100,000 ROBUX
       * URL: https://www.youtube.com/watch?v=ilMQ9WXxCbY
+    * 20K CONTEST || ROBUX REWARDS!
+      * URL: https://www.youtube.com/watch?v=ZpZQ6bOAA9w
 * TheMonkey (MonkeyVsRoblocks)
   * Phishing
     * HACKING A GIRL IN ROBLOX!! (SPENDING ALL THEIR ROBUX)
@@ -8679,21 +7891,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Build a boat UPDATE!! (New Quest & Fireworks & More!) RELEASED
       * Description references the data collection website claimrbx.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=dvriTSsotAQ
-    * LAWNMOWER GLITCH in Build a boat!
-      * Description references the data collection website claimrbx.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=vlrhSjN13iQ
     * NEW \*EXCLUSIVE\* CODE! | Vehicle Simulator ROBLOX
       * Description references the data collection website claimrbx.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=bnSEtPejMDE
     * \*NEW\* MONEY GLITCH ($3,000,000+) | Vehicle Simulator ROBLOX
       * Description references the data collection website claimrbx.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=XIeHRxfgQdY
-    * NEW UPDATE! (Candy Harpoons, Glowing Block, Snow Plane!) | Build a boat For Treasure ROBLOX
-      * Description references the data collection website claimrbx.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=6NOH7ECGGGY
-    * \*HUGE\* GINGERMAN MECH! | Build a boat For Treasure ROBLOX
-      * Description references the data collection website claimrbx.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=kDitN1JRsXs
     * RAREST \*NEW\* WINTER CODE!🎅 | Build a boat For Treasure ROBLOX
       * Description references the data collection website claimrbx.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=mbf50j_fdRY
@@ -8703,21 +7906,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO GET THE \*NEW\* GREEN GIFT! | Build a Boat for Treasure ROBLOX
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=r26GshuLRYM
-    * GingerBread SECRETS! (They Follow you) | Build a boat For treasure ROBLOX
-      * Description references the data collection website claimrbx.com.
-      * URL: https://www.youtube.com/watch?v=C0uu8r3QwPw
-  * Other
-    * 10,000 ROBUX GIVEAWAY (OPEN)
-      * Uses a Robux giveaway to skew the ratings of a game on an external platform.
-      * URL: https://www.youtube.com/watch?v=Y9Zr70rgyKk
 * Tofuu (forstaken)
   * Information Collection
     * WE CRAFTED THE RAREST MYTHIC! (Roblox Assassin)
       * Description references the data collection website rbxtrading.com.
       * URL: https://www.youtube.com/watch?v=ik4v09njtl0
   * Phishing
-    * HACKING A FAN ON ROBLOX AND GIVING THEM FREE ROBUX!
-      * URL: https://www.youtube.com/watch?v=Qr-olKdTSgA
     * HACKING A FAN'S ROBLOX ACCOUNT! (I SPENT ALL THEIR ROBUX)
       * URL: https://www.youtube.com/watch?v=6_Xb00zC_m4
 * VeD\_DeV (VeD\_DeV)
@@ -8787,12 +7981,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NOVO BUG QUE FAZ SEU CARRO VOAR 😱 JAILBREAK ROBLOX, Vou parar de jogar Jailbreak? 😰😭
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=9u7__4Q9fhk
-    * NOVO EVENTO PATROCINADO HOMEM-FORMIGA ESTA CHEGANDO no ROBLOX?!! 😱😱
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=iOuUj_b-bgg
     * COMO GANHAR A MOCHILA Jurassic World Backpack DO EVENTO JURASSIC WORLD do ROBLOX
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=2SdoCwSFQY4
+    * COMO GANHAR O BONÉ Jurassic World Cap DO EVENTO JURASSIC WORLD do ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=M0J8xCR9IgY
     * COMO CONSEGUIR O ÓCULOS É A CAMISA GRÁTIS DO EVENTO JURASSIC WORLD CÓDIGO GRÁTIS ROBLOX
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=e__EV6CbKak
@@ -8835,6 +8029,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * COMO GANHAR O (Incredibles 2 Badge) DO EVENTO HEROES no ROBLOX | Super Hero LIFE 2
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ud501OV_OJg
+    * COMO GANHAR A MASCARA DO EVENTO HEROES (Battle Mask of the Hunt) | HEROES ! (Roblox)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=z6M8tn1kCo0
     * NOVO BUG DE GANHAR MUITO DINHEIRO no JAILBREAK!! 😱💸 | Roblox
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=AQJpHEEOmJc
@@ -8844,10 +8041,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * O ROBLOX VAI DAR 90 NOVOS ITENS GRÁTIS PARA QUEM FIZER ISSO!! 😱😱🎁
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=BtRQ_xBK8l4
-    * 😱 NOVO BUG DE ABRIR CAIXAS AUTOMATICAMENTE sem GAMEPASS no Roblox Mining Simulator 💰⛏
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=bKi9r_O1LpA
     * NOVA CAPA GRANDE PREMIO, MAPAS do EVENTO Heroes, NOVA COMPETIÇÃO DO EVENTO Jurassic World (ROBLOX) 😵
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=UrnV0o2geKM
@@ -8884,9 +8077,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NOVO BUG MUITO ENGRAÇADO!! DEIXA SUA CABEÇA INVISIVEL!! no ROBLOX
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=WgsPz80nDRs
-    * CONFIRMADO!! NOVA ROTA DE FUGA NA PRISÃO QUE TERÁ NESSE FIM DE SEMANA no JAILBREAK!! 😱😱 (Roblox)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=_m4GfhB6ljE
     * CONFIRMADO!! NOVO LOCAL PARA ROUBAR no JAILBREAK!! 😱😱 (Roblox)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=F0LZceW6ybo
@@ -8920,6 +8110,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRÊS NOVOS ITENS PATROCINADOS do EVENTO BATTLE ARENA (Roblox)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ZXF7CHiSNGY
+    * CONFIRMADO!! DOIS MAPAS é AS TELAS FINAIS do EVENTO BATTLE ARENA!!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=XR1-Hc7cnug
     * COMO USAR OS ÍTENS DOS EVENTOS ANTES DE SEREM LANÇADOS! (Roblox)!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=C-MHyttGKTA
@@ -8927,10 +8120,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * QUEBRANDO AS REGRAS DO ROBLOX - (Deu ruim?) 😂
       * Video is about breaking the rules using a second account.
       * URL: https://www.youtube.com/watch?v=8fbnc0KiCSc
-* ZacharyZaxor (ZacharyZaxor)
-  * Phishing
-    * HACKING A FAN'S ROBLOX ACCOUNT! \*TROLLING THEIR FRIEND\*
-      * URL: https://www.youtube.com/watch?v=M2ybln9PQEM
 * ZephPlayz (StarCodeZephPlayz)
   * Information Collection
     * ROBLOX MAKING 6IX9INE AN ACCOUNT
@@ -8994,9 +8183,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * INVISIBLE ADMIN TROLLING IN PRISON ISLAND! | Roblox
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=U1VgdcmoHHA
-    * EVERY WAY TO ESCAPE IN PRISON ISLAND! (Roblox)
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=mvkizuZMMN4
     * ExplodingTNT In Real Life
       * Description references the information collection website oprewards (link is missing though).
       * Description references the data collection website oprewards.com.
@@ -9065,12 +8251,12 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references a video about getting Robux for filling out surveys.
       * URL: https://www.youtube.com/watch?v=QTbRWUhK3wI
   * Other
+    * You won't believe what I found out about ROBLOX..
+      * Video involves impersonating Roblox employee accounts.
+      * URL: https://www.youtube.com/watch?v=CufmNdxOGmw
     * Why ROBLOX Has Been Offline For 50 Days..
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=B6cogz7V03E
-    * ROBLOX plays MINECRAFT for the first time..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=enUqVD_FsNw
     * someone's on roblox's account..
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=JbXYG9RInWA
@@ -9116,9 +8302,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX Joined My Game LIVE On Stream!
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=43IPixGj7wA
-    * What I Found INSIDE Roblox's iPhone Will SHOCK YOU!
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=jr0lW7SG42M
     * IGNORING ROBLOX FOR 24 HOURS!
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=jE4abjtrWac
@@ -9137,9 +8320,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I Met MYSELF In Roblox
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=R7b4RCve8FU
-    * The END of Evil Roblox
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=Ac7htiZc_8M
     * Escaping EVIL Roblox Escape Room!
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=lvjt_TdGUA8
@@ -9158,9 +8338,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * WARNING: ROBLOX Threat Detected
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=dnPo6HYNI4U
-    * ROBLOX Lost His Memory..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=Ivp73zFk-EE
     * I Called ROBLOX.. \*HE ANSWERED\*
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=GXA9BKe-7R4
@@ -9194,6 +8371,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Roblox is HIDING this from you..
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=KH0mA4E6li8
+    * I Added BUILDERMAN As A Friend.. (Roblox)
+      * Video involves impersonating Roblox employee accounts.
+      * URL: https://www.youtube.com/watch?v=yXd-8f8MCBA
     * I Went To a SECRET Roblox Meeting..
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=LWR05djPi2E
@@ -9215,21 +8395,18 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I Joined ROBLOX'S VIP Server..
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=BLTmlXJlB_U
-    * ROBLOX showed me the secret free catalog..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=Ada4kpvqJ0c
     * I Added ROBLOX As A Friend..
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=qUbU1akDnm4
+    * ROBLOX Gave Me ADMIN..
+      * Video involves impersonating Roblox employee accounts.
+      * URL: https://www.youtube.com/watch?v=LAKqAIXoENE
     * I Joined ROBLOX'S Game..
       * Video involves impersonating Roblox employee accounts.
       * URL: https://www.youtube.com/watch?v=g_LIiAT7Y6k
     * MAKING JAMES CHARLES a ROBLOX ACCOUNT
       * Includes the words "Sex Tape" at 2:53
       * URL: https://www.youtube.com/watch?v=3P6LVJBFkGg
-    * I Said \*\*\*\* For The First Time.. (Roblox)
-      * Video includes  "f\*\*\*" (2x), "b\*\*\*\*", and "bulls\*\*\*" included but bleeped out. Middle fingers are also used at the end.
-      * URL: https://www.youtube.com/watch?v=t_W8ReEfuHY
   * Phishing
     * I HACKED A FANS ACCOUNT AND GAVE THEM ROBUX! | Roblox
       * URL: https://www.youtube.com/watch?v=z_a7yQ9oVuk
