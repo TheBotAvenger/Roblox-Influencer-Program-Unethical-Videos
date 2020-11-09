@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 8, 2020<br>
+Generated November 9, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -372,6 +372,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
 * Play with me - Apps and Games (da\_dania and kaan\_xy2)
+* Plech (PlechitoYT)
 * Premiumsalad (premiumsalad)
 * PrestonGamez (PrestonPlayz)
 * Pretzel Etzel (pretzel_etzel)
@@ -401,7 +402,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SrPrismatico (SrPrismatico)
 * Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
-* TanqR (VoteCompetitiveMode)
+* TanqR (AquzR)
 * TapWater (UseCode_Tap)
 * Tex HS (TexWillerHS)
 * THE KAPOLAR (Kapolar1)
