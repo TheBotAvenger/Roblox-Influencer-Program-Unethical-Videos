@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 9, 2020<br>
+Generated November 10, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 346,278 videos
-* Total videos found that match keywords: 20,511 videos
-  * Total unprocessed videos: 121 videos
-* Total videos found that are processed and marked: 2,582 videos 
-  * Information Collection: 1,583 videos
+* Total videos: 348,487 videos
+* Total videos found that match keywords: 20,719 videos
+  * Total unprocessed videos: 322 videos
+* Total videos found that are processed and marked: 2,589 videos 
+  * Information Collection: 1,590 videos
   * Non-Giftcard Robux Giveaways: 843 videos
   * Other: 128 videos
   * Phishing: 28 videos
@@ -274,6 +274,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GoldenGlare (GOLD3NGLARE)
 * GoldenOwl 
 * grace k (yt_graceek)
+* GraserPlays (MasterGraser)
 * Gravycatman (GrumpyGravy)
 * Hagazo (Hagazo9)
 * hannnahlovescows (hannnahlovescows)
@@ -381,6 +382,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
 * REDKILL (RedKill24YT)
+* RellGames (RELLvex)
 * Remainings (Remainings)
 * ROBLOXMuff (UseCode_ROBLOXMuff)
 * Robotz (R_obotz)
@@ -402,6 +404,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SrPrismatico (SrPrismatico)
 * Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
+* SweePee (RELLswee)
 * TanqR (AquzR)
 * TapWater (UseCode_Tap)
 * Tex HS (TexWillerHS)
@@ -662,12 +665,33 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * HOW TO GET \*Free\* OWNER SWORD + SHADOW CLONE Skill In Anime Fighting Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=dF2Ixxhpxb4
+    * SECRET FREE ADMIN Bubble Pass 15 CODES In Bubble Gum Simulator!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=hAwbWzPpgRs
+    * I Hatched ALL SPLIT Pets And FREE 2000 Pet Gamepass In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=6WwH8ob2hVM
+    * ALL NEW 2020 CHRISTMAS UPDATE PETS IN BUBBLE GUM SIMULATOR! \*SUPER COOL\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=dqh9E6rIBGU
+    * NEW 650,000 CHIKARA TWITTER CODES IN ANIME FIGHTING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=viWRjLOVhzk
+    * FREE MAX ANNIVERSARY FIGHTING PASS 2 CODES In Anime Fighting Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=wwAZI9p9dJI
     * ALL NEW ARMAMENTS, MAXED FIGHTING PASS IN ANIME FIGHTING SIMULATOR UPDATE! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=xsDAP4dzJ7M
     * All 17 TWITTER ADMIN Chikara CODES In ANIME FIGHTING SIMULATOR Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=PSoX83PA7zg
+    * HIDDEN OWNER HALLOWEEN OP PET CODES IN BUBBLE GUM SIMULATOR!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=IWlYqN93igQ
     * SECRET 666,666 CHIKARA HALLOWEEN BATTLE IN ANIME FIGHTING SIMULATOR
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=WR2QVj307y0
