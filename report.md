@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 16, 2020<br>
+Generated November 17, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 348,487 videos
-* Total videos found that match keywords: 20,719 videos
-  * Total unprocessed videos: 183 videos
-* Total videos found that are processed and marked: 2,603 videos 
-  * Information Collection: 1,597 videos
+* Total videos: 351,916 videos
+* Total videos found that match keywords: 20,916 videos
+  * Total unprocessed videos: 291 videos
+* Total videos found that are processed and marked: 2,614 videos 
+  * Information Collection: 1,604 videos
   * Non-Giftcard Robux Giveaways: 843 videos
-  * Other: 133 videos
+  * Other: 137 videos
   * Phishing: 30 videos
 
 ### No Videos Found
@@ -300,6 +300,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ItsFunneh (Funnehcake)
 * J-Bug (J_Buggo)
 * Janet and Kate (KittyJanet and Kate9071)
+* jatatochip (jatatochip)
 * javie12 (javie12)
 * Jayingee (jayingee)
 * Jeancof (Jeancof)
@@ -346,6 +347,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Milo Mine (BebeMiloAmiwito)
 * MinuteMadness (Celery_YT)
 * mk (real_mkYT)
+* MoFlare (MoFlare)
 * MooseCraft Roblox (MooseCraftRoblox)
 * MrLokazo86 (Lokazo86)
 * Mxddsie (mxddsie)
@@ -654,6 +656,21 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * The MOST OP NOOB In Anime Fighting Simulator HISTORY! Roblox \#1
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=PDxv2eZ9bAA
+    * ADMIN GAVE A SECRET CHAMPION LUCK CHIKARA CODE IN ANIME FIGHTING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=cvQqnk_KmDY
+    * ALL 21 YOUTUBER 100,000 CHIKARA CODES IN ANIME FIGHTING SIMULATOR
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=05bOC8qbEUk
+    * ALL SECRET COSMETIC REWARD CODES IN ROBLOX IMPOSTOR!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=LhOX9AtZ-jQ
+    * 4 NEW SHINY ADMIN STREAM PET CODES IN Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=FesjCx3ecLY
     * HOW TO GET \*Free\* OWNER SWORD + SHADOW CLONE Skill In Anime Fighting Simulator! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=dF2Ixxhpxb4
@@ -669,6 +686,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW 650,000 CHIKARA TWITTER CODES IN ANIME FIGHTING SIMULATOR! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=viWRjLOVhzk
+    * NEW SHADOW EGG, LEVEL 60 POTION AND MORE IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=gEHveLSVCrw
     * FREE MAX ANNIVERSARY FIGHTING PASS 2 CODES In Anime Fighting Simulator! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=wwAZI9p9dJI
@@ -6205,6 +6225,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=-FMDsrgLb-Q
 * Linkmon99 (Linkmon99)
   * Information Collection
+    * RACING PINKLEAF for a DOMINUS! (Tower of Hell) - Linkmon99 Roblox
+      * Description references the data collection website rbxtoys.com.
+      * URL: https://www.youtube.com/watch?v=pLqQ0c91BZo
     * PIGGY's CREATOR vs RICHEST ROBLOX PLAYER!! (EPIC 1v1 Piggy with MiniToon) - Linkmon99 Roblox
       * Description references the data collection website rbxtoys.com.
       * URL: https://www.youtube.com/watch?v=HqO5kfEsuMk
@@ -7903,6 +7926,21 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MI PRIMER MASCOTA Y COMPRO LA CASA DE HADAS - ADOPT ME ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=M5lLteKfC8Y
+* Telanthric (Telanthric)
+  * Other
+    * ⚡ I EVOLVED in Sneezing Simulator \*EVOLUTIONS  / UPDATE 3\* \[🎁CODE\]
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=uLIW7DFLVvc
+    * 🌟ALL Sneezing Simulator Codes \*🎁7 CODES\* • 🌵UPDATE 2 • 🎉NEW 2020 April
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=KkIdyLK7rTs
+    * 🌟ALL Sneeze Simulator Codes \*🌆CITY UPDATE\* • 🎉NEW 2020 April
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=fBkoLxH95fw
+    * 🌟ALL Sneeze Simulator Codes \*🎁INFECTION POINTS\* • 🔬NEW Update • 🎉2020 April
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=iFYz7eaNooM
 * TeraBrite Games (SabrinaBrite and DJMonopoli)
   * Non-Giftcard Robux Giveaways
     * GOTTA CATCH EM ALL! \#3 | ROBLOX - Pokemon Brick Bronze | TeraBrite Games
