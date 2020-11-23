@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 22, 2020<br>
+Generated November 23, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -202,7 +202,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * AnielicA (ANIELICA01)
 * Anix (iamAnix)
 * Ashleyosity (itsAshleyosity)
-* Atomic Web (Yokai_YT)
 * Augus (augusvidal)
 * Ayzria (Ayzria)
 * Bandi (BandiRue)
@@ -426,6 +425,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Volt (v0_1t)
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
+* Yokai (Yokai_YT)
 * yTowakGb (yTowakGb)
 * Z00LD 
 * ZaiLetsPlay (YT_ZaiLetsPlay)
@@ -4925,7 +4925,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * WHEN A STRANGER FINDS 1,000 ROBUX | Roblox Social Experiment
       * Randomly gives out Robux using a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=wgXTsve1zOs
-* IntelPlayz (IntelPlayzWasTaken)
+* IntelPlayz (UseCode_IntelPlayz)
   * Information Collection
     * THE PORTAL FINALLY OPENED | Pet Simulator
       * Description references the data collection website irobux.com.
