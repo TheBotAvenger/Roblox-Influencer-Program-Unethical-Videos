@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 23, 2020<br>
+Generated November 24, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 351,916 videos
-* Total videos found that match keywords: 20,955 videos
-  * Total unprocessed videos: 183 videos
-* Total videos found that are processed and marked: 2,973 videos 
-  * Information Collection: 1,822 videos
+* Total videos: 353,445 videos
+* Total videos found that match keywords: 21,077 videos
+  * Total unprocessed videos: 303 videos
+* Total videos found that are processed and marked: 2,975 videos 
+  * Information Collection: 1,824 videos
   * Non-Giftcard Robux Giveaways: 965 videos
   * Other: 154 videos
   * Phishing: 32 videos
@@ -351,7 +351,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * NapkinNate (NapkinNate)
 * Natasha Panda (NatashaPandaaYT)
 * Nezi Plays Roblox (NeziPlaysROBLOX)
-* Nicole Kimmi (Nicole_Kimmi)
 * Nicole Maffi (NicoleMaffi)
 * NightFoxx (Night_foxx)
 * NO\_DATA (NO\_DATA)
@@ -685,6 +684,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * All Free GENKAI SHISUI SHARINGAN Spin CODES! - Shinobi Life 2 Roblox \*FREE 1200 SPINS\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=WnZU04TXzbU
     * The MOST OP NOOB In Anime Fighting Simulator HISTORY! Roblox \#1
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=PDxv2eZ9bAA
@@ -7187,6 +7189,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HIDE and SEEK on NEW MAP for 3000 ROBUX! | Roblox Jailbreak
       * Uses group funds to give away Robux for a competition.
       * URL: https://www.youtube.com/watch?v=5UQfA8iJm8s
+* Nicole Kimmi (Nicole_Kimmi)
+  * Information Collection
+    * MOLESTANDO A GENTE EN BROOKHAVEN 🥺🤣
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=DprbUKcQEBw
 * NikTac 
   * Non-Giftcard Robux Giveaways
     * \*SECRET\* HALLOWEEN BEES & EVIL BEAR COMING IN Roblox Bee Swarm Simulator!? (Update Theory)
