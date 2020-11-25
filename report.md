@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 24, 2020<br>
+Generated November 25, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 353,445 videos
-* Total videos found that match keywords: 21,077 videos
-  * Total unprocessed videos: 303 videos
-* Total videos found that are processed and marked: 2,975 videos 
+* Total videos: 353,958 videos
+* Total videos found that match keywords: 21,080 videos
+  * Total unprocessed videos: 340 videos
+* Total videos found that are processed and marked: 2,964 videos 
   * Information Collection: 1,824 videos
-  * Non-Giftcard Robux Giveaways: 965 videos
-  * Other: 154 videos
+  * Non-Giftcard Robux Giveaways: 964 videos
+  * Other: 144 videos
   * Phishing: 32 videos
 
 ### No Videos Found
@@ -271,6 +271,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GoldenGlare (GOLD3NGLARE)
 * GoldenOwl 
 * grace k (yt_graceek)
+* GraserPlays (MasterGraser)
 * Gravycatman (GrumpyGravy)
 * Hagazo (Hagazo9)
 * hannnahlovescows (hannnahlovescows)
@@ -323,8 +324,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lakshart Nia (Laksharth)
 * LaniRoblox (LaniiPlayzzz)
 * LankyBox (LankyBoxGamesAdam)
+* Lari Gamer (iiLariGamer)
+* Laughability (Laughability)
 * Lawlieet 20 (XLAWLIEETX)
 * Leah Ashe (NotLeah)
+* locus (locus200k)
 * Lokis (lokis9340)
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
@@ -4877,38 +4881,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO CREATE A PASSIVE INCOME GAMING 35 \#passiveincome \#gaming
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=l3qwVIOIwgc
-* GraserPlays (MasterGraser)
-  * Other
-    * i secretly used hacks against a Roblox Piggy youtuber..
-      * Demonstrates using an autoclicker to exploit going through walls.
-      * URL: https://www.youtube.com/watch?v=a8iNattz-oM
-    * Roblox Piggy but i teach youtubers how to hack..
-      * Demonstrates using an autoclicker to exploit going through walls.
-      * URL: https://www.youtube.com/watch?v=MNkgSgZBzZg
-    * Roblox Piggy but i used hacks against 100 piggys..
-      * Demonstrates using an autoclicker to exploit going through walls.
-      * URL: https://www.youtube.com/watch?v=CzH9xq78lpU
-    * Roblox Piggy map owner caught me hacking..
-      * Demonstrates using an autoclicker to exploit going through walls.
-      * URL: https://www.youtube.com/watch?v=QXlxBN8Fg5U
-    * i used hacks in a Roblox Piggy youtuber lobby..
-      * Demonstrates using an autoclicker to exploit going through walls.
-      * URL: https://www.youtube.com/watch?v=k_qLoaXOVcU
-    * i was caught using hacks by the owner of this Roblox Piggy map..
-      * Demonstrates using an autoclicker to exploit going through walls.
-      * URL: https://www.youtube.com/watch?v=GlCL_MzTJSo
-    * i secretly used hacks on a fan made Roblox Piggy map..
-      * Demonstrates using an autoclicker to exploit going through walls.
-      * URL: https://www.youtube.com/watch?v=ILmjXlydW9c
-    * Roblox Piggy Hide And Seek but i used hacks..
-      * Demonstrates using an autoclicker to exploit going through walls.
-      * URL: https://www.youtube.com/watch?v=2iI9xq9YHSk
-    * Roblox 100 Player Piggy but i used hacks..
-      * Demonstrates using an autoclicker to exploit going through walls.
-      * URL: https://www.youtube.com/watch?v=wqrPmhoSYBY
-    * Roblox Piggy but i used hacks..
-      * Demonstrates using an autoclicker to exploit going through walls.
-      * URL: https://www.youtube.com/watch?v=YB0Urzcgw9I
 * HappyBlack (HappyThreePro)
   * Non-Giftcard Robux Giveaways
     * How To Get Free Robux - Roblox (NOT SCAM!) June 2019 GIVE AWAY!
@@ -7032,11 +7004,6 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * IF YOU FIND ME, WIN 15,000 ROBUX!! (Fan HIDE & SEEK Challenge) - Linkmon99 ROBLOX
       * URL: https://www.youtube.com/watch?v=aQVzK3xhRAs
-* locus (locus200k)
-  * Non-Giftcard Robux Giveaways
-    * I Trapped 100 Kids And Gave Them Swords... Winner Gets 1000 ROBUX! (Roblox)
-      * Uses group funds to give away Robux for a competition.
-      * URL: https://www.youtube.com/watch?v=_Sz6sWDSoqs
 * LOGinHDi (L0GinHDi)
   * Non-Giftcard Robux Giveaways
     * If I Get Scared.. I Giveaway Robux!
