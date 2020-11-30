@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 29, 2020<br>
+Generated November 30, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -298,7 +298,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Janet and Kate (KittyJanet and Kate9071)
 * jatatochip (jatatochip)
 * javie12 (javie12)
-* Jayingee (jayingee)
+* Jayingee (jerseyboy1662)
 * Jeancof (Jeancof)
 * Jeenius (RealJeen)
 * Jenstine (jenstine and jenstinex)
@@ -401,7 +401,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
-* TanqR (TanqR)
+* TanqR (YoinkedPurpleTeam)
 * TapWater (UseCode_Tap)
 * Tex HS (TexWillerHS)
 * THE KAPOLAR (Kapolar1)
@@ -664,7 +664,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBUX GIVEAWAY DAY ! ROBLOX LIVE ROBUX CODES GIVE-A-WAY
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=66gSQrZyGjo
-* Calixo - Roblox Adventures (BuBreezy)
+* Calixo - Roblox Adventures 
   * Non-Giftcard Robux Giveaways
     * Giving A Noob 50,000 Robux!! (He Went Mad!)
       * Uses group funds to giveaway Robux.
