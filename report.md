@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 30, 2020<br>
+Generated December 1, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,18 +182,19 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 353,958 videos
-* Total videos found that match keywords: 21,080 videos
-  * Total unprocessed videos: 179 videos
-* Total videos found that are processed and marked: 2,975 videos 
-  * Information Collection: 1,824 videos
-  * Non-Giftcard Robux Giveaways: 965 videos
+* Total videos: 358,052 videos
+* Total videos found that match keywords: 21,318 videos
+  * Total unprocessed videos: 313 videos
+* Total videos found that are processed and marked: 2,983 videos 
+  * Information Collection: 1,829 videos
+  * Non-Giftcard Robux Giveaways: 968 videos
   * Other: 154 videos
   * Phishing: 32 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 3SB Games (Cakemiix and shadodoo)
+* Acenix (AcenixElMejorYoutube)
 * Alex (CraftedRL)
 * Aline Games (AliineGamesYT)
 * alixia (aIixiayt)
@@ -251,6 +252,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
 * Elitelupus (elitelupus)
+* Ephicsea (Ephicsea)
 * EthanGamer (EthanGamerTV)
 * Evanbear1 (Evanbear1)
 * faeglow (faeglow)
@@ -353,6 +355,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * NapkinNate (NapkinNate)
 * Natasha Panda (NatashaPandaaYT)
 * Nezi Plays Roblox (NeziPlaysROBLOX)
+* NicksDagaYT (nicks543)
 * Nicole Maffi (NicoleMaffi)
 * NightFoxx (Night_foxx)
 * NO\_DATA (NO\_DATA)
@@ -367,6 +370,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PeetahBread (PeetahBread)
 * PHMittens (PHMittens_YoutubeRBX)
 * Phoeberry (Phoeberry)
+* PiggyMasterZ (OfficialPiggyMasterZ)
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
 * Play with me - Apps and Games (da\_dania and kaan\_xy2)
@@ -384,6 +388,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ROBLOXMuff (UseCode_ROBLOXMuff)
 * Robotz (R_obotz)
 * RoTomek (RoTomek1)
+* roxhi roblox (12345roxyhi12345)
 * Royale Roleplay (RxyaleRoleplayer)
 * Ruby Games (ruby_rubeYT)
 * Ryguy - Roblox (ryguyrocky)
@@ -394,6 +399,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShanePlays (SGC_Shane)
 * Shaylo (YTshaylo)
 * skyleree (skyleree)
+* SlEGHART (SlEGHART)
 * Solemrex Flame (solemrexRB and iJackeryz)
 * Spagz Blox (Spagzox)
 * Squid Magic (Foolzy)
@@ -403,6 +409,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SweePee (RELLswee)
 * TanqR (YoinkedPurpleTeam)
 * TapWater (UseCode_Tap)
+* Temprist (Temprist)
 * Tex HS (TexWillerHS)
 * THE KAPOLAR (Kapolar1)
 * The Pals (RealSubZeroExtabyte)
@@ -426,6 +433,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Volt (v0_1t)
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
+* xThyEdgarx (RareEdddddyyyy)
 * Yokai (Yokai_YT)
 * yTowakGb (yTowakGb)
 * Z00LD 
@@ -664,6 +672,27 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBUX GIVEAWAY DAY ! ROBLOX LIVE ROBUX CODES GIVE-A-WAY
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=66gSQrZyGjo
+* BlueBug (MrBlueBug)
+  * Non-Giftcard Robux Giveaways
+    * Robux Giveaway Winners(FOR 100 SUBS)
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=M-0erxMVct8
+    * Reminder for Robux giveaway(On 100 subs) Steps to enter
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=zmzDTFS4xw8
+* Builderboy TV (builderboy100009)
+  * Information Collection
+    * \*LEGIT!\* HOW TO GET FREE ROBUX 2019! EARN FREE ROBUX FAST!? | ROBLOX | Builderboy TV
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=t5w5FL33XUc
+    * \*WORKING!\* HOW TO GET ROBUX FOR FREE!? MAY 2019!| ROBLOX | ROBLOXWIN.COM
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=pow2pqipzQI
+    * HOW TO GET FREE ROBUX 2019!? + 1000 ROBUX GIVEAWAY | ROBLOX | ROBLOX.WIN
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=CINjWkLYxEQ
 * Calixo - Roblox Adventures 
   * Non-Giftcard Robux Giveaways
     * Giving A Noob 50,000 Robux!! (He Went Mad!)
@@ -679,6 +708,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Giving A Fan A 5,000 ROBUX MAKEOVER! | ROBLOX
       * Offers to give Robux in exchange for a username and password over Discord.
       * URL: https://www.youtube.com/watch?v=g49cxhhSGkc
+* cqqp (cqqp)
+  * Non-Giftcard Robux Giveaways
+    * I'm Hosting A Tower Of Hell Racing Event With a 1000 Robux Prize
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=WS98hTkuwmE
 * Cylito (Cylito)
   * Non-Giftcard Robux Giveaways
     * Bloxburg: Victorian Roleplay House 62K
@@ -686,6 +720,12 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
 * DefildPlays (DefildPlays)
   * Information Collection
+    * MEGA FREE 60 GAMEPASSES SALE CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=iM_XrtQO_QU
+    * NOOB INSTANTLY GETS ALL DEVIL FRUITS IN ANIME FIGHTING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=0YtP4iPRWSc
     * All Free GENKAI SHISUI SHARINGAN Spin CODES! - Shinobi Life 2 Roblox \*FREE 1200 SPINS\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=WnZU04TXzbU
