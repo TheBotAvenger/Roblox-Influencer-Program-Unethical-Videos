@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 2, 2020<br>
+Generated December 3, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 358,052 videos
 * Total videos found that match keywords: 21,318 videos
-  * Total unprocessed videos: 25 videos
-* Total videos found that are processed and marked: 2,983 videos 
-  * Information Collection: 1,828 videos
-  * Non-Giftcard Robux Giveaways: 968 videos
+* Total videos found that are processed and marked: 2,985 videos 
+  * Information Collection: 1,829 videos
+  * Non-Giftcard Robux Giveaways: 969 videos
   * Other: 154 videos
   * Phishing: 33 videos
 
@@ -276,7 +275,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Gravycatman (GrumpyGravy)
 * Hagazo (Hagazo9)
 * hannnahlovescows (hannnahlovescows)
-* HappyBlack (HappyThreePro)
 * HelloItsVG (HelloItsVinh)
 * Hey Sant (heysant2018)
 * Honey The Unicorn - Roblox (HoneyTheUnicornYT)
@@ -4911,6 +4909,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=XdMWvYf4Rjk
 * Geko97 - Roblox (Flexer97YT)
   * Information Collection
+    * Sell roblox via online • Tools for Ecommercee• Affiliate Marketing• Passive Income• Shopify•
+      * Description references the data collection website rbxcash.com.
+      * URL: https://www.youtube.com/watch?v=A_NIUghaUM0
     * HOW TO CREATE A PASSIVE INCOME GAMING 32 \#passiveincome \#gaming
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=5Lt02hfeNbw
@@ -4952,6 +4953,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Roblox Piggy but i used hacks..
       * Demonstrates using an autoclicker to exploit going through walls.
       * URL: https://www.youtube.com/watch?v=YB0Urzcgw9I
+* HappyBlack (HappyThreePro)
+  * Non-Giftcard Robux Giveaways
+    * How To Get Free Robux - Roblox (NOT SCAM!) June 2019 GIVE AWAY!
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=2FbBxGEURnY
 * iamSanna (notiamsanna)
   * Non-Giftcard Robux Giveaways
     * WIN 10,000 ROBUX In This \*NEW\* Adopt Me FASHION CONTEST! (Adopt Me)
