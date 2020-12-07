@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 6, 2020<br>
+Generated December 7, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -281,7 +281,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HulkBR (hulkbr_oficial)
 * Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
-* iBeMaine (ibeSZN)
+* iBeMaine (ibemaine)
 * iFresproYT (iFresproYT)
 * iGuz (iGuzGames)
 * iiisxphie (iiisxphie)
@@ -299,7 +299,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Janet and Kate (KittyJanet and Kate9071)
 * jatatochip (jatatochip)
 * javie12 (javie12)
-* Jayingee (jerseyboy1662)
+* Jayingee (jayingee)
 * Jeancof (Jeancof)
 * Jeenius (RealJeen)
 * Jenstine (jenstine and jenstinex)
@@ -336,7 +336,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Manucraft (ManucraftYT)
 * Mary - Frozencrystal 
 * mayrushart (mayrushart)
-* MeganPlays Roblox (TheMeganPlays)
+* MeganPlays (TheMeganPlays)
 * MelzinhaMel Games (MelzinhaMelGames, Detona\_Anderson, and Princesa\_Alicinha)
 * Mia Games (MiaZaffyt)
 * MIANNN (MIANNNGAMER)
@@ -406,7 +406,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
-* TanqR (YoinkedPurpleTeam)
+* TanqR (TanqR)
 * TapWater (UseCode_Tap)
 * Temprist (Temprist)
 * Tex HS (TexWillerHS)
@@ -5579,7 +5579,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FULL THROTTLE RACING TOURNAMENT! \[SUBSCRIBERS WIN FREE ROBUX!\]
       * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=Oihdfs3SsM0
-* ItzVexo (ItzVexo_YOUTUBE)
+* ItzVexo (UseStarCodeltzVexo)
   * Information Collection
     * The SECRET HAT CRATE IN ROBLOX BUBBLE GUM SIMULATOR! (Glitch?)
       * Description references the data collection website gainblox.com.
