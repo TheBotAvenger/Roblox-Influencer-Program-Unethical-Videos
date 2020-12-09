@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 8, 2020<br>
+Generated December 9, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 359,630 videos
-* Total videos found that match keywords: 21,475 videos
-  * Total unprocessed videos: 157 videos
-* Total videos found that are processed and marked: 2,985 videos 
-  * Information Collection: 1,829 videos
+* Total videos: 360,199 videos
+* Total videos found that match keywords: 21,476 videos
+  * Total unprocessed videos: 14 videos
+* Total videos found that are processed and marked: 2,980 videos 
+  * Information Collection: 1,824 videos
   * Non-Giftcard Robux Giveaways: 969 videos
   * Other: 154 videos
   * Phishing: 33 videos
@@ -267,6 +267,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GabriellaGames 
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
+* GH0Ks (GHOKSZIN)
 * GianBlox (GiianBloxYT)
 * Godenot (godenot)
 * GoingLimited (GoingLimited)
@@ -693,7 +694,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=CINjWkLYxEQ
-* Calixo - Roblox Adventures 
+* Calixo - Roblox Adventures (BuBreezy)
   * Non-Giftcard Robux Giveaways
     * Giving A Noob 50,000 Robux!! (He Went Mad!)
       * Uses group funds to giveaway Robux.
@@ -8586,27 +8587,12 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
 * SeerRblx (SeerRblxYT)
   * Information Collection
-    * ALL NEW SECRET CODES in CLICKING CHAMPIONS! - Clicking Champions SECRET PETS Update ❓(Roblox)
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=5eNm8iCD8Hw
     * ALL NEW SECRET PET CODES in TAPPING LEGENDS! - Tapping Legends ⭐X5 CLICKS UPDATE⭐  (Roblox)
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=Wa4iiQ6CGgU
     * ALL NEW SECRET CODES in VEHICLE SIMULATOR! - Vehicle Simulator💵 2020 (Roblox)
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=O8HFg9Mnzbo
-    * ALL NEW SECRET PET CODES in TAPPING LEGENDS! - Tapping Legends ⭐FREE TRIPLE EGG UPDATE⭐  (Roblox)
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=QLXyWvleIig
-    * ALL 19 NEW MAD CITY CODES - Madcity Hyper Glider Update Codes 2020 (Roblox)
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=XAEruexDexE
-    * ALL \*NEW\* SECRET CODES in REBIRTH SIMULATOR 2.0! - 🚨4M UPDATE🚨Roblox Rebirth Simulator
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=7VZgQ_WGny4
-    * ALL NEW SECRET PET CODES in TAPPING LEGENDS! - Tapping Legends 🚨3M UPDATE🚨 (Roblox)
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=HSGwkquqtLg
     * HOW TO EARN EASY ROBUX!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=K1dB08DJ348
