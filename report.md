@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 13, 2020<br>
+Generated December 14, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -209,7 +209,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bia Gamer (BiiiaGamerYT)
 * Biano Games (BianoBetero)
 * Bigbst4tz2 (BigBst4tz22)
-* BIGHEAD (I_BIGHEAD)
+* BIGHEAD (Bighead_StarCode)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * bobjenz 
 * BramP (bramp1996)
@@ -332,7 +332,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lokis (lokis9340)
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
-* Magikarp Films (Magikarpfilms)
+* Magikarp Films (Clip2bitYT)
 * Maislie (Maislie)
 * Manucraft (ManucraftYT)
 * Mary - Frozencrystal 
@@ -345,7 +345,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MicroGuardian (MicroGuardian)
 * Mila FunPlayer (trxmila)
 * Milo Mine (BebeMiloAmiwito)
-* MinuteMadness (Celery_YT)
+* MinuteMadness 
 * mk (real_mkYT)
 * MoFlare (MoFlare)
 * MooseCraft Roblox (MooseCraftRoblox)
@@ -8478,7 +8478,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX REMOVES LIMITEDS FOR RTHRO LTD!?
       * Description references a Robux giveaway on Twitter.
       * URL: https://www.youtube.com/watch?v=yEDwbsr4ii8
-* Realistic Gaming (ImTheRealRealistic)
+* Realistic Gaming (Starcode_RealisticG)
   * Information Collection
     * HOW TO GET FREE ROBUX in 2018! APP THAT GIVES YOU ROBUX FOR PLAYING GAMES! FREE ROBUX 2018
       * Description references a download for a data collection mobile app.
