@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 14, 2020<br>
+Generated December 15, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,14 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 360,199 videos
-* Total videos found that match keywords: 21,476 videos
-* Total videos found that are processed and marked: 2,980 videos 
+* Total videos: 363,490 videos
+* Total videos found that match keywords: 21,658 videos
+  * Total unprocessed videos: 158 videos
+* Total videos found that are processed and marked: 2,983 videos 
   * Information Collection: 1,824 videos
-  * Non-Giftcard Robux Giveaways: 969 videos
+  * Non-Giftcard Robux Giveaways: 970 videos
   * Other: 154 videos
-  * Phishing: 33 videos
+  * Phishing: 35 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -201,6 +202,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Amberry (Amberrry)
 * AnielicA (ANIELICA01)
 * Anix (iamAnix)
+* Ant Antixx (Ant_Antixx)
 * Ashleyosity (itsAshleyosity)
 * Augus (augusvidal)
 * Ayzria (Ayzria)
@@ -329,6 +331,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Laughability (Laughability)
 * Lawlieet 20 (XLAWLIEETX)
 * Leah Ashe (NotLeah)
+* LiaBlossoms (LiaBlossoms)
 * Lokis (lokis9340)
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
@@ -6848,6 +6851,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 🤑🤑 Robux Gratis 🤑✨REGALO 400 ROBUX✨🤑
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=VbZhoF9ZEM0
+* Kaden Fumblebottom (jokerkid5898)
+  * Non-Giftcard Robux Giveaways
+    * STOP ASKING ME FOR ROBUX AAAA
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=eri2a5iFeSo
 * Karola20 (karola20YT)
   * Information Collection
     * MEEPCITY BAILE DÍA DEL AMOR CON MIS ALUMNOS💖PROPUESTA DEL PROFESOR😱💖- ROBLOX
@@ -8621,6 +8629,14 @@ The following channels had nothing appear with manual searching. Videos may exis
     * This Is How You Get Robux For Free!
       * Description references the data collection website flame.gg.
       * URL: https://www.youtube.com/watch?v=DCsV0c7K5qE
+* SiimplyBubliie (SiimplyBubliie_YT)
+  * Phishing
+    * 3,000 ROBUX MAKEOVER!! (Surprising a FAN!) Limited Item!
+      * Offers to give Robux in exchange for a username and password.
+      * URL: https://www.youtube.com/watch?v=UtC-Ov4WKyc
+    * 1,000 ROBUX MAKEOVER || (Fan Surprise!)
+      * Offers to give Robux in exchange for a username and password.
+      * URL: https://www.youtube.com/watch?v=95TVy5Udq9o
 * Snug Life (YT_SnugLife)
   * Other
     * I \*CRAFTED\* a SHINY BEACH MYTHIC HAT! 20,000,000 TOTAL INFECT! \*SUPER OP!\* In Sneezing Simulator!
