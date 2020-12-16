@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 15, 2020<br>
+Generated December 16, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,11 +184,11 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 363,490 videos
 * Total videos found that match keywords: 21,658 videos
-  * Total unprocessed videos: 158 videos
-* Total videos found that are processed and marked: 2,983 videos 
-  * Information Collection: 1,824 videos
-  * Non-Giftcard Robux Giveaways: 970 videos
-  * Other: 154 videos
+  * Total unprocessed videos: 171 videos
+* Total videos found that are processed and marked: 2,972 videos 
+  * Information Collection: 1,815 videos
+  * Non-Giftcard Robux Giveaways: 969 videos
+  * Other: 153 videos
   * Phishing: 35 videos
 
 ### No Videos Found
@@ -278,6 +278,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Gravycatman (GrumpyGravy)
 * Hagazo (Hagazo9)
 * hannnahlovescows (hannnahlovescows)
+* HappyBlack (HappyThreePro)
 * HelloItsVG (HelloItsVinh)
 * Hey Sant (heysant2018)
 * Honey The Unicorn - Roblox (HoneyTheUnicornYT)
@@ -400,6 +401,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ScriptedMatt (ScriptedMatt)
 * SDMittens (SDMittens)
 * ShanePlays (SGC_Shane)
+* SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
@@ -750,12 +752,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * So I Opened 5,000,000 Eggs In Bubble Gum Simulator And Got This..
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=Mv_J2efmKRw
-    * 4 NEW SHINY ADMIN STREAM PET CODES IN Bubble Gum Simulator! Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=FesjCx3ecLY
-    * HOW TO GET \*Free\* OWNER SWORD + SHADOW CLONE Skill In Anime Fighting Simulator! Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=dF2Ixxhpxb4
     * SECRET FREE ADMIN Bubble Pass 15 CODES In Bubble Gum Simulator!
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=hAwbWzPpgRs
@@ -777,15 +773,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL NEW ARMAMENTS, MAXED FIGHTING PASS IN ANIME FIGHTING SIMULATOR UPDATE! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=xsDAP4dzJ7M
-    * All SECRET Roblox Promo Item Codes! \*Free Roblox Avatar Items\* - November 2020
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=UcQ5ciNvJzQ
     * All 17 TWITTER ADMIN Chikara CODES In ANIME FIGHTING SIMULATOR Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=PSoX83PA7zg
-    * HIDDEN OWNER HALLOWEEN OP PET CODES IN BUBBLE GUM SIMULATOR!
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=IWlYqN93igQ
     * SECRET 666,666 CHIKARA HALLOWEEN BATTLE IN ANIME FIGHTING SIMULATOR
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=WR2QVj307y0
@@ -795,15 +785,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * INSTANT FREE 900M EGG SECRET PETS IN BUBBLE GUM SIMULATOR! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=rXuhthEZGdM
-    * I HATCHED 750,000 EGGS 900M SECRET PETS IN BUBBLE GUM SIMULATOR! Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=vj7YGub31DQ
     * FREE SHINY 900M Cartoon Pet CODES In BUBBLE GUM SIMULATOR! Roblox
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=UiuWtaGQ9sA
-    * I HATCHED ALL 900M EGG PETS IN BUBBLE GUM SIMULATOR! Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=XA8iffWlaWw
     * ALL NEW 900M EGG LEGENDARY PETS IN BUBBLE GUM SIMULATOR! Roblox \*LEAKS\*
       * Description references the data collection website p4f.gg.
       * URL: https://www.youtube.com/watch?v=oRn-S4EJejY
@@ -4957,11 +4941,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Roblox Piggy but i used hacks..
       * Demonstrates using an autoclicker to exploit going through walls.
       * URL: https://www.youtube.com/watch?v=YB0Urzcgw9I
-* HappyBlack (HappyThreePro)
-  * Non-Giftcard Robux Giveaways
-    * How To Get Free Robux - Roblox (NOT SCAM!) June 2019 GIVE AWAY!
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=2FbBxGEURnY
 * iamSanna (notiamsanna)
   * Non-Giftcard Robux Giveaways
     * WIN 10,000 ROBUX In This \*NEW\* Adopt Me FASHION CONTEST! (Adopt Me)
@@ -8624,11 +8603,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * $1500 ROBUX GIVEAWAY
       * Robux giveaway uses a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=AGj4BbtDy6k
-* SharkBlox (SharkBL0X)
-  * Information Collection
-    * This Is How You Get Robux For Free!
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=DCsV0c7K5qE
 * SiimplyBubliie (SiimplyBubliie_YT)
   * Phishing
     * 3,000 ROBUX MAKEOVER!! (Surprising a FAN!) Limited Item!
@@ -9118,16 +9092,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*BEST\* way to GRIND Blue Present \*BOSS\*! | Build a boat For Treasure ROBLOX
       * Description references the data collection website claimrbx.com.
       * URL: https://www.youtube.com/watch?v=olixPsTG_tg
-    * HOW TO GET THE \*NEW\* GREEN GIFT! | Build a Boat for Treasure ROBLOX
-      * Description references the data collection website claimrbx.com.
-      * URL: https://www.youtube.com/watch?v=r26GshuLRYM
-    * GingerBread SECRETS! (They Follow you) | Build a boat For treasure ROBLOX
-      * Description references the data collection website claimrbx.com.
-      * URL: https://www.youtube.com/watch?v=C0uu8r3QwPw
-  * Other
-    * 10,000 ROBUX GIVEAWAY (OPEN)
-      * Uses a Robux giveaway to skew the ratings of a game on an external platform.
-      * URL: https://www.youtube.com/watch?v=Y9Zr70rgyKk
 * Tofuu (forstaken)
   * Information Collection
     * WE CRAFTED THE RAREST MYTHIC! (Roblox Assassin)
