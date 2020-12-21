@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 20, 2020<br>
+Generated December 21, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -228,6 +228,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Chyna Gaming (Iamchynagaming)
+* CLIP 2 BIT (Clip2bitYT)
 * Collins Kosuke (Kosukei)
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutterYT)
@@ -335,7 +336,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lokis (lokis9340)
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
-* Magikarp Films (Clip2bitYT)
 * Maislie (Maislie)
 * Manucraft (ManucraftYT)
 * Mary - Frozencrystal 
@@ -349,7 +349,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mila FunPlayer (trxmila)
 * Milo Mine (BebeMiloAmiwito)
 * MinuteMadness 
-* mk (real_mkYT)
+* mk (starcodemk)
 * MoFlare (MoFlare)
 * MooseCraft Roblox (MooseCraftRoblox)
 * MrLokazo86 (Lokazo86)
@@ -411,7 +411,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
-* TanqR (TanqR)
+* TanqR (tohsdeaH)
 * TapWater (UseCode_Tap)
 * Temprist (Temprist)
 * Tex HS (TexWillerHS)
