@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 22, 2020<br>
+Generated December 23, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 365,103 videos
 * Total videos found that match keywords: 21,820 videos
-  * Total unprocessed videos: 162 videos
-* Total videos found that are processed and marked: 2,980 videos 
+  * Total unprocessed videos: 169 videos
+* Total videos found that are processed and marked: 2,979 videos 
   * Information Collection: 1,823 videos
-  * Non-Giftcard Robux Giveaways: 969 videos
+  * Non-Giftcard Robux Giveaways: 968 videos
   * Other: 153 videos
   * Phishing: 35 videos
 
@@ -334,6 +334,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lawlieet 20 (XLAWLIEETX)
 * Leah Ashe (NotLeah)
 * LiaBlossoms (LiaBlossoms)
+* locus (locus200k)
 * Lokis (lokis9340)
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
@@ -7081,11 +7082,6 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * IF YOU FIND ME, WIN 15,000 ROBUX!! (Fan HIDE & SEEK Challenge) - Linkmon99 ROBLOX
       * URL: https://www.youtube.com/watch?v=aQVzK3xhRAs
-* locus (locus200k)
-  * Non-Giftcard Robux Giveaways
-    * I Trapped 100 Kids And Gave Them Swords... Winner Gets 1000 ROBUX! (Roblox)
-      * Uses group funds to give away Robux for a competition.
-      * URL: https://www.youtube.com/watch?v=_Sz6sWDSoqs
 * LOGinHDi (L0GinHDi)
   * Non-Giftcard Robux Giveaways
     * If I Get Scared.. I Giveaway Robux!
