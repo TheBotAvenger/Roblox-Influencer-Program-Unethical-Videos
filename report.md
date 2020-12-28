@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 27, 2020<br>
+Generated December 28, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -412,7 +412,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
-* TanqR (tohsdeaH)
+* TanqR (TanqR)
 * TapWater (UseCode_Tap)
 * Temprist (Temprist)
 * Tex HS (TexWillerHS)
