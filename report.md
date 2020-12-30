@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 29, 2020<br>
+Generated December 30, 2020<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,12 +182,12 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 366,539 videos
-* Total videos found that match keywords: 21,948 videos
-  * Total unprocessed videos: 128 videos
-* Total videos found that are processed and marked: 2,979 videos 
+* Total videos: 368,324 videos
+* Total videos found that match keywords: 22,586 videos
+  * Total unprocessed videos: 9 videos
+* Total videos found that are processed and marked: 2,980 videos 
   * Information Collection: 1,823 videos
-  * Non-Giftcard Robux Giveaways: 968 videos
+  * Non-Giftcard Robux Giveaways: 969 videos
   * Other: 153 videos
   * Phishing: 35 videos
 
@@ -258,6 +258,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * EthanGamer (EthanGamerTV)
 * Evanbear1 (Evanbear1)
 * faeglow (faeglow)
+* FakerUp (NotFakerUp)
 * FancySmash (RealFancySmash)
 * Febatista 
 * FGTeeV (FGTeeV and DrizzMcNizz)
@@ -309,6 +310,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Jeenius (RealJeen)
 * Jenstine (jenstine and jenstinex)
 * JessEmma (TheJessEmma)
+* JesuaCunnigham (Jesua_Cunnigham)
 * JoeyDaPlayer (UseStarCodee_JOEY)
 * JoJocraftHP (JoJocraftHP)
 * JonesGotGame (JonesGotGame)
@@ -368,7 +370,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Oblivious (ObliviousHD)
 * oGVexx (LouDaREALGamer)
 * OmegaNova (NotOmegaNova)
-* Onyx Gaming - Playonyx Tech (okgamerman)
 * PaintingRainbows (RainbowsYT)
 * Pankayz (Pankayz)
 * Papile (jupapile)
@@ -379,6 +380,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
 * Play with me - Apps and Games (da\_dania and kaan\_xy2)
+* Playonyx Tech (okgamerman)
 * Plech (PlechitoYT)
 * Premiumsalad (premiumsalad)
 * PrestonGamez (PrestonPlayz)
@@ -392,6 +394,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Remainings (Remainings)
 * ROBLOXMuff (UseCode_ROBLOXMuff)
 * Robotz (R_obotz)
+* Robstix (Robstix)
+* Roplex Gaming (RoplexYoutube)
 * RoTomek (RoTomek1)
 * roxhi roblox (12345roxyhi12345)
 * Royale Roleplay (RxyaleRoleplayer)
@@ -407,6 +411,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
 * Solemrex Flame (solemrexRB and iJackeryz)
+* Soy Blue (SoyBluee)
 * Spagz Blox (Spagzox)
 * Squid Magic (Foolzy)
 * SrPrismatico (SrPrismatico)
@@ -430,6 +435,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
 * TroyanoNanoReturns (TroyanoNanoReturns)
+* True entertainer (sambhaji12)
 * Turtles Wear Raincoats (TurtlesWearRaincoats)
 * TussyGames (TussyGames)
 * TW Dessi Gaming (TW_Dessi)
@@ -686,6 +692,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Reminder for Robux giveaway(On 100 subs) Steps to enter
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=zmzDTFS4xw8
+* Bonnie Builds (BonnieBuildsYT)
+  * Non-Giftcard Robux Giveaways
+    * 🔴 DAILY  ROBUX GIVEAWAY!! | Roblox 🌷| Bonnie Builds
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=hSkDXLc94y0
 * Builderboy TV (builderboy100009)
   * Information Collection
     * \*LEGIT!\* HOW TO GET FREE ROBUX 2019! EARN FREE ROBUX FAST!? | ROBLOX | Builderboy TV
