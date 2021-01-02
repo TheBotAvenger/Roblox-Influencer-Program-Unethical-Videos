@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 1, 2021<br>
+Generated January 2, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
