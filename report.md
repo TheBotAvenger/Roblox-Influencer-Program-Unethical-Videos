@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 3, 2021<br>
+Generated January 4, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -5590,7 +5590,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FULL THROTTLE RACING TOURNAMENT! \[SUBSCRIBERS WIN FREE ROBUX!\]
       * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=Oihdfs3SsM0
-* ItzVexo (UseStarCodeltzVexo)
+* ItzVexo (ItzVexo_STARCODE)
   * Information Collection
     * The SECRET HAT CRATE IN ROBLOX BUBBLE GUM SIMULATOR! (Glitch?)
       * Description references the data collection website gainblox.com.
