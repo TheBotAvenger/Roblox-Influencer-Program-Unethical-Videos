@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 5, 2021<br>
+Generated January 6, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 370,458 videos
 * Total videos found that match keywords: 23,168 videos
-  * Total unprocessed videos: 164 videos
-* Total videos found that are processed and marked: 3,346 videos 
+  * Total unprocessed videos: 114 videos
+* Total videos found that are processed and marked: 3,345 videos 
   * Information Collection: 2,189 videos
-  * Non-Giftcard Robux Giveaways: 969 videos
+  * Non-Giftcard Robux Giveaways: 968 videos
   * Other: 153 videos
   * Phishing: 35 videos
 
@@ -214,6 +214,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BIGHEAD (Bighead_StarCode)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * bobjenz 
+* Bonnie Builds (BonnieBuildsYT)
 * BramP (bramp1996)
 * Brianna (zBriannaGamez)
 * Bubbles (bubblestoxic)
@@ -693,11 +694,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Reminder for Robux giveaway(On 100 subs) Steps to enter
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=zmzDTFS4xw8
-* Bonnie Builds (BonnieBuildsYT)
-  * Non-Giftcard Robux Giveaways
-    * 🔴 DAILY  ROBUX GIVEAWAY!! | Roblox 🌷| Bonnie Builds
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=hSkDXLc94y0
 * Builderboy TV (builderboy100009)
   * Information Collection
     * \*LEGIT!\* HOW TO GET FREE ROBUX 2019! EARN FREE ROBUX FAST!? | ROBLOX | Builderboy TV
