@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 10, 2021<br>
+Generated January 11, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -452,7 +452,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ZaiLetsPlay (YT_ZaiLetsPlay)
 * Zepyxl (Zepyxl)
 * Zerophyx (Zerophyx)
-* ZNac (Z_Nac and jessetc)
+* ZNac (Z_Nac and JamesCordenSTAN)
 * ZULY (ItsZulyYT)
 
 ### Videos Found
