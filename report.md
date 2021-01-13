@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 12, 2021<br>
+Generated January 13, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 371,846 videos
 * Total videos found that match keywords: 23,322 videos
-  * Total unprocessed videos: 154 videos
-* Total videos found that are processed and marked: 3,346 videos 
+  * Total unprocessed videos: 4 videos
+* Total videos found that are processed and marked: 3,345 videos 
   * Information Collection: 2,189 videos
-  * Non-Giftcard Robux Giveaways: 969 videos
+  * Non-Giftcard Robux Giveaways: 968 videos
   * Other: 153 videos
   * Phishing: 35 videos
 
@@ -234,6 +234,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutterYT)
 * CPat (StarC0de_CPAT)
+* cqqp (cqqp)
 * Crainer Roblox 
 * CrazyErzy (xCrazyErzyYTx)
 * Cristi Suki (CristiSukiYT)
@@ -729,11 +730,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Giving A Fan A 5,000 ROBUX MAKEOVER! | ROBLOX
       * Offers to give Robux in exchange for a username and password over Discord.
       * URL: https://www.youtube.com/watch?v=g49cxhhSGkc
-* cqqp (cqqp)
-  * Non-Giftcard Robux Giveaways
-    * I'm Hosting A Tower Of Hell Racing Event With a 1000 Robux Prize
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=WS98hTkuwmE
 * Cylito (Cylito)
   * Non-Giftcard Robux Giveaways
     * Bloxburg: Victorian Roleplay House 62K
