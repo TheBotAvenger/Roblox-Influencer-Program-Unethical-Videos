@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 18, 2021<br>
+Generated January 19, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,10 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 371,846 videos
-* Total videos found that match keywords: 23,322 videos
-* Total videos found that are processed and marked: 3,345 videos 
-  * Information Collection: 2,189 videos
+* Total videos: 376,324 videos
+* Total videos found that match keywords: 23,870 videos
+  * Total unprocessed videos: 145 videos
+* Total videos found that are processed and marked: 3,346 videos 
+  * Information Collection: 2,190 videos
   * Non-Giftcard Robux Giveaways: 968 videos
   * Other: 153 videos
   * Phishing: 35 videos
@@ -212,6 +213,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bigbst4tz2 (BigBst4tz22)
 * BIGHEAD (Bighead_StarCode)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
+* Blue Blob (jiravich)
 * bobjenz 
 * BramP (bramp1996)
 * Brianna (zBriannaGamez)
@@ -270,6 +272,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GabriellaGames 
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
+* Gamer Kawaii (iiGamerKawaiiYT)
 * GH0Ks (GHOKSZIN)
 * GianBlox (GiianBloxYT)
 * Godenot (godenot)
@@ -366,6 +369,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Nicole Maffi (NicoleMaffi)
 * NightFoxx (Night_foxx)
 * NO\_DATA (NO\_DATA)
+* Noclypso (Noclypso)
 * noekje (noekje)
 * Oblivious (ObliviousHD)
 * oGVexx (LouDaREALGamer)
@@ -409,6 +413,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
+* Signicial (Signicial)
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
 * Solemrex Flame (solemrexRB and iJackeryz)
@@ -424,6 +429,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Temprist (Temprist)
 * Tex HS (TexWillerHS)
 * THE KAPOLAR (Kapolar1)
+* The Meg and Mo Show (MegaSquadMo)
 * The Pals (RealSubZeroExtabyte)
 * The Star Squad Gaming (StarSquadMolly)
 * TheAtlanticCraft (TheCrazyMaverick)
@@ -432,6 +438,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ThnxCya (NotThnxCya)
 * Thumbs Up Family (ThumbsUpFamily)
 * ThunberGames (ThunberGames)
+* Tigre TV (TigreTVYoutuber)
 * TinenQa (TinenQa1)
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
@@ -4918,6 +4925,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=1i9mmRDFFFU
 * FunnyBunny (Jxssivca)
   * Information Collection
+    * Using your comments to prank people pt.7! \[ROBLOX\]
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=8oYg3hiA1lI
     * FleeTheFacility - Funny Moments \[Part 5!\]
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=QBiwrwSjb3g
