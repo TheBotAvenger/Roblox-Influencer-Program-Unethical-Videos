@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 19, 2021<br>
+Generated January 20, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 376,324 videos
 * Total videos found that match keywords: 23,870 videos
-  * Total unprocessed videos: 145 videos
-* Total videos found that are processed and marked: 3,346 videos 
+* Total videos found that are processed and marked: 3,352 videos 
   * Information Collection: 2,190 videos
-  * Non-Giftcard Robux Giveaways: 968 videos
+  * Non-Giftcard Robux Giveaways: 974 videos
   * Other: 153 videos
   * Phishing: 35 videos
 
@@ -702,6 +701,24 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=zmzDTFS4xw8
 * Bonnie Builds (BonnieBuildsYT)
   * Non-Giftcard Robux Giveaways
+    * 🔴 DAILY  ROBUX GIVEAWAY!! | Roblox 🌷| Bonnie Builds
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=9PHCkOzdjz8
+    * 💵 Million BLOXBURG LIVE | Roblox 🌷| Bonnie Builds
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=jDRU9Lq1IcA
+    * 🔴 Bonnie Builds DAILY   ROBUX Contest!! | Roblox 🌷| Bonnie Builds
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=AEyn3yJXtm4
+    * 🔴 Bonnie Builds DAILY   ROBUX Contest!! | Roblox 🌷| Bonnie Builds
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=iM49cOpkVaU
+    * 🔴 Bonnie Builds  ROBUX Contest!! | Roblox 🌷| Bonnie Builds
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=MVLwTst-XfE
+    * 🔴 Bonnie Builds  ROBUX Contest!! | Roblox 🌷| Bonnie Builds
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=71ObsRJHOfo
     * 🔴 DAILY  ROBUX GIVEAWAY!! | Roblox 🌷| Bonnie Builds
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=hSkDXLc94y0
