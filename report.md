@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 24, 2021<br>
+Generated January 25, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -234,7 +234,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutterYT)
 * CPat (StarC0de_CPAT)
-* cqqp (cqqp)
+* cqqp (hi_albertt)
 * Crainer Roblox 
 * CrazyErzy (xCrazyErzyYTx)
 * Cristi Suki (CristiSukiYT)
@@ -317,7 +317,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JoJocraftHP (JoJocraftHP)
 * JonesGotGame (JonesGotGame)
 * Jr e Mi (JuniorGuimaraes and micandeloro)
-* Juegahora (Juegahora_RBXL)
+* Juegahora (Juegahora_Star)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
 * JunRoots (JunioRoots)
 * jvnq (jvnqYT)
