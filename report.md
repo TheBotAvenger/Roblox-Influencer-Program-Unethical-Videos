@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 25, 2021<br>
+Generated January 26, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 376,324 videos
-* Total videos found that match keywords: 23,870 videos
+* Total videos: 381,270 videos
+* Total videos found that match keywords: 24,236 videos
+  * Total unprocessed videos: 132 videos
 * Total videos found that are processed and marked: 3,352 videos 
   * Information Collection: 2,190 videos
   * Non-Giftcard Robux Giveaways: 974 videos
@@ -263,6 +264,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FancySmash (RealFancySmash)
 * Febatista 
 * FGTeeV (FGTeeV and DrizzMcNizz)
+* FishyBlox (FishyBloxYT)
+* Flamingo (mrflimflam)
 * Flxral (xoFlxral)
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (french_rxses)
@@ -278,6 +281,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GoingLimited (GoingLimited)
 * GoldenGlare (GOLD3NGLARE)
 * GoldenOwl 
+* gorygaming24601 (CoolRanch_24601)
 * grace k (yt_graceek)
 * Gravycatman (GrumpyGravy)
 * Hagazo (Hagazo9)
@@ -340,6 +344,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * LiaBlossoms (LiaBlossoms)
 * locus (locus200k)
 * Lokis (lokis9340)
+* Luky (LukyBloxYT)
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
 * Maislie (Maislie)
@@ -373,6 +378,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Oblivious (ObliviousHD)
 * oGVexx (LouDaREALGamer)
 * OmegaNova (NotOmegaNova)
+* Oscar (TheProOscar)
 * PaintingRainbows (RainbowsYT)
 * PandazPlay (ComplexConniee and ComplexJason)
 * Pankayz (Pankayz)
@@ -416,6 +422,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
 * Solemrex Flame (solemrexRB and iJackeryz)
+* Sons Of Fun (SonsofFun_YT)
 * Soy Blue (SoyBluee)
 * Spagz Blox (Spagzox)
 * Squid Magic (Foolzy)
