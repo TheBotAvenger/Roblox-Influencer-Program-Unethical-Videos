@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 31, 2021<br>
+Generated February 1, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -234,7 +234,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutterYT)
 * CPat (StarC0de_CPAT)
-* cqqp (hi_albertt)
+* cqqp (cqqp)
 * Crainer Roblox 
 * CrazyErzy (xCrazyErzyYTx)
 * Cristi Suki (CristiSukiYT)
@@ -385,7 +385,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PeetahBread (PeetahBread)
 * PHMittens (PHMittens_YoutubeRBX)
 * Phoeberry (Phoeberry)
-* PiggyMasterZ (OfficialPiggyMasterZ)
+* PiggyMasterZ (P0gMasterZ)
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
 * Play with me - Apps and Games (da\_dania and kaan\_xy2)
@@ -438,7 +438,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * The Pals (RealSubZeroExtabyte)
 * The Star Squad Gaming (StarSquadMolly)
 * TheAtlanticCraft (TheCrazyMaverick)
-* TheEvilShark (TheEvilShark1)
+* TheEvilShark (StarCode_Animal)
 * Thinknoodles (ImNotThinknoodles)
 * ThnxCya (NotThnxCya)
 * Thumbs Up Family (ThumbsUpFamily)
