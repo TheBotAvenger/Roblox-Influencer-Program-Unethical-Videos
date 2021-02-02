@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 1, 2021<br>
+Generated February 2, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 381,270 videos
-* Total videos found that match keywords: 24,236 videos
+* Total videos: 383,221 videos
+* Total videos found that match keywords: 24,537 videos
+  * Total unprocessed videos: 301 videos
 * Total videos found that are processed and marked: 3,352 videos 
   * Information Collection: 2,190 videos
   * Non-Giftcard Robux Giveaways: 974 videos
@@ -264,6 +265,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Febatista 
 * FGTeeV (FGTeeV and DrizzMcNizz)
 * FishyBlox (FishyBloxYT)
+* FlameRBX (SnowRBX_Youtube)
 * Flamingo (mrflimflam)
 * Flxral (xoFlxral)
 * Fraser2TheMax (Fraser2TheMax)
@@ -301,6 +303,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ImaGamerGirl (lmaGamerGirI)
 * Inemafoo (Inemajohn)
 * Infernasu (Infernasu)
+* Irmãs Gamers (iiPietra_GamesYT)
 * It's Akeila (itsakeila)
 * It's Siena (ItsNotSiena3)
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
@@ -396,6 +399,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Pretzel Etzel (pretzel_etzel)
 * PREZLEY (PrezleyOfficial)
 * ProSidu (prosiduzao)
+* Proton Plays Roblox (Prxtonn)
 * Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
 * REDKILL (RedKill24YT)
@@ -404,6 +408,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ROBLOXMuff (UseCode_ROBLOXMuff)
 * Robotz (R_obotz)
 * Robstix (Robstix)
+* Roof (RoofOmnis)
 * Roplex Gaming (RoplexYoutube)
 * RoTomek (RoTomek1)
 * roxhi roblox (12345roxyhi12345)
@@ -422,6 +427,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SlEGHART (SlEGHART)
 * Solemrex Flame (solemrexRB and iJackeryz)
 * Sons Of Fun (SonsofFun_YT)
+* Sopo Squad Gaming (mikedrop937 and CammyxBoba)
 * Soy Blue (SoyBluee)
 * Spagz Blox (Spagzox)
 * Squid Magic (Foolzy)
