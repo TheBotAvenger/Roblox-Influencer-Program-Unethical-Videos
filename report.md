@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 3, 2021<br>
+Generated February 4, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,12 +184,12 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 383,221 videos
 * Total videos found that match keywords: 24,537 videos
-  * Total unprocessed videos: 406 videos
-* Total videos found that are processed and marked: 3,338 videos 
+  * Total unprocessed videos: 192 videos
+* Total videos found that are processed and marked: 3,344 videos 
   * Information Collection: 2,189 videos
-  * Non-Giftcard Robux Giveaways: 963 videos
-  * Other: 152 videos
-  * Phishing: 34 videos
+  * Non-Giftcard Robux Giveaways: 967 videos
+  * Other: 153 videos
+  * Phishing: 35 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -395,7 +395,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Play with me - Apps and Games (da\_dania and kaan\_xy2)
 * Playonyx Tech (okgamerman)
 * Plech (PlechitoYT)
-* Poke (Pokediger1)
 * Premiumsalad (premiumsalad)
 * PrestonGamez (PrestonPlayz)
 * Pretzel Etzel (pretzel_etzel)
@@ -8177,6 +8176,23 @@ The following channels had nothing appear with manual searching. Videos may exis
     * THE FASTEST SWIMMER IN ROBLOX!! - Roblox Swimming Simulator (Funny Moments)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=nO7J7m7NpBY
+* Poke (Pokediger1)
+  * Other
+    * SPIN THE ROBLOX DEATH WHEEL (HE LOST 25,000 ROBUX)
+      * Video is about a wheel that has a chance to win or spend Robux.
+      * URL: https://www.youtube.com/watch?v=3vQT9KP6EeE
+  * Phishing
+    * HACKING AND GIVING A FAN FREE ROBUX ON ROBLOX!!
+      * URL: https://www.youtube.com/watch?v=dQEnfrcMALQ
+  * Non-Giftcard Robux Giveaways
+    * IMPOSSIBLE HIDE AND SEEK WITH MORPH COMMAND!  (Roblox)
+      * URL: https://www.youtube.com/watch?v=a80GNiucA_c
+    * I Trapped A POKE HATER In My \*SECRET\* ESCAPE ROOM! (Roblox)
+      * URL: https://www.youtube.com/watch?v=h9BR34DoLzQ
+    * IF THEY CHOOSE THE RIGHT CUP, THEY WIN FREE ROBUX! (Roblox)
+      * URL: https://www.youtube.com/watch?v=zO9TU0qdcIo
+    * BELIEVE I'M POKE, WIN 1000 ROBUX! (Roblox)
+      * URL: https://www.youtube.com/watch?v=R1_7Zp5RN2A
 * Rainway (UseCode_Rainway)
   * Information Collection
     * \*NEW UPDATE\* ADOPT A POLICE DOG! \*TREATS\* (ROBLOX MAD CITY)
