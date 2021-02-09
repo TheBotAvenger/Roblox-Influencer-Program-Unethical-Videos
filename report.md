@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 8, 2021<br>
+Generated February 9, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 383,221 videos
-* Total videos found that match keywords: 24,537 videos
-  * Total unprocessed videos: 192 videos
+* Total videos: 385,993 videos
+* Total videos found that match keywords: 24,718 videos
+  * Total unprocessed videos: 334 videos
 * Total videos found that are processed and marked: 3,344 videos 
   * Information Collection: 2,189 videos
   * Non-Giftcard Robux Giveaways: 967 videos
@@ -218,6 +218,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bonnie Builds (BonnieBuildsYT)
 * BramP (bramp1996)
 * Brianna (zBriannaGamez)
+* Brincando com a Keke (Keke_KerenYT)
 * Bubbles (bubblestoxic)
 * Buur (BuurmanTenus)
 * ByDerank (ByDerank_YT)
@@ -426,6 +427,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Signicial (Signicial)
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
+* SnickerHoops (SnickerHoops)
 * Solemrex Flame (solemrexRB and iJackeryz)
 * Sons Of Fun (SonsofFun_YT)
 * Sopo Squad Gaming (mikedrop937 and CammyxBoba)
@@ -447,6 +449,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TheAtlanticCraft (TheCrazyMaverick)
 * TheEvilShark (StarCode_Animal)
 * Thinknoodles (ImNotThinknoodles)
+* Thiq Betty (ChrisPurKittiess)
 * ThnxCya (NotThnxCya)
 * Thumbs Up Family (ThumbsUpFamily)
 * ThunberGames (ThunberGames)
@@ -454,6 +457,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TinenQa (TinenQa1)
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
+* Tooquick (tooquick4you2)
 * TroyanoNanoReturns (TroyanoNanoReturns)
 * True entertainer (sambhaji12)
 * Turtles Wear Raincoats (TurtlesWearRaincoats)
