@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 9, 2021<br>
+Generated February 10, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,12 +184,12 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 385,993 videos
 * Total videos found that match keywords: 24,718 videos
-  * Total unprocessed videos: 334 videos
-* Total videos found that are processed and marked: 3,344 videos 
+  * Total unprocessed videos: 15 videos
+* Total videos found that are processed and marked: 3,345 videos 
   * Information Collection: 2,189 videos
   * Non-Giftcard Robux Giveaways: 967 videos
   * Other: 153 videos
-  * Phishing: 35 videos
+  * Phishing: 36 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -741,6 +741,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=V5Y3MNZv4K8
 * ComfySunday (ComfySunday)
   * Phishing
+    * I SURPRISED A NEW FAN WITH A 10,000 ROBUX MAKEOVER!!
+      * Offers to give Robux in exchange for a username and password.
+      * URL: https://www.youtube.com/watch?v=7sXJifkVUUA
     * I SURPRISED A FAN WITH A 10,000 ROBUX MAKEOVER
       * Offers to give Robux in exchange for a username and password via direct messages on Instagram.
       * URL: https://www.youtube.com/watch?v=RLx_MTN4ow0
