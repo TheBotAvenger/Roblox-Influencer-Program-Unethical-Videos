@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 14, 2021<br>
+Generated February 15, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -208,7 +208,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bandi (BandiRue)
 * Bebe Adri (BebeAdriYT)
 * Bia Gamer (BiiiaGamerYT)
-* Biano Games (BianoBetero)
+* Biano Betero (BianoBetero)
 * Bigbst4tz2 (BigBst4tz22)
 * BIGHEAD (Bighead_StarCode)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
@@ -437,7 +437,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
-* TanqR (hfqheghrjagdjhdshot)
+* TanqR (IlIIlIIlIIIlllIIIIl)
 * TapWater (UseCode_Tap)
 * Temprist (Temprist)
 * Tex HS (TexWillerHS)
@@ -475,7 +475,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ZaiLetsPlay (YT_ZaiLetsPlay)
 * Zepyxl (Zepyxl)
 * Zerophyx (Zerophyx)
-* ZNac (Z_Nac and jessetc)
+* ZNac (Z_Nac and UwUCatBoiOwO)
 * ZULY (ItsZulyYT)
 
 ### Videos Found
@@ -4525,7 +4525,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Consiga ROBUX GRÁTIS Dessa Maneira - SORTEIO 2000 Robux
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=Nda5CJd2LwQ
-* FunkySquadHD (0UseCode_Funky)
+* Funky (0UseCode_Funky)
   * Information Collection
     * I GOT ON THE LEADERBOARD! North Pole Simulator 🎅
       * Description references the data collection website irobux.com.
@@ -7198,7 +7198,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
-* MaRcDoGy (ItzMaRcDoGy)
+* MaRcDoGy (AmoAOseos)
   * Information Collection
     * Robux Gratis !!! %100 Real No Va En Broma !!
       * Description references the data collection website bloxawards.com.
