@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 15, 2021<br>
+Generated February 16, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 385,993 videos
-* Total videos found that match keywords: 24,718 videos
+* Total videos: 387,506 videos
+* Total videos found that match keywords: 24,846 videos
+  * Total unprocessed videos: 128 videos
 * Total videos found that are processed and marked: 3,345 videos 
   * Information Collection: 2,189 videos
   * Non-Giftcard Robux Giveaways: 967 videos
@@ -457,6 +458,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
 * Tooquick (tooquick4you2)
+* ToxicJim (supersonshadow17)
 * TroyanoNanoReturns (TroyanoNanoReturns)
 * True entertainer (sambhaji12)
 * Turtles Wear Raincoats (TurtlesWearRaincoats)
