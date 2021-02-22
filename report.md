@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 21, 2021<br>
+Generated February 22, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -437,7 +437,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
-* TanqR (IlIIlIIlIIIlllIIIIl)
+* TanqR (TanqR)
 * TapWater (UseCode_Tap)
 * Temprist (Temprist)
 * Tex HS (TexWillerHS)
@@ -5008,7 +5008,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * WHEN A STRANGER FINDS 1,000 ROBUX | Roblox Social Experiment
       * Randomly gives out Robux using a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=wgXTsve1zOs
-* IntelPlayz (UseCode_IntelPlayz)
+* IntelPlayz (YT_RoBuilder)
   * Information Collection
     * THE PORTAL FINALLY OPENED | Pet Simulator
       * Description references the data collection website irobux.com.
@@ -6871,7 +6871,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKER BOB ESPONJA ELE AINDA EXISTE ?? :O ‹ Roblox Mistérios ›
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=er8bmm9FcD0
-* Jie GamingStudio (jieeroblox)
+* Jiee (jieeroblox)
   * Information Collection
     * Jie 100k ROBLOX Art Contest(CLOSED)
       * Description references the data collection website easyrobux.today.
