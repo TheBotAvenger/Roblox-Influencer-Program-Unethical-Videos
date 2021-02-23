@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 22, 2021<br>
+Generated February 23, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 387,506 videos
-* Total videos found that match keywords: 24,846 videos
+* Total videos: 389,168 videos
+* Total videos found that match keywords: 24,988 videos
+  * Total unprocessed videos: 141 videos
 * Total videos found that are processed and marked: 3,345 videos 
   * Information Collection: 2,189 videos
   * Non-Giftcard Robux Giveaways: 967 videos
@@ -207,6 +208,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ayzria (Ayzria)
 * Bandi (BandiRue)
 * Bebe Adri (BebeAdriYT)
+* Benni (ImBenni)
 * Bia Gamer (BiiiaGamerYT)
 * Biano Betero (BianoBetero)
 * Bigbst4tz2 (BigBst4tz22)
@@ -227,6 +229,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Carol TV (caaroltv)
 * CatFer (SoyCatFer)
 * cazum8 (cazum8)
+* Celestial Roblox (IM_Celestial)
 * Cerority (Cerority)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
@@ -249,6 +252,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
 * DeeterPlays (DeeterPlays)
 * Devovo (Devovorya)
+* Digito Plays (DigitoPlaysThis)
 * Diário do Casal Gamer (VictorNuclear and FernandaTreta)
 * DoctorBenx (Bensonheimer and ebruulein)
 * Dois Marmotas (diinhaaa28 and Luckke23)
@@ -386,7 +390,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PandazPlay (ComplexConniee and ComplexJason)
 * Pankayz (Pankayz)
 * Papile (jupapile)
+* PedroLetsPlay (pedroletsplayroblox)
 * PeetahBread (PeetahBread)
+* PghLFilms (PGHLego1945)
 * PHMittens (PHMittens_YoutubeRBX)
 * Phoeberry (Phoeberry)
 * PiggyMasterZ (P0gMasterZ)
