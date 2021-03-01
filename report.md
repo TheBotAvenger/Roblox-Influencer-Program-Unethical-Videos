@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 28, 2021<br>
+Generated March 1, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -415,7 +415,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Robotz (R_obotz)
 * Robstix (Robstix)
 * Roof (RoofOmnis)
-* Roplex Gaming (RoplexYoutube)
+* Roplex Gaming 
 * RoTomek (RoTomek1)
 * roxhi roblox (12345roxyhi12345)
 * Royale Roleplay (RxyaleRoleplayer)
@@ -431,7 +431,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Signicial (Signicial)
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
-* SnickerHoops (SnickerHoops)
 * Solemrex Flame (solemrexRB and iJackeryz)
 * Sons Of Fun (SonsofFun_YT)
 * Sopo Squad Gaming (mikedrop937 and CammyxBoba)
@@ -442,6 +441,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
+* SWTAD Kids (SnickerHoops)
 * TanqR (TanqR)
 * TapWater (UseCode_Tap)
 * Temprist (Temprist)
@@ -713,7 +713,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBUX GIVEAWAY DAY ! ROBLOX LIVE ROBUX CODES GIVE-A-WAY
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=66gSQrZyGjo
-* BlueBug (MrBlueBug)
+* BlueBug (TheBugBlue)
   * Non-Giftcard Robux Giveaways
     * Robux Giveaway Winners(FOR 100 SUBS)
       * Uses group funds to give away Robux.
@@ -6876,7 +6876,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKER BOB ESPONJA ELE AINDA EXISTE ?? :O ‹ Roblox Mistérios ›
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=er8bmm9FcD0
-* Jiee (jieeroblox)
+* Jie GamingStudio (jieeroblox)
   * Information Collection
     * Jie 100k ROBLOX Art Contest(CLOSED)
       * Description references the data collection website easyrobux.today.
