@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 1, 2021<br>
+Generated March 2, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 389,168 videos
-* Total videos found that match keywords: 24,988 videos
+* Total videos: 390,722 videos
+* Total videos found that match keywords: 25,129 videos
+  * Total unprocessed videos: 140 videos
 * Total videos found that are processed and marked: 3,345 videos 
   * Information Collection: 2,189 videos
   * Non-Giftcard Robux Giveaways: 967 videos
@@ -240,6 +241,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * CPat (StarC0de_CPAT)
 * cqqp (cqqp)
 * Crainer Roblox 
+* Craxel (Craxelss)
 * CrazyErzy (xCrazyErzyYTx)
 * Cristi Suki (CristiSukiYT)
 * Cryptize (Cryptize)
@@ -337,6 +339,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Kelvingts (Kelvingts)
 * Kepu The Cat (KepuTheCat)
 * Kindly Keyin (KindlyKeyin)
+* KingOfYouTube (uKingzaum)
 * KIRON (SoyKiron)
 * KraoESP (KraoESP)
 * Krystin Plays (KrystinPlays)
@@ -355,6 +358,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lunar Eclipse (Lunar3clispe)
 * Maislie (Maislie)
 * Manucraft (ManucraftYT)
+* Mariana Nana (marianavasco)
 * Mary - Frozencrystal 
 * mayrushart (mayrushart)
 * MeganPlays (TheMeganPlays)
