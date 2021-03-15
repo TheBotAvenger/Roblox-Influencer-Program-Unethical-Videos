@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 14, 2021<br>
+Generated March 15, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -216,7 +216,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Blue Blob (jiravich)
 * bobjenz 
 * Bonnie Builds (BonnieBuildsYT)
-* BramP (bramp1996)
+* BramP (BramPeeee)
 * Brianna (zBriannaGamez)
 * Brincando com a Keke (Keke_KerenYT)
 * Bubbles (bubblestoxic)
@@ -436,7 +436,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Signicial (Signicial)
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
-* Solemrex Flame (solemrexRB and iJackeryz)
+* Solem Archive (solemrexRB and iJackeryz)
 * Sons Of Fun (SonsofFun_YT)
 * Sopo Squad Gaming (mikedrop937 and CammyxBoba)
 * Soy Blue (SoyBluee)
