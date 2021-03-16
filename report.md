@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 15, 2021<br>
+Generated March 16, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,8 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 392,348 videos
-* Total videos found that match keywords: 25,276 videos
+* Total videos: 394,047 videos
+* Total videos found that match keywords: 25,409 videos
 * Total videos found that are processed and marked: 3,346 videos 
   * Information Collection: 2,189 videos
   * Non-Giftcard Robux Giveaways: 967 videos
@@ -217,6 +217,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * bobjenz 
 * Bonnie Builds (BonnieBuildsYT)
 * BramP (BramPeeee)
+* BREN0RJ (BREN0RJ7)
 * Brianna (zBriannaGamez)
 * Brincando com a Keke (Keke_KerenYT)
 * Bubbles (bubblestoxic)
@@ -264,6 +265,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ephicsea (Ephicsea)
 * EthanGamer (EthanGamerTV)
 * Evanbear1 (Evanbear1)
+* FadedPlayz (YTFadedPlayz)
 * faeglow (faeglow)
 * FakerUp (NotFakerUp)
 * FancySmash (RealFancySmash)
@@ -280,6 +282,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GabriellaGames 
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
+* Gamer Hexapod - R3 (Hexapod_xD)
 * Gamer Kawaii (iiGamerKawaiiYT)
 * GH0Ks (GHOKSZIN)
 * GianBlox (GiianBloxYT)
@@ -357,6 +360,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lunar Eclipse (Lunar3clispe)
 * Mackenzie Turner Roblox (MackenzieTurnerYT)
 * Maislie (Maislie)
+* Mandinha Game (iii_Amandinha)
 * Manucraft (ManucraftYT)
 * Mariana Nana (marianavasco)
 * Mary - Frozencrystal 
@@ -408,6 +412,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PrestonGamez (PrestonPlayz)
 * Pretzel Etzel (pretzel_etzel)
 * PREZLEY (PrezleyOfficial)
+* Princess Royale (IAmPrincessRoyale)
 * ProSidu (prosiduzao)
 * Proton Plays Roblox (Prxtonn)
 * Raconidas (Raconidas)
@@ -430,6 +435,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SallyGreenGamer 
 * ScriptedMatt (ScriptedMatt)
 * SDMittens (SDMittens)
+* sebee (23Sebee)
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
@@ -482,6 +488,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XdarzethX - Roblox & More! (xdarzethx)
 * xThyEdgarx (RareEdddddyyyy)
 * Yokai (Yokai_YT)
+* YoSoyLoki (YoSoyLokiYT)
 * yTowakGb (yTowakGb)
 * Z00LD 
 * ZaiLetsPlay (YT_ZaiLetsPlay)
