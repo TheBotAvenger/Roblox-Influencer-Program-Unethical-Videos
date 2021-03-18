@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 17, 2021<br>
+Generated March 18, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 394,047 videos
 * Total videos found that match keywords: 25,444 videos
-  * Total unprocessed videos: 597 videos
-* Total videos found that are processed and marked: 3,345 videos 
+* Total videos found that are processed and marked: 3,346 videos 
   * Information Collection: 2,189 videos
-  * Non-Giftcard Robux Giveaways: 966 videos
+  * Non-Giftcard Robux Giveaways: 967 videos
   * Other: 154 videos
   * Phishing: 36 videos
 
@@ -302,7 +301,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HulkBR (hulkbr_oficial)
 * Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
-* iamSanna (notiamsanna)
 * iBeMaine (ibemaine)
 * iFresproYT (iFresproYT)
 * iGuz (iGuzGames)
@@ -5589,6 +5587,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 23 KILLS || CON MI SEGUNDA CUENTA || ARSENAL (ROBLOX)
       * Video is about using an alternate account to use an "aim bot" for Arsenal. Noticable in some cases like at 0:17, 0:21, and 0:28 with how smooth tracking heads is while moving.
       * URL: https://www.youtube.com/watch?v=YDMe6lZVIFI
+* iamSanna (notiamsanna)
+  * Non-Giftcard Robux Giveaways
+    * WIN 10,000 ROBUX In This \*NEW\* Adopt Me FASHION CONTEST! (Adopt Me)
+      * Uses group funds to give away Robux for a competition.
+      * URL: https://www.youtube.com/watch?v=L7_cIHzhFpw
 * InquisitorMaster (inquisitormaster)
   * Phishing
     * I HACKED A FAN AND CAN'T BELIEVE WHAT I SAW! | Roblox Social Experiment
