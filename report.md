@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 21, 2021<br>
+Generated March 22, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -486,7 +486,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Volt (v0_1t)
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
-* xThyEdgarx (RareEdddddyyyy)
+* xThyEdgarx (AmThyEdgar)
 * Yokai (Yokai_YT)
 * YoSoyLoki (YoSoyLokiYT)
 * yTowakGb (yTowakGb)
