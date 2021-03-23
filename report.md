@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 22, 2021<br>
+Generated March 23, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 394,047 videos
-* Total videos found that match keywords: 25,444 videos
+* Total videos: 395,905 videos
+* Total videos found that match keywords: 25,638 videos
+  * Total unprocessed videos: 152 videos
 * Total videos found that are processed and marked: 3,346 videos 
   * Information Collection: 2,189 videos
   * Non-Giftcard Robux Giveaways: 967 videos
@@ -279,6 +280,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * frenchrxses (french_rxses)
 * FUDZ (fudsim)
 * Furious Jumper (furi0us_jumper)
+* FusionZGamer (NotFusionZGamer)
 * GabriellaGames 
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
@@ -297,11 +299,13 @@ The following channels had nothing appear with manual searching. Videos may exis
 * hannnahlovescows (hannnahlovescows)
 * HappyBlack (HappyThreePro)
 * HelloItsVG (HelloItsVinh)
+* HeyItsJames (NotJamesRBLX)
 * Honey The Unicorn - Roblox (HoneyTheUnicornYT)
 * HulkBR (hulkbr_oficial)
 * Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
 * iBeMaine (ibemaine)
+* iBugou (iBugouzinho)
 * iFresproYT (iFresproYT)
 * iGuz (iGuzGames)
 * iiisxphie (iiisxphie)
@@ -364,12 +368,14 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Manucraft (ManucraftYT)
 * Mariana Nana (marianavasco)
 * Mary - Frozencrystal 
+* Matsbxb (MATSbxb)
 * mayrushart (mayrushart)
 * MeganPlays (TheMeganPlays)
 * MelzinhaMel Games (MelzinhaMelGames, Detona\_Anderson, and Princesa\_Alicinha)
 * Mia Games (MiaZaffyt)
 * MIANNN (MIANNNGAMER)
 * Michaels Mayhem 
+* MICHI RØBLØX (michineyley)
 * MicroGuardian (MicroGuardian)
 * Mila FunPlayer (trxmila)
 * Milo Mine (BebeMiloAmiwito)
@@ -398,6 +404,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Pankayz (Pankayz)
 * Papile (jupapile)
 * PedroLetsPlay (pedroletsplayroblox)
+* Peepguy (peepguyx)
 * PeetahBread (PeetahBread)
 * PghLFilms (PGHLego1945)
 * PHMittens (PHMittens_YoutubeRBX)
@@ -433,6 +440,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ryguy - Roblox (ryguyrocky)
 * S\_Viper (S\_Viper)
 * SallyGreenGamer 
+* ScooterSmash0 (Real_ScooterSmash0)
 * ScriptedMatt (ScriptedMatt)
 * SDMittens (SDMittens)
 * sebee (23Sebee)
@@ -482,6 +490,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
 * Unicorn Twins - Roblox (moodyunicorntwin)
+* VikingPrincessJazmin (VikingPrincessJazmin)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * Volt (v0_1t)
 * XanderPlaysThis (XanderPlaysThis)
