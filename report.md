@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 23, 2021<br>
+Generated March 24, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 395,905 videos
 * Total videos found that match keywords: 25,638 videos
-  * Total unprocessed videos: 152 videos
-* Total videos found that are processed and marked: 3,346 videos 
-  * Information Collection: 2,189 videos
+  * Total unprocessed videos: 8 videos
+* Total videos found that are processed and marked: 3,343 videos 
+  * Information Collection: 2,186 videos
   * Non-Giftcard Robux Giveaways: 967 videos
   * Other: 154 videos
   * Phishing: 36 videos
@@ -8907,18 +8907,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 5 YOUTUBERS que o Roblox BANIU PRA SEMPRE...🚫🎥
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=iVSV_FWK-Rk
-    * A HISTÓRIA DOS BIGHEADS \*FORAM PROIBIDOS?\* 🚫
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=taGXjCwZfw8
     * COMO CONSEGUIR SEGUIDORES INFINITOS NO ROBLOX!! ✔️
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=1VXEKlaIdgM
     * SOFRI PREC0NCEIT0 POR SER DEFICIENTE NO ROBLOX..😪♿
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=GFWwrU3UkuY
-    * VAI TER CHAT DE VOZ NO FALL GUYS?? 🌈🎤
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=txGqapnKqIg
     * 5 Itens que o Roblox BANIU PRA SEMPRE...🚫
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=ASc1eGRl2cw
@@ -8928,9 +8922,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * mano, a gente é muito RUIM!!..- Fall Guys🌈
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=OEZXun57aGg
-    * É PR0IBID0 GAROTAS NESSE MAPA!! ♂ 🚹
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=F_u4kej8UIM
     * PAREM!! DE COMPRAR CAMISETAS NO ROBLOX 💸🚫
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=vXzrt2wayxE
