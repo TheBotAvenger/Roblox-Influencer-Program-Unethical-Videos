@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 28, 2021<br>
+Generated March 29, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -399,6 +399,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * oGVexx (LouDaREALGamer)
 * OmegaNova (NotOmegaNova)
 * Oscar (TheProOscar)
+* P0gMasterZ (P0gMasterZ)
 * PaintingRainbows (RainbowsYT)
 * PandazPlay (ComplexConniee and ComplexJason)
 * Pankayz (Pankayz)
@@ -407,9 +408,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Peepguy (peepguyx)
 * PeetahBread (PeetahBread)
 * PghLFilms (PGHLego1945)
-* PHMittens (PHMittens_YoutubeRBX)
+* PHMittens (PHMittensSTARCreator)
 * Phoeberry (Phoeberry)
-* PiggyMasterZ (P0gMasterZ)
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
 * Play with me - Apps and Games (da\_dania and kaan\_xy2)
@@ -450,7 +450,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Signicial (Signicial)
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
-* Solem Archive (solemrexRB and iJackeryz)
+* Solem Archive (iJackeryz)
 * Sons Of Fun (SonsofFun_YT)
 * Sopo Squad Gaming (mikedrop937 and CammyxBoba)
 * Soy Blue (SoyBluee)
