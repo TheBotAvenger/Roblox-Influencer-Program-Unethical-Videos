@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 29, 2021<br>
+Generated March 30, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 395,905 videos
-* Total videos found that match keywords: 25,638 videos
-  * Total unprocessed videos: 8 videos
+* Total videos: 397,650 videos
+* Total videos found that match keywords: 25,773 videos
+  * Total unprocessed videos: 143 videos
 * Total videos found that are processed and marked: 3,343 videos 
   * Information Collection: 2,186 videos
   * Non-Giftcard Robux Giveaways: 967 videos
@@ -304,6 +304,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HulkBR (hulkbr_oficial)
 * Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
+* IBella (Cinderbelle)
 * iBeMaine (ibemaine)
 * iBugou (iBugouzinho)
 * iFresproYT (iFresproYT)
@@ -440,6 +441,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ryguy - Roblox (ryguyrocky)
 * S\_Viper (S\_Viper)
 * SallyGreenGamer 
+* Santino Tossi (SantinoTossi03)
 * ScooterSmash0 (Real_ScooterSmash0)
 * ScriptedMatt (ScriptedMatt)
 * SDMittens (SDMittens)
@@ -457,6 +459,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Spagz Blox (Spagzox)
 * Squid Magic (Foolzy)
 * SrPrismatico (SrPrismatico)
+* StaTick (St4Tick)
 * Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
@@ -489,6 +492,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TussyGames (TussyGames)
 * TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
+* Tx_cle (TxcIes)
 * Unicorn Twins - Roblox (moodyunicorntwin)
 * VikingPrincessJazmin (VikingPrincessJazmin)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
