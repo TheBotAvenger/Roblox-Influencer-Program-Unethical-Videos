@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 4, 2021<br>
+Generated April 5, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -7302,12 +7302,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HIDE and SEEK on NEW MAP for 3000 ROBUX! | Roblox Jailbreak
       * Uses group funds to give away Robux for a competition.
       * URL: https://www.youtube.com/watch?v=5UQfA8iJm8s
-* Nicole Kimmi (Nicole_Kimmi)
-  * Information Collection
-    * MOLESTANDO A GENTE EN BROOKHAVEN 🥺🤣
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=DprbUKcQEBw
-* NikTac 
+* NetBlox 
   * Non-Giftcard Robux Giveaways
     * \*SECRET\* HALLOWEEN BEES & EVIL BEAR COMING IN Roblox Bee Swarm Simulator!? (Update Theory)
       * Description references Robux giveaways in the Roblox group.
@@ -8218,6 +8213,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * THE FASTEST SWIMMER IN ROBLOX!! - Roblox Swimming Simulator (Funny Moments)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=nO7J7m7NpBY
+* Nicole Kimmi (Nicole_Kimmi)
+  * Information Collection
+    * MOLESTANDO A GENTE EN BROOKHAVEN 🥺🤣
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=DprbUKcQEBw
 * Poke (Pokediger1)
   * Other
     * SPIN THE ROBLOX DEATH WHEEL (HE LOST 25,000 ROBUX)
