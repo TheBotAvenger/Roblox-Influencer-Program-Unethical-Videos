@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 11, 2021<br>
+Generated April 12, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,7 +182,7 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 399,345 videos
+* Total videos: 400,696 videos
 * Total videos found that match keywords: 25,913 videos
 * Total videos found that are processed and marked: 3,346 videos 
   * Information Collection: 2,189 videos
@@ -292,7 +292,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GoldenGlare (GOLD3NGLARE)
 * GoldenOwl 
 * gorygaming24601 (CoolRanch_24601)
-* grace k (yt_graceek)
+* grace k (1yearwithtae)
 * Gravycatman (GrumpyGravy)
 * Hagazo (Hagazo9)
 * hannnahlovescows (hannnahlovescows)
@@ -5125,7 +5125,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Consiga ROBUX GRÁTIS Dessa Maneira - SORTEIO 2000 Robux
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=Nda5CJd2LwQ
-* Funky (0UseCode_Funky)
+* Funky (FunkyJustVibin)
   * Information Collection
     * I GOT ON THE LEADERBOARD! North Pole Simulator 🎅
       * Description references the data collection website irobux.com.
