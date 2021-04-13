@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 12, 2021<br>
+Generated April 13, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,14 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 400,696 videos
-* Total videos found that match keywords: 25,913 videos
-* Total videos found that are processed and marked: 3,346 videos 
+* Total videos: 401,062 videos
+* Total videos found that match keywords: 26,030 videos
+  * Total unprocessed videos: 10 videos
+* Total videos found that are processed and marked: 3,347 videos 
   * Information Collection: 2,189 videos
   * Non-Giftcard Robux Giveaways: 967 videos
   * Other: 154 videos
-  * Phishing: 36 videos
+  * Phishing: 37 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -254,6 +255,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DeeterPlays (DeeterPlays)
 * Devovo (Devovorya)
 * Digito Plays (DigitoPlaysThis)
+* Digopollo (DigoPollos)
 * Diário do Casal Gamer (VictorNuclear and FernandaTreta)
 * DoctorBenx (Bensonheimer and ebruulein)
 * Dois Marmotas (diinhaaa28 and Luckke23)
@@ -467,6 +469,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TapWater (UseCode_Tap)
 * Temprist (Temprist)
 * Tex HS (TexWillerHS)
+* th3c0nnman (th3c0nnman)
 * THE KAPOLAR (Kapolar1)
 * The Meg and Mo Show (MegaSquadMo)
 * The Pals (RealSubZeroExtabyte)
@@ -487,6 +490,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ToxicJim (supersonshadow17)
 * TroyanoNanoReturns (TroyanoNanoReturns)
 * True entertainer (sambhaji12)
+* tsetYT (tsetfed)
 * Turtles Wear Raincoats (TurtlesWearRaincoats)
 * TussyGames (TussyGames)
 * TW Dessi Gaming (TW_Dessi)
@@ -498,6 +502,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Volt (v0_1t)
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
+* xEnesR (xEnesR)
 * xThyEdgarx (AmThyEdgar)
 * Yokai (Yokai_YT)
 * YoSoyLoki (YoSoyLokiYT)
@@ -1340,6 +1345,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=V5Y3MNZv4K8
 * ComfySunday (ComfySunday)
   * Phishing
+    * SURPRISING A FAN WITH 1,000 ROBUXS!! SHE SAID THIS...
+      * Offers to give Robux in exchange for a username and password.
+      * URL: https://www.youtube.com/watch?v=fGsw1GGVWPk
     * I SURPRISED A NEW FAN WITH A 10,000 ROBUX MAKEOVER!!
       * Offers to give Robux in exchange for a username and password.
       * URL: https://www.youtube.com/watch?v=7sXJifkVUUA
