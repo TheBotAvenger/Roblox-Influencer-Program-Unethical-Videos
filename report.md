@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 18, 2021<br>
+Generated April 19, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -5601,11 +5601,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Roblox Piggy but i used hacks..
       * Demonstrates using an autoclicker to exploit going through walls.
       * URL: https://www.youtube.com/watch?v=YB0Urzcgw9I
-* Hey Sant (heysant2018)
-  * Other
-    * 23 KILLS || CON MI SEGUNDA CUENTA || ARSENAL (ROBLOX)
-      * Video is about using an alternate account to use an "aim bot" for Arsenal. Noticable in some cases like at 0:17, 0:21, and 0:28 with how smooth tracking heads is while moving.
-      * URL: https://www.youtube.com/watch?v=YDMe6lZVIFI
 * iamSanna (notiamsanna)
   * Non-Giftcard Robux Giveaways
     * WIN 10,000 ROBUX In This \*NEW\* Adopt Me FASHION CONTEST! (Adopt Me)
@@ -8654,6 +8649,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HUGE 50,000 ROBUX GIVEAWAY \*HOW TO ENTER\*
       * Video is about entering a Robux giveaway using group funds.
       * URL: https://www.youtube.com/watch?v=92-bOP8egXE
+* Sant (heysant2018)
+  * Other
+    * 23 KILLS || CON MI SEGUNDA CUENTA || ARSENAL (ROBLOX)
+      * Video is about using an alternate account to use an "aim bot" for Arsenal. Noticable in some cases like at 0:17, 0:21, and 0:28 with how smooth tracking heads is while moving.
+      * URL: https://www.youtube.com/watch?v=YDMe6lZVIFI
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
