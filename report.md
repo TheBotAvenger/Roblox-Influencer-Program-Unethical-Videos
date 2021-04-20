@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 19, 2021<br>
+Generated April 20, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 401,062 videos
-* Total videos found that match keywords: 26,030 videos
+* Total videos: 403,023 videos
+* Total videos found that match keywords: 26,181 videos
+  * Total unprocessed videos: 117 videos
 * Total videos found that are processed and marked: 3,347 videos 
   * Information Collection: 2,189 videos
   * Non-Giftcard Robux Giveaways: 967 videos
@@ -220,6 +221,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BREN0RJ (BREN0RJ7)
 * Brianna (zBriannaGamez)
 * Brincando com a Keke (Keke_KerenYT)
+* BrittanyPlays (Britt_Blox)
 * Bubbles (bubblestoxic)
 * Buur (BuurmanTenus)
 * ByDerank (ByDerank_YT)
@@ -319,6 +321,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * It's Akeila (itsakeila)
 * It's Siena (ItsNotSiena3)
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
+* Its Ashley Playz YT (ItsAshley_PlayzYT)
 * Its SugarCoffee (SugarCoffee123)
 * ItsFunneh (Funnehcake)
 * J-Bug (J_Buggo)
@@ -428,6 +431,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * REDKILL (RedKill24YT)
 * RellGames (RELLvex)
 * Remainings (Remainings)
+* RiusPlay (RiusPlayYTYTYT)
 * ROBLOXMuff (UseCode_ROBLOXMuff)
 * Robotz (R_obotz)
 * Robstix (Robstix)
@@ -436,6 +440,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RoTomek (RoTomek1)
 * roxhi roblox (12345roxyhi12345)
 * RoxiCake Gamer (YT_RoxiCake)
+* Royale Dior (ItsRoyaleDiorYT)
 * Royale Roleplay (RxyaleRoleplayer)
 * Ruby Games (ruby_rubeYT)
 * Ryguy - Roblox (ryguyrocky)
@@ -466,6 +471,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SWTAD Kids (SnickerHoops)
 * TanqR (TanqR)
 * TapWater (UseCode_Tap)
+* teenager paul (teenagerpaul)
 * Temprist (Temprist)
 * Tex HS (TexWillerHS)
 * th3c0nnman (th3c0nnman)
