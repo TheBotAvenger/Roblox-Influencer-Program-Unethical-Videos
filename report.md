@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 25, 2021<br>
+Generated April 26, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -216,7 +216,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * Blue Blob (jiravich)
 * bobjenz 
-* Bonnie Builds (BonnieBuildsYT)
+* Bonnie Builds Roblox (BonnieBuildsYT)
 * BramP (BramPeeee)
 * BREN0RJ (BREN0RJ7)
 * Brianna (zBriannaGamez)
@@ -295,7 +295,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GoldenGlare (GOLD3NGLARE)
 * GoldenOwl 
 * gorygaming24601 (CoolRanch_24601)
-* grace k (1yearwithtae)
+* grace k (yt_graceek)
 * Gravycatman (GrumpyGravy)
 * Hagazo (Hagazo9)
 * hannnahlovescows (hannnahlovescows)
@@ -10027,7 +10027,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Complete The HotWheel Track For R$1,000 Robux Challenge!
       * Video gives away using group funds.
       * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
-* Stronbol Roblox (StronbolYT)
+* Stronbol Roblox (MelanieLani32)
   * Information Collection
     * EL DIA en el que ME ROBARON mas de 80,000 ROBUX
       * Description references the data collection website earnrobux.gg.
