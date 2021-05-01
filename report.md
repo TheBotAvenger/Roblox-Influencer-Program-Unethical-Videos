@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 30, 2021<br>
+Generated May 1, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,12 +184,12 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 404,861 videos
 * Total videos found that match keywords: 26,325 videos
-  * Total unprocessed videos: 287 videos
-* Total videos found that are processed and marked: 3,347 videos 
+  * Total unprocessed videos: 26 videos
+* Total videos found that are processed and marked: 3,346 videos 
   * Information Collection: 2,189 videos
   * Non-Giftcard Robux Giveaways: 967 videos
   * Other: 154 videos
-  * Phishing: 37 videos
+  * Phishing: 36 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -5672,8 +5672,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=_XmbkXyoBeA
     * HACKING A ROBLOX HACKERS ACCOUNT...
       * URL: https://www.youtube.com/watch?v=lfi_UP4xAnw
-    * HACKING MY FRIENDS ROBLOX ACCOUNT AND STEALING HIS GODLIES!
-      * URL: https://www.youtube.com/watch?v=PRa2Y-PRHbU
 * JeffBlox (JeeffBlox)
   * Information Collection
     * ISSO FOI REMOVIDO DO ROBLOX E VOCÊ NEM PERCEBEU
