@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 2, 2021<br>
+Generated May 3, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -469,8 +469,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
 * SWTAD Kids (SnickerHoops)
-* TanqR (TanqR)
-* TapWater (UseCode_Tap)
+* TanqR (tanqr)
+* TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
 * Temprist (Temprist)
 * Tex HS (TexWillerHS)
@@ -516,7 +516,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ZaiLetsPlay (YT_ZaiLetsPlay)
 * Zepyxl (Zepyxl)
 * Zerophyx (Zerophyx)
-* ZNac (Z_Nac and UwUCatBoiOwO)
+* ZNac (Z_Nac and LOLknitSuoY)
 * ZULY (ItsZulyYT)
 
 ### Videos Found
