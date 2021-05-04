@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 3, 2021<br>
+Generated May 4, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 404,861 videos
-* Total videos found that match keywords: 26,325 videos
-  * Total unprocessed videos: 26 videos
+* Total videos: 406,906 videos
+* Total videos found that match keywords: 26,526 videos
+  * Total unprocessed videos: 185 videos
 * Total videos found that are processed and marked: 3,346 videos 
   * Information Collection: 2,189 videos
   * Non-Giftcard Robux Giveaways: 967 videos
@@ -235,6 +235,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cerority (Cerority)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
+* Chrisu Gaming (ChristsuYT)
 * Chyna Gaming (Iamchynagaming)
 * CLIP 2 BIT (Clip2bitYT)
 * Collins Kosuke (Kosukei)
@@ -264,6 +265,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DraconiteDragon (ItsDraconiteDragon)
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
+* ElemperadormaxiYT (EmperadorMaxiOFICIAL)
 * Elitelupus (elitelupus)
 * Ephicsea (Ephicsea)
 * EthanGamer (EthanGamerTV)
@@ -277,6 +279,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FishyBlox (FishyBloxYT)
 * FlameRBX (SnowRBX_Youtube)
 * Flamingo (mrflimflam)
+* Flebsy (Flebsy)
 * Flxral (xoFlxral)
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (french_rxses)
@@ -288,6 +291,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Gallant Gaming (GallantGaming)
 * Gamer Hexapod - R3 (Hexapod_xD)
 * Gamer Kawaii (iiGamerKawaiiYT)
+* GamingwithVYT (GamingwithVYT)
 * GH0Ks (GHOKSZIN)
 * GianBlox (GiianBloxYT)
 * Godenot (godenot)
@@ -306,6 +310,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HulkBR (hulkbr_oficial)
 * Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
+* I\_lovejava (I\_lovejava)
 * IBella (Cinderbelle)
 * iBeMaine (ibemaine)
 * iBugou (iBugouzinho)
@@ -399,6 +404,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * NO\_DATA (NO\_DATA)
 * Noclypso (Noclypso)
 * noekje (noekje)
+* O1G (TotallyNotO1G)
 * Oblivious (ObliviousHD)
 * oGVexx (LouDaREALGamer)
 * OmegaNova (NotOmegaNova)
@@ -423,11 +429,13 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PrestonGamez (PrestonPlayz)
 * Pretzel Etzel (pretzel_etzel)
 * PREZLEY (PrezleyOfficial)
+* PRIME FURIOUS - RaVeNeiD GaMiNG (Prime_Furious)
 * Princess Royale (IAmPrincessRoyale)
 * ProSidu (prosiduzao)
 * Proton Plays Roblox (Prxtonn)
 * Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
+* Rainster (RainsterYT)
 * REDKILL (RedKill24YT)
 * RellGames (RELLvex)
 * Remainings (Remainings)
@@ -470,6 +478,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SweePee (RELLswee)
 * SWTAD Kids (SnickerHoops)
 * TanqR (tanqr)
+* Tapparay (Tapparay)
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
 * Temprist (Temprist)
@@ -505,6 +514,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * VikingPrincessJazmin (VikingPrincessJazmin)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * Volt (v0_1t)
+* Waike (JJ_Waike)
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
 * xEnesR (xEnesR)
