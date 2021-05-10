@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 9, 2021<br>
+Generated May 10, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -254,6 +254,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DaPandaGirl (Da_PandaGirl)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
 * DeeterPlays (DeeterPlays)
+* Depr (Signicial)
 * Devovo (Devovorya)
 * Digito Plays (DigitoPlaysThis)
 * Digopollo (DigoPollos)
@@ -388,7 +389,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mila FunPlayer (trxmila)
 * Milo Mine (BebeMiloAmiwito)
 * MinuteMadness 
-* mk (starcodemk)
+* mk (couldbemk)
 * MoFlare (MoFlare)
 * MooseCraft Roblox (MooseCraftRoblox)
 * MrLokazo86 (Lokazo86)
@@ -461,7 +462,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
-* Signicial (Signicial)
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
 * Solem Archive (iJackeryz)
@@ -476,7 +476,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
 * SWTAD Kids (SnickerHoops)
-* TanqR (tanqr)
+* TanqR (IIlIIlllIIIllIlIllII)
 * Tapparay (Tapparay)
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
@@ -495,7 +495,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ThnxCya (NotThnxCya)
 * Thumbs Up Family (ThumbsUpFamily)
 * ThunberGames (ThunberGames)
-* Tigre TV (TigreTVYoutuber)
+* Tigre TV (TigreYTw)
 * TinenQa (TinenQa1)
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
@@ -10032,7 +10032,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Complete The HotWheel Track For R$1,000 Robux Challenge!
       * Video gives away using group funds.
       * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
-* Stronbol Roblox (MelanieLani32)
+* Stronbol Roblox (StronbolYT)
   * Information Collection
     * EL DIA en el que ME ROBARON mas de 80,000 ROBUX
       * Description references the data collection website earnrobux.gg.
