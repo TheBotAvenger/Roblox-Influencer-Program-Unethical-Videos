@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 10, 2021<br>
+Generated May 11, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 406,906 videos
-* Total videos found that match keywords: 26,526 videos
+* Total videos: 408,835 videos
+* Total videos found that match keywords: 26,666 videos
+  * Total unprocessed videos: 140 videos
 * Total videos found that are processed and marked: 3,345 videos 
   * Information Collection: 2,189 videos
   * Non-Giftcard Robux Giveaways: 967 videos
@@ -252,6 +253,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DandanPH (DandanPH)
 * Danny Jesden (DannyJesdenYT)
 * DaPandaGirl (Da_PandaGirl)
+* DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
 * DeeterPlays (DeeterPlays)
 * Depr (Signicial)
@@ -276,6 +278,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FancySmash (RealFancySmash)
 * Febatista 
 * FGTeeV (FGTeeV and DrizzMcNizz)
+* Fini Juega (FiniJuega)
 * FishyBlox (FishyBloxYT)
 * FlameRBX (SnowRBX_Youtube)
 * Flamingo (mrflimflam)
@@ -393,6 +396,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MoFlare (MoFlare)
 * MooseCraft Roblox (MooseCraftRoblox)
 * MrLokazo86 (Lokazo86)
+* MrPankeyk (MrPankeyk)
 * Mxddsie (mxddsie)
 * NanoProdigy (NanoProdigy)
 * NapkinNate (NapkinNate)
@@ -466,12 +470,14 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SlEGHART (SlEGHART)
 * Solem Archive (iJackeryz)
 * Sons Of Fun (SonsofFun_YT)
+* Sontix (Sontixito)
 * Sopo Squad Gaming (mikedrop937 and CammyxBoba)
 * Soy Blue (SoyBluee)
 * Spagz Blox (Spagzox)
 * Squid Magic (Foolzy)
 * SrPrismatico (SrPrismatico)
 * StaTick (St4Tick)
+* Stevebloxian (steven111234)
 * Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
@@ -501,6 +507,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TitanHammer Roblox (TitanHammerYT)
 * Tooquick (tooquick4you2)
 * ToxicJim (supersonshadow17)
+* TrafTheOpest (TrafTheOpest)
 * TroyanoNanoReturns (TroyanoNanoReturns)
 * True entertainer (sambhaji12)
 * tsetYT (tsetfed)
@@ -518,6 +525,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XdarzethX - Roblox & More! (xdarzethx)
 * xEnesR (xEnesR)
 * xThyEdgarx (AmThyEdgar)
+* Yayixd Changuito (YAYIXDCHANGU)
+* Yode Plays (yode1)
 * Yokai (Yokai_YT)
 * YoSoyLoki (YoSoyLokiYT)
 * yTowakGb (yTowakGb)
