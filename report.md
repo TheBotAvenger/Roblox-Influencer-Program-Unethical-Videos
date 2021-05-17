@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 16, 2021<br>
+Generated May 17, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -256,7 +256,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
 * DeeterPlays (DeeterPlays)
-* Depr (Signicial)
 * Devovo (Devovorya)
 * Digito Plays (DigitoPlaysThis)
 * Digopollo (DigoPollos)
@@ -310,14 +309,13 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HelloItsVG (HelloItsVinh)
 * HeyItsJames (NotJamesRBLX)
 * Honey The Unicorn - Roblox (HoneyTheUnicornYT)
-* HulkBR (hulkbr_oficial)
 * Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
 * I\_lovejava (I\_lovejava)
 * IBella (Cinderbelle)
 * iBeMaine (ibemaine)
 * iBugou (iBugouzinho)
-* iFresproYT (iFresproYT)
+* iFres (iFresblxx)
 * iGuz (iGuzGames)
 * iiisxphie (iiisxphie)
 * iKotori (iKotori)
@@ -394,6 +392,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MinuteMadness 
 * mk (couldbemk)
 * MoFlare (MoFlare)
+* Moody Unicorn Twin - Roblox (moodyunicorntwin)
 * MooseCraft Roblox (MooseCraftRoblox)
 * MrLokazo86 (Lokazo86)
 * MrPankeyk (MrPankeyk)
@@ -466,6 +465,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
+* Signicial (Signicial)
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
 * Solem Archive (iJackeryz)
@@ -482,7 +482,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
 * SWTAD Kids (SnickerHoops)
-* TanqR (IIlIIlllIIIllIlIllII)
+* TanqR (AskForMonkeySkin)
 * Tapparay (Tapparay)
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
@@ -506,6 +506,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
 * Tooquick (tooquick4you2)
+* Top 10 Reviews (hulkbr_oficial)
 * ToxicJim (supersonshadow17)
 * TrafTheOpest (TrafTheOpest)
 * TroyanoNanoReturns (TroyanoNanoReturns)
@@ -516,7 +517,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
 * Tx_cle (TxcIes)
-* Unicorn Twins - Roblox (moodyunicorntwin)
 * VikingPrincessJazmin (VikingPrincessJazmin)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * Volt (v0_1t)
@@ -1255,7 +1255,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=2oXe2807bDM
-* Bandites (Bandites)
+* Bandites (OOOAOOAOAOAOAOAOA)
   * Non-Giftcard Robux Giveaways
     * "If you WIN I'll Give You 10,000 ROBUX" (ROBLOX Arsenal)
       * Uses group funds to give away Robux for a competition.
@@ -1333,7 +1333,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBUX GIVEAWAY DAY ! ROBLOX LIVE ROBUX CODES GIVE-A-WAY
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=66gSQrZyGjo
-* BlueBug (TheBugBlue)
+* BlueBug (FatFart_Yes)
   * Non-Giftcard Robux Giveaways
     * Robux Giveaway Winners(FOR 100 SUBS)
       * Uses group funds to give away Robux.
