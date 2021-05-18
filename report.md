@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 17, 2021<br>
+Generated May 18, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 408,835 videos
-* Total videos found that match keywords: 26,666 videos
-  * Total unprocessed videos: 9 videos
+* Total videos: 410,596 videos
+* Total videos found that match keywords: 26,882 videos
+  * Total unprocessed videos: 154 videos
 * Total videos found that are processed and marked: 3,326 videos 
   * Information Collection: 2,177 videos
   * Non-Giftcard Robux Giveaways: 960 videos
@@ -205,6 +205,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ant Antixx (Ant_Antixx)
 * Ashleyosity (itsAshleyosity)
 * Augus (augusvidal)
+* Avocado Playz (AvocadoPlayzOfficial)
 * Ayzria (Ayzria)
 * Bandi (BandiRue)
 * Bebe Adri (BebeAdriYT)
@@ -309,6 +310,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HelloItsVG (HelloItsVinh)
 * HeyItsJames (NotJamesRBLX)
 * Honey The Unicorn - Roblox (HoneyTheUnicornYT)
+* Hxyila (hayiIaaa)
 * Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
 * I\_lovejava (I\_lovejava)
@@ -372,6 +374,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Luky (LukyBloxYT)
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
+* Luuy (iiLuuy)
 * Mackenzie Turner Roblox (MackenzieTurnerYT)
 * Maislie (Maislie)
 * Mandinha Game (iii_Amandinha)
@@ -411,6 +414,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Oblivious (ObliviousHD)
 * oGVexx (LouDaREALGamer)
 * OmegaNova (NotOmegaNova)
+* Ominous Nebula (MeOminous)
 * Oscar (TheProOscar)
 * P0gMasterZ (P0gMasterZ)
 * PaintingRainbows (RainbowsYT)
@@ -466,6 +470,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
 * Signicial (Signicial)
+* Silent Playz (SilentYTTW)
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
 * Solem Archive (iJackeryz)
@@ -524,6 +529,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
 * xEnesR (xEnesR)
+* XericPlayz (XericPlayz)
 * xThyEdgarx (AmThyEdgar)
 * Yayixd Changuito (YAYIXDCHANGU)
 * Yode Plays (yode1)
