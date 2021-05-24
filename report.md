@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 23, 2021<br>
+Generated May 24, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -302,7 +302,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GoldenGlare (GOLD3NGLARE)
 * GoldenOwl 
 * gorygaming24601 (CoolRanch_24601)
-* grace k (yt_graceek)
+* grace k (1Iytae)
 * Gravycatman (GrumpyGravy)
 * Hagazo (Hagazo9)
 * hannnahlovescows (hannnahlovescows)
@@ -362,7 +362,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * KraoESP (KraoESP)
 * Krystin Plays (KrystinPlays)
 * Lakshart Nia (Laksharth)
-* LaniRoblox (LaniiPlayzzz)
+* Lani (LaniiPlayzzz)
 * LankyBox (LankyBoxGamesAdam)
 * Lari Gamer (iiLariGamer)
 * Laughability (Laughability)
@@ -414,7 +414,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Oblivious (ObliviousHD)
 * oGVexx (LouDaREALGamer)
 * OmegaNova (NotOmegaNova)
-* Ominous Nebula (MeOminous)
+* Ominous Nebula (StarCode_Ominous)
 * Oscar (TheProOscar)
 * P0gMasterZ (P0gMasterZ)
 * PaintingRainbows (RainbowsYT)
@@ -488,7 +488,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
 * SWTAD Kids (SnickerHoops)
-* TanqR (AskForMonkeySkin)
+* TanqR (coIIectlng)
 * Tapparay (Tapparay)
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
@@ -1262,7 +1262,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=2oXe2807bDM
-* Bandites (OOOAOOAOAOAOAOAOA)
+* Bandites (Bandites)
   * Non-Giftcard Robux Giveaways
     * "If you WIN I'll Give You 10,000 ROBUX" (ROBLOX Arsenal)
       * Uses group funds to give away Robux for a competition.
@@ -1340,7 +1340,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBUX GIVEAWAY DAY ! ROBLOX LIVE ROBUX CODES GIVE-A-WAY
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=66gSQrZyGjo
-* BlueBug (FatFart_Yes)
+* BlueBug (TheBugBlue)
   * Non-Giftcard Robux Giveaways
     * Robux Giveaway Winners(FOR 100 SUBS)
       * Uses group funds to give away Robux.
