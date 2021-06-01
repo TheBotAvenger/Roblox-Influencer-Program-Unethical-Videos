@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 31, 2021<br>
+Generated June 1, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 412,519 videos
-* Total videos found that match keywords: 27,046 videos
-  * Total unprocessed videos: 9 videos
+* Total videos: 414,397 videos
+* Total videos found that match keywords: 27,191 videos
+  * Total unprocessed videos: 150 videos
 * Total videos found that are processed and marked: 3,336 videos 
   * Information Collection: 2,181 videos
   * Non-Giftcard Robux Giveaways: 967 videos
@@ -219,6 +219,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * bobjenz 
 * Bonnie Builds Roblox (BonnieBuildsYT)
 * BramP (BramPeeee)
+* BrandAccount (hulkbr_oficial)
 * BREN0RJ (BREN0RJ7)
 * Brianna (zBriannaGamez)
 * Brincando com a Keke (Keke_KerenYT)
@@ -242,6 +243,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Collins Kosuke (Kosukei)
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutterYT)
+* Coolpanda (YTCoolpaxda)
+* Cosmic (bluecosmiic)
 * CPat (StarC0de_CPAT)
 * cqqp (cqqp)
 * Crainer Roblox 
@@ -412,6 +415,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * NO\_DATA (NO\_DATA)
 * Noclypso (Noclypso)
 * noekje (noekje)
+* notive (notive)
 * O1G (TotallyNotO1G)
 * Oblivious (ObliviousHD)
 * oGVexx (LouDaREALGamer)
@@ -446,6 +450,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
 * Rainster (RainsterYT)
+* rareyma (Rareymaoffical)
 * REDKILL (RedKill24YT)
 * RellGames (RELLvex)
 * Remainings (Remainings)
@@ -477,6 +482,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Shaylo (YTshaylo)
 * Signicial (Signicial)
 * Silent Playz (SilentYTTW)
+* SkippyPlays (aley232333)
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
 * Solem Archive (iJackeryz)
@@ -517,7 +523,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
 * Tooquick (tooquick4you2)
-* Top 10 Reviews (hulkbr_oficial)
 * ToxicJim (supersonshadow17)
 * TrafTheOpest (TrafTheOpest)
 * TroyanoNanoReturns (TroyanoNanoReturns)
@@ -528,6 +533,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
 * Tx_cle (TxcIes)
+* Valen Latina (Valen_Latina)
 * VikingPrincessJazmin (VikingPrincessJazmin)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * Volt (v0_1t)
