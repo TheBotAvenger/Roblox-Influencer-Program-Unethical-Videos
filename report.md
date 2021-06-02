@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 1, 2021<br>
+Generated June 2, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 414,397 videos
 * Total videos found that match keywords: 27,191 videos
-  * Total unprocessed videos: 150 videos
-* Total videos found that are processed and marked: 3,336 videos 
-  * Information Collection: 2,181 videos
+  * Total unprocessed videos: 14 videos
+* Total videos found that are processed and marked: 3,335 videos 
+  * Information Collection: 2,180 videos
   * Non-Giftcard Robux Giveaways: 967 videos
   * Other: 153 videos
   * Phishing: 35 videos
@@ -781,9 +781,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MAKING THE CITY GOLD! | Billionaire Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=u-HBx87800Q
-    * IntelPlayz - cLout chasin (Lacrase Diss Track) Official Video
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Sx47-eLJI0c
     * MAKING MILLIONS IN 10 MINUTES |  💰Billionaire Simulator💰
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=0zVTZj342-Q
