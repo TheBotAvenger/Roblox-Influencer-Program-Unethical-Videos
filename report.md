@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 6, 2021<br>
+Generated June 7, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -219,7 +219,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * bobjenz 
 * Bonnie Builds Roblox (BonnieBuildsYT)
 * BramP (BramPeeee)
-* BrandAccount (hulkbr_oficial)
 * BREN0RJ (BREN0RJ7)
 * Brianna (zBriannaGamez)
 * Brincando com a Keke (Keke_KerenYT)
@@ -314,6 +313,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HelloItsVG (HelloItsVinh)
 * HeyItsJames (NotJamesRBLX)
 * Honey The Unicorn - Roblox (HoneyTheUnicornYT)
+* HulkBR Games (hulkbr_oficial)
 * Hxyila (hayiIaaa)
 * Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
@@ -499,7 +499,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
 * SWTAD Kids (SnickerHoops)
-* TanqR (TanqR)
+* TanqR (fruiteIIah)
 * Tapparay (Tapparay)
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
