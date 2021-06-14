@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 13, 2021<br>
+Generated June 14, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -499,7 +499,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
 * SWTAD Kids (SnickerHoops)
-* TanqR (fruiteIIah)
+* TanqR (IlIIllIIllIIIlllIIll)
 * Tapparay (Tapparay)
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
@@ -7271,7 +7271,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
-* MaRcDoGy (ItzMaRcDoGy)
+* MarkitusWTF (ItzMaRcDoGy)
   * Information Collection
     * Robux Gratis !!! %100 Real No Va En Broma !!
       * Description references the data collection website bloxawards.com.
