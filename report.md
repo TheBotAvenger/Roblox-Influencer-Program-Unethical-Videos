@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 15, 2021<br>
+Generated June 16, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 417,830 videos
 * Total videos found that match keywords: 27,505 videos
-  * Total unprocessed videos: 166 videos
-* Total videos found that are processed and marked: 3,335 videos 
-  * Information Collection: 2,180 videos
+  * Total unprocessed videos: 18 videos
+* Total videos found that are processed and marked: 3,334 videos 
+  * Information Collection: 2,179 videos
   * Non-Giftcard Robux Giveaways: 967 videos
   * Other: 153 videos
   * Phishing: 35 videos
@@ -384,6 +384,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mandinha Game (iii_Amandinha)
 * Manucraft (ManucraftYT)
 * Mariana Nana (marianavasco)
+* MarkitusWTF (ItzMaRcDoGy)
 * Mary - Frozencrystal 
 * Matsbxb (MATSbxb)
 * mayrushart (mayrushart)
@@ -7271,11 +7272,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
-* MarkitusWTF (ItzMaRcDoGy)
-  * Information Collection
-    * Robux Gratis !!! %100 Real No Va En Broma !!
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=uuZbDvTa40M
 * MathFacter360 (MathFacter360)
   * Non-Giftcard Robux Giveaways
     * complete my CASTLE OBBY and WIN 5,000 ROBUX!!! (Roblox)
