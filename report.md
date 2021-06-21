@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 20, 2021<br>
+Generated June 21, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -209,6 +209,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ayzria (Ayzria)
 * Bandi (BandiRue)
 * Bebe Adri (BebeAdriYT)
+* Bebe Milo (BebeMiloAmiwito)
 * Benni (ImBenni)
 * Bia Gamer (BiiiaGamerYT)
 * Biano Betero (BianoBetero)
@@ -219,6 +220,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * bobjenz 
 * Bonnie Builds Roblox (BonnieBuildsYT)
 * BramP (BramPeeee)
+* Brand Account (hulkbr_oficial)
 * BREN0RJ (BREN0RJ7)
 * Brianna (zBriannaGamez)
 * Brincando com a Keke (Keke_KerenYT)
@@ -313,7 +315,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HelloItsVG (HelloItsVinh)
 * HeyItsJames (NotJamesRBLX)
 * Honey The Unicorn - Roblox (HoneyTheUnicornYT)
-* HulkBR Games (hulkbr_oficial)
 * Hxyila (hayiIaaa)
 * Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
@@ -396,9 +397,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MICHI RØBLØX (michineyley)
 * MicroGuardian (MicroGuardian)
 * Mila FunPlayer (trxmila)
-* Milo Mine (BebeMiloAmiwito)
-* MinuteMadness 
-* mk (couldbemk)
+* mk (real_mkYT)
 * Model8197 (Modeldog8197)
 * MoFlare (MoFlare)
 * Moody Unicorn Twin - Roblox (moodyunicorntwin)
@@ -483,7 +482,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Shaylo (YTshaylo)
 * Signicial (Signicial)
 * Silent Playz (SilentYTTW)
-* SkippyPlays (aley232333)
+* SkippyPlays (SkippyPIaysYT)
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
 * Solem Archive (iJackeryz)
@@ -503,6 +502,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TanqR (IlIIllIIllIIIlllIIll)
 * Tapparay (Tapparay)
 * TapWater (tapwat4r)
+* TDV - Fortnite 
 * teenager paul (teenagerpaul)
 * Temprist (Temprist)
 * Tex HS (TexWillerHS)
