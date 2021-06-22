@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 21, 2021<br>
+Generated June 22, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 417,830 videos
-* Total videos found that match keywords: 27,505 videos
-  * Total unprocessed videos: 9 videos
+* Total videos: 419,842 videos
+* Total videos found that match keywords: 27,670 videos
+  * Total unprocessed videos: 162 videos
 * Total videos found that are processed and marked: 3,334 videos 
   * Information Collection: 2,179 videos
   * Non-Giftcard Robux Giveaways: 967 videos
@@ -215,6 +215,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Biano Betero (BianoBetero)
 * Bigbst4tz2 (BigBst4tz22)
 * BIGHEAD (Bighead_StarCode)
+* BitSquid (BitSquid)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * Blue Blob (jiravich)
 * bobjenz 
@@ -240,6 +241,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Chrisandthemike (chrisatm)
 * Chrisu Gaming (ChristsuYT)
 * Chyna Gaming (Iamchynagaming)
+* cKev (cKevvv)
+* Cleanse Beam (CleanseBeam)
 * CLIP 2 BIT (Clip2bitYT)
 * Collins Kosuke (Kosukei)
 * Conor3D (Conor3D)
@@ -280,6 +283,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FadedPlayz (YTFadedPlayz)
 * faeglow (faeglow)
 * FakerUp (NotFakerUp)
+* Fanaticalight (Fanaticalight)
 * FancySmash (RealFancySmash)
 * Febatista 
 * FGTeeV (FGTeeV and DrizzMcNizz)
@@ -289,6 +293,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Flamingo (mrflimflam)
 * Flebsy (Flebsy)
 * Flxral (xoFlxral)
+* Folix (Mrpresident1302)
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (french_rxses)
 * FUDZ (fudsim)
@@ -310,10 +315,12 @@ The following channels had nothing appear with manual searching. Videos may exis
 * grace k (1Iytae)
 * Gravycatman (GrumpyGravy)
 * Hagazo (Hagazo9)
+* HandN (xHandNx)
 * hannnahlovescows (hannnahlovescows)
 * HappyBlack (HappyThreePro)
 * HelloItsVG (HelloItsVinh)
 * HeyItsJames (NotJamesRBLX)
+* HeyRosalina (HeyRosalina)
 * Honey The Unicorn - Roblox (HoneyTheUnicornYT)
 * Hxyila (hayiIaaa)
 * Hyper (DylanTheHyper)
@@ -356,6 +363,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
 * JunRoots (JunioRoots)
 * jvnq (jvnqYT)
+* JymbowSlice (JymbowSliceYT)
 * Karim Juega (karimjuega)
 * Kawaii Kunicorn Gaming (kawaii_kunicorn)
 * Kelogish (Kelogish)
@@ -421,6 +429,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * oGVexx (LouDaREALGamer)
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
+* OneSpottedFriend (OneSpottedFriend)
 * Oscar (TheProOscar)
 * OurFire Plays (ourfire and ChrisOurFire)
 * P0gMasterZ (P0gMasterZ)
@@ -428,6 +437,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PandazPlay (ComplexConniee and ComplexJason)
 * Pankayz (Pankayz)
 * Papile (jupapile)
+* Paula Urbaez (PaulaUrbaez)
 * PedroLetsPlay (pedroletsplayroblox)
 * Peepguy (peepguyx)
 * PeetahBread (PeetahBread)
@@ -534,6 +544,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
 * Tx_cle (TxcIes)
+* V2 Plays (Miya7372 and toreject)
 * Valen Latina (Valen_Latina)
 * VikingPrincessJazmin (VikingPrincessJazmin)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
