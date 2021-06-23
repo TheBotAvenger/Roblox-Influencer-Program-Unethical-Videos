@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 22, 2021<br>
+Generated June 23, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 419,842 videos
 * Total videos found that match keywords: 27,670 videos
-  * Total unprocessed videos: 162 videos
-* Total videos found that are processed and marked: 3,334 videos 
+  * Total unprocessed videos: 18 videos
+* Total videos found that are processed and marked: 3,322 videos 
   * Information Collection: 2,179 videos
-  * Non-Giftcard Robux Giveaways: 967 videos
+  * Non-Giftcard Robux Giveaways: 955 videos
   * Other: 153 videos
   * Phishing: 35 videos
 
@@ -1321,45 +1321,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=dPMqEpZWWA0
 * BigDadT (biggerdadt)
   * Non-Giftcard Robux Giveaways
-    * ROBLOX PIGGY MAP BUILD COMP WIN FREE ROBUX | PIGGY +100 GLITCHES LIVE
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=1eWxR9tudDY
-    * ROBLOX PIGGY MAP BUILD COMP WIN FREE ROBUX | PIGGY 2 RELEASE TODAY !?
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=BLzJLR4xNjM
-    * WIN FREE ROBUX | ROBLOX PIGGY MAPS REVIEW BEST MAP WINS FREE ROBUX
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=5wO53Lc-zQE
-    * GIFTING FREE ROBUX + CODES LIVE IN ROBLOX DUNGEON QUEST ORBITAL OUTPOST
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=arCJRH72Htg
-    * GIFTING FREE ROBUX + CODES LIVE IN ROBLOX DUNGEON QUEST ORBITAL OUTPOST
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=z6V59Zqst1E
     * FUNNY DISCORD MEME COMPETION FOR $1000 ROBUX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=lNcLqf-P3qk
-    * GIFTING FREE ROBUX + CODES LIVE IN ROBLOX DUNGEON QUEST ORBITAL OUTPOST
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=gmTCbwtGT6M
-    * GIFTING FREE ROBUX + CODES LIVE IN ROBLOX DUNGEON QUEST ORBITAL OUTPOST
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=hggSFlNOYmA
-    * SECRETE OF WINNING JAIL BREAK SIMON SAYS and WIN FREE ROBUX
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=cxxeksr6sx0
-    * GIFTING FREE ROBUX + CODES LIVE IN ROBLOX! (Robux Codes)
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=6rWpHchdsps
-    * ROBUX GIVEAWAY DAY !JAILBREAK SIMON SAIS LIVE FREE ROBOX TO NEW SUBS
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=Vrw9LLvpVX0
-    * SECRETE OF WINNING JAIL BREAK SIMON SAID and WIN FREE ROBUX
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=6VSMSACicE0
-    * ROBUX GIVEAWAY DAY ! ROBLOX LIVE ROBUX CODES GIVE-A-WAY
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=66gSQrZyGjo
 * BlueBug (TheBugBlue)
   * Non-Giftcard Robux Giveaways
     * Robux Giveaway Winners(FOR 100 SUBS)
