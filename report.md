@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 27, 2021<br>
+Generated June 28, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -220,8 +220,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Blue Blob (jiravich)
 * bobjenz 
 * Bonnie Builds Roblox (BonnieBuildsYT)
+* Boo bumbum (hulkbr_oficial)
 * BramP (BramPeeee)
-* Brand Account (hulkbr_oficial)
 * BREN0RJ (BREN0RJ7)
 * Brianna (zBriannaGamez)
 * Brincando com a Keke (Keke_KerenYT)
@@ -230,7 +230,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Buur (BuurmanTenus)
 * ByDerank (ByDerank_YT)
 * Captain Tate (CaptainTate21)
-* Carakuchi (carakuchi)
+* Carakuchi 
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
 * CatFer (SoyCatFer)
@@ -460,7 +460,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
 * Rainster (RainsterYT)
-* rareyma (Rareymaoffical)
+* rareyma (Iamrareyma)
 * REDKILL (RedKill24YT)
 * RellGames (RELLvex)
 * Remainings (Remainings)
