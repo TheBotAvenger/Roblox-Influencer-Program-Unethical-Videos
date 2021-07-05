@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 4, 2021<br>
+Generated July 5, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -212,7 +212,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bebe Milo (BebeMiloAmiwito)
 * Benni (ImBenni)
 * Bia Gamer (BiiiaGamerYT)
-* Biano Betero (BianoBetero)
+* Biano Betero (Bianiinho)
 * Bigbst4tz2 (BigBst4tz22)
 * BIGHEAD (Bighead_StarCode)
 * BitSquid (BitSquid)
@@ -220,7 +220,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Blue Blob (jiravich)
 * bobjenz 
 * Bonnie Builds Roblox (BonnieBuildsYT)
-* Boo bumbum (hulkbr_oficial)
+* BOO BUMBUM (hulkbr_oficial)
 * BramP (BramPeeee)
 * BREN0RJ (BREN0RJ7)
 * Brianna (zBriannaGamez)
@@ -271,6 +271,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DoctorBenx (Bensonheimer and ebruulein)
 * Dois Marmotas (diinhaaa28 and Luckke23)
 * DOLLASTIC PLAYS! (DollasticDreams)
+* DoNotDoDrugs 
 * DraconiteDragon (ItsDraconiteDragon)
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
@@ -393,7 +394,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mandinha Game (iii_Amandinha)
 * Manucraft (ManucraftYT)
 * Mariana Nana (marianavasco)
-* MarkitusWTF (ItzMaRcDoGy)
+* MarkitusWTF (MarkitusOMG)
 * Mary - Frozencrystal 
 * Matsbxb (MATSbxb)
 * mayrushart (mayrushart)
@@ -509,10 +510,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
 * SWTAD Kids (SnickerHoops)
-* TanqR (IlIIllIIllIIIlllIIll)
+* TanqR (TanqR)
 * Tapparay (Tapparay)
-* TapWater (tapwat4r)
-* TDV - Fortnite 
+* TapWater (UseCode_Tap)
 * teenager paul (teenagerpaul)
 * Temprist (Temprist)
 * Tex HS (TexWillerHS)
@@ -552,7 +552,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Waike (JJ_Waike)
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
-* xEnesR (LOLOIOLOLOIOLOLOLOL)
+* xEnesR (xEnesR)
 * XericPlayz (XericPlayz)
 * xThyEdgarx (AmThyEdgar)
 * Yayixd Changuito (YAYIXDCHANGU)
