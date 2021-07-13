@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 12, 2021<br>
+Generated July 13, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 421,701 videos
-* Total videos found that match keywords: 27,825 videos
-  * Total unprocessed videos: 9 videos
+* Total videos: 425,305 videos
+* Total videos found that match keywords: 28,168 videos
+  * Total unprocessed videos: 347 videos
 * Total videos found that are processed and marked: 3,322 videos 
   * Information Collection: 2,179 videos
   * Non-Giftcard Robux Giveaways: 955 videos
@@ -242,6 +242,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Chrisu Gaming (ChristsuYT)
 * Chyna Gaming (Iamchynagaming)
 * cKev (cKevvv)
+* Claus (ClausOFC)
 * Cleanse Beam (CleanseBeam)
 * CLIP 2 BIT (Clip2bitYT)
 * Collins Kosuke (Kosukei)
@@ -271,6 +272,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DoctorBenx (Bensonheimer and ebruulein)
 * Dois Marmotas (diinhaaa28 and Luckke23)
 * DOLLASTIC PLAYS! (DollasticDreams)
+* Dom (TwiceDom)
 * DoNotDoDrugs 
 * DraconiteDragon (ItsDraconiteDragon)
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
@@ -295,6 +297,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Flebsy (Flebsy)
 * Flxral (xoFlxral)
 * Folix (Mrpresident1302)
+* ForeverSparks (itsForeverSparks)
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (french_rxses)
 * FUDZ (fudsim)
@@ -315,6 +318,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * gorygaming24601 (CoolRanch_24601)
 * grace k (1Iytae)
 * Gravycatman (GrumpyGravy)
+* Gunslaya (iGunslaya)
 * Hagazo (Hagazo9)
 * HandN (xHandNx)
 * hannnahlovescows (hannnahlovescows)
@@ -361,6 +365,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JoJocraftHP (JoJocraftHP)
 * JonesGotGame (JonesGotGame)
 * Jr e Mi (JuniorGuimaraes and micandeloro)
+* Judo Unicorn (judounicorn11)
 * Juegahora (Juegahora_Star)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
 * JunRoots (JunioRoots)
