@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 18, 2021<br>
+Generated July 19, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -316,7 +316,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GoldenGlare (GOLD3NGLARE)
 * GoldenOwl 
 * gorygaming24601 (CoolRanch_24601)
-* grace k (1Iytae)
+* grace k (watchingpearlywtae)
 * Gravycatman (GrumpyGravy)
 * Gunslaya (iGunslaya)
 * Hagazo (Hagazo9)
@@ -447,7 +447,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Papile (jupapile)
 * Paula Urbaez (PaulaUrbaez)
 * PedroLetsPlay (pedroletsplayroblox)
-* Peepguy (peepguyx)
+* Peep (peepguyx)
 * PeetahBread (PeetahBread)
 * PghLFilms (PGHLego1945)
 * PHMittens (PHMittensSTARCreator)
@@ -518,7 +518,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
 * SWTAD Kids (SnickerHoops)
-* TanqR (TanqR)
+* TanqR (AppearOffIine)
 * Tapparay (Tapparay)
 * TapWater (UseCode_Tap)
 * teenager paul (teenagerpaul)
