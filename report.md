@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 19, 2021<br>
+Generated July 20, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 425,305 videos
-* Total videos found that match keywords: 28,168 videos
-  * Total unprocessed videos: 9 videos
+* Total videos: 427,067 videos
+* Total videos found that match keywords: 28,329 videos
+  * Total unprocessed videos: 170 videos
 * Total videos found that are processed and marked: 3,322 videos 
   * Information Collection: 2,179 videos
   * Non-Giftcard Robux Giveaways: 955 videos
@@ -496,6 +496,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ScriptedMatt (ScriptedMatt)
 * SDMittens (SDMittens)
 * sebee (23Sebee)
+* shadow network (realshadownetwork)
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
