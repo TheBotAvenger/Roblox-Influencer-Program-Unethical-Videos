@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 25, 2021<br>
+Generated July 26, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -455,7 +455,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
 * Play with me - Apps and Games (da\_dania and kaan\_xy2)
-* Playonyx Tech (okgamerman)
+* Playonyx (okgamerman)
 * Plech (PlechitoYT)
 * Premiumsalad (premiumsalad)
 * PrestonGamez (PrestonPlayz)
@@ -519,7 +519,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
 * SWTAD Kids (SnickerHoops)
-* TanqR (AppearOffIine)
+* TanqR (TanqR)
 * Tapparay (Tapparay)
 * TapWater (UseCode_Tap)
 * teenager paul (teenagerpaul)
@@ -7313,7 +7313,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HIDE and SEEK on NEW MAP for 3000 ROBUX! | Roblox Jailbreak
       * Uses group funds to give away Robux for a competition.
       * URL: https://www.youtube.com/watch?v=5UQfA8iJm8s
-* NetBlox 
+* Nicole Kimmi (Nicole_Kimmi)
+  * Information Collection
+    * MOLESTANDO A GENTE EN BROOKHAVEN 🥺🤣
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=DprbUKcQEBw
+* NikTac 
   * Non-Giftcard Robux Giveaways
     * \*SECRET\* HALLOWEEN BEES & EVIL BEAR COMING IN Roblox Bee Swarm Simulator!? (Update Theory)
       * Description references Robux giveaways in the Roblox group.
@@ -8224,11 +8229,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * THE FASTEST SWIMMER IN ROBLOX!! - Roblox Swimming Simulator (Funny Moments)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=nO7J7m7NpBY
-* Nicole Kimmi (Nicole_Kimmi)
-  * Information Collection
-    * MOLESTANDO A GENTE EN BROOKHAVEN 🥺🤣
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=DprbUKcQEBw
 * Poke (Pokediger1)
   * Other
     * SPIN THE ROBLOX DEATH WHEEL (HE LOST 25,000 ROBUX)
