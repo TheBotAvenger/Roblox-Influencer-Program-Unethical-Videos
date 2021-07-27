@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 26, 2021<br>
+Generated July 27, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,12 +182,12 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 427,067 videos
-* Total videos found that match keywords: 28,329 videos
-  * Total unprocessed videos: 9 videos
-* Total videos found that are processed and marked: 3,319 videos 
+* Total videos: 429,186 videos
+* Total videos found that match keywords: 28,516 videos
+  * Total unprocessed videos: 161 videos
+* Total videos found that are processed and marked: 3,320 videos 
   * Information Collection: 2,176 videos
-  * Non-Giftcard Robux Giveaways: 955 videos
+  * Non-Giftcard Robux Giveaways: 956 videos
   * Other: 153 videos
   * Phishing: 35 videos
 
@@ -203,6 +203,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * AnielicA (ANIELICA01)
 * Anix (iamAnix)
 * Ant Antixx (Ant_Antixx)
+* AshleyBunni (BunniYT)
 * Ashleyosity (itsAshleyosity)
 * Augus (augusvidal)
 * Avocado Playz (AvocadoPlayzOfficial)
@@ -229,7 +230,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bubbles (bubblestoxic)
 * Buur (BuurmanTenus)
 * ByDerank (ByDerank_YT)
+* callmehhaley (callmehhaleyx)
 * Captain Tate (CaptainTate21)
+* CaptainJackAttack (CaptainJackAttack101)
 * Carakuchi 
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
@@ -312,6 +315,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GH0Ks (GHOKSZIN)
 * GianBlox (GiianBloxYT)
 * Godenot (godenot)
+* Godstatus (CallMeGodstatus)
 * GoingLimited (GoingLimited)
 * GoldenGlare (GOLD3NGLARE)
 * GoldenOwl 
@@ -352,6 +356,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * J-Bug (J_Buggo)
 * Jake Globox (JakeGlobox)
 * Jake Pudding (JakeZPudding)
+* Jameskii (RealJameskii)
 * Janet and Kate (KittyJanet and Kate9071)
 * jatatochip (jatatochip)
 * javie12 (javie12)
@@ -361,6 +366,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Jenstine (jenstine and jenstinex)
 * JessEmma (TheJessEmma)
 * JesuaCunnigham (Jesua_Cunnigham)
+* Joao joao (Joao_joaooficial)
 * JoeyDaPlayer (UseStarCodee_JOEY)
 * JoJocraftHP (JoJocraftHP)
 * JonesGotGame (JonesGotGame)
@@ -491,6 +497,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SallyGreenGamer 
 * Sant (heysant2018)
 * Santino Tossi (SantinoTossi03)
+* Saoli (saoli11)
 * SATSHA JUEGA (yt_SATSHAJUEGA)
 * ScooterSmash0 (Real_ScooterSmash0)
 * ScriptedMatt (ScriptedMatt)
@@ -553,6 +560,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
 * Tx_cle (TxcIes)
+* Uncle Kizaru (Uncle_Kizaru)
 * V2 Plays (Miya7372 and toreject)
 * Valen Latina (Valen_Latina)
 * VikingPrincessJazmin (VikingPrincessJazmin)
@@ -563,6 +571,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XdarzethX - Roblox & More! (xdarzethx)
 * xEnesR (xEnesR)
 * XericPlayz (XericPlayz)
+* Xou (xouzin7)
 * xThyEdgarx (AmThyEdgar)
 * Yayixd Changuito (YAYIXDCHANGU)
 * Yode Plays (yode1)
@@ -8703,6 +8712,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 1,000 ROBUX MAKEOVER || (Fan Surprise!)
       * Offers to give Robux in exchange for a username and password.
       * URL: https://www.youtube.com/watch?v=95TVy5Udq9o
+* SimplyCoco (SimpleeCoco)
+  * Non-Giftcard Robux Giveaways
+    * RATING MY FANS SINGING!! + 1K ROBUX GIVEAWAY WINNER‼️ || SimplyCoco
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=mvkfP58fGZw
 * Smurfzin (Smurfzineo_YT)
   * Information Collection
     * O Fim da Black Friday no ROBLOX..😔❌
