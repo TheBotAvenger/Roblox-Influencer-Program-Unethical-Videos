@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 27, 2021<br>
+Generated July 28, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 429,186 videos
 * Total videos found that match keywords: 28,516 videos
-  * Total unprocessed videos: 161 videos
-* Total videos found that are processed and marked: 3,320 videos 
-  * Information Collection: 2,176 videos
+  * Total unprocessed videos: 16 videos
+* Total videos found that are processed and marked: 3,319 videos 
+  * Information Collection: 2,175 videos
   * Non-Giftcard Robux Giveaways: 956 videos
   * Other: 153 videos
   * Phishing: 35 videos
@@ -353,6 +353,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Its Ashley Playz YT (ItsAshley_PlayzYT)
 * Its SugarCoffee (SugarCoffee123)
 * ItsFunneh (Funnehcake)
+* ItzVexo (ItzVexo_STARCODE)
 * J-Bug (J_Buggo)
 * Jake Globox (JakeGlobox)
 * Jake Pudding (JakeZPudding)
@@ -5675,11 +5676,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FULL THROTTLE RACING TOURNAMENT! \[SUBSCRIBERS WIN FREE ROBUX!\]
       * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=Oihdfs3SsM0
-* ItzVexo (ItzVexo_STARCODE)
-  * Information Collection
-    * The SECRET HAT CRATE IN ROBLOX BUBBLE GUM SIMULATOR! (Glitch?)
-      * Description references the data collection website gainblox.com.
-      * URL: https://www.youtube.com/watch?v=Oil38_6fVWo
 * Jamie ThatBloxer (Jamiethatgirl)
   * Information Collection
     * HOW TO GET FREE ROBUX AND BC | UPDATED 2016
