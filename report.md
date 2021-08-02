@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 1, 2021<br>
+Generated August 2, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -345,7 +345,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ImaGamerGirl (lmaGamerGirI)
 * Inemafoo (Inemajohn)
 * Infernasu (Infernasu)
-* Irmãs Gamers (iiPietra_GamesYT)
+* Irmãs Gamers (ypietraxz)
 * It's Akeila (itsakeila)
 * It's Siena (ItsNotSiena3)
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
@@ -373,7 +373,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Judo Unicorn (judounicorn11)
 * Juegahora (Juegahora_Star)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
-* JunRoots (JunioRoots)
+* JunRoots (CaptainYesYes)
 * jvnq (jvnqYT)
 * JymbowSlice (JymbowSliceYT)
 * Karim Juega (karimjuega)
@@ -405,8 +405,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Maislie (Maislie)
 * Mandinha Game (iii_Amandinha)
 * Manucraft (ManucraftYT)
+* MaRcDoGy (MarkitusOMG)
 * Mariana Nana (marianavasco)
-* MarkitusWTF (MarkitusOMG)
 * Mary - Frozencrystal 
 * Matsbxb (MATSbxb)
 * mayrushart (mayrushart)
