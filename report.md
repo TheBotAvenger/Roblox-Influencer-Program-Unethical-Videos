@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 2, 2021<br>
+Generated August 3, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,10 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 429,186 videos
-* Total videos found that match keywords: 28,516 videos
-* Total videos found that are processed and marked: 3,320 videos 
-  * Information Collection: 2,176 videos
+* Total videos: 443,346 videos
+* Total videos found that match keywords: 29,759 videos
+  * Total unprocessed videos: 1,235 videos
+* Total videos found that are processed and marked: 3,325 videos 
+  * Information Collection: 2,181 videos
   * Non-Giftcard Robux Giveaways: 956 videos
   * Other: 153 videos
   * Phishing: 35 videos
@@ -197,6 +198,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Alex (CraftedRL)
 * Aline Games (AliineGamesYT)
 * alixia (aIixiayt)
+* Alles Ava Gaming (Kingmuffin316)
 * AlvinBlox (Alvin_Blox)
 * Amberry (Amberrry)
 * AnielicA (ANIELICA01)
@@ -248,6 +250,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cleanse Beam (CleanseBeam)
 * CLIP 2 BIT (Clip2bitYT)
 * Collins Kosuke (Kosukei)
+* Complex Roblox (IamComplexRoblox)
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutterYT)
 * Coolpanda (YTCoolpaxda)
@@ -400,6 +403,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
 * Luuy (iiLuuy)
+* Luzablxx (Lzablxx)
 * Mackenzie Turner Roblox (MackenzieTurnerYT)
 * Mahadinoor Playz (MahadinoorPlayzRBLX)
 * Maislie (Maislie)
@@ -7159,18 +7163,33 @@ The following channels had nothing appear with manual searching. Videos may exis
     * RACING PINKLEAF for a DOMINUS! (Tower of Hell) - Linkmon99 Roblox
       * Description references the data collection website rbxtoys.com.
       * URL: https://www.youtube.com/watch?v=pLqQ0c91BZo
+    * RACING PINKLEAF for a DOMINUS! (Tower of Hell) - Linkmon99 Roblox
+      * Description references the data collection website rbxtoys.com.
+      * URL: https://www.youtube.com/watch?v=pLqQ0c91BZo&pp=sAQA
     * PIGGY's CREATOR vs RICHEST ROBLOX PLAYER!! (EPIC 1v1 Piggy with MiniToon) - Linkmon99 Roblox
       * Description references the data collection website rbxtoys.com.
       * URL: https://www.youtube.com/watch?v=HqO5kfEsuMk
+    * PIGGY's CREATOR vs RICHEST ROBLOX PLAYER!! (EPIC 1v1 Piggy with MiniToon) - Linkmon99 Roblox
+      * Description references the data collection website rbxtoys.com.
+      * URL: https://www.youtube.com/watch?v=HqO5kfEsuMk&pp=sAQA
     * HE SOLD my ROBLOX ACCOUNT on EBAY (CALLING THE SCAMMER!) - Linkmon99 Richest Roblox Player
       * Description references the data collection website rbxtoys.com.
       * URL: https://www.youtube.com/watch?v=VCIlVU8S-dg
+    * HE SOLD my ROBLOX ACCOUNT on EBAY (CALLING THE SCAMMER!) - Linkmon99 Richest Roblox Player
+      * Description references the data collection website rbxtoys.com.
+      * URL: https://www.youtube.com/watch?v=VCIlVU8S-dg&pp=sAQA
     * Guess My ROBUX to WIN IT ALL!!! (R$?!) - Linkmon99 Richest Roblox Player
       * Description references the data collection website rbxtoys.com.
       * URL: https://www.youtube.com/watch?v=325_ILeNJ40
+    * Guess My ROBUX to WIN IT ALL!!! (R$?!) - Linkmon99 Richest Roblox Player
+      * Description references the data collection website rbxtoys.com.
+      * URL: https://www.youtube.com/watch?v=325_ILeNJ40&pp=sAQA
     * Donating ALL MY ROBUX to Fans At VIDCON!! - Linkmon99 IRL \#18
       * Description references the data collection website rbxtoys.com.
       * URL: https://www.youtube.com/watch?v=lqwtj7bfh-I
+    * Donating ALL MY ROBUX to Fans At VIDCON!! - Linkmon99 IRL \#18
+      * Description references the data collection website rbxtoys.com.
+      * URL: https://www.youtube.com/watch?v=lqwtj7bfh-I&pp=sAQA
   * Non-Giftcard Robux Giveaways
     * IF YOU FIND ME, WIN 15,000 ROBUX!! (Fan HIDE & SEEK Challenge) - Linkmon99 ROBLOX
       * URL: https://www.youtube.com/watch?v=aQVzK3xhRAs
