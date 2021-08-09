@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 8, 2021<br>
+Generated August 9, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -197,7 +197,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Alex (CraftedRL)
 * Aline Games (AliineGamesYT)
 * alixia (aIixiayt)
-* Alles Ava Gaming (Kingmuffin316)
+* Alles Ava Gaming 
 * AlvinBlox (Alvin_Blox)
 * Amberry (Amberrry)
 * AnielicA (ANIELICA01)
