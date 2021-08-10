@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 9, 2021<br>
+Generated August 10, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 443,346 videos
-* Total videos found that match keywords: 29,759 videos
+* Total videos: 447,094 videos
+* Total videos found that match keywords: 30,087 videos
+  * Total unprocessed videos: 309 videos
 * Total videos found that are processed and marked: 3,326 videos 
   * Information Collection: 2,181 videos
   * Non-Giftcard Robux Giveaways: 957 videos
@@ -193,6 +194,7 @@ to the report if this happens.
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 3SB Games (Cakemiix and shadodoo)
+* Aaron Matthew (AaronDRonin)
 * Acenix (AcenixElMejorYoutube)
 * Alex (CraftedRL)
 * Aline Games (AliineGamesYT)
@@ -200,6 +202,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Alles Ava Gaming 
 * AlvinBlox (Alvin_Blox)
 * Amberry (Amberrry)
+* Angelazz (Angelazz)
 * AnielicA (ANIELICA01)
 * Anix (iamAnix)
 * Ant Antixx (Ant_Antixx)
@@ -221,8 +224,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Blue Blob (jiravich)
 * bobjenz 
 * Bonnie Builds Roblox (BonnieBuildsYT)
-* BOO BUMBUM (hulkbr_oficial)
 * BramP (BramPeeee)
+* BrandAccount (hulkbr_oficial)
 * BREN0RJ (BREN0RJ7)
 * Brianna (zBriannaGamez)
 * Brincando com a Keke (Keke_KerenYT)
@@ -240,6 +243,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * cazum8 (cazum8)
 * Celestial Roblox (IM_Celestial)
 * Cerority (Cerority)
+* ChillzCx (ChillzCx)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Chrisu Gaming (ChristsuYT)
@@ -394,6 +398,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Laughability (Laughability)
 * Lawlieet 20 (XLAWLIEETX)
 * Leah Ashe (NotLeah)
+* Lenay (lenay_ROBLOX)
 * LiaBlossoms (LiaBlossoms)
 * locus (locus200k)
 * Lokis (lokis9340)
@@ -493,6 +498,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Royale Roleplay (RxyaleRoleplayer)
 * Ruby Games (ruby_rubeYT)
 * RufflesOfficial (RufflesPlaysMC)
+* Ruthbell & Aaron (Rbellomello)
 * Ryguy - Roblox (ryguyrocky)
 * S\_Viper (S\_Viper)
 * SallyGreenGamer 
@@ -562,6 +568,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TwiistedPandora (TwistedPandora)
 * Tx_cle (TxcIes)
 * Uncle Kizaru (Uncle_Kizaru)
+* Unlimited (Unlimited_Resources)
 * V2 Plays (Miya7372 and toreject)
 * Valen Latina (Valen_Latina)
 * VikingPrincessJazmin (VikingPrincessJazmin)
