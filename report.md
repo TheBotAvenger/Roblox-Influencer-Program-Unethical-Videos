@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 10, 2021<br>
+Generated August 11, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 447,094 videos
 * Total videos found that match keywords: 30,087 videos
-  * Total unprocessed videos: 309 videos
-* Total videos found that are processed and marked: 3,326 videos 
+  * Total unprocessed videos: 33 videos
+* Total videos found that are processed and marked: 3,328 videos 
   * Information Collection: 2,181 videos
-  * Non-Giftcard Robux Giveaways: 957 videos
+  * Non-Giftcard Robux Giveaways: 959 videos
   * Other: 153 videos
   * Phishing: 35 videos
 
@@ -533,7 +533,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
 * SWTAD Kids (SnickerHoops)
-* TanqR (TanqR)
 * Tapparay (Tapparay)
 * TapWater (UseCode_Tap)
 * teenager paul (teenagerpaul)
@@ -6953,6 +6952,9 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * This Mobile Wins $10,000 ROBUX If He Gets 1 KILL... (Roblox Arsenal)
       * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=sEBKoeC_Pxs
+    * This Mobile Wins $10,000 ROBUX If He Gets 1 KILL... (Roblox Arsenal)
+      * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=sEBKoeC_Pxs&pp=sAQA
 * Kaden Fumblebottom (jokerkid5898)
   * Non-Giftcard Robux Giveaways
@@ -10191,6 +10193,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
+* TanqR (TanqR)
+  * Non-Giftcard Robux Giveaways
+    * 1 KILL = $1000 Robux in Roblox Bedwars..
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=COqizjAstxE
 * Telanthric (Telanthric)
   * Other
     * ⚡ I EVOLVED in Sneezing Simulator \*EVOLUTIONS  / UPDATE 3\* \[🎁CODE\]
