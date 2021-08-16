@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 15, 2021<br>
+Generated August 16, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -201,6 +201,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Alles Ava Gaming 
 * AlvinBlox (Alvin_Blox)
 * Amberry (Amberrry)
+* André Antunes - Renda Extra (hulkbr_oficial)
 * Angelazz (Angelazz)
 * AnielicA (ANIELICA01)
 * Anix (iamAnix)
@@ -224,7 +225,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * bobjenz 
 * Bonnie Builds Roblox (BonnieBuildsYT)
 * BramP (BramPeeee)
-* BrandAccount (hulkbr_oficial)
 * BREN0RJ (BREN0RJ7)
 * Brianna (zBriannaGamez)
 * Brincando com a Keke (Keke_KerenYT)
@@ -458,7 +458,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Papile (jupapile)
 * Paula Urbaez (PaulaUrbaez)
 * PedroLetsPlay (pedroletsplayroblox)
-* Peep (peepguyx)
+* Peepguy (peepguyx)
 * PeetahBread (PeetahBread)
 * PghLFilms (PGHLego1945)
 * PHMittens (PHMittensSTARCreator)
@@ -518,6 +518,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SkippyPlays (SkippyPIaysYT)
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
+* Sniffycat (SnickerHoops)
 * Solem Archive (iJackeryz)
 * Sons Of Fun (SonsofFun_YT)
 * Sontix (Sontixito)
@@ -531,9 +532,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
-* SWTAD Kids (SnickerHoops)
 * Tapparay (Tapparay)
-* TapWater (UseCode_Tap)
+* TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
 * Temprist (Temprist)
 * Tex HS (TexWillerHS)
