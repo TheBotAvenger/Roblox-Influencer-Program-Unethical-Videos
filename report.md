@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 22, 2021<br>
+Generated August 23, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -201,7 +201,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Alles Ava Gaming 
 * AlvinBlox (Alvin_Blox)
 * Amberry (Amberrry)
-* André Antunes - Renda Extra (hulkbr_oficial)
+* André Antunes - Crypto (hulkbr_oficial)
 * Angelazz (Angelazz)
 * AnielicA (ANIELICA01)
 * Anix (iamAnix)
@@ -324,7 +324,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GoldenGlare (GOLD3NGLARE)
 * GoldenOwl 
 * gorygaming24601 (CoolRanch_24601)
-* grace k (watchingpearlywtae)
+* grace k (gracehappy_fun)
 * Gravycatman (GrumpyGravy)
 * Gunslaya (iGunslaya)
 * Hagazo (Hagazo9)
@@ -8741,7 +8741,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 1,000 ROBUX MAKEOVER || (Fan Surprise!)
       * Offers to give Robux in exchange for a username and password.
       * URL: https://www.youtube.com/watch?v=95TVy5Udq9o
-* SimplyCoco (SimpleeCoco)
+* SimplyCoco (IC0C00)
   * Non-Giftcard Robux Giveaways
     * RATING MY FANS SINGING!! + 1K ROBUX GIVEAWAY WINNER‼️ || SimplyCoco
       * Uses group funds to giveaway Robux.
