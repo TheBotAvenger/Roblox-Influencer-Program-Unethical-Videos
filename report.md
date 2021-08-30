@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 29, 2021<br>
+Generated August 30, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -4603,7 +4603,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Consiga ROBUX GRÁTIS Dessa Maneira - SORTEIO 2000 Robux
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=Nda5CJd2LwQ
-* Funky (FunkyJustVibin)
+* FunkySquadHD (FunkyJustVibin)
   * Information Collection
     * I GOT ON THE LEADERBOARD! North Pole Simulator 🎅
       * Description references the data collection website irobux.com.
@@ -8741,7 +8741,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 1,000 ROBUX MAKEOVER || (Fan Surprise!)
       * Offers to give Robux in exchange for a username and password.
       * URL: https://www.youtube.com/watch?v=95TVy5Udq9o
-* SimplyCoco (IC0C00)
+* SimplyCoco (IC0C0X)
   * Non-Giftcard Robux Giveaways
     * RATING MY FANS SINGING!! + 1K ROBUX GIVEAWAY WINNER‼️ || SimplyCoco
       * Uses group funds to giveaway Robux.
