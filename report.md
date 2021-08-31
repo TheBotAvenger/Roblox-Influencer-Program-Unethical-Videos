@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 30, 2021<br>
+Generated August 31, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 450,763 videos
-* Total videos found that match keywords: 30,416 videos
+* Total videos: 452,905 videos
+* Total videos found that match keywords: 30,580 videos
+  * Total unprocessed videos: 156 videos
 * Total videos found that are processed and marked: 3,328 videos 
   * Information Collection: 2,181 videos
   * Non-Giftcard Robux Giveaways: 959 videos
@@ -206,6 +207,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * AnielicA (ANIELICA01)
 * Anix (iamAnix)
 * Ant Antixx (Ant_Antixx)
+* ApplyingTM (ApplyingTM)
 * AshleyBunni (BunniYT)
 * Ashleyosity (itsAshleyosity)
 * Augus (augusvidal)
@@ -217,6 +219,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Benni (ImBenni)
 * Bia Gamer (BiiiaGamerYT)
 * Biano Betero (Bianiinho)
+* Bibi e Lud (BibibloxYTB and LudBloxYTB)
 * Bigbst4tz2 (BigBst4tz22)
 * BIGHEAD (Bighead_StarCode)
 * BitSquid (BitSquid)
@@ -296,11 +299,13 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Fanaticalight (Fanaticalight)
 * FancySmash (RealFancySmash)
 * Febatista 
+* Fera (FeraGamingYT)
 * FGTeeV (FGTeeV and DrizzMcNizz)
 * Fini Juega (FiniJuega)
 * FishyBlox (FishyBloxYT)
 * FlameRBX (SnowRBX_Youtube)
 * Flamingo (mrflimflam)
+* flashii (flashiilindo)
 * Flebsy (Flebsy)
 * Flxral (xoFlxral)
 * Folix (Mrpresident1302)
@@ -331,14 +336,17 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HandN (xHandNx)
 * hannnahlovescows (hannnahlovescows)
 * HappyBlack (HappyThreePro)
+* haramics (haramics)
 * HelloItsVG (HelloItsVinh)
 * HeyItsJames (NotJamesRBLX)
 * HeyRosalina (HeyRosalina)
 * Honey The Unicorn - Roblox (HoneyTheUnicornYT)
+* HW5567 (HW5567)
 * Hxyila (hayiIaaa)
 * Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
 * I\_lovejava (I\_lovejava)
+* iAirRon (iAirRon)
 * IBella (Cinderbelle)
 * iBeMaine (ibemaine)
 * iBugou (iBugouzinho)
@@ -375,6 +383,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JoJocraftHP (JoJocraftHP)
 * JonesGotGame (JonesGotGame)
 * Jr e Mi (JuniorGuimaraes and micandeloro)
+* Juaumzinho (JUAUMZONES)
 * Judo Unicorn (judounicorn11)
 * Juegahora (Juegahora_Star)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
@@ -442,6 +451,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * NO\_DATA (NO\_DATA)
 * Noclypso (Noclypso)
 * noekje (noekje)
+* Noob Master (N00B_Mast3rXD)
 * notive (notive)
 * O1G (TotallyNotO1G)
 * Oblivious (ObliviousHD)
@@ -474,6 +484,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PREZLEY (PrezleyOfficial)
 * PRIME FURIOUS - RaVeNeiD GaMiNG (Prime_Furious)
 * Princess Royale (IAmPrincessRoyale)
+* Princess Tori (ItsToriTimeYT)
 * ProSidu (prosiduzao)
 * Proton Plays Roblox (Prxtonn)
 * Raconidas (Raconidas)
@@ -519,6 +530,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
 * Sniffycat (SnickerHoops)
+* Sofia Tube (sofiatube7)
 * Solem Archive (iJackeryz)
 * Sons Of Fun (SonsofFun_YT)
 * Sontix (Sontixito)
@@ -532,6 +544,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
+* Só Por Causa (Est3vA0)
 * Tapparay (Tapparay)
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
@@ -566,6 +579,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TwiistedPandora (TwistedPandora)
 * Tx_cle (TxcIes)
 * Uncle Kizaru (Uncle_Kizaru)
+* unicorn\_akeesha109 - Roblox (unicorn\_akeesha109)
 * Unlimited (Unlimited_Resources)
 * V2 Plays (Miya7372 and toreject)
 * Valen Latina (Valen_Latina)
@@ -588,6 +602,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ZaiLetsPlay (YT_ZaiLetsPlay)
 * Zepyxl (Zepyxl)
 * Zerophyx (Zerophyx)
+* Zilgon (Zilgon)
 * ZNac (Z_Nac and LOLknitSuoY)
 * ZULY (ItsZulyYT)
 
