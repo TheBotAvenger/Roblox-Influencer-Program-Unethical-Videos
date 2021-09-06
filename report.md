@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 5, 2021<br>
+Generated September 6, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -192,7 +192,7 @@ to the report if this happens.
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
-* 3SB Games (Cakemiix and shadodoo)
+* 3SB Games (iloveyoumrbubs and ododahs)
 * Aaron Matthew (AaronDRonin)
 * Acenix (AcenixElMejorYoutube)
 * Alex (CraftedRL)
@@ -390,7 +390,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * jvnq (jvnqYT)
 * Karim Juega (karimjuega)
 * Kawaii Kunicorn Gaming (kawaii_kunicorn)
-* Kelogish (Kelogish)
+* Kelogish 
 * Kelvingts (Kelvingts)
 * Kepu The Cat (KepuTheCat)
 * Kindly Keyin (KindlyKeyin)
@@ -562,6 +562,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ThnxCya (NotThnxCya)
 * Thumbs Up Family (ThumbsUpFamily)
 * ThunberGames (ThunberGames)
+* ThyEdgar (AmThyEdgar)
 * Tigre TV (TigreYTw)
 * TinenQa (TinenQa1)
 * TinyTurtle Roblox (BeautifulTinyTurtle)
@@ -591,7 +592,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * xEnesR (xEnesR)
 * XericPlayz (XericPlayz)
 * Xou (xouzin7)
-* xThyEdgarx (AmThyEdgar)
 * Yayixd Changuito (YAYIXDCHANGU)
 * Yode Plays (yode1)
 * Yokai (Yokai_YT)
