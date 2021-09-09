@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 8, 2021<br>
+Generated September 9, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,8 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 454,820 videos
-* Total videos found that match keywords: 30,739 videos
-  * Total unprocessed videos: 177 videos
+* Total videos: 455,405 videos
+* Total videos found that match keywords: 30,753 videos
 * Total videos found that are processed and marked: 3,328 videos 
   * Information Collection: 2,181 videos
   * Non-Giftcard Robux Giveaways: 959 videos
@@ -195,6 +194,7 @@ to the report if this happens.
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 3SB Games (iloveyoumrbubs and ododahs)
 * Aaron Matthew (AaronDRonin)
+* AbsintoJ (AbsintoJYT)
 * Acenix (AcenixElMejorYoutube)
 * Alex (CraftedRL)
 * Aline Games (AliineGamesYT)
@@ -202,7 +202,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Alles Ava Gaming 
 * AlvinBlox (Alvin_Blox)
 * Amberry (Amberrry)
-* André Antunes - Crypto (hulkbr_oficial)
+* Andre Nicholas (andrhevn21)
+* André Antunes (hulkbr_oficial)
 * Angelazz (Angelazz)
 * AnielicA (ANIELICA01)
 * Anix (iamAnix)
@@ -225,6 +226,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BitSquid (BitSquid)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * Blue Blob (jiravich)
+* Bluxxy Gaming (BluxxyGaming)
 * bobjenz 
 * Bonnie Builds Roblox (BonnieBuildsYT)
 * BramP (BramPeeee)
@@ -274,6 +276,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DaPandaGirl (Da_PandaGirl)
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
+* deathvanessa (deathvanessayoutube)
 * DeeterPlays (DeeterPlays)
 * Devovo (Devovorya)
 * Digito Plays (DigitoPlaysThis)
@@ -287,11 +290,14 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DraconiteDragon (ItsDraconiteDragon)
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
+* elDanielGT (DanielGTReal)
 * ElemperadormaxiYT (EmperadorMaxiOFICIAL)
 * Elitelupus (elitelupus)
 * Ephicsea (Ephicsea)
 * ErnieC3 (ErnieC3_YouTube)
+* Estela (Estelacoutin)
 * EthanGamer (EthanGamerTV)
+* Euri Wings (EuriWings)
 * Evanbear1 (Evanbear1)
 * FadedPlayz (YTFadedPlayz)
 * faeglow (faeglow)
@@ -308,6 +314,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * flashii (flashiilindo)
 * Flebsy (Flebsy)
 * Flxral (xoFlxral)
+* FoamyBubbles (FoamyBubbIes)
 * Folix (Mrpresident1302)
 * ForeverSparks (itsForeverSparks)
 * Fraser2TheMax (Fraser2TheMax)
@@ -363,8 +370,10 @@ The following channels had nothing appear with manual searching. Videos may exis
 * It's Siena (ItsNotSiena3)
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
 * Its Ashley Playz YT (ItsAshley_PlayzYT)
+* Its Matty (YT_ItsMatty)
 * Its SugarCoffee (SugarCoffee123)
 * ItsFunneh (Funnehcake)
+* ItsLimey (BamItsLimey)
 * J-Bug (J_Buggo)
 * Jake Globox (JakeGlobox)
 * Jake Pudding (JakeZPudding)
@@ -397,6 +406,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Kindly Keyin (KindlyKeyin)
 * KingOfYouTube (uKingzaum)
 * KIRON (SoyKiron)
+* Kodak (KodakOF)
 * KraoESP (KraoESP)
 * Krystin Plays (KrystinPlays)
 * Lakshart Nia (Laksharth)
@@ -425,6 +435,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mary - Frozencrystal 
 * Matsbxb (MATSbxb)
 * mayrushart (mayrushart)
+* MedTw (MedTwYT)
 * MeganPlays (TheMeganPlays)
 * MelzinhaMel Games (MelzinhaMelGames, Detona\_Anderson, and Princesa\_Alicinha)
 * Mia Games (MiaZaffyt)
@@ -438,12 +449,15 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MoFlare (MoFlare)
 * Moody Unicorn Twin - Roblox (moodyunicorntwin)
 * MooseCraft Roblox (MooseCraftRoblox)
+* Mr\_Booshot (Mr\_Booshot)
 * MrLokazo86 (Lokazo86)
 * MrPankeyk (MrPankeyk)
 * Mxddsie (mxddsie)
+* Myster0y (Myster0y)
 * NanoProdigy (NanoProdigy)
 * NapkinNate (NapkinNate)
 * Natasha Panda (NatashaPandaaYT)
+* Natsuki Sel (Natsuki_Sel)
 * Nezi Plays Roblox (NeziPlaysROBLOX)
 * NicksDagaYT (nicks543)
 * Nicole Maffi (NicoleMaffi and vanessamaffi)
@@ -470,6 +484,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PedroLetsPlay (pedroletsplayroblox)
 * Peepguy (peepguyx)
 * PeetahBread (PeetahBread)
+* Peter Toys (PeterToys)
 * PghLFilms (PGHLego1945)
 * PHMittens (PHMittensSTARCreator)
 * Phoeberry (Phoeberry)
@@ -478,6 +493,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Play with me - Apps and Games (da\_dania and kaan\_xy2)
 * Playonyx (okgamerman)
 * Plech (PlechitoYT)
+* Plique Games (PliqueYT)
 * Premiumsalad (premiumsalad)
 * PrestonGamez (PrestonPlayz)
 * Pretzel Etzel (pretzel_etzel)
@@ -487,11 +503,13 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Princess Tori (ItsToriTimeYT)
 * ProSidu (prosiduzao)
 * Proton Plays Roblox (Prxtonn)
+* PurxpleRblx (purxpllee)
 * Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
 * Rainster (RainsterYT)
 * rareyma (Iamrareyma)
 * Rbx Life Hacks (carakuchi)
+* RealMoby (MOBY3W)
 * REDKILL (RedKill24YT)
 * RellGames (RELLvex)
 * Remainings (Remainings)
@@ -593,6 +611,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * xEnesR (xEnesR)
 * XericPlayz (XericPlayz)
 * Xou (xouzin7)
+* Xpie (Xpie101gamer)
 * Yayixd Changuito (YAYIXDCHANGU)
 * Yode Plays (yode1)
 * Yokai (Yokai_YT)
