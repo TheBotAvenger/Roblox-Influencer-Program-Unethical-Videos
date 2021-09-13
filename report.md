@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 12, 2021<br>
+Generated September 13, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -203,7 +203,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * AlvinBlox (Alvin_Blox)
 * Amberry (Amberrry)
 * Andre Nicholas (andrhevn21)
-* André Antunes (hulkbr_oficial)
 * Angelazz (Angelazz)
 * AnielicA (ANIELICA01)
 * Anix (iamAnix)
@@ -241,6 +240,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Captain Tate (CaptainTate21)
 * CaptainJackAttack (CaptainJackAttack101)
 * Carakuchi 
+* Cardano Foundation (hulkbr_oficial)
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
 * CatFer (SoyCatFer)
@@ -8775,7 +8775,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 1,000 ROBUX MAKEOVER || (Fan Surprise!)
       * Offers to give Robux in exchange for a username and password.
       * URL: https://www.youtube.com/watch?v=95TVy5Udq9o
-* SimplyCoco (IC0C0X)
+* SimplyCoco (Ayzvure)
   * Non-Giftcard Robux Giveaways
     * RATING MY FANS SINGING!! + 1K ROBUX GIVEAWAY WINNER‼️ || SimplyCoco
       * Uses group funds to giveaway Robux.
