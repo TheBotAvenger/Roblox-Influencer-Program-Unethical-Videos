@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 19, 2021<br>
+Generated September 20, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -260,7 +260,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Complex Roblox (IamComplexRoblox)
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutterYT)
-* Coolpanda (YTCoolpaxda)
 * Cosmic (bluecosmiic)
 * CPat (StarC0de_CPAT)
 * cqqp (cqqp)
@@ -596,6 +595,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TussyGames (TussyGames)
 * TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
+* Twizzah (YTCoolpaxda)
 * Tx_cle (TxcIes)
 * Uncle Kizaru (Uncle_Kizaru)
 * unicorn\_akeesha109 - Roblox (unicorn\_akeesha109)
