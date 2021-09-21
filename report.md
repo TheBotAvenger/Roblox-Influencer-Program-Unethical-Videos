@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 20, 2021<br>
+Generated September 21, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 457,418 videos
-* Total videos found that match keywords: 30,902 videos
+* Total videos: 459,595 videos
+* Total videos found that match keywords: 31,068 videos
+  * Total unprocessed videos: 149 videos
 * Total videos found that are processed and marked: 3,328 videos 
   * Information Collection: 2,181 videos
   * Non-Giftcard Robux Giveaways: 959 videos
@@ -193,6 +194,7 @@ to the report if this happens.
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 3SB Games (iloveyoumrbubs and ododahs)
+* 440HP (440HP)
 * Aaron Matthew (AaronDRonin)
 * AbsintoJ (AbsintoJYT)
 * Acenix (AcenixElMejorYoutube)
@@ -260,6 +262,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Complex Roblox (IamComplexRoblox)
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutterYT)
+* Cortesgo (cortesgo)
 * Cosmic (bluecosmiic)
 * CPat (StarC0de_CPAT)
 * cqqp (cqqp)
@@ -321,6 +324,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FUDZ (fudsim)
 * Furious Jumper (furi0us_jumper)
 * FusionZGamer (NotFusionZGamer)
+* Futura (FuturaYT)
 * GabriellaGames 
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
@@ -387,6 +391,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JessEmma (TheJessEmma)
 * JesuaCunnigham (Jesua_Cunnigham)
 * Joao joao (Joao_joaooficial)
+* Joe Albanese (Joey_Albanese)
 * JoeyDaPlayer (UseStarCodee_JOEY)
 * JoJocraftHP (JoJocraftHP)
 * JonesGotGame (JonesGotGame)
@@ -417,6 +422,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Leah Ashe (NotLeah)
 * Lenay (lenay_ROBLOX)
 * LiaBlossoms (LiaBlossoms)
+* LimaMosca (LimaMosca)
 * locus (locus200k)
 * Lokis (lokis9340)
 * Luky (LukyBloxYT)
@@ -425,6 +431,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Luuy (iiLuuy)
 * Luzablxx (Lzablxx)
 * Mackenzie Turner Roblox (MackenzieTurnerYT)
+* Magicbus (MagicbusYT)
 * Mahadinoor Playz (MahadinoorPlayzRBLX)
 * Maislie (Maislie)
 * Mandinha Game (iii_Amandinha)
@@ -546,6 +553,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SkippyPlays (SkippyPIaysYT)
 * skyleree (skyleree)
 * SlEGHART (SlEGHART)
+* Sleigher (Gsleigh)
 * Sniffycat (SnickerHoops)
 * Sofia Tube (sofiatube7)
 * Solem Archive (iJackeryz)
@@ -555,6 +563,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Soy Blue (SoyBluee)
 * Spagz Blox (Spagzox)
 * Squid Magic (Foolzy)
+* SrJuancho (JuanchoAcostado)
 * SrPrismatico (SrPrismatico)
 * StaTick (St4Tick)
 * Stevebloxian (steven111234)
