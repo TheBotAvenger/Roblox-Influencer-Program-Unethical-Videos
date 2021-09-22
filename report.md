@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 21, 2021<br>
+Generated September 22, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 459,595 videos
 * Total videos found that match keywords: 31,068 videos
-  * Total unprocessed videos: 149 videos
-* Total videos found that are processed and marked: 3,328 videos 
+  * Total unprocessed videos: 5 videos
+* Total videos found that are processed and marked: 3,326 videos 
   * Information Collection: 2,181 videos
-  * Non-Giftcard Robux Giveaways: 959 videos
+  * Non-Giftcard Robux Giveaways: 957 videos
   * Other: 153 videos
   * Phishing: 35 videos
 
@@ -8356,12 +8356,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRYING TO DONATE REAL ROBUX TO PEOPLE \[ROBLOX Social Experiment\]
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=mCJHfYNT-_M
-    * ROBLOX : PLAYING JAILBREAK + WIN FREE ROBUX
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=Z9UV6-s4auo
-    * ROBLOX : SURVIVOR VIP SERVER + WIN ROBUX EVERY 10 MIN
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=7eho3btt8hw
     * \[ROBLOX\] WIN FREE ROBUX IN MY LOTTERY IN SURVIVOR
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=-oDhbZUAa6Q
