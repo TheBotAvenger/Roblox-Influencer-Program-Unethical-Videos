@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 26, 2021<br>
+Generated September 27, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -241,7 +241,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Captain Tate (CaptainTate21)
 * CaptainJackAttack (CaptainJackAttack101)
 * Carakuchi 
-* Cardano Foundation (hulkbr_oficial)
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
 * CatFer (SoyCatFer)
@@ -329,6 +328,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Gallant Gaming (GallantGaming)
 * Gamer Hexapod - R3 (Hexapod_xD)
 * Gamer Kawaii (iiGamerKawaiiYT)
+* Gamermais (SrPrismatico)
 * GamingwithVYT (GamingwithVYT)
 * GH0Ks (GHOKSZIN)
 * GianBlox (GiianBloxYT)
@@ -338,7 +338,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GoldenGlare (GOLD3NGLARE)
 * GoldenOwl 
 * gorygaming24601 (CoolRanch_24601)
-* grace k (gracehappy_fun)
+* grace k (yt_graceek)
 * Gravycatman (GrumpyGravy)
 * Gunslaya (iGunslaya)
 * Hagazo (Hagazo9)
@@ -350,6 +350,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HeyItsJames (NotJamesRBLX)
 * HeyRosalina (HeyRosalina)
 * Honey The Unicorn - Roblox (HoneyTheUnicornYT)
+* HulkBR Games (hulkbr_oficial)
 * HW5567 (HW5567)
 * Hxyila (hayiIaaa)
 * Hyper (DylanTheHyper)
@@ -359,7 +360,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * IBella (Cinderbelle)
 * iBeMaine (ibemaine)
 * iBugou (iBugouzinho)
-* iFres (iFresblxx)
+* iFresproYT (iFresblxx)
 * iGuz (iGuzGames)
 * iiisxphie (iiisxphie)
 * iKotori (iKotori)
@@ -367,7 +368,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ImaGamerGirl (lmaGamerGirI)
 * Inemafoo (Inemajohn)
 * Infernasu (Infernasu)
-* Irmãs Gamers (ypietraxz)
+* Irmãs Gamers (iiPietra_GamesYT)
 * It's Akeila (itsakeila)
 * It's Siena (ItsNotSiena3)
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
@@ -563,7 +564,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Spagz Blox (Spagzox)
 * Squid Magic (Foolzy)
 * SrJuancho (JuanchoAcostado)
-* SrPrismatico (SrPrismatico)
 * StaTick (St4Tick)
 * Stevebloxian (steven111234)
 * Sunset Safari (SunsetSafariYT)
