@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 3, 2021<br>
+Generated October 4, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -436,7 +436,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Maislie (Maislie)
 * Mandinha Game (iii_Amandinha)
 * Manucraft (ManucraftYT)
-* MaRcDoGy (MarkitusOMG)
+* MaRcDoGy (ElRoVas1)
 * Mariana Nana (marianavasco)
 * Mary - Frozencrystal 
 * Matsbxb (MATSbxb)
