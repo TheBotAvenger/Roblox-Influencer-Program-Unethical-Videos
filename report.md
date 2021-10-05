@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 4, 2021<br>
+Generated October 5, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 461,569 videos
-* Total videos found that match keywords: 31,225 videos
+* Total videos: 463,910 videos
+* Total videos found that match keywords: 31,419 videos
+  * Total unprocessed videos: 162 videos
 * Total videos found that are processed and marked: 3,326 videos 
   * Information Collection: 2,181 videos
   * Non-Giftcard Robux Giveaways: 957 videos
@@ -211,6 +212,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ApplyingTM (ApplyingTM)
 * AshleyBunni (BunniYT)
 * Ashleyosity (itsAshleyosity)
+* AtlasZero (Atlas0Zero)
 * Augus (augusvidal)
 * Avocado Playz (AvocadoPlayzOfficial)
 * Ayzria (Ayzria)
@@ -228,6 +230,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Blue Blob (jiravich)
 * Bluxxy Gaming (BluxxyGaming)
 * bobjenz 
+* BolzarX (xxBolzxx)
 * Bonnie Builds Roblox (BonnieBuildsYT)
 * BramP (BramPeeee)
 * BREN0RJ (BREN0RJ7)
@@ -244,9 +247,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
 * CatFer (SoyCatFer)
+* CATYPINK PLAY (catypink15)
 * cazum8 (cazum8)
 * Celestial Roblox (IM_Celestial)
 * Cerority (Cerority)
+* Cheo Power (cheopower)
 * ChillzCx (ChillzCx)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
@@ -302,6 +307,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FadedPlayz (YTFadedPlayz)
 * faeglow (faeglow)
 * FakerUp (NotFakerUp)
+* Família Paulinho e Toquinho (PFlavio1)
 * Fanaticalight (Fanaticalight)
 * FancySmash (RealFancySmash)
 * Febatista 
@@ -320,6 +326,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (french_rxses)
 * FUDZ (fudsim)
+* FunPiggy (CelestialPiggy)
 * Furious Jumper (furi0us_jumper)
 * FusionZGamer (NotFusionZGamer)
 * Futura (FuturaYT)
@@ -544,6 +551,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ScriptedMatt (ScriptedMatt)
 * SDMittens (SDMittens)
 * sebee (23Sebee)
+* SeñoritoFran (SrFrancesYT)
 * shadow network (realshadownetwork)
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
@@ -566,6 +574,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SrJuancho (JuanchoAcostado)
 * StaTick (St4Tick)
 * Stevebloxian (steven111234)
+* Striker180x (strikerl80x)
 * Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
@@ -576,6 +585,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Temprist (Temprist)
 * Tex HS (TexWillerHS)
 * th3c0nnman (th3c0nnman)
+* The Crystalline Gamerz (sese64 and toftof2019)
 * THE KAPOLAR (Kapolar1)
 * The Meg and Mo Show (MegaSquadMo)
 * The Pals (RealSubZeroExtabyte)
