@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 10, 2021<br>
+Generated October 11, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -230,7 +230,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bluxxy Gaming (BluxxyGaming)
 * bobjenz 
 * BolzarX (xxBolzxx)
-* Bonnie Builds Roblox (BonnieBuildsYT)
+* Bonnie Builds (BonnieBuildsYT)
 * BramP (BramPeeee)
 * BREN0RJ (BREN0RJ7)
 * Brianna (zBriannaGamez)
@@ -361,12 +361,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Hxyila (hayiIaaa)
 * Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
-* I\_lovejava (I\_lovejava)
 * iAirRon (iAirRon)
 * IBella (Cinderbelle)
 * iBeMaine (ibemaine)
 * iBugou (iBugouzinho)
-* iFresproYT (iFresblxx)
+* iFres (iFresblxx)
 * iGuz (iGuzGames)
 * iiisxphie (iiisxphie)
 * iKotori (iKotori)
@@ -389,6 +388,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Jameskii (RealJameskii)
 * Janet and Kate (KittyJanet and Kate9071)
 * jatatochip (jatatochip)
+* JavaCreates (JavaCreates)
 * javie12 (javie12)
 * Jayingee (jayingee)
 * Jeancof (Jeancof)
@@ -555,7 +555,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
-* Signicial (Signicial)
+* signupredir111 (Signicial)
 * Silent Playz (SilentYTTW)
 * SkippyPlays (SkippyPIaysYT)
 * skyleree (skyleree)
@@ -6988,7 +6988,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKER BOB ESPONJA ELE AINDA EXISTE ?? :O ‹ Roblox Mistérios ›
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=er8bmm9FcD0
-* Jie GamingStudio (jieeroblox)
+* Jie GamingStudio 
   * Information Collection
     * Jie 100k ROBLOX Art Contest(CLOSED)
       * Description references the data collection website easyrobux.today.
