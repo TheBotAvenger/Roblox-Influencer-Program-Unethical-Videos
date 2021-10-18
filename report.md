@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 17, 2021<br>
+Generated October 18, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -281,7 +281,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DaPandaGirl (Da_PandaGirl)
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
-* deathvanessa (deathvanessayoutube)
+* deathvanessa (authenticvanessa)
 * DeeterPlays (DeeterPlays)
 * Devovo (Devovorya)
 * Digito Plays (DigitoPlaysThis)
