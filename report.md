@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 19, 2021<br>
+Generated October 20, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,12 +182,12 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 467,986 videos
-* Total videos found that match keywords: 31,721 videos
-  * Total unprocessed videos: 762 videos
-* Total videos found that are processed and marked: 3,326 videos 
+* Total videos: 468,429 videos
+* Total videos found that match keywords: 31,752 videos
+  * Total unprocessed videos: 91 videos
+* Total videos found that are processed and marked: 3,325 videos 
   * Information Collection: 2,181 videos
-  * Non-Giftcard Robux Giveaways: 957 videos
+  * Non-Giftcard Robux Giveaways: 956 videos
   * Other: 153 videos
   * Phishing: 35 videos
 
@@ -210,6 +210,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Anix (iamAnix)
 * Ant Antixx (Ant_Antixx)
 * ApplyingTM (ApplyingTM)
+* Armenti (LeArmenti)
 * AshleyBunni (BunniYT)
 * Ashleyosity (itsAshleyosity)
 * AtlasZero (Atlas0Zero)
@@ -233,6 +234,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BolzarX (xxBolzxx)
 * Bonnie Builds (BonnieBuildsYT)
 * BramP (BramPeeee)
+* Brancoala Games (brancoalado, marcossmm, lauroala, and claudiacraudete)
 * BREN0RJ (BREN0RJ7)
 * Brianna (zBriannaGamez)
 * Brincando com a Keke (Keke_KerenYT)
@@ -243,6 +245,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * callmehhaley (callmehhaleyx)
 * Captain Tate (CaptainTate21)
 * CaptainJackAttack (CaptainJackAttack101)
+* Captainly (SubscribeToCPTNLY)
 * Carakuchi 
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
@@ -283,7 +286,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
 * deathvanessa (authenticvanessa)
 * DeeterPlays (DeeterPlays)
+* DeGoBooM (BumiReal)
 * Devovo (Devovorya)
+* DigitizedPixels (DigitizedPixels)
 * Digito Plays (DigitoPlaysThis)
 * Digopollo (DigoPollos)
 * Diário do Casal Gamer (VictorNuclear and FernandaTreta)
@@ -304,6 +309,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * EthanGamer (EthanGamerTV)
 * Euri Wings (EuriWings)
 * Evanbear1 (Evanbear1)
+* EYYCHEEV (EYYCHEEV)
 * FadedPlayz (YTFadedPlayz)
 * faeglow (faeglow)
 * FakerUp (NotFakerUp)
@@ -336,6 +342,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Gamer Hexapod - R3 (Hexapod_xD)
 * Gamer Kawaii (iiGamerKawaiiYT)
 * Gamermais (SrPrismatico)
+* GamerNom (MaybeItsMyFault)
 * GamingwithVYT (GamingwithVYT)
 * GH0Ks (GHOKSZIN)
 * GianBlox (GiianBloxYT)
@@ -347,6 +354,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * gorygaming24601 (CoolRanch_24601)
 * grace k (yt_graceek)
 * Gravycatman (GrumpyGravy)
+* GroovyDominoes52 (GroovyDominoes52)
 * Gunslaya (iGunslaya)
 * Hagazo (Hagazo9)
 * HandN (xHandNx)
@@ -420,12 +428,14 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Kodak (KodakOF)
 * KraoESP (KraoESP)
 * Krystin Plays (KrystinPlays)
+* KTG Gaming (lifetimeobcman123)
 * Lakshart Nia (Laksharth)
 * Lani (LaniiPlayzzz)
 * LankyBox (LankyBoxGamesAdam)
 * Lari Gamer (iiLariGamer)
 * Laughability (Laughability)
 * Lawlieet 20 (XLAWLIEETX)
+* LcLc (LcLcO1)
 * Leah Ashe (NotLeah)
 * Lenay (lenay_ROBLOX)
 * LiaBlossoms (LiaBlossoms)
@@ -461,10 +471,12 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Model8197 (Modeldog8197)
 * MoFlare (MoFlare)
 * Moody Unicorn Twin - Roblox (moodyunicorntwin)
+* Moonfallx (moonfallx)
 * MooseCraft Roblox (MooseCraftRoblox)
 * Mr\_Booshot (Mr\_Booshot)
 * MrLokazo86 (Lokazo86)
 * MrPankeyk (MrPankeyk)
+* Mud Playz (Mud_Playz)
 * Mxddsie (mxddsie)
 * Myster0y (Myster0y)
 * NanoProdigy (NanoProdigy)
@@ -523,6 +535,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * rareyma (Iamrareyma)
 * Rbx Life Hacks (carakuchi)
 * RealMoby (MOBY3W)
+* Reddzzyx (redbirdcool2007)
 * REDKILL (RedKill24YT)
 * RellGames (RELLvex)
 * Remainings (Remainings)
@@ -579,6 +592,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
 * Só Por Causa (Est3vA0)
+* TanqR (TanqR)
 * Tapparay (Tapparay)
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
@@ -596,6 +610,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Thinknoodles (ImNotThinknoodles)
 * Thiq Betty (ChrisPurKittiess)
 * ThnxCya (NotThnxCya)
+* Throbpenz (tharbakin)
 * Thumbs Up Family (ThumbsUpFamily)
 * ThunberGames (ThunberGames)
 * ThyEdgar (AmThyEdgar)
@@ -642,6 +657,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Zilgon (Zilgon)
 * ZNac (Z_Nac and LOLknitSuoY)
 * ZULY (ItsZulyYT)
+* •Lavenderblossom• (LavenderBlossomYTYT)
 
 ### Videos Found
 * Ant (Cringley)
@@ -10238,11 +10254,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* TanqR (TanqR)
-  * Non-Giftcard Robux Giveaways
-    * 1 KILL = $1000 Robux in Roblox Bedwars..
-      * Uses group funds to giveaway Robux.
-      * URL: https://www.youtube.com/watch?v=COqizjAstxE
 * Telanthric (Telanthric)
   * Other
     * ⚡ I EVOLVED in Sneezing Simulator \*EVOLUTIONS  / UPDATE 3\* \[🎁CODE\]
