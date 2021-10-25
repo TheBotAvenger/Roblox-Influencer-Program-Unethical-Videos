@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 24, 2021<br>
+Generated October 25, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -283,7 +283,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DaPandaGirl (Da_PandaGirl)
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
-* deathvanessa (authenticvanessa)
+* deathvanessa (exevanessa)
 * DeeterPlays (DeeterPlays)
 * DeGoBooM (BumiReal)
 * Devovo (Devovorya)
@@ -568,7 +568,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
-* signupredir111 (Signicial)
+* Signicial (Signicial)
 * Silent Playz (SilentYTTW)
 * SkippyPlays (SkippyPIaysYT)
 * skyleree (skyleree)
@@ -806,7 +806,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=2oXe2807bDM
-* Bandites (Bandites)
+* Bandites (RottenFartSmell)
   * Non-Giftcard Robux Giveaways
     * "If you WIN I'll Give You 10,000 ROBUX" (ROBLOX Arsenal)
       * Uses group funds to give away Robux for a competition.
