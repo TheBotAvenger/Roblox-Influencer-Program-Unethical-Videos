@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 25, 2021<br>
+Generated October 26, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,12 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 468,429 videos
-* Total videos found that match keywords: 31,752 videos
-* Total videos found that are processed and marked: 3,326 videos 
-  * Information Collection: 2,181 videos
-  * Non-Giftcard Robux Giveaways: 957 videos
+* Total videos: 470,764 videos
+* Total videos found that match keywords: 31,907 videos
+  * Total unprocessed videos: 152 videos
+* Total videos found that are processed and marked: 3,328 videos 
+  * Information Collection: 2,182 videos
+  * Non-Giftcard Robux Giveaways: 958 videos
   * Other: 153 videos
   * Phishing: 35 videos
 
@@ -296,6 +297,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DOLLASTIC PLAYS! (DollasticDreams)
 * Dom (TwiceDom)
 * DoNotDoDrugs 
+* Dr laba (Dr_laba)
 * DraconiteDragon (ItsDraconiteDragon)
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
@@ -366,7 +368,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Honey The Unicorn - Roblox (HoneyTheUnicornYT)
 * HulkBR Games (hulkbr_oficial)
 * HW5567 (HW5567)
-* Hxyila (hayiIaaa)
 * Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
 * iAirRon (iAirRon)
@@ -579,7 +580,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Solem Archive (iJackeryz)
 * Sons Of Fun (SonsofFun_YT)
 * Sontix (Sontixito)
-* Sopo Squad Gaming (mikedrop937 and CammyxBoba)
+* Sopo Squad Gaming (mikedrop937, CammyxBoba, and soposhadow)
 * Soy Blue (SoyBluee)
 * Spagz Blox (Spagzox)
 * Squid Magic (Foolzy)
@@ -658,6 +659,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * •Lavenderblossom• (LavenderBlossomYTYT)
 
 ### Videos Found
+* Aati Plays (AatikahKashif)
+  * Non-Giftcard Robux Giveaways
+    * Announcing the ROBUX GIVEAWAY WINNERS! 🤩🤑🌷🌿🌼💸 ¦ Aati Plays ☆♡ 💗💕
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=22MyK8w4dZE
 * Ant (Cringley)
   * Other
     * So I MADE A ROBLOX GAME.. It's called DETECTIVE (Roblox)
@@ -5132,6 +5138,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Roblox Piggy but i used hacks..
       * Demonstrates using an autoclicker to exploit going through walls.
       * URL: https://www.youtube.com/watch?v=YB0Urzcgw9I
+* Hxyila (hayiIaaa)
+  * Information Collection
+    * Playing the CURSED version of brookhaven... (Your worst nightmare)
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=aXKf8wtlqdc
 * iamSanna (notiamsanna)
   * Non-Giftcard Robux Giveaways
     * WIN 10,000 ROBUX In This \*NEW\* Adopt Me FASHION CONTEST! (Adopt Me)
