@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 27, 2021<br>
+Generated October 28, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,8 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 470,764 videos
 * Total videos found that match keywords: 31,907 videos
-  * Total unprocessed videos: 26 videos
-* Total videos found that are processed and marked: 3,319 videos 
-  * Information Collection: 2,173 videos
+* Total videos found that are processed and marked: 3,324 videos 
+  * Information Collection: 2,178 videos
   * Non-Giftcard Robux Giveaways: 958 videos
   * Other: 153 videos
   * Phishing: 35 videos
@@ -8721,12 +8720,27 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ME VUELVO UN \*SUPER HÉROE\* EN ROBLOX!!!💀
       * Description references the data collection website rbxheaven.com.
       * URL: https://www.youtube.com/watch?v=plsvkHwqiVg
+    * COMPRANDO TRAJES DE ROBLOX POR $5 DOLARES!!! 😍 \*hermoso\*
+      * Contains an ad for the information collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=LqNjEJ8MkS4
     * GANA ROBUX GRACIAS A TUS AMIGOS! TRUCO 2017 ❌(YA NO FUNCIONA)❌
       * Contains an ad for the information collection website rbx.gifts.
       * URL: https://www.youtube.com/watch?v=nNhShLGyiYA
     * COMO TENER 20 ROBUX GRATIS! (YA NO FUNCIONA)
       * Video is about the data collection website rbxrich.com.
       * URL: https://www.youtube.com/watch?v=w3TGHToK2pI
+    * ESTA PAGINA Te REGALA15 ROBUX 2017!!! ❌ YA NO FUNCIONA ❌
+      * Contains an ad for the information collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=p2hijWLhzOw
+    * CÓMO OBTENER +100 ROBUX! 2017 ❌(YA NO FUNCIONA)❌
+      * Contains an ad for the information collection website rbx.gifts.
+      * URL: https://www.youtube.com/watch?v=coICmU-DxpM
+    * GANA 15 ROBUX GRATIS 2017!!! ❌(YA NO FUNCIONA)
+      * Contains an ad for the information collection website rbxpoints.com.
+      * URL: https://www.youtube.com/watch?v=39aNz1kZwEo
+    * COMO TENER TUS PRIMEROS 30 ROBUX!!! 2017 ❌ (YA NO FUNCIONA)
+      * Video is about the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=TuasoFIzwkw
 * Rovi23 (byRovi23 and MelLovesBunnys)
   * Other
     * Roblox CORONAVIRUS Simulator...
