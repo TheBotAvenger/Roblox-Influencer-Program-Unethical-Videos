@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 31, 2021<br>
+Generated November 1, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,7 +182,7 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 470,764 videos
+* Total videos: 470,794 videos
 * Total videos found that match keywords: 31,907 videos
 * Total videos found that are processed and marked: 3,324 videos 
   * Information Collection: 2,178 videos
@@ -294,7 +294,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DoctorBenx (Bensonheimer and ebruulein)
 * Dois Marmotas (diinhaaa28 and Luckke23)
 * DOLLASTIC PLAYS! (DollasticDreams)
-* Dom (TwiceDom)
+* Dom (DDomss)
 * DoNotDoDrugs 
 * Dr laba (Dr_laba)
 * DraconiteDragon (ItsDraconiteDragon)
@@ -302,6 +302,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DV Plays (DVwastaken)
 * elDanielGT (DanielGTReal)
 * ElemperadormaxiYT (EmperadorMaxiOFICIAL)
+* Elite (EI1te_YT)
 * Elitelupus (elitelupus)
 * Ephicsea (Ephicsea)
 * ErnieC3 (ErnieC3_YouTube)
@@ -639,7 +640,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Waike (JJ_Waike)
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
-* xEnesR (xEnesR)
+* xEnesR (jkltgyufyg)
 * XericPlayz (XericPlayz)
 * Xou (xouzin7)
 * Xpie (Xpie101gamer)
