@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 1, 2021<br>
+Generated November 2, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 470,794 videos
-* Total videos found that match keywords: 31,907 videos
+* Total videos: 470,854 videos
+* Total videos found that match keywords: 31,914 videos
+  * Total unprocessed videos: 7 videos
 * Total videos found that are processed and marked: 3,324 videos 
   * Information Collection: 2,178 videos
   * Non-Giftcard Robux Giveaways: 958 videos
@@ -423,6 +424,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Kelvingts (Kelvingts)
 * Kepu The Cat (KepuTheCat)
 * Kindly Keyin (KindlyKeyin)
+* King Luffy (KingLuffy_YTsub2me)
 * KingOfYouTube (uKingzaum)
 * KIRON (SoyKiron)
 * Kodak (KodakOF)
@@ -478,6 +480,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MrPankeyk (MrPankeyk)
 * Mud Playz (Mud_Playz)
 * Mxddsie (mxddsie)
+* MxghtyJxstin (MxghtyJxstin)
 * Myster0y (Myster0y)
 * NanoProdigy (NanoProdigy)
 * NapkinNate (NapkinNate)
