@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 7, 2021<br>
+Generated November 8, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 470,854 videos
-* Total videos found that match keywords: 31,914 videos
+* Total videos: 470,884 videos
+* Total videos found that match keywords: 31,943 videos
+  * Total unprocessed videos: 29 videos
 * Total videos found that are processed and marked: 3,324 videos 
   * Information Collection: 2,178 videos
   * Non-Giftcard Robux Giveaways: 958 videos
@@ -201,6 +202,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Aline Games (AliineGamesYT)
 * alixia (aIixiayt)
 * Alles Ava Gaming 
+* AlphaGG (RealYouTube_AlphaGG)
 * AlvinBlox (Alvin_Blox)
 * Amberry (Amberrry)
 * Andre Nicholas (andrhevn21)
@@ -221,7 +223,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bebe Milo (BebeMiloAmiwito)
 * Benni (ImBenni)
 * Bia Gamer (BiiiaGamerYT)
-* Biano Betero (Bianiinho)
+* Biano Betero (BianoBetero)
 * Bibi e Lud (BibibloxYTB and LudBloxYTB)
 * Bigbst4tz2 (BigBst4tz22)
 * BIGHEAD (Bighead_StarCode)
@@ -454,7 +456,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Maislie (Maislie)
 * Mandinha Game (iii_Amandinha)
 * Manucraft (ManucraftYT)
-* MaRcDoGy (ElRoVas1)
+* MaRcDoGy (ImperiaIDoom)
 * Mariana Nana (marianavasco)
 * Mary - Frozencrystal 
 * Matsbxb (MATSbxb)
@@ -500,7 +502,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
-* Oscar (TheProOscar)
+* Oscar (hogridergaming27)
 * OurFire Plays (ourfire and ChrisOurFire)
 * P0gMasterZ (P0gMasterZ)
 * PaintingRainbows (RainbowsYT)
@@ -551,7 +553,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * roxhi roblox (12345roxyhi12345)
 * RoxiCake Gamer (YT_RoxiCake)
 * Royale Dior (ItsRoyaleDiorYT)
-* Royale Roleplay (RxyaleRoleplayer)
+* Royale Roleplay (Royalee_R)
 * Ruby Games (ruby_rubeYT)
 * RufflesOfficial (RufflesPlaysMC)
 * Ruthbell & Aaron (Rbellomello)
@@ -814,7 +816,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=2oXe2807bDM
-* Bandites (RottenFartSmell)
+* Bandites (Bandites)
   * Non-Giftcard Robux Giveaways
     * "If you WIN I'll Give You 10,000 ROBUX" (ROBLOX Arsenal)
       * Uses group funds to give away Robux for a competition.
@@ -7422,7 +7424,7 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Phishing
     * (GONE WRONG) HACKING A FAN AND GIVING THEM FREE ROBUX!!! | Roblox
       * URL: https://www.youtube.com/watch?v=NJzfMDUMmMw
-* MyUsernamesThis (UseStarCode_BACON)
+* MyUsernamesThis (MyUsernamesThis)
   * Non-Giftcard Robux Giveaways
     * FIRST to FIND ME WINS 1000 ROBUX! | Roblox Jailbreak
       * Uses group funds to give away Robux for a competition.
