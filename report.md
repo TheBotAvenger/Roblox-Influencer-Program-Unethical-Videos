@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 8, 2021<br>
+Generated November 9, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,7 +184,6 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 470,884 videos
 * Total videos found that match keywords: 31,943 videos
-  * Total unprocessed videos: 29 videos
 * Total videos found that are processed and marked: 3,324 videos 
   * Information Collection: 2,178 videos
   * Non-Giftcard Robux Giveaways: 958 videos
@@ -7018,7 +7017,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKER BOB ESPONJA ELE AINDA EXISTE ?? :O ‹ Roblox Mistérios ›
       * Description references a video about the data collection website bloxawards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=er8bmm9FcD0
-* Jie GamingStudio 
+* Jie GamingStudio (JieeVideos)
   * Information Collection
     * Jie 100k ROBLOX Art Contest(CLOSED)
       * Description references the data collection website easyrobux.today.
