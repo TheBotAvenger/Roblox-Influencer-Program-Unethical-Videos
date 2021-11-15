@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 14, 2021<br>
+Generated November 15, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,9 +183,10 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 475,057 videos
-* Total videos found that match keywords: 31,943 videos
-* Total videos found that are processed and marked: 3,324 videos 
-  * Information Collection: 2,178 videos
+* Total videos found that match keywords: 32,268 videos
+  * Total unprocessed videos: 324 videos
+* Total videos found that are processed and marked: 3,325 videos 
+  * Information Collection: 2,179 videos
   * Non-Giftcard Robux Giveaways: 958 videos
   * Other: 153 videos
   * Phishing: 35 videos
@@ -265,7 +266,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cleanse Beam (CleanseBeam)
 * CLIP 2 BIT (Clip2bitYT)
 * Collins Kosuke (Kosukei)
-* Complex Roblox (IamComplexRoblox)
+* Complex Roblox (YTComplexCutie)
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutterYT)
 * Cortesgo (cortesgo)
@@ -284,7 +285,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DaPandaGirl (Da_PandaGirl)
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
-* deathvanessa (exevanessa)
+* deathvanessa (itsdeathvanessa)
 * DeeterPlays (DeeterPlays)
 * DeGoBooM (BumiReal)
 * Devovo (Devovorya)
@@ -501,7 +502,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
-* Oscar (hogridergaming27)
+* Oscar (airpodcase98)
 * OurFire Plays (ourfire and ChrisOurFire)
 * P0gMasterZ (P0gMasterZ)
 * PaintingRainbows (RainbowsYT)
@@ -5143,6 +5144,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=YB0Urzcgw9I
 * Hxyila (hayiIaaa)
   * Information Collection
+    * 🏡 NEW UPDATES AND HOUSES!! in Brookhaven 🏡RP ROBLOX // Hxyila
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=vwRuJz5FkZM
     * Playing the CURSED version of brookhaven... (Your worst nightmare)
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=aXKf8wtlqdc
@@ -10103,7 +10107,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Complete The HotWheel Track For R$1,000 Robux Challenge!
       * Video gives away using group funds.
       * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
-* Stronbol Roblox (StronbolYT)
+* Stronbol Roblox (MelanieLani23)
   * Information Collection
     * EL DIA en el que ME ROBARON mas de 80,000 ROBUX
       * Description references the data collection website earnrobux.gg.
