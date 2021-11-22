@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 21, 2021<br>
+Generated November 22, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 477,103 videos
-* Total videos found that match keywords: 32,406 videos
-  * Total unprocessed videos: 4 videos
+* Total videos: 477,223 videos
+* Total videos found that match keywords: 32,407 videos
+  * Total unprocessed videos: 5 videos
 * Total videos found that are processed and marked: 3,325 videos 
   * Information Collection: 2,179 videos
   * Non-Giftcard Robux Giveaways: 958 videos
@@ -200,7 +200,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Acenix (AcenixElMejorYoutube)
 * Alex (CraftedRL)
 * Aline Games (AliineGamesYT)
-* alixia (aIixiayt)
+* alixia 
 * Alles Ava Gaming 
 * AlphaGG (RealYouTube_AlphaGG)
 * AlvinBlox (Alvin_Blox)
@@ -248,6 +248,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * CaptainJackAttack (CaptainJackAttack101)
 * Captainly (SubscribeToCPTNLY)
 * Carakuchi 
+* Carbon Meister Plays (CarbonMeister)
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
 * CatFer (SoyCatFer)
@@ -265,16 +266,16 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Claus (ClausOFC)
 * Cleanse Beam (CleanseBeam)
 * CLIP 2 BIT (Clip2bitYT)
-* Collins Kosuke (Kosukei)
+* Collins Kosuke 
 * Complex Roblox (YTComplexCutie)
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutterYT)
 * Cortesgo (cortesgo)
 * Cosmic (bluecosmiic)
-* CPat (StarC0de_CPAT)
+* CPat 
 * cqqp (cqqp)
 * Crainer Roblox 
-* Craxel (Craxelss)
+* Craxel 
 * CrazyErzy (xCrazyErzyYTx)
 * Cristi Suki (CristiSukiYT)
 * Cryptize (Cryptize)
@@ -290,11 +291,10 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DeGoBooM (BumiReal)
 * Devovo (Devovorya)
 * DigitizedPixels (DigitizedPixels)
-* Digito Plays (DigitoPlaysThis)
 * Digopollo (DigoPollos)
 * Diário do Casal Gamer (VictorNuclear and FernandaTreta)
 * DoctorBenx (Bensonheimer and ebruulein)
-* Dois Marmotas (diinhaaa28 and Luckke23)
+* Dois Marmotas 
 * DOLLASTIC PLAYS! (DollasticDreams)
 * Dom (DDomss)
 * DoNotDoDrugs 
@@ -316,7 +316,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FadedPlayz (YTFadedPlayz)
 * faeglow (faeglow)
 * FakerUp (NotFakerUp)
-* Família Paulinho e Toquinho (PFlavio1)
 * Fanaticalight (Fanaticalight)
 * FancySmash (RealFancySmash)
 * Febatista 
@@ -344,7 +343,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Gallant Gaming (GallantGaming)
 * Gamer Hexapod - R3 (Hexapod_xD)
 * Gamer Kawaii (iiGamerKawaiiYT)
-* Gamermais (SrPrismatico)
+* Gamermais 
 * GamerNom (MaybeItsMyFault)
 * GamingwithVYT (GamingwithVYT)
 * GH0Ks (GHOKSZIN)
@@ -359,7 +358,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Gravycatman (GrumpyGravy)
 * GroovyDominoes52 (GroovyDominoes52)
 * Gunslaya (iGunslaya)
-* Hagazo (Hagazo9)
+* Hagazo 
 * HandN (xHandNx)
 * hannnahlovescows (hannnahlovescows)
 * HappyBlack (HappyThreePro)
@@ -367,8 +366,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HelloItsVG (HelloItsVinh)
 * HeyItsJames (NotJamesRBLX)
 * HeyRosalina (HeyRosalina)
-* Honey The Unicorn - Roblox (HoneyTheUnicornYT)
-* HulkBR Games (hulkbr_oficial)
+* Honey The Unicorn - Roblox 
+* HulkBR Games 
 * HW5567 (HW5567)
 * Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
@@ -378,9 +377,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * iBugou (iBugouzinho)
 * iFres (iFresblxx)
 * iGuz (iGuzGames)
-* iiisxphie (iiisxphie)
+* iiisxphie 
 * iKotori (iKotori)
-* iLeahxo (iLeahxo)
+* iLeahxo 
 * ImaGamerGirl (lmaGamerGirI)
 * Inemafoo (Inemajohn)
 * Infernasu (Infernasu)
@@ -415,12 +414,12 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Jr e Mi (JuniorGuimaraes and micandeloro)
 * Juaumzinho (JUAUMZONES)
 * Judo Unicorn (judounicorn11)
-* Juegahora (Juegahora_Star)
+* Juegahora (Juegahora_STAR)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
 * JunRoots (CaptainYesYes)
 * jvnq (jvnqYT)
 * Karim Juega (karimjuega)
-* Kawaii Kunicorn Gaming (kawaii_kunicorn)
+* Kawaii Kunicorn Shorts (kawaii_kunicorn)
 * Kelogish 
 * Kelvingts (Kelvingts)
 * Kepu The Cat (KepuTheCat)
@@ -484,7 +483,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MxghtyJxstin (MxghtyJxstin)
 * Myster0y (Myster0y)
 * NanoProdigy (NanoProdigy)
-* NapkinNate (NapkinNate)
+* NapkinNate 
 * Natasha Panda (NatashaPandaaYT)
 * Natsuki Sel (Natsuki_Sel)
 * Nezi Plays Roblox (NeziPlaysROBLOX)
@@ -502,14 +501,15 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
-* Oscar (airpodcase98)
+* Oscar (aa12enjoyer9000)
 * OurFire Plays (ourfire and ChrisOurFire)
 * P0gMasterZ (P0gMasterZ)
 * PaintingRainbows (RainbowsYT)
 * PandazPlay (ComplexConniee and ComplexJason)
-* Pankayz (Pankayz)
+* Pankayz 
 * Papile (jupapile)
 * Paula Urbaez (PaulaUrbaez)
+* Paulinho e Toquinho Games (PFlavio1)
 * PedroLetsPlay (pedroletsplayroblox)
 * Peepguy (peepguyx)
 * PeetahBread (PeetahBread)
@@ -525,7 +525,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Plique Games (PliqueYT)
 * Premiumsalad (premiumsalad)
 * PrestonGamez (PrestonPlayz)
-* Pretzel Etzel (pretzel_etzel)
+* Pretzel Etzel (SauceySantaner)
 * PREZLEY (PrezleyOfficial)
 * PRIME FURIOUS - RaVeNeiD GaMiNG (Prime_Furious)
 * Princess Royale (IAmPrincessRoyale)
@@ -549,7 +549,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Robstix (Robstix)
 * Roof (RoofOmnis)
 * Roplex Gaming 
-* RoTomek (RoTomek1)
+* RoTomek 
 * roxhi roblox (12345roxyhi12345)
 * RoxiCake Gamer (YT_RoxiCake)
 * Royale Dior (ItsRoyaleDiorYT)
@@ -575,8 +575,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Shaylo (YTshaylo)
 * Signicial (Signicial)
 * Silent Playz (SilentYTTW)
+* SimplySpring (realsprings)
 * SkippyPlays (SkippyPIaysYT)
-* skyleree (skyleree)
+* skyleree 
 * SlEGHART (SlEGHART)
 * Sleigher (Gsleigh)
 * Sniffycat (SnickerHoops)
@@ -607,7 +608,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * The Meg and Mo Show (MegaSquadMo)
 * The Pals (RealSubZeroExtabyte)
 * The Star Squad Gaming (StarSquadMolly)
-* TheAtlanticCraft (TheCrazyMaverick)
+* TheAtlanticCraft 
+* TheDigitGames (DigitoPlaysThis)
 * TheEvilShark (StarCode_Animal)
 * TheGreatACE (TheGreatAced)
 * Thinknoodles (ImNotThinknoodles)
@@ -621,7 +623,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TinenQa (TinenQa1)
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
-* Tooquick (tooquick4you2)
+* Tooquick 
 * ToxicJim (supersonshadow17)
 * TrafTheOpest (TrafTheOpest)
 * TroyanoNanoReturns (TroyanoNanoReturns)
@@ -631,7 +633,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TussyGames (TussyGames)
 * TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
-* Twizzah (YTCoolpaxda)
+* Twizzah 
 * Tx_cle (TxcIes)
 * Uncle Kizaru (Uncle_Kizaru)
 * unicorn\_akeesha109 - Roblox (unicorn\_akeesha109)
@@ -645,6 +647,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
 * xEnesR (jkltgyufyg)
+* XenoTy (xXenoTy)
 * XericPlayz (XericPlayz)
 * Xou (xouzin7)
 * Xpie (Xpie101gamer)
@@ -658,7 +661,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Zepyxl (Zepyxl)
 * Zerophyx (Zerophyx)
 * Zilgon (Zilgon)
-* ZNac (Z_Nac and LOLknitSuoY)
+* ZNac (LOLknitSuoY)
+* zOnwley (zOnwley)
 * ZULY (ItsZulyYT)
 * •Lavenderblossom• (LavenderBlossomYTYT)
 
@@ -678,7 +682,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=p920X7kUXmE
     * HACKING A FANS ROBLOX ACCOUNT!!
       * URL: https://www.youtube.com/watch?v=viMN3GP9p04
-* Arazhul (Arazhulino)
+* Arazhul 
   * Other
     * VIRUS SIMULATOR?! - Roblox \[Deutsch/HD\]
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
@@ -903,7 +907,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Giving A Fan A 5,000 ROBUX MAKEOVER! | ROBLOX
       * Offers to give Robux in exchange for a username and password over Discord.
       * URL: https://www.youtube.com/watch?v=g49cxhhSGkc
-* Cylito (Cylito)
+* Cylito 
   * Non-Giftcard Robux Giveaways
     * Bloxburg: Victorian Roleplay House 62K
       * Description includes a building contest for Robux.
@@ -10102,12 +10106,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * LA HISTORIA DE COMO MORÍ ASESINADA SIN PIEDAD en ROBLOX (Murder Mystery!) 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=2W-_Tx-wcKo
-* Straw (STRAWHAT_LUFFi)
+* Straw 
   * Non-Giftcard Robux Giveaways
     * Complete The HotWheel Track For R$1,000 Robux Challenge!
       * Video gives away using group funds.
       * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
-* Stronbol Roblox (MelanieLani23)
+* Stronbol Roblox (StronbolYT)
   * Information Collection
     * EL DIA en el que ME ROBARON mas de 80,000 ROBUX
       * Description references the data collection website earnrobux.gg.
@@ -10330,7 +10334,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*FREE ROBUX\* ARREST ME FOR FREE ROBUX! (Roblox Jailbreak)
       * Gives away Robux for being arrested in Jailbreak.
       * URL: https://www.youtube.com/watch?v=gekomtzuIoE
-* TheLaughingUnicorn (kristiexo)
+* TheLaughingUnicorn 
   * Information Collection
     * PINK HOLLYWOOD MANSION! || BLOXBURG HOUSE TOUR
       * Description references the data collection website earnrobux.today.
