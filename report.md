@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 23, 2021<br>
+Generated November 24, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 479,307 videos
-* Total videos found that match keywords: 32,581 videos
-  * Total unprocessed videos: 178 videos
+* Total videos: 479,367 videos
+* Total videos found that match keywords: 32,611 videos
+  * Total unprocessed videos: 9 videos
 * Total videos found that are processed and marked: 3,326 videos 
   * Information Collection: 2,180 videos
   * Non-Giftcard Robux Giveaways: 958 videos
@@ -254,6 +254,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * CatFer (SoyCatFer)
 * CATYPINK PLAY (catypink15)
 * cazum8 (cazum8)
+* Cee\_berry (Cee\_berry)
 * Celestial Roblox (IM_Celestial)
 * Cerority (Cerority)
 * Cheo Power (cheopower)
@@ -662,6 +663,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Zerophyx (Zerophyx)
 * Zilgon (Zilgon)
 * ZNac (LOLknitSuoY)
+* ZOMG (PandaBoss3_0)
 * zOnwley (zOnwley)
 * ZULY (ItsZulyYT)
 * •Lavenderblossom• (LavenderBlossomYTYT)
