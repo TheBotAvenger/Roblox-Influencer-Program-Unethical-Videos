@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 28, 2021<br>
+Generated November 29, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,7 +182,7 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 479,367 videos
+* Total videos: 479,577 videos
 * Total videos found that match keywords: 32,611 videos
   * Total unprocessed videos: 9 videos
 * Total videos found that are processed and marked: 3,326 videos 
@@ -198,7 +198,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Aaron Matthew (AaronDRonin)
 * AbsintoJ (AbsintoJYT)
 * Acenix (AcenixElMejorYoutube)
-* Alex (CraftedRL)
+* Alex (HeyCrafted)
 * Aline Games (AliineGamesYT)
 * alixia 
 * Alles Ava Gaming 
@@ -219,9 +219,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Avocado Playz (AvocadoPlayzOfficial)
 * Ayzria (Ayzria)
 * Bandi (BandiRue)
+* BeaPlays Roblox (notBeaPlays)
 * Bebe Adri (BebeAdriYT)
 * Bebe Milo (BebeMiloAmiwito)
 * Benni (ImBenni)
+* BETO GAMER (betogamer_01)
 * Bia Gamer (BiiiaGamerYT)
 * Biano Betero (BianoBetero)
 * Bibi e Lud (BibibloxYTB and LudBloxYTB)
@@ -258,6 +260,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Celestial Roblox (IM_Celestial)
 * Cerority (Cerority)
 * Cheo Power (cheopower)
+* CherryAhrizona (baby_ahrizona)
 * ChillzCx (ChillzCx)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
@@ -276,7 +279,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * CPat 
 * cqqp (cqqp)
 * Crainer Roblox 
-* Craxel 
+* Craxel (Craxelss)
 * CrazyErzy (xCrazyErzyYTx)
 * Cristi Suki (CristiSukiYT)
 * Cryptize (Cryptize)
@@ -290,6 +293,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * deathvanessa (itsdeathvanessa)
 * DeeterPlays (DeeterPlays)
 * DeGoBooM (BumiReal)
+* Devoun (DevounTV)
 * Devovo (Devovorya)
 * DigitizedPixels (DigitizedPixels)
 * Digopollo (DigoPollos)
@@ -365,6 +369,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HappyBlack (HappyThreePro)
 * haramics (haramics)
 * HelloItsVG (HelloItsVinh)
+* Heorua (Heorua)
 * HeyItsJames (NotJamesRBLX)
 * HeyRosalina (HeyRosalina)
 * Honey The Unicorn - Roblox 
@@ -476,6 +481,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Moody Unicorn Twin - Roblox (moodyunicorntwin)
 * Moonfallx (moonfallx)
 * MooseCraft Roblox (MooseCraftRoblox)
+* Mr. Bunny (AlanConejito_7u7)
 * Mr\_Booshot (Mr\_Booshot)
 * MrLokazo86 (Lokazo86)
 * MrPankeyk (MrPankeyk)
@@ -502,7 +508,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
-* Oscar (aa12enjoyer9000)
+* Oscar (breadcrumb932)
 * OurFire Plays (ourfire and ChrisOurFire)
 * P0gMasterZ (P0gMasterZ)
 * PaintingRainbows (RainbowsYT)
@@ -526,7 +532,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Plique Games (PliqueYT)
 * Premiumsalad (premiumsalad)
 * PrestonGamez (PrestonPlayz)
-* Pretzel Etzel (SauceySantaner)
+* Pretzel Etzel (pretzel_etzel)
 * PREZLEY (PrezleyOfficial)
 * PRIME FURIOUS - RaVeNeiD GaMiNG (Prime_Furious)
 * Princess Royale (IAmPrincessRoyale)
@@ -537,7 +543,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
 * Rainster (RainsterYT)
-* rareyma (Iamrareyma)
+* Rareyma (Iamrareyma)
 * Rbx Life Hacks (carakuchi)
 * RealMoby (MOBY3W)
 * Reddzzyx (redbirdcool2007)
@@ -545,6 +551,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RellGames (RELLvex)
 * Remainings (Remainings)
 * RiusPlay (RiusPlayYTYTYT)
+* Robin Hood Gamer (RobinHoodGamer10)
 * ROBLOXMuff (UseCode_ROBLOXMuff)
 * Robotz (R_obotz)
 * Robstix (Robstix)
@@ -576,7 +583,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Shaylo (YTshaylo)
 * Signicial (Signicial)
 * Silent Playz (SilentYTTW)
-* SimplySpring (realsprings)
+* SimplySpring 
 * SkippyPlays (SkippyPIaysYT)
 * skyleree 
 * SlEGHART (SlEGHART)
@@ -652,7 +659,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XericPlayz (XericPlayz)
 * Xou (xouzin7)
 * Xpie (Xpie101gamer)
-* Yayixd Changuito (YAYIXDCHANGU)
+* Yayixd Changuito 🐵 (YAYIXDCHANGU)
 * Yode Plays (yode1)
 * Yokai (Yokai_YT)
 * YoSoyLoki (YoSoyLokiYT)
