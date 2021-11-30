@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 29, 2021<br>
+Generated November 30, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 479,577 videos
-* Total videos found that match keywords: 32,611 videos
-  * Total unprocessed videos: 9 videos
+* Total videos: 481,766 videos
+* Total videos found that match keywords: 32,762 videos
+  * Total unprocessed videos: 160 videos
 * Total videos found that are processed and marked: 3,326 videos 
   * Information Collection: 2,180 videos
   * Non-Giftcard Robux Giveaways: 958 videos
@@ -370,6 +370,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * haramics (haramics)
 * HelloItsVG (HelloItsVinh)
 * Heorua (Heorua)
+* HeyDavi (DAVIPLAY_14)
 * HeyItsJames (NotJamesRBLX)
 * HeyRosalina (HeyRosalina)
 * Honey The Unicorn - Roblox 
