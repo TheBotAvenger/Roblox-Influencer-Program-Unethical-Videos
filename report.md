@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 30, 2021<br>
+Generated December 1, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 481,766 videos
 * Total videos found that match keywords: 32,762 videos
-  * Total unprocessed videos: 160 videos
-* Total videos found that are processed and marked: 3,326 videos 
+  * Total unprocessed videos: 72 videos
+* Total videos found that are processed and marked: 3,325 videos 
   * Information Collection: 2,180 videos
-  * Non-Giftcard Robux Giveaways: 958 videos
+  * Non-Giftcard Robux Giveaways: 957 videos
   * Other: 153 videos
   * Phishing: 35 videos
 
@@ -606,6 +606,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
 * Só Por Causa (Est3vA0)
+* TanqR (TanqR)
 * Tapparay (Tapparay)
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
@@ -10275,11 +10276,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* TanqR (TanqR)
-  * Non-Giftcard Robux Giveaways
-    * 1 KILL = $1000 Robux in Roblox Bedwars..
-      * Uses group funds to giveaway Robux.
-      * URL: https://www.youtube.com/watch?v=COqizjAstxE
 * Telanthric (Telanthric)
   * Other
     * ⚡ I EVOLVED in Sneezing Simulator \*EVOLUTIONS  / UPDATE 3\* \[🎁CODE\]
