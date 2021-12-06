@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 5, 2021<br>
+Generated December 6, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -581,7 +581,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
-* Signicial (Signicial)
 * Silent Playz (SilentYTTW)
 * SimplySpring 
 * SkippyPlays (SkippyPIaysYT)
@@ -652,6 +651,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * Volt (v0_1t)
 * Waike (JJ_Waike)
+* wede4 (Signicial)
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
 * xEnesR (jkltgyufyg)
