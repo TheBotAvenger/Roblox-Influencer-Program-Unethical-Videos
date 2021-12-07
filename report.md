@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 6, 2021<br>
+Generated December 7, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 481,766 videos
-* Total videos found that match keywords: 32,762 videos
+* Total videos: 484,010 videos
+* Total videos found that match keywords: 32,930 videos
+  * Total unprocessed videos: 168 videos
 * Total videos found that are processed and marked: 3,326 videos 
   * Information Collection: 2,180 videos
   * Non-Giftcard Robux Giveaways: 958 videos
@@ -508,7 +509,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
-* Oscar (breadcrumb932)
+* Oscar (yungleanhappymeal38)
 * OurFire Plays (ourfire and ChrisOurFire)
 * P0gMasterZ (P0gMasterZ)
 * PaintingRainbows (RainbowsYT)
@@ -654,7 +655,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * wede4 (Signicial)
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
-* xEnesR (jkltgyufyg)
+* xEnesR (xEnesR)
 * XenoTy (xXenoTy)
 * XericPlayz (XericPlayz)
 * Xou (xouzin7)
