@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 12, 2021<br>
+Generated December 13, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 484,010 videos
-* Total videos found that match keywords: 32,930 videos
+* Total videos: 484,100 videos
+* Total videos found that match keywords: 32,934 videos
+  * Total unprocessed videos: 4 videos
 * Total videos found that are processed and marked: 3,326 videos 
   * Information Collection: 2,180 videos
   * Non-Giftcard Robux Giveaways: 958 videos
@@ -260,7 +261,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cerority (Cerority)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
-* ChillzCx (ChillzCx)
+* ChillzCx (DarkendEternal)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Chrisu Gaming (ChristsuYT)
@@ -381,6 +382,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * IBella (Cinderbelle)
 * iBeMaine (ibemaine)
 * iBugou (iBugouzinho)
+* iDakeeCore (iDakeeCore)
 * iFres (iFresblxx)
 * iGuz (iGuzGames)
 * iiisxphie 
@@ -481,6 +483,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Moody Unicorn Twin - Roblox (moodyunicorntwin)
 * Moonfallx (moonfallx)
 * MooseCraft Roblox (MooseCraftRoblox)
+* MR & MRS OKEH (Rbellomello)
 * Mr. Bunny (AlanConejito_7u7)
 * Mr\_Booshot (Mr\_Booshot)
 * MrLokazo86 (Lokazo86)
@@ -543,7 +546,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
 * Rainster (RainsterYT)
-* Rareyma (Iamrareyma)
+* Rareyma (StarcodeRarey)
+* Rax (RaxBLX)
 * Rbx Life Hacks (carakuchi)
 * RealMoby (MOBY3W)
 * Reddzzyx (redbirdcool2007)
@@ -564,7 +568,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Royale Roleplay (Royalee_R)
 * Ruby Games (ruby_rubeYT)
 * RufflesOfficial (RufflesPlaysMC)
-* Ruthbell & Aaron (Rbellomello)
 * Ryguy - Roblox (ryguyrocky)
 * S\_Viper (S\_Viper)
 * SallyGreenGamer 
@@ -594,6 +597,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sontix (Sontixito)
 * Sopo Squad Gaming (mikedrop937, CammyxBoba, and soposhadow)
 * Soy Blue (SoyBluee)
+* Soy Mandy Games (SoyMandy2020)
 * Spagz Blox (Spagzox)
 * Squid Magic (Foolzy)
 * SrJuancho (JuanchoAcostado)
