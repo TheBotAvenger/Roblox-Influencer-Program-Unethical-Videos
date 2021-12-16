@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 15, 2021<br>
+Generated December 16, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,8 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 486,424 videos
 * Total videos found that match keywords: 33,090 videos
-  * Total unprocessed videos: 15 videos
-* Total videos found that are processed and marked: 3,323 videos 
-  * Information Collection: 2,178 videos
+* Total videos found that are processed and marked: 3,325 videos 
+  * Information Collection: 2,180 videos
   * Non-Giftcard Robux Giveaways: 957 videos
   * Other: 153 videos
   * Phishing: 35 videos
@@ -5157,6 +5156,12 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=YB0Urzcgw9I
 * Hxyila (hayiIaaa)
   * Information Collection
+    * 🤫 Top 5 Best SECRET HOUSE in Brookhaven 🏡RP ROBLOX
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=9K4LhxxdIuk
+    * New Houses and Updates in Roblox Brookhaven 🏡 RP!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=vwRuJz5FkZM
     * Playing the CURSED version of brookhaven... (Your worst nightmare)
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=aXKf8wtlqdc
