@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 19, 2021<br>
+Generated December 20, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -192,7 +192,7 @@ to the report if this happens.
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
-* 3SB Games (iloveyoumrbubs and ododahs)
+* 3SB Games (cakemiix and ododahs)
 * 440HP (440HP)
 * Aaron Matthew (AaronDRonin)
 * Aati Plays (AatikahKashif)
@@ -258,10 +258,10 @@ The following channels had nothing appear with manual searching. Videos may exis
 * cazum8 (cazum8)
 * Cee\_berry (Cee\_berry)
 * Celestial Roblox (IM_Celestial)
-* Cerority (Cerority)
+* Cerority (Z_DriveResonance)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
-* ChillzCx (DarkendEternal)
+* ChillzCx (ChillzCx)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Chrisu Gaming (ChristsuYT)
@@ -271,7 +271,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cleanse Beam (CleanseBeam)
 * CLIP 2 BIT (Clip2bitYT)
 * Collins Kosuke 
-* Complex Roblox (YTComplexCutie)
+* Complex Roblox (FestiveComplexYT)
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutterYT)
 * Cortesgo (cortesgo)
@@ -339,7 +339,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (french_rxses)
 * FUDZ (fudsim)
-* FunPiggy (CelestialPiggy)
+* FunPiggy (FunPiggyYT)
 * Furious Jumper (furi0us_jumper)
 * FusionZGamer (NotFusionZGamer)
 * Futura (FuturaYT)
@@ -511,7 +511,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
-* Oscar (yungleanhappymeal38)
+* Oscar (kellygreenbean704012)
 * OurFire Plays (ourfire and ChrisOurFire)
 * P0gMasterZ (P0gMasterZ)
 * PaintingRainbows (RainbowsYT)
@@ -10638,7 +10638,7 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Phishing
     * HACKING A FAN'S ROBLOX ACCOUNT! \*TROLLING THEIR FRIEND\*
       * URL: https://www.youtube.com/watch?v=M2ybln9PQEM
-* ZephPlayz (StarCodeZephPlayz)
+* ZephPlayz 
   * Information Collection
     * ROBLOX MAKING 6IX9INE AN ACCOUNT
       * Description references the data collection website flame.gg.
