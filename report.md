@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 20, 2021<br>
+Generated December 21, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,10 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 486,424 videos
-* Total videos found that match keywords: 33,090 videos
-* Total videos found that are processed and marked: 3,325 videos 
-  * Information Collection: 2,180 videos
+* Total videos: 488,734 videos
+* Total videos found that match keywords: 33,255 videos
+  * Total unprocessed videos: 162 videos
+* Total videos found that are processed and marked: 3,328 videos 
+  * Information Collection: 2,183 videos
   * Non-Giftcard Robux Giveaways: 957 videos
   * Other: 153 videos
   * Phishing: 35 videos
@@ -525,7 +526,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PeetahBread (PeetahBread)
 * Peter Toys (PeterToys)
 * PghLFilms (PGHLego1945)
-* PHMittens (PHMittensSTARCreator)
 * Phoeberry (Phoeberry)
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
@@ -5156,6 +5156,12 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=YB0Urzcgw9I
 * Hxyila (hayiIaaa)
   * Information Collection
+    * Helpful HACKS That you need to know.. 🤯 in Brookhaven 🏡RP ROBLOX
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=tyUCekecLZg
+    * I Found A Christmas SECRET MESSAGE! 😱 in Brookhaven 🏡RP ROBLOX...
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=tHrU_gt3lYw
     * 🤫 Top 5 Best SECRET HOUSE in Brookhaven 🏡RP ROBLOX
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=9K4LhxxdIuk
@@ -8366,6 +8372,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * THE FASTEST SWIMMER IN ROBLOX!! - Roblox Swimming Simulator (Funny Moments)
       * Description references Robux giveaways in the Roblox group.
       * URL: https://www.youtube.com/watch?v=nO7J7m7NpBY
+* PHMittens (PHMittensSTARCreator)
+  * Information Collection
+    * Pet Simulator X \#30 - ROBLOX - FACE REVEAL SA BILLIONAIRE HOUSE NILA @Von Ordona Vlogs NA SCAM AKO!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=aJnQ9D7NaSo
 * Poke (Pokediger1)
   * Other
     * SPIN THE ROBLOX DEATH WHEEL (HE LOST 25,000 ROBUX)
