@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 21, 2021<br>
+Generated December 22, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 488,734 videos
 * Total videos found that match keywords: 33,255 videos
-  * Total unprocessed videos: 162 videos
-* Total videos found that are processed and marked: 3,328 videos 
+  * Total unprocessed videos: 1 video
+* Total videos found that are processed and marked: 3,329 videos 
   * Information Collection: 2,183 videos
-  * Non-Giftcard Robux Giveaways: 957 videos
+  * Non-Giftcard Robux Giveaways: 958 videos
   * Other: 153 videos
   * Phishing: 35 videos
 
@@ -196,7 +196,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * 3SB Games (cakemiix and ododahs)
 * 440HP (440HP)
 * Aaron Matthew (AaronDRonin)
-* Aati Plays (AatikahKashif)
 * AbsintoJ (AbsintoJYT)
 * Acenix (AcenixElMejorYoutube)
 * Alex (HeyCrafted)
@@ -680,6 +679,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * •Lavenderblossom• (LavenderBlossomYTYT)
 
 ### Videos Found
+* Aati Plays (AatikahKashif)
+  * Non-Giftcard Robux Giveaways
+    * Announcing the ROBUX GIVEAWAY WINNERS! 🤩🤑🌷🌿🌼💸 ¦ Aati Plays ☆♡ 💗💕
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=22MyK8w4dZE
 * Ant (Cringley)
   * Other
     * So I MADE A ROBLOX GAME.. It's called DETECTIVE (Roblox)
