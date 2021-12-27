@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 26, 2021<br>
+Generated December 27, 2021<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -195,7 +195,7 @@ to the report if this happens.
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 3SB Games (cakemiix and ododahs)
 * 440HP (440HP)
-* Aaron Matthew (AaronDRonin)
+* Aaronsan (AaronDRonin)
 * AbsintoJ (AbsintoJYT)
 * Acenix (AcenixElMejorYoutube)
 * Alex (HeyCrafted)
@@ -583,6 +583,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
+* Sign (Signicial)
 * Silent Playz (SilentYTTW)
 * SimplySpring 
 * SkippyPlays (SkippyPIaysYT)
@@ -654,7 +655,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * Volt (v0_1t)
 * Waike (JJ_Waike)
-* wede4 (Signicial)
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
 * xEnesR (xEnesR)
