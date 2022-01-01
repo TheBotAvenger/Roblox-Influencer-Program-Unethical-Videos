@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 31, 2021<br>
+Generated January 1, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,11 +183,11 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 490,861 videos
-* Total videos found that match keywords: 33,414 videos
-* Total videos found that are processed and marked: 3,329 videos 
+* Total videos found that match keywords: 33,415 videos
+* Total videos found that are processed and marked: 3,331 videos 
   * Information Collection: 2,183 videos
   * Non-Giftcard Robux Giveaways: 958 videos
-  * Other: 153 videos
+  * Other: 155 videos
   * Phishing: 35 videos
 
 ### No Videos Found
@@ -664,7 +664,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Yayixd Changuito 🐵 (YAYIXDCHANGU)
 * Yode Plays (yode1)
 * Yokai (Yokai_YT)
-* YoSoyLoki (YoSoyLokiYT)
 * yTowakGb (yTowakGb)
 * Z00LD 
 * ZaiLetsPlay (YT_ZaiLetsPlay)
@@ -8380,6 +8379,10 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Pet Simulator X \#30 - ROBLOX - FACE REVEAL SA BILLIONAIRE HOUSE NILA @Von Ordona Vlogs NA SCAM AKO!
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=aJnQ9D7NaSo
+  * Other
+    * NEW CHRISTMAS UPDATE! \*SECRET\* HOW TO GET ADVANCED SERVER FOR FREE! IN PET SIMULATOR X!!
+      * Description references the "black market for limiteds and Robux" ro.place.
+      * URL: https://www.youtube.com/watch?v=6R9FU4PWvyY
 * Poke (Pokediger1)
   * Other
     * SPIN THE ROBLOX DEATH WHEEL (HE LOST 25,000 ROBUX)
@@ -10648,6 +10651,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * QUEBRANDO AS REGRAS DO ROBLOX - (Deu ruim?) 😂
       * Video is about breaking the rules using a second account.
       * URL: https://www.youtube.com/watch?v=8fbnc0KiCSc
+* YoSoyLoki (YoSoyLokiYT)
+  * Other
+    * MAMA CLAUS LOCA SE ENAMORA DE MI en BROOKHAVEN - Roblox YoSoyLoki
+      * Description references the "black market for limiteds and Robux" ro.place.
+      * URL: https://www.youtube.com/watch?v=FxWczYI9BTI
 * ZacharyZaxor (ZacharyZaxor)
   * Phishing
     * HACKING A FAN'S ROBLOX ACCOUNT! \*TROLLING THEIR FRIEND\*
