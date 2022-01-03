@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 2, 2022<br>
+Generated January 3, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -257,7 +257,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * cazum8 (cazum8)
 * Cee\_berry (Cee\_berry)
 * Celestial Roblox (IM_Celestial)
-* Cerority (Z_DriveResonance)
+* Cerority (Cerority)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
 * ChillzCx (ChillzCx)
@@ -270,7 +270,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cleanse Beam (CleanseBeam)
 * CLIP 2 BIT (Clip2bitYT)
 * Collins Kosuke 
-* Complex Roblox (FestiveComplexYT)
+* Complex Roblox (MintyComplexYT)
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutterYT)
 * Cortesgo (cortesgo)
@@ -299,7 +299,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Diário do Casal Gamer (VictorNuclear and FernandaTreta)
 * DoctorBenx (Bensonheimer and ebruulein)
 * Dois Marmotas 
-* DOLLASTIC PLAYS! (DollasticDreams)
+* DOLLASTIC PLAYS! 
 * Dom (DDomss)
 * DoNotDoDrugs 
 * Dr laba (Dr_laba)
@@ -476,7 +476,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MICHI RØBLØX (michineyley)
 * MicroGuardian (MicroGuardian)
 * Mila FunPlayer (trxmila)
-* mk (real_mkYT)
+* mk (real_mkyt)
 * Model8197 (Modeldog8197)
 * MoFlare (MoFlare)
 * Moody Unicorn Twin - Roblox (moodyunicorntwin)
@@ -510,7 +510,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
-* Oscar (kellygreenbean704012)
+* Oscar (Hockybaseball_fan23)
 * OurFire Plays (ourfire and ChrisOurFire)
 * P0gMasterZ (P0gMasterZ)
 * PaintingRainbows (RainbowsYT)
@@ -583,7 +583,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
 * Sign (Signicial)
-* Silent Playz (SilentYTTW)
+* Silent Playz (RandomYoutuber0202)
 * SimplySpring 
 * SkippyPlays (SkippyPIaysYT)
 * skyleree 
@@ -628,7 +628,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Throbpenz (tharbakin)
 * Thumbs Up Family (ThumbsUpFamily)
 * ThunberGames (ThunberGames)
-* ThyEdgar (AmThyEdgar)
+* ThyEdgar (THYEDGAR_YT)
 * Tigre TV (TigreYTw)
 * TinenQa (TinenQa1)
 * TinyTurtle Roblox (BeautifulTinyTurtle)
@@ -835,7 +835,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * "If you WIN I'll Give You 10,000 ROBUX" (ROBLOX Arsenal)
       * Uses group funds to give away Robux for a competition.
       * URL: https://www.youtube.com/watch?v=MMnpUXv_rsI
-* Baxtrix (DefinitelyNotBaxtrix)
+* Bax (DefinitelyNotBaxtrix)
   * Other
     * Infecting 99999 ALIENS in Sneezing Simulator! // Roblox
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
