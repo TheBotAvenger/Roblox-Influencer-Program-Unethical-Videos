@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 5, 2022<br>
+Generated January 7, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 492,839 videos
-* Total videos found that match keywords: 33,567 videos
-  * Total unprocessed videos: 171 videos
+* Total videos: 493,541 videos
+* Total videos found that match keywords: 33,605 videos
+  * Total unprocessed videos: 209 videos
 * Total videos found that are processed and marked: 3,332 videos 
   * Information Collection: 2,184 videos
   * Non-Giftcard Robux Giveaways: 958 videos
@@ -324,7 +324,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Fanaticalight (Fanaticalight)
 * FancySmash (RealFancySmash)
 * Febatista 
-* Fera (FeraGamingYT)
+* Fera (Fera0ficial)
 * FGTeeV (FGTeeV and DrizzMcNizz)
 * Fini Juega (FiniJuega)
 * FishyBlox (FishyBloxYT)
@@ -545,7 +545,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Raconidas (Raconidas)
 * RadioJH Games (audreyradio)
 * Rainster (RainsterYT)
-* Rareyma (StarcodeRarey)
+* Rareyma (Ririluvs11)
 * Rax (RaxBLX)
 * Rbx Life Hacks (carakuchi)
 * RealMoby (MOBY3W)
