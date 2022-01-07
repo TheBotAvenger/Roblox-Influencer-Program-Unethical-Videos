@@ -183,10 +183,10 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 493,541 videos
-* Total videos found that match keywords: 33,605 videos
+* Total videos found that match keywords: 33,676 videos
   * Total unprocessed videos: 209 videos
-* Total videos found that are processed and marked: 3,332 videos 
-  * Information Collection: 2,184 videos
+* Total videos found that are processed and marked: 3,347 videos 
+  * Information Collection: 2,199 videos
   * Non-Giftcard Robux Giveaways: 958 videos
   * Other: 155 videos
   * Phishing: 35 videos
@@ -860,13 +860,13 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Biel Henrique (BielHenriikOficial)
   * Information Collection
     * DOIS NOVOS ITEMS GRATIS NO ROBLOX CORRA PARA PEGAR O SEU
-      * Description references the data collection website earnrobux.online.
+      * Description references the data collection website earnrobux.gg/online/zone/com.
       * URL: https://www.youtube.com/watch?v=7MyeJoYmXes
     * COMO FICAR RICO NO ROBLOX
-      * Description references the data collection website earnrobux.online.
+      * Description references the data collection website earnrobux.gg/online/zone/com.
       * URL: https://www.youtube.com/watch?v=TPOUmRrXrO0
     * ESSE ITEM TE DÁ ROBUX GRÁTIS NO ROBLOX
-      * Description references the data collection website earnrobux.online.
+      * Description references the data collection website earnrobux.gg/online/zone/com.
       * URL: https://www.youtube.com/watch?v=dPMqEpZWWA0
 * BigDadT (biggerdadt)
   * Non-Giftcard Robux Giveaways
@@ -3950,6 +3950,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=rh_sr6rEWWI
 * EmpireBlox (EmpireBloxOficial)
   * Information Collection
+    * CAMPING 2!! COMO SOBREVIVER SEM PRECISAR CHEGAR ATÉ O FINAL ?! É POSSÍVEL?
+      * Description references the data collection website makerobux.co.
+      * URL: https://www.youtube.com/watch?v=Iil9SCBlW3M
     * PEGUEI O NOVO JETPACK DO JAILBREAK!! E ME ARREPENDI !!
       * Description references the data collection website rbx.farm.
       * URL: https://www.youtube.com/watch?v=o3ys9JKB2ng
@@ -3973,12 +3976,22 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ADEUS TATARA !! JÁ FOI DECIDIDO !! RO-GHOUL ROBLOX
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=l5YDUqhM8As
+    * CONTA NÍVEL MÁXIMO SEM FAZER NADA NO MAD CITY + 200K !! ROBLOX
+      * URL: https://www.youtube.com/watch?v=Qi55uIBEgQQ
     * COMO PEGAR QUIRK NO BOKU NO ROBLOX  !! "GRÁTIS" ? PEGUEI A MELHOR ?
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=XvSzkCCzDog
     * COMO VENDER SEUS ITENS DE ROBUX NO ROBLOX !!
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=1z1iyJlptqY
+    * NOVO BUG NO DUNGEON QUEST !! VENÇA QUALQUER UM !! -ROBLOX-
+      * URL: https://www.youtube.com/watch?v=EFRU7IncVJQ
+    * COM ESSA INFORMAÇÃO VOCÊ VAI FICAR FORTE MUITO RÁPIDO NO DUNGEON QUEST!! -ROBLOX-
+      * URL: https://www.youtube.com/watch?v=9q435v03CX4
+    * ERA PRA SER APENAS UM BUG !! MAS ENTREI NO CASSINO FECHADO NO MED CITY !! -ROBLOX-
+      * URL: https://www.youtube.com/watch?v=hm1RA0OXEJA
+    * COMO PEGAR LEVEL 50 FÁCIL NO DUGEON QUEST !! -ROBLOX-
+      * URL: https://www.youtube.com/watch?v=nReHH9nqsLY
     * NOVO HOVERBOARD NA NOVA ATUALIZAÇÃO MAD CITY !! VEJA COMO PEGAR !! -ROBLOX-
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=7r5Hp5FHJkA
@@ -3988,12 +4001,18 @@ The following channels had nothing appear with manual searching. Videos may exis
     * O ROBLOX REALMENTE PODE ACABAR !! SÓ ASSISTA SE VOCÊ NÃO QUER QUE ISSO ACONTEÇA  !!
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=wNMnS7cAbpk
+    * CONSEGUI A KAGUNE TATARA FORMA 2 NO RO-GHOUL !! 7.500.000 RC!!
+      * URL: https://www.youtube.com/watch?v=BDZc6sgEFok
     * NOVO BUG NO SLAYING SIMULATOR !! MATE QUALQUER BOSS FÁCIL !!! -ROBLOX-
-      * Description references the data collection website earnrobux.gg.
+      * Description references the data collection website earnrobux.gg/online/zone/com.
       * URL: https://www.youtube.com/watch?v=KCUGGh0OdrE
     * GANHE 1.300.000 DE RC NO RO-GHOUL SEM FAZER NADA !!! (ROBLOX)
-      * Description references the data collection website earnrobux.gg.
+      * Description references the data collection website earnrobux.gg/online/zone/com.
       * URL: https://www.youtube.com/watch?v=9rOzrF8jLIY
+    * VAZOU!! COMO PEGAR \*SPECIAL KEYCARD\* ( DO JETPACK ) NO MAD CITY !! -ROBLOX-
+      * URL: https://www.youtube.com/watch?v=jIWJMo3uDzo
+    * FAÇA ISSO E SEJA O MAIS RICO !! SERVIDOR VIP DE GRAÇA NO MAD CITY !! ROBLOX
+      * URL: https://www.youtube.com/watch?v=3iSH22CbcVo
     * ITENS DE GRAÇA NO ROBLOX QUE VOCÊ NÃO SABIA !! CONSIGA AGORA !!
       * Description references the data collection website bloxpoints.com.
       * URL: https://www.youtube.com/watch?v=cqZRVS_e59o
@@ -5756,6 +5775,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FIRST EVER Pets Only Boss KILL! Snow Shoveling Simulator❄️| Roblox
       * Description references the data collection website robux.network.
       * URL: https://www.youtube.com/watch?v=66SKEiRH-W4
+    * HUGE PUMPKIN!! | EPIC BOAT | Roblox Build A Boat For Treasure
+      * Description references the data collection website bloxmarket.com.
+      * URL: https://www.youtube.com/watch?v=SmgFuI7UzbM
+    * Buying Super Powers For 5 Fan! (50,000,000$) Lumber Tycoon 2
+      * Description references the data collection website bloxmarket.com.
+      * URL: https://www.youtube.com/watch?v=tbKapJPBUNY
 * ItsMatrix (MatrixPlaysRB)
   * Information Collection
     * Racing Is Finally Here! \*HUGE UPDATE\* (Roblox Ultimate Driving)
@@ -5810,6 +5835,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=lfi_UP4xAnw
 * JeffBlox (JeeffBlox)
   * Information Collection
+    * VAI TER MAIS CÓDIGOS DE ITENS GRÁTIS NO ROBLOX?
+      * Description references the data collection website claimrbx.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=o2zMR7gttrk
     * ISSO FOI REMOVIDO DO ROBLOX E VOCÊ NEM PERCEBEU
       * Description references the data collection website rblx.pro.
       * URL: https://www.youtube.com/watch?v=wAeBdOec_lE
@@ -7243,6 +7271,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * BLACK HOLE GLITCH!!! - Build a Boat For Treasure ROBLOX
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=RJksBVBcmQo
+    * Ballerina Glitch!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website earnrobux.gg/online/zone/com.
+      * URL: https://www.youtube.com/watch?v=bh5zrdpBihA
     * 3 Life Hacks in Build a Boat For Treasure ROBLOX!
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
@@ -8411,13 +8442,19 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=V8FOj8B0IvA
     * SKY ROPE TROLLING \#2 (ROBLOX BOOGA BOOGA)
       * Contains an ad for the information collection website oprewards.com.
+      * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=BXKhrVaUbDQ
     * BOOGA BOOGA BAN UPDATE
       * Contains an ad for the information collection website bloxawards.com.
+      * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=BoV9gT_qxdc
     * BOOGA BOOGA FINALLY GETS UPDATES! (ROBLOX)
       * Contains an ad for the information collection website oprewards.com.
+      * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=r4T2SaUnvqk
+    * ROBLOX MUSIC VIDEO (JAILBREAK EDITION)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=PFPTxW24Pxs
     * NEW ESCAPE! TRAIN STATION! JAILBREAK UPDATE! (ROBLOX)
       * Description references a private video about getting free Robux.
       * URL: https://www.youtube.com/watch?v=cfEXRXI2zrk
@@ -8700,7 +8737,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website bloxmarket.com.
       * URL: https://www.youtube.com/watch?v=-TCZhPO6Z0w
     * GET FREE ROBUX FAST & EASY \*NOT CLICKBAIT\*
-      * Description references the data collection website earnrobux.today.
+      * Description references the data collection website earnrobux.gg/online/zone/com.
       * URL: https://www.youtube.com/watch?v=jYwQYt1eGK4
   * Non-Giftcard Robux Giveaways
     * ALL 14 NEW VACUUM SIMULATOR CODES - New Vacuum/ Update 3 | Roblox
@@ -10146,7 +10183,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Stronbol Roblox (StronbolYT)
   * Information Collection
     * EL DIA en el que ME ROBARON mas de 80,000 ROBUX
-      * Description references the data collection website earnrobux.gg.
+      * Description references the data collection website earnrobux.gg/online/zone/com.
       * URL: https://www.youtube.com/watch?v=Am23o2Ks7E0
     * COMO USAR EMOCIONES EN ROBLOX Y BAILAR CON COMANDOS EN ROBLOX
       * Contains an ad for the information collection website robuxhub.com.
@@ -10196,6 +10233,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * LOS NUEVOS EH INCREIBLES ITEMS EN LA NUEVA TIENDA DE EL EGGHUNT 😮😱
       * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=vzqJGQ0fP6A
+    * ESTA PAGINA ME DIO ROBUX PARA ESTE SOMBRERO POR HACER OFERTAS EN ROBLOX - ROBUX GRATIS 😱🤑
+      * Description references the data collection website earnrobux.gg/online/zone/com.
+      * URL: https://www.youtube.com/watch?v=6LIPe8KrlJE
     * COMO OBTENER GRATIS EL ESCUDO DE EL CAPITAN AMERICA INFINITY WAR ROPA GRATIS ROBLOX
       * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=rKV2ihsk_Og
@@ -10240,9 +10280,11 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=s4ApHNQTo9k
     * ESTE INCREIBLE JUEGO RECAUDO MAS DE 1 MILLON DE ROBUX EN MENOS DE UNA SEMANA 😮😱
       * Contains an ad for the information collection website ezrewards.com.
+      * Description references the data collection website ezrewards.today.
       * URL: https://www.youtube.com/watch?v=iXWbqQL7SUg
     * CON ESTE VIDEO PODRAS CONSEGUIR ESTE INCREIBLE HAT COMPLETAMENTE GRATIS😱🆓ROPA GRATIS ROBLOX
       * Contains an ad for the information collection website ezrewards.com.
+      * Description references the data collection website ezrewards.today.
       * URL: https://www.youtube.com/watch?v=08zxydGAqtw
     * 🎅ROBLOX ESTA REGALANDO ESTO GRATIS POR NAVIDAD🎅NO CREERAS LO QUE CONTIENEN🎅
       * Contains an ad for the information collection website rblx.pro.
@@ -10369,11 +10411,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TheLaughingUnicorn 
   * Information Collection
     * PINK HOLLYWOOD MANSION! || BLOXBURG HOUSE TOUR
-      * Description references the data collection website earnrobux.today.
+      * Description references the data collection website earnrobux.gg/online/zone/com.
       * URL: https://www.youtube.com/watch?v=lDeX-dKwNkw
     * \[HALLOWEEN SPECIAL\] MAD HATTER || FAN MUSIC VIDEO
       * Description references the data collection website rbxrich.com.
-      * Description references the data collection website earnrobux.today.
+      * Description references the data collection website earnrobux.gg/online/zone/com.
       * URL: https://www.youtube.com/watch?v=YnNCdrP25XY
     * KAWAII KITCHEN || ROBLOX STUDIO SPEED BUILD
       * Description references the data collection website rbxrich.com.
@@ -10450,7 +10492,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Xegothasgot (Xegot)
   * Information Collection
     * HOW TO GET FREE ROBUX IN LESS THAN 1 MINUTE! \*\*Not Clickbait\*\*
-      * Description references the data collection website earnrobux.today.
+      * Description references the data collection website earnrobux.gg/online/zone/com.
       * URL: https://www.youtube.com/watch?v=qmcgx0wJurc
     * ATV BUGGY & DONUT SHOP! (ROBLOX Jailbreak) \[NEW UPDATE\]
       * Description references a video offering Robux for downloading apps. Apps sometimes require signups which requires asking for personal information.
