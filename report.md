@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 11, 2022<br>
+Generated January 12, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 494,913 videos
-* Total videos found that match keywords: 33,676 videos
-  * Total unprocessed videos: 209 videos
-* Total videos found that are processed and marked: 3,347 videos 
-  * Information Collection: 2,199 videos
+* Total videos: 494,943 videos
+* Total videos found that match keywords: 33,781 videos
+  * Total unprocessed videos: 42 videos
+* Total videos found that are processed and marked: 3,339 videos 
+  * Information Collection: 2,191 videos
   * Non-Giftcard Robux Giveaways: 958 videos
   * Other: 155 videos
   * Phishing: 35 videos
@@ -274,6 +274,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Complex Roblox (MintyComplexYT)
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutterYT)
+* corny (co_rny)
 * Cortesgo (cortesgo)
 * Cosmic (bluecosmiic)
 * CPat 
@@ -299,6 +300,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Digopollo (DigoPollos)
 * Diário do Casal Gamer (VictorNuclear and FernandaTreta)
 * DoctorBenx (Bensonheimer and ebruulein)
+* Dogbon62 (Dogbon62)
 * Dois Marmotas 
 * DOLLASTIC PLAYS! 
 * Dom (DDomss)
@@ -335,6 +337,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Flxral (xoFlxral)
 * FoamyBubbles (FoamyBubbIes)
 * Folix (Mrpresident1302)
+* Foncri (Foncri)
 * ForeverSparks (itsForeverSparks)
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (french_rxses)
@@ -352,6 +355,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GamerNom (MaybeItsMyFault)
 * GamingwithVYT (GamingwithVYT)
 * GH0Ks (GHOKSZIN)
+* GhostInTheCosmos (GhostInTheCosmos)
 * GianBlox (GiianBloxYT)
 * Godenot (godenot)
 * Godstatus (CallMeGodstatus)
@@ -379,6 +383,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Hyper (DylanTheHyper)
 * HyperCookiie (HyperCookiie)
 * iAirRon (iAirRon)
+* ianut (ianut99)
 * IBella (Cinderbelle)
 * iBeMaine (ibemaine)
 * iBugou (iBugouzinho)
@@ -477,6 +482,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MICHI RØBLØX (michineyley)
 * MicroGuardian (MicroGuardian)
 * Mila FunPlayer (trxmila)
+* MiniBloxia (SubToMiniBloxia)
 * mk (real_mkyt)
 * Model8197 (Modeldog8197)
 * MoFlare (MoFlare)
@@ -599,10 +605,12 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Soy Blue (SoyBluee)
 * Soy Mandy Games (SoyMandy2020)
 * Spagz Blox (Spagzox)
+* Spekツ (ONESIEHOARDER308)
 * Squid Magic (Foolzy)
 * SrJuancho (JuanchoAcostado)
 * StaTick (St4Tick)
 * Stevebloxian (steven111234)
+* stream CA Roblox (stream\_CA and Dominus\_CA)
 * Striker180x (strikerl80x)
 * Sunset Safari (SunsetSafariYT)
 * SuperDog Tyler (superdog_tyler)
@@ -3976,22 +3984,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ADEUS TATARA !! JÁ FOI DECIDIDO !! RO-GHOUL ROBLOX
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=l5YDUqhM8As
-    * CONTA NÍVEL MÁXIMO SEM FAZER NADA NO MAD CITY + 200K !! ROBLOX
-      * URL: https://www.youtube.com/watch?v=Qi55uIBEgQQ
     * COMO PEGAR QUIRK NO BOKU NO ROBLOX  !! "GRÁTIS" ? PEGUEI A MELHOR ?
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=XvSzkCCzDog
     * COMO VENDER SEUS ITENS DE ROBUX NO ROBLOX !!
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=1z1iyJlptqY
-    * NOVO BUG NO DUNGEON QUEST !! VENÇA QUALQUER UM !! -ROBLOX-
-      * URL: https://www.youtube.com/watch?v=EFRU7IncVJQ
-    * COM ESSA INFORMAÇÃO VOCÊ VAI FICAR FORTE MUITO RÁPIDO NO DUNGEON QUEST!! -ROBLOX-
-      * URL: https://www.youtube.com/watch?v=9q435v03CX4
-    * ERA PRA SER APENAS UM BUG !! MAS ENTREI NO CASSINO FECHADO NO MED CITY !! -ROBLOX-
-      * URL: https://www.youtube.com/watch?v=hm1RA0OXEJA
-    * COMO PEGAR LEVEL 50 FÁCIL NO DUGEON QUEST !! -ROBLOX-
-      * URL: https://www.youtube.com/watch?v=nReHH9nqsLY
     * NOVO HOVERBOARD NA NOVA ATUALIZAÇÃO MAD CITY !! VEJA COMO PEGAR !! -ROBLOX-
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=7r5Hp5FHJkA
@@ -4001,18 +3999,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * O ROBLOX REALMENTE PODE ACABAR !! SÓ ASSISTA SE VOCÊ NÃO QUER QUE ISSO ACONTEÇA  !!
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=wNMnS7cAbpk
-    * CONSEGUI A KAGUNE TATARA FORMA 2 NO RO-GHOUL !! 7.500.000 RC!!
-      * URL: https://www.youtube.com/watch?v=BDZc6sgEFok
     * NOVO BUG NO SLAYING SIMULATOR !! MATE QUALQUER BOSS FÁCIL !!! -ROBLOX-
       * Description references the data collection website earnrobux.gg/online/zone/com.
       * URL: https://www.youtube.com/watch?v=KCUGGh0OdrE
     * GANHE 1.300.000 DE RC NO RO-GHOUL SEM FAZER NADA !!! (ROBLOX)
       * Description references the data collection website earnrobux.gg/online/zone/com.
       * URL: https://www.youtube.com/watch?v=9rOzrF8jLIY
-    * VAZOU!! COMO PEGAR \*SPECIAL KEYCARD\* ( DO JETPACK ) NO MAD CITY !! -ROBLOX-
-      * URL: https://www.youtube.com/watch?v=jIWJMo3uDzo
-    * FAÇA ISSO E SEJA O MAIS RICO !! SERVIDOR VIP DE GRAÇA NO MAD CITY !! ROBLOX
-      * URL: https://www.youtube.com/watch?v=3iSH22CbcVo
     * ITENS DE GRAÇA NO ROBLOX QUE VOCÊ NÃO SABIA !! CONSIGA AGORA !!
       * Description references the data collection website bloxpoints.com.
       * URL: https://www.youtube.com/watch?v=cqZRVS_e59o
