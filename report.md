@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 16, 2022<br>
+Generated January 17, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 494,943 videos
-* Total videos found that match keywords: 33,781 videos
-  * Total unprocessed videos: 42 videos
+* Total videos: 495,153 videos
+* Total videos found that match keywords: 33,796 videos
+  * Total unprocessed videos: 57 videos
 * Total videos found that are processed and marked: 3,339 videos 
   * Information Collection: 2,191 videos
   * Non-Giftcard Robux Giveaways: 958 videos
@@ -195,10 +195,10 @@ to the report if this happens.
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 3SB Games (cakemiix and ododahs)
 * 440HP (440HP)
-* Aaronsan (AaronDRonin)
+* Aaron the Titan Guy (AaronDRonin)
 * AbsintoJ (AbsintoJYT)
 * Acenix (AcenixElMejorYoutube)
-* Alex (HeyCrafted)
+* Alex Crafted (HeyCrafted)
 * Aline Games (AliineGamesYT)
 * alixia 
 * Alles Ava Gaming 
@@ -261,7 +261,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cerority (Cerority)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
-* ChillzCx (ChillzCx)
+* ChillzCx (IIiiIiiililllIiIilll)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Chrisu Gaming (ChristsuYT)
@@ -271,7 +271,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cleanse Beam (CleanseBeam)
 * CLIP 2 BIT (Clip2bitYT)
 * Collins Kosuke 
-* Complex Roblox (MintyComplexYT)
+* Complex Roblox (IamComplexRoblox)
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutterYT)
 * corny (co_rny)
@@ -302,7 +302,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DoctorBenx (Bensonheimer and ebruulein)
 * Dogbon62 (Dogbon62)
 * Dois Marmotas 
-* DOLLASTIC PLAYS! 
+* DOLLASTIC PLAYS! (DollasticDreams)
 * Dom (DDomss)
 * DoNotDoDrugs 
 * Dr laba (Dr_laba)
@@ -517,7 +517,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
-* Oscar (Hockybaseball_fan23)
+* Oscar (TheProOscar)
 * OurFire Plays (ourfire and ChrisOurFire)
 * P0gMasterZ (P0gMasterZ)
 * PaintingRainbows (RainbowsYT)
