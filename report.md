@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 17, 2022<br>
+Generated January 18, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 495,153 videos
-* Total videos found that match keywords: 33,796 videos
-  * Total unprocessed videos: 57 videos
-* Total videos found that are processed and marked: 3,339 videos 
-  * Information Collection: 2,191 videos
+* Total videos: 497,191 videos
+* Total videos found that match keywords: 33,940 videos
+  * Total unprocessed videos: 200 videos
+* Total videos found that are processed and marked: 3,340 videos 
+  * Information Collection: 2,192 videos
   * Non-Giftcard Robux Giveaways: 958 videos
   * Other: 155 videos
   * Phishing: 35 videos
@@ -5170,6 +5170,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=YB0Urzcgw9I
 * Hxyila (hayiIaaa)
   * Information Collection
+    * Crazy & Funny Horse Glitches you need to try! 🤣 // ROBLOX Brookhaven RP
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=nmoI0q_Ay3A
     * Trying out TIKTOK Hacks to see if they work 🤔... in Brookhaven 🏡RP ROBLOX
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=1xWofMizDv4
