@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 19, 2022<br>
+Generated January 20, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,10 +183,10 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 497,191 videos
-* Total videos found that match keywords: 33,940 videos
-  * Total unprocessed videos: 211 videos
-* Total videos found that are processed and marked: 3,340 videos 
-  * Information Collection: 2,192 videos
+* Total videos found that match keywords: 34,121 videos
+  * Total unprocessed videos: 16 videos
+* Total videos found that are processed and marked: 3,355 videos 
+  * Information Collection: 2,207 videos
   * Non-Giftcard Robux Giveaways: 958 videos
   * Other: 155 videos
   * Phishing: 35 videos
@@ -372,7 +372,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * hannnahlovescows (hannnahlovescows)
 * HappyBlack (HappyThreePro)
 * haramics (haramics)
-* HelloItsVG (HelloItsVinh)
 * Heorua (Heorua)
 * HeyDavi (DAVIPLAY_14)
 * HeyItsJames (NotJamesRBLX)
@@ -3984,6 +3983,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ADEUS TATARA !! JÁ FOI DECIDIDO !! RO-GHOUL ROBLOX
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=l5YDUqhM8As
+    * CONTA NÍVEL MÁXIMO SEM FAZER NADA NO MAD CITY + 200K !! ROBLOX
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=Qi55uIBEgQQ
     * COMO PEGAR QUIRK NO BOKU NO ROBLOX  !! "GRÁTIS" ? PEGUEI A MELHOR ?
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=XvSzkCCzDog
@@ -4005,6 +4007,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * GANHE 1.300.000 DE RC NO RO-GHOUL SEM FAZER NADA !!! (ROBLOX)
       * Description references the data collection website earnrobux.gg/online/zone/com.
       * URL: https://www.youtube.com/watch?v=9rOzrF8jLIY
+    * VAZOU!! COMO PEGAR \*SPECIAL KEYCARD\* ( DO JETPACK ) NO MAD CITY !! -ROBLOX-
+      * Description references the data collection website earnrobux.gg/online/zone/com.
+      * URL: https://www.youtube.com/watch?v=jIWJMo3uDzo
+    * FAÇA ISSO E SEJA O MAIS RICO !! SERVIDOR VIP DE GRAÇA NO MAD CITY !! ROBLOX
+      * Description references the data collection website earnrobux.gg/online/zone/com.
+      * URL: https://www.youtube.com/watch?v=3iSH22CbcVo
     * ITENS DE GRAÇA NO ROBLOX QUE VOCÊ NÃO SABIA !! CONSIGA AGORA !!
       * Description references the data collection website bloxpoints.com.
       * URL: https://www.youtube.com/watch?v=cqZRVS_e59o
@@ -5168,6 +5176,45 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Roblox Piggy but i used hacks..
       * Demonstrates using an autoclicker to exploit going through walls.
       * URL: https://www.youtube.com/watch?v=YB0Urzcgw9I
+* HelloItsVG (HelloItsVinh)
+  * Information Collection
+    * ARRESTING ALL CRIMINAL IN  A HACKED SERVER IN JAILBREAK ROBLOX (GONE WELL)
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=3y9WPxr4t9k
+    * JAILBREAK UNDERWATER| Asimo3089 HACKED ROBLOX VIP SERVER | FLOODED JAILBREAK!
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=YqQbKkugMNA
+    * JAILBREAK ROBLOX CAGE DRAMA| HOW TO GET IN THE JAILBREAK CAGE GLITCH!!
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=sUBKdxPfWTM
+    * \*MUST SEE\* TOP 5 BEST JAILBREAK GLITCHES YOU SHOULD KNOW IN WINTER UPDATE!
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=eDrqOrGBU5Y
+    * INSANE HACKER FOUND IN JAILBREAK! (Roblox Jailbreak) 2018
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=LFsgGKraE-c
+    * TOP 5 BEST JAILBREAK GLITCHES YOU SHOULD KNOW! (Roblox)
+      * Description references the data collection website oprewards.com.
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=gaZd8oi5ouA
+    * HOW TO SPEED GLITCH IN JAILBREAK ROBLOX (FASTER THAN CAR!) 2018!
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=nQ2_B4Iy5qk
+    * BACON HAIRS ARE INVADING JAILBREAK! (ROBLOX Jailbreak) I SAW A SPEED HACK IN JAILBREAK
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=GH9dLqGqiy4
+    * MAKE ZephPlayZ RAGE! TROLLING ROBLOX LIVESTREAMER| KREEKCRAFT RAGE QUIT! (GONE WRONG!) NO JOKE!
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=4FFMDkNsvJc
+    * How to get Free VIP server on Jailbreak/ FREE VIP SERVER !
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=Zp9Lpv_Au80
+    * 1000 Subscriber Special !!! // VG Gang// Jailbreak Roblox// Roblox Special!
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=de2PnVznoC0
+    * HOW TO ROB THE JEWELRY STORE AS A COP GLITCH \*\* NO HACK\*\*
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=Im4tLbg3za0
 * Hxyila (hayiIaaa)
   * Information Collection
     * Crazy & Funny Horse Glitches you need to try! 🤣 // ROBLOX Brookhaven RP
