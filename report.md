@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 30, 2022<br>
+Generated January 31, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,7 +182,7 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 499,614 videos
+* Total videos: 499,644 videos
 * Total videos found that match keywords: 34,307 videos
 * Total videos found that are processed and marked: 3,520 videos 
   * Information Collection: 2,372 videos
@@ -194,7 +194,7 @@ to the report if this happens.
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 3SB Games (cakemiix and ododahs)
 * 440HP (440HP)
-* Aaron the Titan Guy (AaronDRonin)
+* AaronTitanCry (AaronDRonin)
 * AbsintoJ (AbsintoJYT)
 * Acenix (AcenixElMejorYoutube)
 * Alex Crafted (HeyCrafted)
@@ -243,7 +243,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BrittanyPlays (Britt_Blox)
 * Bubbles (bubblestoxic)
 * Buur (BuurmanTenus)
-* ByDerank (ByDerank_YT)
+* ByDerank (ByDerankOFI)
 * callmehhaley (callmehhaleyx)
 * Captain Capi (CaptainCapii)
 * Captain Tate (CaptainTate21)
@@ -281,7 +281,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * cqqp (cqqp)
 * Crainer Roblox 
 * Craxel (Craxelss)
-* CrazyErzy (xCrazyErzyYTx)
+* CrazyErzy (CrazyErzy7u7)
 * Cristi Suki (CristiSukiYT)
 * Cryptize (Cryptize)
 * CrystalSims (CrystalSims)
@@ -313,7 +313,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * El Magnum (MagnumStormus)
 * elDanielGT (DanielGTReal)
 * ElemperadormaxiYT (EmperadorMaxiOFICIAL)
-* Elite (EI1te_YT)
+* Elite (E1ite_E)
 * Elitelupus (elitelupus)
 * Ephicsea (Ephicsea)
 * ErnieC3 (ErnieC3_YouTube)
@@ -344,7 +344,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (french_rxses)
 * FUDZ (fudsim)
-* FunPiggy (FunPiggyYT)
+* FunPiggy (CelestialPiggy)
 * Furious Jumper (furi0us_jumper)
 * FusionZGamer (NotFusionZGamer)
 * Futura (FuturaYT)
@@ -358,7 +358,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GamingwithVYT (GamingwithVYT)
 * GH0Ks (GHOKSZIN)
 * GhostInTheCosmos (GhostInTheCosmos)
-* GianBlox (GiianBloxYT)
+* GianBlox (yGiianBlox)
 * Godenot (godenot)
 * Godstatus (CallMeGodstatus)
 * GoingLimited (GoingLimited)
@@ -401,7 +401,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * It's Akeila (itsakeila)
 * It's Siena (ItsNotSiena3)
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
-* Its Ashley Playz YT (ItsAshley_PlayzYT)
+* Its Ashley Playz YT (REAL_ItsAshleyPlayz)
 * Its Matty (YT_ItsMatty)
 * Its SugarCoffee (SugarCoffee123)
 * ItsFunneh (Funnehcake)
@@ -443,7 +443,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * King Luffy (KingLuffy_YTsub2me)
 * KingOfYouTube (uKingzaum)
 * KIRON (SoyKiron)
-* Kitt Gaming (kittgamingyoutube)
+* Kitt Gaming (StarCode_kitt)
 * Kodak (KodakOF)
 * KraoESP (KraoESP)
 * Krystin Plays (KrystinPlays)
@@ -481,7 +481,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MedTw (MedTwYT)
 * MeganPlays (TheMeganPlays)
 * MelzinhaMel Games (MelzinhaMelGames, Detona\_Anderson, and Princesa\_Alicinha)
-* Mia Games (MiaZaffyt)
+* Mia Games (XSoyMiaGamesX)
 * MIANNN (MIANNNGAMER)
 * Michaels Mayhem 
 * MICHI RØBLØX (michineyley)
@@ -522,7 +522,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (UseCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
-* Oscar (TheProOscar)
+* Oscar (yeat_twizzy39)
 * OurFire Plays (ourfire and ChrisOurFire)
 * P0gMasterZ (P0gMasterZ)
 * PaintingRainbows (RainbowsYT)
@@ -596,7 +596,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sign (Signicial)
 * Silent Playz (RandomYoutuber0202)
 * SimplySpring 
-* SkippyPlays (SkippyPIaysYT)
+* SkippyPlays (SkippyPIayss)
 * skyleree 
 * SlEGHART (SlEGHART)
 * Sleigher (Gsleigh)
@@ -616,7 +616,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Stevebloxian (steven111234)
 * stream CA Roblox (stream\_CA and Dominus\_CA)
 * Striker180x (strikerl80x)
-* Sunset Safari (SunsetSafariYT)
+* Sunset Safari (HeySunsetSafari)
 * SuperDog Tyler (superdog_tyler)
 * SweePee (RELLswee)
 * Só Por Causa (Est3vA0)
@@ -665,6 +665,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Unlimited (Unlimited_Resources)
 * V2 Plays (Miya7372 and toreject)
 * Valen Latina (Valen_Latina)
+* VarietyJay (VarietyJay_Real)
 * VikingPrincessJazmin (VikingPrincessJazmin)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * Volt (v0_1t)
@@ -690,8 +691,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ZNac (LOLknitSuoY)
 * ZOMG (PandaBoss3_0)
 * zOnwley (zOnwley)
-* ZULY (ItsZulyYT)
-* •Lavenderblossom• (LavenderBlossomYTYT)
+* ZULY (ItsChulyOtz)
+* •Lavenderblossom• (OMG4LAV)
 
 ### Videos Found
 * Aati Plays (AatikahKashif)
@@ -5751,7 +5752,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * WHEN A STRANGER FINDS 1,000 ROBUX | Roblox Social Experiment
       * Randomly gives out Robux using a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=wgXTsve1zOs
-* IntelPlayz (YT_RoBuilder)
+* IntelPlayz (IamRoBuilder)
   * Information Collection
     * THE PORTAL FINALLY OPENED | Pet Simulator
       * Description references the data collection website irobux.com.
@@ -9252,7 +9253,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * how to win my ROBUX giveaway
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=OLlRN5kkw-c
-* RazorFishGaming (UseCodeRAZORFISH and RazorFishPengiYT)
+* RazorFishGaming (UseCodeRAZORFISH and RazorFishPengi)
   * Information Collection
     * ALL 2 NEW SUPERHERO SIMULATOR CODES - New Game Release/ Roblox
       * Description references the data collection website gainblox.com.
@@ -9382,7 +9383,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
       * Logs into the account of a fan. Mentions a lot of other people sent their username and passwords.
       * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
-* SeerRblx (SeerRblxYT)
+* SeerRblx (ReaISeer)
   * Information Collection
     * ALL NEW SECRET PET CODES in TAPPING LEGENDS! - Tapping Legends ⭐X5 CLICKS UPDATE⭐  (Roblox)
       * Description references the data collection website gemsloot.com.
@@ -9414,7 +9415,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * $1500 ROBUX GIVEAWAY
       * Robux giveaway uses a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=AGj4BbtDy6k
-* SiimplyBubliie (SiimplyBubliie_YT)
+* SiimplyBubliie (BeautifulBubliie)
   * Phishing
     * 3,000 ROBUX MAKEOVER!! (Surprising a FAN!) Limited Item!
       * Offers to give Robux in exchange for a username and password.
