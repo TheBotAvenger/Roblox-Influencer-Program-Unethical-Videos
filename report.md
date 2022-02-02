@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 1, 2022<br>
+Generated February 2, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 501,800 videos
 * Total videos found that match keywords: 34,465 videos
-  * Total unprocessed videos: 158 videos
-* Total videos found that are processed and marked: 3,520 videos 
-  * Information Collection: 2,372 videos
+  * Total unprocessed videos: 13 videos
+* Total videos found that are processed and marked: 3,515 videos 
+  * Information Collection: 2,367 videos
   * Non-Giftcard Robux Giveaways: 958 videos
   * Other: 155 videos
   * Phishing: 35 videos
@@ -5728,18 +5728,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Helpful HACKS That you need to know.. 🤯 in Brookhaven 🏡RP ROBLOX
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=tyUCekecLZg
-    * I Found A Christmas SECRET MESSAGE! 😱 in Brookhaven 🏡RP ROBLOX...
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=tHrU_gt3lYw
-    * 🤫 Top 5 Best SECRET HOUSE in Brookhaven 🏡RP ROBLOX
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=9K4LhxxdIuk
-    * New Houses and Updates in Roblox Brookhaven 🏡 RP!
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=vwRuJz5FkZM
-    * Playing the CURSED version of brookhaven... (Your worst nightmare)
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=aXKf8wtlqdc
 * iamSanna (notiamsanna)
   * Non-Giftcard Robux Giveaways
     * WIN 10,000 ROBUX In This \*NEW\* Adopt Me FASHION CONTEST! (Adopt Me)
@@ -9268,9 +9256,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW FAME SIMULATOR CODES Roblox (Update 1)
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=CRjUtFMHGE4
-    * Roblox Jailbreak - NEW DINOSAUR MUSEUM ROBBERY! NEW UPDATE OUT! | New Car,  Museum & More!
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=BUFZAMYACdQ
     * Jailbreak DINOSAUR MUSEUM UPDATE RELEASE DATE (Roblox Jailbreak)
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=CXYrlxO-rFo
