@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 2, 2022<br>
+Generated February 3, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,8 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 501,800 videos
 * Total videos found that match keywords: 34,465 videos
-  * Total unprocessed videos: 13 videos
-* Total videos found that are processed and marked: 3,515 videos 
-  * Information Collection: 2,367 videos
+* Total videos found that are processed and marked: 3,516 videos 
+  * Information Collection: 2,368 videos
   * Non-Giftcard Robux Giveaways: 958 videos
   * Other: 155 videos
   * Phishing: 35 videos
@@ -5728,6 +5727,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Helpful HACKS That you need to know.. 🤯 in Brookhaven 🏡RP ROBLOX
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=tyUCekecLZg
+    * I Found A Christmas LAPTOP MESSAGE! 😱 in Brookhaven 🏡RP ROBLOX...
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=tHrU_gt3lYw
 * iamSanna (notiamsanna)
   * Non-Giftcard Robux Giveaways
     * WIN 10,000 ROBUX In This \*NEW\* Adopt Me FASHION CONTEST! (Adopt Me)
