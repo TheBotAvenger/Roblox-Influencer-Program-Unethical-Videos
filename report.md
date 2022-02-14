@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 13, 2022<br>
+Generated February 14, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 502,816 videos
-* Total videos found that match keywords: 34,574 videos
+* Total videos: 503,026 videos
+* Total videos found that match keywords: 34,598 videos
+  * Total unprocessed videos: 24 videos
 * Total videos found that are processed and marked: 3,516 videos 
   * Information Collection: 2,368 videos
   * Non-Giftcard Robux Giveaways: 958 videos
@@ -194,9 +195,9 @@ to the report if this happens.
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 3SB Games (cakemiix and ododahs)
 * 440HP (440HP)
-* AaronTitanCry (AaronDRonin)
 * AbsintoJ (AbsintoJYT)
 * Acenix (AcenixElMejorYoutube)
+* AEREN (AaronDRonin)
 * Alex Crafted (HeyCrafted)
 * Aline Games (AliineGamesYT)
 * alixia 
@@ -217,6 +218,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Augus (augusvidal)
 * Avocado Playz (AvocadoPlayzOfficial)
 * Ayzria (Ayzria)
+* BaconHair Originals (BaconHairGGOP)
 * Bandi (BandiRue)
 * BeaPlays Roblox (notBeaPlays)
 * Bebe Adri (BebeAdriYT)
@@ -308,6 +310,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DoNotDoDrugs 
 * Dr laba (Dr_laba)
 * DraconiteDragon (ItsDraconiteDragon)
+* dragonplatinum (dragonplatinum)
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
 * El Magnum (MagnumStormus)
@@ -337,6 +340,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * flashii (flashiilindo)
 * Flebsy (Flebsy)
 * Flxral (xoFlxral)
+* FlyBorg (KaykBlox)
+* Fminusmic (fminusmic)
 * FoamyBubbles (FoamyBubbIes)
 * Folix (Mrpresident1302)
 * Foncri (Foncri)
@@ -368,7 +373,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * grace k (yt_graceek)
 * Gravycatman (GrumpyGravy)
 * GroovyDominoes52 (GroovyDominoes52)
-* Gunslaya (iGunslaya)
+* Gunslaya (STARCODEE_GUN)
 * Hagazo 
 * HandN (xHandNx)
 * hannnahlovescows (hannnahlovescows)
@@ -433,6 +438,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
 * Junell Dominic (Junewuuu)
 * JunRoots (CaptainYesYes)
+* JustHarrison (JustHarrisonYT)
 * jvnq (jvnqYT)
 * Karim Juega (karimjuega)
 * Kawaii Kunicorn Shorts (kawaii_kunicorn)
@@ -518,6 +524,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * notive (notive)
 * O1G (TotallyNotO1G)
 * Oblivious (ObliviousHD)
+* officialnoobie (oofficialnoobie)
 * oGVexx (LouDaREALGamer)
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (Ominousssssssss)
@@ -526,6 +533,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OurFire Plays (ourfire and ChrisOurFire)
 * P0gMasterZ (P0gMasterZ)
 * PaintingRainbows (RainbowsYT)
+* palsitive (palsitive)
 * PandazPlay (ComplexConniee and ComplexJason)
 * Pankayz 
 * Papile (jupapile)
@@ -593,7 +601,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
-* Sign (Signicial)
 * Silent Playz (RandomYoutuber0202)
 * SimplySpring 
 * SkippyPlays (SkippyPIayss)
@@ -601,6 +608,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SlEGHART (SlEGHART)
 * Sleigher (Gsleigh)
 * Sniffycat (SnickerHoops)
+* Snowi Fox (snowi_fox)
 * Sofia Tube (sofiatube7)
 * Solem Archive (iJackeryz)
 * Sons Of Fun (SonsofFun_YT)
@@ -666,6 +674,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * V2 Plays (Miya7372 and toreject)
 * Valen Latina (Valen_Latina)
 * VarietyJay (VarietyJay_Real)
+* View (ViewYT)
 * VikingPrincessJazmin (VikingPrincessJazmin)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * Volt (v0_1t)
