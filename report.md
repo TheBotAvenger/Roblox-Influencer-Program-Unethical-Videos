@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 15, 2022<br>
+Generated February 16, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 504,245 videos
 * Total videos found that match keywords: 34,783 videos
-  * Total unprocessed videos: 209 videos
-* Total videos found that are processed and marked: 3,516 videos 
+  * Total unprocessed videos: 7 videos
+* Total videos found that are processed and marked: 3,517 videos 
   * Information Collection: 2,368 videos
-  * Non-Giftcard Robux Giveaways: 958 videos
+  * Non-Giftcard Robux Giveaways: 959 videos
   * Other: 155 videos
   * Phishing: 35 videos
 
@@ -438,7 +438,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
 * Junell Dominic (Junewuuu)
 * JunRoots (CaptainYesYes)
-* JustHarrison (JustHarrisonYT)
 * jvnq (jvnqYT)
 * Karim Juega (karimjuega)
 * Kawaii Kunicorn Shorts (kawaii_kunicorn)
@@ -7629,6 +7628,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 🤑🤑 Robux Gratis 🤑✨REGALO 400 ROBUX✨🤑
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=VbZhoF9ZEM0
+* JustHarrison (JustHarrisonYT)
+  * Non-Giftcard Robux Giveaways
+    * (OVER) 2,500 ROBUX GIVEAWAY!!! LAST CHANCE TO GET TOXIC GUNNER (Tower Defense Simulator - ROBLOX)
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=Qnq6AuArpdM
 * JymbowSlice (JymbowSliceYT)
   * Non-Giftcard Robux Giveaways
     * This Mobile Wins $10,000 ROBUX If He Gets 1 KILL... (Roblox Arsenal)
