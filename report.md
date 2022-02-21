@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 20, 2022<br>
+Generated February 21, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 504,245 videos
-* Total videos found that match keywords: 34,783 videos
+* Total videos: 504,545 videos
+* Total videos found that match keywords: 34,815 videos
+  * Total unprocessed videos: 32 videos
 * Total videos found that are processed and marked: 3,517 videos 
   * Information Collection: 2,368 videos
   * Non-Giftcard Robux Giveaways: 959 videos
@@ -286,6 +287,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cristi Suki (CristiSukiYT)
 * Cryptize (Cryptize)
 * CrystalSims (CrystalSims)
+* Curtified (CurtifiedYT)
+* Cute Cookie Gaming (CuteCookieGaming05)
 * cybernova games (THEREALCYBERNOVA)
 * Daffa super (Daffa_super2)
 * DandanPH (DandanPH)
@@ -300,6 +303,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Devovo (Devovorya)
 * DigitizedPixels (DigitizedPixels)
 * Digopollo (DigoPollos)
+* Divine (vrcia)
 * Diário do Casal Gamer (VictorNuclear and FernandaTreta)
 * DoctorBenx (Bensonheimer and ebruulein)
 * Dogbon62 (Dogbon62)
@@ -314,6 +318,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DV Plays (DVwastaken)
 * El Magnum (MagnumStormus)
 * elDanielGT (DanielGTReal)
+* Elemental (FakeE1emental)
 * ElemperadormaxiYT (EmperadorMaxiOFICIAL)
 * Elite (E1ite_E)
 * Elitelupus (elitelupus)
@@ -321,6 +326,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ErnieC3 (ErnieC3_YouTube)
 * Estela (Estelacoutin)
 * EthanGamer (EthanGamerTV)
+* ethanolodj (ethanolodj)
 * Euri Wings (EuriWings)
 * Evanbear1 (Evanbear1)
 * EYYCHEEV (EYYCHEEV)
@@ -393,6 +399,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * iBeMaine (ibemaine)
 * iBugou (iBugouzinho)
 * iDakeeCore (iDakeeCore)
+* iDatchy (iDatchy)
 * iFres (iFresblxx)
 * iGuz (iGuzGames)
 * iiisxphie 
@@ -475,6 +482,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Magicbus (MagicbusYT)
 * Mahadinoor Playz (MahadinoorPlayzRBLX)
 * Maislie (Maislie)
+* MakotoUchiha (MakotoYoutube)
 * Mandinha Game (iii_Amandinha)
 * Manucraft (ManucraftYT)
 * MaRcDoGy (ImperiaIDoom)
@@ -510,6 +518,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * NanoProdigy (NanoProdigy)
 * NapkinNate 
 * Natasha Panda (NatashaPandaaYT)
+* Nathy Super Gamer (Nathy_SuperGamer)
 * Natsuki Sel (Natsuki_Sel)
 * Nezi Plays Roblox (NeziPlaysROBLOX)
 * NicksDagaYT (nicks543)
@@ -524,6 +533,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Oblivious (ObliviousHD)
 * officialnoobie (oofficialnoobie)
 * oGVexx (LouDaREALGamer)
+* OMB Gaming (OMBgamingYT)
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (Ominousssssssss)
 * OneSpottedFriend (OneSpottedFriend)
@@ -601,7 +611,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Shaylo (YTshaylo)
 * Silent Playz (RandomYoutuber0202)
 * SimplySpring 
-* SkippyPlays (SkippyPIayss)
+* SkippyPlays (SkippyPIaysYT)
 * skyleree 
 * SlEGHART (SlEGHART)
 * Sleigher (Gsleigh)
@@ -624,7 +634,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Striker180x (strikerl80x)
 * Sunset Safari (HeySunsetSafari)
 * SuperDog Tyler (superdog_tyler)
-* SweePee (RELLswee)
+* SweePee (SweePeeRBLX)
 * Só Por Causa (Est3vA0)
 * Tapparay (Tapparay)
 * TapWater (tapwat4r)
