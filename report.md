@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 22, 2022<br>
+Generated February 23, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 505,960 videos
-* Total videos found that match keywords: 35,038 videos
-  * Total unprocessed videos: 255 videos
-* Total videos found that are processed and marked: 3,517 videos 
-  * Information Collection: 2,368 videos
+* Total videos: 506,050 videos
+* Total videos found that match keywords: 35,054 videos
+  * Total unprocessed videos: 16 videos
+* Total videos found that are processed and marked: 3,503 videos 
+  * Information Collection: 2,354 videos
   * Non-Giftcard Robux Giveaways: 959 videos
   * Other: 155 videos
   * Phishing: 35 videos
@@ -417,6 +417,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Its SugarCoffee (SugarCoffee123)
 * ItsFunneh (Funnehcake)
 * ItsLimey (BamItsLimey)
+* ItzzMelisa (AGirl_ItzzMelisa)
 * J-Bug (J_Buggo)
 * Jake Globox (JakeGlobox)
 * Jake Pudding (JakeZPudding)
@@ -473,6 +474,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * locus (locus200k)
 * Lokis (lokis9340)
 * Lord (Lorrd_ofc)
+* Lovely Ela (LovelyEla98)
 * Luky (LukyBloxYT)
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
@@ -575,6 +577,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Rareyma (Ririluvs11)
 * Rax (RaxBLX)
 * RealMoby (MOBY3W)
+* Red Weeb (hashir109)
 * Reddzzyx (redbirdcool2007)
 * REDKILL (RedKill24YT)
 * RellGames (RELLvex)
@@ -4001,9 +4004,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Contains an ad for the information collection website makerobux.co.
       * Description references the data collection website makerobux.co.
       * URL: https://www.youtube.com/watch?v=N9wMf6vFq2c
-    * SOFRI ATAQUE HACKER POR CAUSA DA NOROK1 NO RO-GHOUL !! CUIDADO !!
-      * Description references the data collection website rblx.pro.
-      * URL: https://www.youtube.com/watch?v=OSOpOahE-eI
     * A NOVA KAGUNE DE 15 MILHÕES DE RC NO RO-GHOUL !! VOU PEGAR?
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=2EyKoWmZYnU
@@ -4048,9 +4048,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * VAZOU!! COMO PEGAR \*SPECIAL KEYCARD\* ( DO JETPACK ) NO MAD CITY !! -ROBLOX-
       * Description references the data collection website earnrobux.gg/online/zone/com.
       * URL: https://www.youtube.com/watch?v=jIWJMo3uDzo
-    * FAÇA ISSO E SEJA O MAIS RICO !! SERVIDOR VIP DE GRAÇA NO MAD CITY !! ROBLOX
-      * Description references the data collection website earnrobux.gg/online/zone/com.
-      * URL: https://www.youtube.com/watch?v=3iSH22CbcVo
     * ITENS DE GRAÇA NO ROBLOX QUE VOCÊ NÃO SABIA !! CONSIGA AGORA !!
       * Description references the data collection website bloxpoints.com.
       * URL: https://www.youtube.com/watch?v=cqZRVS_e59o
@@ -4132,9 +4129,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * PEGUEI LEVEL 2000 NO ZOMBIE ATTACK ROBLOX!! PET NOVO !
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=pxN6wWxWuX0
-    * ACABOU DE VEZ ?? PAREI COM HACK!!! (ROBLOX)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=9BerN0ms2Yg
     * COMO NUNCA MORRER NO ZOMBIE ATTACK !! (ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=Vzz0hZ_VamY
@@ -4211,9 +4205,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TROLLEI JEFFBLOX !! ENTREI NA CONTA DELE E TRANSFORMEI EM MENINA!!(ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=K_ras1bAJic
-    * MANDEI NUDS NO GRUPO !!! ROBLOX (TROLLAGEM)
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=o9wN-AAGnLs
     * FIZ HACKER NO GUEST 666 !! DESTRUÍ ELE ??(ROBLOX)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=5jhaKkVZpvc
@@ -6333,37 +6324,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website bloxmarket.com.
       * URL: https://www.youtube.com/watch?v=tbKapJPBUNY
 * ItsMatrix (MatrixPlaysRB)
-  * Information Collection
-    * Racing Is Finally Here! \*HUGE UPDATE\* (Roblox Ultimate Driving)
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=4ihekd29k4U
-    * The Biggest Chest I've Ever Seen in Pet Simulator.. \*omg\*
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=cC7nJLOO1dc
-    * We're Hunting Ghosts in Roblox!! \*EPIC NEW GAME\* (Ghost Hunting Simulator)
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=m1GB_G0oDv8
-    * \*OMG\* Custom Bey-Parts in Beyblade Rebirth! \[BEST UPDATE!\]
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=E7f54LayIDI
-    * This is The Coolest Simulator of 2018! \[Codes\] (Roblox Ninja Simulator 2)
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=w5xuqq5FPJ8
-    * Best Budget Drift Build! (Roblox Vehicle Simulator POOR to RICH Episode 5)
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=Ms_uLpvpEN8
-    * I Returned to YouTube! + Drifting Simulator News.
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=YRKwvRsNf7k
-    * Claiming HUGE Bounties As A Mercenary in Wanted! \*Roblox GTA5\*
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=OcuPtUNvwWE
-    * Best Exotic Super Car Under $1,000,000! (POOR to RICH Episode 4)
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=I2ef-FFW9qk
-    * Robbing The \*NEW\* Jewel Store, & Treasury in Roblox GTA 5! (Wanted: New Update)
-      * Description references the data collection website rbxfree.com.
-      * URL: https://www.youtube.com/watch?v=tKnirMp6jJk
   * Non-Giftcard Robux Giveaways
     * FULL THROTTLE RACING TOURNAMENT! \[SUBSCRIBERS WIN FREE ROBUX!\]
       * Uses group funds to giveaway Robux.
