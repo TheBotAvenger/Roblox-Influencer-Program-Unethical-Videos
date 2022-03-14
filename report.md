@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 13, 2022<br>
+Generated March 14, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 508,698 videos
-* Total videos found that match keywords: 35,308 videos
+* Total videos: 508,758 videos
+* Total videos found that match keywords: 35,310 videos
+  * Total unprocessed videos: 2 videos
 * Total videos found that are processed and marked: 3,504 videos 
   * Information Collection: 2,355 videos
   * Non-Giftcard Robux Giveaways: 959 videos
@@ -370,7 +371,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GamingwithVYT (GamingwithVYT)
 * GH0Ks (GHOKSZIN)
 * GhostInTheCosmos (GhostInTheCosmos)
-* GianBlox (yGiianBlox)
+* GianBlox (GiianBloxYT)
 * Godenot (godenot)
 * Godstatus (CallMeGodstatus)
 * GoingLimited (GoingLimited)
@@ -540,7 +541,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * oGVexx (LouDaREALGamer)
 * OMB Gaming (OMBgamingYT)
 * OmegaNova (NotOmegaNova)
-* Ominous Nebula (Ominousssssssss)
+* Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
 * Oscar (yeat_twizzy39)
 * OurFire Plays (ourfire and ChrisOurFire)
