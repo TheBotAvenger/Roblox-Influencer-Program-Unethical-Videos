@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 20, 2022<br>
+Generated March 21, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 508,781 videos
-* Total videos found that match keywords: 35,310 videos
-  * Total unprocessed videos: 13 videos
-* Total videos found that are processed and marked: 3,504 videos 
-  * Information Collection: 2,355 videos
+* Total videos: 508,948 videos
+* Total videos found that match keywords: 35,330 videos
+  * Total unprocessed videos: 32 videos
+* Total videos found that are processed and marked: 3,505 videos 
+  * Information Collection: 2,356 videos
   * Non-Giftcard Robux Giveaways: 959 videos
   * Other: 155 videos
   * Phishing: 35 videos
@@ -195,6 +195,7 @@ to the report if this happens.
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 3SB Games (cakemiix and ododahs)
 * 440HP (440HP)
+* Abbaok (Abbaok_YT)
 * AbsintoJ (AbsintoJYT)
 * Acenix (AcenixElMejorYoutube)
 * AEREN (AaronDRonin)
@@ -250,6 +251,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Buur (BuurmanTenus)
 * ByDerank (ByDerankOFI)
 * callmehhaley (callmehhaleyx)
+* Canal Cahcildis (cahcildis)
 * Captain Capi (CaptainCapii)
 * Captain Tate (CaptainTate21)
 * CaptainJackAttack (CaptainJackAttack101)
@@ -420,6 +422,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Its SugarCoffee (SugarCoffee123)
 * ItsFunneh (Funnehcake)
 * ItsLimey (BamItsLimey)
+* ItzSweaking (ItzSweaking)
 * ItzzMelisa (AGirl_ItzzMelisa)
 * J-Bug (J_Buggo)
 * Jake Globox (JakeGlobox)
@@ -512,7 +515,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Moody Unicorn Twin - Roblox (moodyunicorntwin)
 * Moonfallx (moonfallx)
 * MooseCraft Roblox (MooseCraftRoblox)
-* MR & MRS OKEH (Rbellomello)
 * Mr. Bunny (AlanConejito_7u7)
 * Mr\_Booshot (Mr\_Booshot)
 * MrLokazo86 (Lokazo86)
@@ -539,6 +541,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ObliviousHD (ObliviousHD)
 * officialnoobie (oofficialnoobie)
 * oGVexx (LouDaREALGamer)
+* OKEH SQUAD (Rbellomello)
 * OMB Gaming (OMBgamingYT)
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
@@ -549,6 +552,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PaintingRainbows (RainbowsYT)
 * palsitive / Signicial (palsitive)
 * PandazPlay (ComplexConniee and ComplexJason)
+* PandinhaGame (PandinhaGame)
 * Pankayz 
 * Papile (jupapile)
 * Paula Urbaez (PaulaUrbaez)
@@ -582,6 +586,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Rainster (RainsterYT)
 * Rareyma (Ririluvs11)
 * Rax (RaxBLX)
+* Razor (mprazor)
 * RealMoby (MOBY3W)
 * Rebootedpoppy (CryptedPoppy)
 * Red Weeb (hashir109)
@@ -670,6 +675,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ThunberGames (ThunberGames)
 * ThyEdgar (THYEDGAR_YT)
 * Tigre TV (TigreTVOver)
+* Tikida (Sanaaa8ans)
 * TinenQa (TinenQa1)
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
@@ -687,7 +693,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Twizzah 
 * Tx_cle (TxcIes)
 * Uncle Kizaru (Uncle_Kizaru)
-* unicorn_akeesha109 - Roblox (akeeshaaaaa)
+* unicorn_akeesha109 - Roblox (RENRWENN)
 * Unlimited (Unlimited_Resources)
 * V2 Plays (Miya7372 and toreject)
 * Valen Latina (Valen_Latina)
@@ -698,6 +704,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Volt (v0_1t)
 * Waike (JJ_Waike)
 * WikiaColors (WikiaColor_s)
+* Woozlo (Woozlo)
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
 * xEnesR (xEnesR)
@@ -719,6 +726,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ZOMG (PandaBoss3_0)
 * zOnwley (zOnwley)
 * ZULY (ItsZulyYT)
+* Zurielini (Zurix_500)
 * •Lavenderblossom• (OMG4LAV)
 
 ### Videos Found
@@ -11220,6 +11228,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * QUEBRANDO AS REGRAS DO ROBLOX - (Deu ruim?) 😂
       * Video is about breaking the rules using a second account.
       * URL: https://www.youtube.com/watch?v=8fbnc0KiCSc
+* Xonnek (Xonnek2)
+  * Information Collection
+    * Si Veo A Alguien Con Takis En Roblox El Video Termina...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=xve5Xr33DDI
 * YoSoyLoki (YoSoyLokiYT)
   * Other
     * MAMA CLAUS LOCA SE ENAMORA DE MI en BROOKHAVEN - Roblox YoSoyLoki
