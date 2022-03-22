@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 21, 2022<br>
+Generated March 22, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 508,948 videos
-* Total videos found that match keywords: 35,330 videos
-  * Total unprocessed videos: 32 videos
+* Total videos: 509,153 videos
+* Total videos found that match keywords: 35,339 videos
+  * Total unprocessed videos: 20 videos
 * Total videos found that are processed and marked: 3,505 videos 
   * Information Collection: 2,356 videos
   * Non-Giftcard Robux Giveaways: 959 videos
@@ -199,6 +199,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * AbsintoJ (AbsintoJYT)
 * Acenix (AcenixElMejorYoutube)
 * AEREN (AaronDRonin)
+* AidanGamerHD (AidanGamerHDXD)
 * Alex Crafted (HeyCrafted)
 * Aline Games (AliineGamesYT)
 * alixia 
@@ -266,6 +267,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cee\_berry (Cee\_berry)
 * Celestial Roblox (IM_Celestial)
 * Cerority (Cerority)
+* CHANNEL (fluttershy2015m)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
 * ChillzCx (ChillzCx)
@@ -504,6 +506,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MelzinhaMel Games (MelzinhaMelGames, Detona\_Anderson, and Princesa\_Alicinha)
 * Mia Games (MiaZaffyt)
 * MIANNN (MIANNNGAMER)
+* Miauzinha (MiauzinhaYT)
 * Michaels Mayhem 
 * MICHI RØBLØX (michineyley)
 * MicroGuardian (MicroGuardian)
