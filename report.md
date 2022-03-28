@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 27, 2022<br>
+Generated March 28, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 509,153 videos
-* Total videos found that match keywords: 35,339 videos
-  * Total unprocessed videos: 474 videos
+* Total videos: 509,211 videos
+* Total videos found that match keywords: 35,340 videos
+  * Total unprocessed videos: 475 videos
 * Total videos found that are processed and marked: 3,505 videos 
   * Information Collection: 2,356 videos
   * Non-Giftcard Robux Giveaways: 959 videos
@@ -250,7 +250,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BrittanyPlays (Britt_Blox)
 * Bubbles (bubblestoxic)
 * Buur (BuurmanTenus)
-* ByDerank (ByDerankOFI)
+* ByDerank (ByDerank_YT)
 * callmehhaley (callmehhaleyx)
 * Canal Cahcildis (cahcildis)
 * Captain Capi (CaptainCapii)
@@ -306,8 +306,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * deathvanessa (itsdeathvanessa)
 * DeeterPlays (DeeterPlays)
 * DeGoBooM (BumiReal)
+* Devo (Devovorya)
 * Devoun (DevounTV)
-* Devovo (Devovorya)
 * DigitizedPixels (DigitizedPixels)
 * Digopollo (DigoPollos)
 * Divine (vrcia)
@@ -696,7 +696,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Twizzah 
 * Tx_cle (TxcIes)
 * Uncle Kizaru (Uncle_Kizaru)
-* unicorn_akeesha109 - Roblox (RENRWENN)
+* unicorn_akeesha109 - Roblox (akeeshaaaaa)
 * Unlimited (Unlimited_Resources)
 * V2 Plays (Miya7372 and toreject)
 * Valen Latina (Valen_Latina)
