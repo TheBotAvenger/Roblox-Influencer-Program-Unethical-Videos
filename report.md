@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 3, 2022<br>
+Generated April 4, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,8 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 509,500 videos
-* Total videos found that match keywords: 35,415 videos
+* Total videos: 509,586 videos
+* Total videos found that match keywords: 35,419 videos
+  * Total unprocessed videos: 4 videos
 * Total videos found that are processed and marked: 3,505 videos 
   * Information Collection: 2,356 videos
   * Non-Giftcard Robux Giveaways: 959 videos
@@ -548,7 +549,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
-* Oscar (yeat_twizzy39)
+* Oscar (GamingFrogYT23)
 * OurFire Plays (ourfire and ChrisOurFire)
 * P0gMasterZ (P0gMasterZ)
 * PaintingRainbows (RainbowsYT)
@@ -578,6 +579,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PRIME FURIOUS - RaVeNeiD GaMiNG (Prime_Furious)
 * Princess Royale (IAmPrincessRoyale)
 * Princess Tori (ItsToriTimeYT)
+* Proder (Prod3r)
 * ProSidu (prosiduzao)
 * Proton Plays Roblox (Prxtonn)
 * PurxpleRblx (purxpllee)
@@ -628,6 +630,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Shaylo (YTshaylo)
 * Silent Playz (RandomYoutuber0202)
 * SimplySpring 
+* Sircheko (Sircheko_yt)
 * SkippyPlays (SkippyPIaysYT)
 * skyleree 
 * SlEGHART (SlEGHART)
@@ -712,6 +715,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * xEnesR (xEnesR)
 * XenoTy (xXenoTy)
 * XericPlayz (XericPlayz)
+* xiaoleung (xiaoleung)
 * Xou (xouzin7)
 * Xpie (Xpie101gamer)
 * Yammy (yammyxox)
@@ -9413,7 +9417,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 1,000 ROBUX MAKEOVER || (Fan Surprise!)
       * Offers to give Robux in exchange for a username and password.
       * URL: https://www.youtube.com/watch?v=95TVy5Udq9o
-* SimplyCoco (Ayzvure)
+* SimplyCoco (VURRRE)
   * Non-Giftcard Robux Giveaways
     * RATING MY FANS SINGING!! + 1K ROBUX GIVEAWAY WINNER‼️ || SimplyCoco
       * Uses group funds to giveaway Robux.
