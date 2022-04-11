@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 10, 2022<br>
+Generated April 11, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -260,7 +260,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Carakuchi 
 * Carbon Meister Plays (CarbonMeister)
 * Cari - Roblox (Carihyper)
-* Carol TV (caaroltv)
+* Carol TV (Bialindaamoela)
 * CatFer (SoyCatFer)
 * CATYPINK PLAY (catypink15)
 * cazum8 (cazum8)
@@ -270,7 +270,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * CHANNEL 
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
-* ChillzCx (ChillzCx)
+* Chillz (ChillzCx)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Chrisu Gaming (ChristsuYT)
@@ -700,9 +700,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Twizzah 
 * Tx_cle (TxcIes)
 * Uncle Kizaru (Uncle_Kizaru)
-* unicorn_akeesha109 - Roblox (akeeshaaaaa)
+* unicorn_akeesha109 - Roblox (hezedevour)
 * Unlimited (Unlimited_Resources)
-* V2 Plays (Miya7372 and toreject)
+* V2 Plays (MinniiHxpe and toreject)
 * Valen Latina (Valen_Latina)
 * VarietyJay (VarietyJay_Real)
 * View (ViewYT)
@@ -9419,7 +9419,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 1,000 ROBUX MAKEOVER || (Fan Surprise!)
       * Offers to give Robux in exchange for a username and password.
       * URL: https://www.youtube.com/watch?v=95TVy5Udq9o
-* SimplyCoco (VURRRE)
+* SimplyCoco (VURINTA)
   * Non-Giftcard Robux Giveaways
     * RATING MY FANS SINGING!! + 1K ROBUX GIVEAWAY WINNER‼️ || SimplyCoco
       * Uses group funds to giveaway Robux.
