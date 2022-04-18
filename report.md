@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 17, 2022<br>
+Generated April 18, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 509,582 videos
-* Total videos found that match keywords: 35,480 videos
-  * Total unprocessed videos: 40 videos
+* Total videos: 509,650 videos
+* Total videos found that match keywords: 35,513 videos
+  * Total unprocessed videos: 73 videos
 * Total videos found that are processed and marked: 3,505 videos 
   * Information Collection: 2,356 videos
   * Non-Giftcard Robux Giveaways: 959 videos
@@ -250,6 +250,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BrittanyPlays (Britt_Blox)
 * Bubbles (bubblestoxic)
 * Buur (BuurmanTenus)
+* BV0J (BV0J)
 * ByDerank (ByDerank_YT)
 * callmehhaley (callmehhaleyx)
 * Canal Cahcildis (cahcildis)
@@ -260,7 +261,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Carakuchi 
 * Carbon Meister Plays (CarbonMeister)
 * Cari - Roblox (Carihyper)
-* Carol TV (Bialindaamoela)
+* Carol TV (caaroltv)
 * CatFer (SoyCatFer)
 * CATYPINK PLAY (catypink15)
 * cazum8 (cazum8)
@@ -270,9 +271,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * CHANNEL 
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
-* Chillz (ChillzCx)
+* Chillz (ChillzSubZero)
 * Chocoblox (Chocoblox_93)
+* ChosenOne (DigitoPlaysThis)
 * Chrisandthemike (chrisatm)
+* Christocream (Christocream)
 * Chrisu Gaming (ChristsuYT)
 * Chyna Gaming (Iamchynagaming)
 * cKev (cKevvv)
@@ -343,6 +346,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Fanaticalight (Fanaticalight)
 * FancySmash (RealFancySmash)
 * Febatista 
+* fer999 (F3R4p0w3rr)
 * Fera (Fera0ficial)
 * FGTeeV (FGTeeV and DrizzMcNizz)
 * Fini Juega (FiniJuega)
@@ -393,6 +397,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * haramics (haramics)
 * Heorua (Heorua)
 * HeyDavi (DAVIPLAY_14)
+* heyhana (heyh4na)
 * HeyItsJames (NotJamesRBLX)
 * HeyRosalina (HeyRosalina)
 * Honey The Unicorn - Roblox 
@@ -483,6 +488,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * locus (locus200k)
 * Lokis (lokis9340)
 * Lord (Lorrd_ofc)
+* LordMetalizer (MetalizerRBX)
 * Lovely Ela (LovelyEla98)
 * Luky (LukyBloxYT)
 * LunaBlox (Luna4Dangelis and DeiakZ)
@@ -550,7 +556,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
-* Oscar (GamingFrogYT23)
+* Oscar (VanillaOreoCat)
 * OurFire Plays (ourfire and ChrisOurFire)
 * P0gMasterZ (P0gMasterZ)
 * PaintingRainbows (RainbowsYT)
@@ -560,7 +566,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Pankayz 
 * Papile (jupapile)
 * Paula Urbaez (PaulaUrbaez)
-* Paulinho e Toquinho Games (PFlavio1)
+* Paulinho e Toquinho (PFlavio1)
 * PedroLetsPlay (pedroletsplayroblox)
 * Peepguy (peepguyx)
 * PeetahBread (PeetahBread)
@@ -590,7 +596,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RadioJH Games (audreyradio)
 * Rainster (RainsterYT)
 * Rareyma (Ririluvs11)
-* Rax (RaxBLX)
+* Rax (NoSoyRaxd)
 * Razor (mprazor)
 * RealMoby (MOBY3W)
 * Rebootedpoppy (CryptedPoppy)
@@ -671,7 +677,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * The Star Squad Gaming (StarSquadMolly)
 * The_Snatchers (carakuchi)
 * TheAtlanticCraft 
-* TheDigitGames (DigitoPlaysThis)
 * TheEvilShark (StarCode_Animal)
 * TheGreatACE (TheGreatAced)
 * Thinknoodles (ImNotThinknoodles)
@@ -700,7 +705,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Twizzah 
 * Tx_cle (TxcIes)
 * Uncle Kizaru (Uncle_Kizaru)
-* unicorn_akeesha109 - Roblox (hezedevour)
+* unicorn_akeesha109 - Roblox (STARCODEAKEESHA)
 * Unlimited (Unlimited_Resources)
 * V2 Plays (MinniiHxpe and toreject)
 * Valen Latina (Valen_Latina)
@@ -727,6 +732,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * yTowakGb (yTowakGb)
 * Z00LD 
 * ZaiLetsPlay (YT_ZaiLetsPlay)
+* Zaze Blox (zazebloxx)
 * Zepyxl (Zepyxl)
 * Zerophyx (Zerophyx)
 * Zilgon (Zilgon)
@@ -9419,7 +9425,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 1,000 ROBUX MAKEOVER || (Fan Surprise!)
       * Offers to give Robux in exchange for a username and password.
       * URL: https://www.youtube.com/watch?v=95TVy5Udq9o
-* SimplyCoco (VURINTA)
+* SimplyCoco (nakixov)
   * Non-Giftcard Robux Giveaways
     * RATING MY FANS SINGING!! + 1K ROBUX GIVEAWAY WINNER‼️ || SimplyCoco
       * Uses group funds to giveaway Robux.
