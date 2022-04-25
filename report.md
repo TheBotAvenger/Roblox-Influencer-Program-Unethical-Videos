@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 24, 2022<br>
+Generated April 25, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 511,839 videos
-* Total videos found that match keywords: 35,550 videos
-  * Total unprocessed videos: 41 videos
+* Total videos: 511,899 videos
+* Total videos found that match keywords: 35,585 videos
+  * Total unprocessed videos: 76 videos
 * Total videos found that are processed and marked: 3,505 videos 
   * Information Collection: 2,356 videos
   * Non-Giftcard Robux Giveaways: 959 videos
@@ -348,7 +348,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Fanaticalight (Fanaticalight)
 * FancySmash (RealFancySmash)
 * Febatista 
-* fer999 (F3R4p0w3rr)
+* fer999 (StarCode_fer)
 * Fera (Fera0ficial)
 * FGTeeV (FGTeeV and DrizzMcNizz)
 * Fini Juega (FiniJuega)
@@ -614,6 +614,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * roblox az (aaronjwp)
 * ROBLOXMuff (UseCode_ROBLOXMuff)
 * Robotz (R_obotz)
+* Robrox (IchBinBrox)
 * Robstix (Robstix)
 * Roof (RoofOmnis)
 * Roplex Gaming 
@@ -716,6 +717,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * VarietyJay (VarietyJay_Real)
 * View (ViewYT)
 * VikingPrincessJazmin (VikingPrincessJazmin)
+* Vitamine (VitamineRoblox)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * Volt (v0_1t)
 * Waike (JJ_Waike)
