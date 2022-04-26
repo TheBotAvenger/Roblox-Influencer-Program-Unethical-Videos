@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 25, 2022<br>
+Generated April 26, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 511,899 videos
-* Total videos found that match keywords: 35,585 videos
-  * Total unprocessed videos: 76 videos
-* Total videos found that are processed and marked: 3,505 videos 
-  * Information Collection: 2,356 videos
+* Total videos: 512,980 videos
+* Total videos found that match keywords: 35,746 videos
+  * Total unprocessed videos: 159 videos
+* Total videos found that are processed and marked: 3,507 videos 
+  * Information Collection: 2,358 videos
   * Non-Giftcard Robux Giveaways: 959 videos
   * Other: 155 videos
   * Phishing: 35 videos
@@ -726,7 +726,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
 * xEnesR (xEnesR)
-* XenoTy (xXenoTy)
 * XericPlayz (XericPlayz)
 * xiaoleung (xiaoleung)
 * Xou (xouzin7)
@@ -11070,6 +11069,14 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HACKING A FANS ROBLOX ACCOUNT! (Free Robux & Builders Club)
       * Offers to give Robux in exchange for a username and password via direct messages on Instagram.
       * URL: https://www.youtube.com/watch?v=2odplgBeGh8
+* XenoTy (xXenoTy)
+  * Information Collection
+    * I Became A GOD In 2022 NEWEST Roblox Anime Game!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=z7y1UYxavC0
+    * \*MAX\* Raion Gaiden Sengoku Bloodline FULL SHOWCASE! Shindo Life | Rellgames
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=8xQiI7FEnjc
 * xMarcelo (xMarcelo)
   * Information Collection
     * 😱 PRÓXIMOS EVENTOS!! E POSSÍVEIS EVENTOS PATROCINADOS do ROBLOX 😍🎉
