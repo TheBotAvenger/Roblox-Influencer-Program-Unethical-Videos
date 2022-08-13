@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 12, 2022<br>
+Generated August 13, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 536,939 videos
 * Total videos found that match keywords: 38,130 videos
-  * Total unprocessed videos: 334 videos
-* Total videos found that are processed and marked: 3,394 videos 
+  * Total unprocessed videos: 237 videos
+* Total videos found that are processed and marked: 3,395 videos 
   * Information Collection: 2,244 videos
-  * Non-Giftcard Robux Giveaways: 959 videos
+  * Non-Giftcard Robux Giveaways: 960 videos
   * Other: 154 videos
   * Phishing: 37 videos
 
@@ -291,7 +291,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cleanse Beam (CleanseBeam)
 * CLIP 2 BIT (Clip2bitYT)
 * Collins Kosuke 
-* Complex Roblox (IamComplexRoblox)
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutterYT)
 * corny (co_rny)
@@ -1025,6 +1024,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Giving A Fan A 5,000 ROBUX MAKEOVER! | ROBLOX
       * Offers to give Robux in exchange for a username and password over Discord.
       * URL: https://www.youtube.com/watch?v=g49cxhhSGkc
+* Complex Roblox (IamComplexRoblox)
+  * Non-Giftcard Robux Giveaways
+    * 10k ROBUX GIVEAWAY!? 🤩😍✨
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=hLU4V3Q_MR0
 * Cylito 
   * Non-Giftcard Robux Giveaways
     * Bloxburg: Victorian Roleplay House 62K
