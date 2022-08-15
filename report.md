@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 14, 2022<br>
+Generated August 15, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -399,7 +399,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * grace k (yt_graceek)
 * Gravycatman (GrumpyGravy)
 * GroovyDominoes52 (GroovyDominoes52)
-* Gunslaya (STARCODEE_GUN)
+* Gunslaya (iGunslaya)
 * Hagazo 
 * HandN (xHandNx)
 * hannnahlovescows (hannnahlovescows)
