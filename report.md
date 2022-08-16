@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 15, 2022<br>
+Generated August 16, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 536,939 videos
-* Total videos found that match keywords: 38,130 videos
-  * Total unprocessed videos: 237 videos
-* Total videos found that are processed and marked: 3,395 videos 
+* Total videos: 538,294 videos
+* Total videos found that match keywords: 38,191 videos
+  * Total unprocessed videos: 295 videos
+* Total videos found that are processed and marked: 3,398 videos 
   * Information Collection: 2,244 videos
   * Non-Giftcard Robux Giveaways: 960 videos
-  * Other: 154 videos
+  * Other: 157 videos
   * Phishing: 37 videos
 
 ### No Videos Found
@@ -4818,6 +4818,15 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=Nda5CJd2LwQ
 * flashii (flashiilindo)
   * Other
+    * Fiz a missão secreta pra despertar a gomu gomu no mi no king piece 🌞
+      * Description references the "black market for limiteds and Robux" ro.place.
+      * URL: https://www.youtube.com/watch?v=URsJN2iNJpk
+    * Fui do nível 0 ao 3400 no king piece em 20 horas (level máximo)
+      * Description references the "black market for limiteds and Robux" ro.place.
+      * URL: https://www.youtube.com/watch?v=9FXK8iKEFP4
+    * Testei a sorte dos meus amigos no blox fruits dnv kkkkkkkkjjj
+      * Description references the "black market for limiteds and Robux" ro.place.
+      * URL: https://www.youtube.com/watch?v=MH4xtr1zp5E
     * Pegando muita fruta no grand piece fazendo isso 🗿🍷
       * Description references the "black market for limiteds and Robux" ro.place.
       * URL: https://www.youtube.com/watch?v=_wsORn_KNfQ
