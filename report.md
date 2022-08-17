@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 16, 2022<br>
+Generated August 17, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,8 @@ to the report if this happens.
 * Total videos: 538,294 videos
 * Total videos found that match keywords: 38,191 videos
   * Total unprocessed videos: 295 videos
-* Total videos found that are processed and marked: 3,398 videos 
-  * Information Collection: 2,244 videos
+* Total videos found that are processed and marked: 3,397 videos 
+  * Information Collection: 2,243 videos
   * Non-Giftcard Robux Giveaways: 960 videos
   * Other: 157 videos
   * Phishing: 37 videos
@@ -8653,9 +8653,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NOOB vs PRO vs ROBUX SPENDER | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=z3-Yx2NYeLU
-    * BUYING THE INFINITE PET GAMEPASS IN PET SIMULATOR (40k ROBUX) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=l9dfsynl1U0
     * HOW TO GET 2 BILLION COINS WITH 1 CHEST | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=bugUjvH9kq4
