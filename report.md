@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 22, 2022<br>
+Generated September 1, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 538,294 videos
-* Total videos found that match keywords: 38,191 videos
-  * Total unprocessed videos: 295 videos
-* Total videos found that are processed and marked: 3,397 videos 
-  * Information Collection: 2,243 videos
+* Total videos: 617,381 videos
+* Total videos found that match keywords: 43,234 videos
+  * Total unprocessed videos: 5,080 videos
+* Total videos found that are processed and marked: 3,486 videos 
+  * Information Collection: 2,343 videos
   * Non-Giftcard Robux Giveaways: 960 videos
-  * Other: 157 videos
+  * Other: 146 videos
   * Phishing: 37 videos
 
 ### No Videos Found
@@ -212,7 +212,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Andre Nicholas (andrhevn21)
 * Angelazz (Angelazz)
 * AnielicA (ANIELICA01)
-* Anix (iamAnix)
+* Anix (iam2nix)
 * Ant Antixx (Ant_Antixx)
 * ApplyingTM (ApplyingTM)
 * Argo Play (YT_Argo)
@@ -335,7 +335,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
 * El Magnum (MagnumStormus)
-* elDanielGT (DanielGTReal)
 * Elemental (FakeE1emental)
 * ElemperadormaxiYT (EmperadorMaxiOFICIAL)
 * Elite (E1ite_E)
@@ -346,7 +345,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Estela (Estelacoutin)
 * EthanGamer (EthanGamerTV)
 * ethanolodj (ethanolodj)
-* Etheral 
 * Euri Wings (EuriWings)
 * Evanbear1 (Evanbear1)
 * EYYCHEEV (EYYCHEEV)
@@ -363,6 +361,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FishyBlox (FishyBloxYT)
 * FlameRBX (SnowRBX_Youtube)
 * Flamingo (mrflimflam)
+* flashii (flashiilindo)
 * Flebsy (Flebsy)
 * Flxral (xoFlxral)
 * FlyBorg (KaykBlox)
@@ -471,7 +470,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Juicy John (Majojocl)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
 * Junell Dominic (Junewuuu)
-* JunRoots (appleandcakejuice)
+* JunRoots (cheeseandcakejuice)
 * jvnq (jvnqYT)
 * Karim Juega (karimjuega)
 * Kawaii Kunicorn Shorts (kawaii_kunicorn)
@@ -524,7 +523,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mahadinoor Playz (MahadiNr)
 * Maislie (Maislie)
 * MakotoUchiha (MakotoYoutube)
-* MamyBlox (xMamys)
 * Mandinha Game (iii_Amandinha)
 * Manucraft (ManucraftYT)
 * MaRcDoGy (ImperiaIDoom)
@@ -532,7 +530,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mary - Frozencrystal 
 * Matsbxb (MATSbxb)
 * mayrushart (mayrushart)
-* MedTw (MedTwYT)
 * MeganPlays (TheMeganPlays)
 * MelzinhaMel Games (MelzinhaMelGames, Detona\_Anderson, and Princesa\_Alicinha)
 * Mia Games (MiaZaffyt)
@@ -626,7 +623,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RealMoby (MOBY3W)
 * Rebootedpoppy (CryptedPoppy)
 * Red Ninja (STARC0DE_RedNinja)
-* Red Weeb (hashir109)
 * Reddzzyx (redbirdcool2007)
 * REDKILL (RED_YTBE)
 * RELLGames (RELLvex)
@@ -634,7 +630,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RiusPlay (RiusPlayYTYTYT)
 * Robin Hood Gamer (RobinHoodGamer10)
 * roblox az (aaronjwp)
-* ROBLOXMuff (intervin)
+* ROBLOXMuff (Muffinzs)
 * Robotz (R_obotz)
 * Robrox (IchBinBrox)
 * Robstix (Robstix)
@@ -760,7 +756,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * xEnesR (xEnesR)
 * XericPlayz (XericPlayz)
 * xiaoleung (xiaoleung)
-* Xou (xouzin7)
 * Xpie (Xpie101gamer)
 * Yafrima (cortesgo)
 * Yammy (yammyxox)
@@ -4059,6 +4054,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Teleporting Simulator! (FUCK FUCK FUCK)
       * Video, title, and description contain the "F word" 8 times.
       * URL: https://www.youtube.com/watch?v=rh_sr6rEWWI
+* elDanielGT (DanielGTReal)
+  * Information Collection
+    * Como conseguir ROBUX GRATIS - Pruebas
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=upMjqh7J27I
 * EmpireBlox (EmpireBloxOficial)
   * Information Collection
     * CAMPING 2!! COMO SOBREVIVER SEM PRECISAR CHEGAR ATÉ O FINAL ?! É POSSÍVEL?
@@ -4816,41 +4816,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Consiga ROBUX GRÁTIS Dessa Maneira - SORTEIO 2000 Robux
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=Nda5CJd2LwQ
-* flashii (flashiilindo)
-  * Other
-    * Fiz a missão secreta pra despertar a gomu gomu no mi no king piece 🌞
-      * Description references the "black market for limiteds and Robux" ro.place.
-      * URL: https://www.youtube.com/watch?v=URsJN2iNJpk
-    * Fui do nível 0 ao 3400 no king piece em 20 horas (level máximo)
-      * Description references the "black market for limiteds and Robux" ro.place.
-      * URL: https://www.youtube.com/watch?v=9FXK8iKEFP4
-    * Testei a sorte dos meus amigos no blox fruits dnv kkkkkkkkjjj
-      * Description references the "black market for limiteds and Robux" ro.place.
-      * URL: https://www.youtube.com/watch?v=MH4xtr1zp5E
-    * Pegando muita fruta no grand piece fazendo isso 🗿🍷
-      * Description references the "black market for limiteds and Robux" ro.place.
-      * URL: https://www.youtube.com/watch?v=_wsORn_KNfQ
-    * O gpo ficou de graça e se pah vou ser banido por conseguir essas frutas assim kkkkkkkkjjj
-      * Description references the "black market for limiteds and Robux" ro.place.
-      * URL: https://www.youtube.com/watch?v=Lic9xHX-dd8
-    * O luffy biruta gear 5 nika chegou e eu gastei dinheiro atoa kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjj
-      * Description references the "black market for limiteds and Robux" ro.place.
-      * URL: https://www.youtube.com/watch?v=sXgQNxocjN0
-    * Cada boss é uma fruta aleatória no king piece porem se a gente morrer o vídeo vai acabar kkkkkkjjj
-      * Description references the "black market for limiteds and Robux" ro.place.
-      * URL: https://www.youtube.com/watch?v=fx2nKOPc09o
-    * Minha namorada comeu minha Bundha no blox fruits
-      * Description references the "black market for limiteds and Robux" ro.place.
-      * URL: https://www.youtube.com/watch?v=D0zZm46shxE
-    * Testei a sorte dos meus amigos no blox fruits kkkkkjj
-      * Description references the "black market for limiteds and Robux" ro.place.
-      * URL: https://www.youtube.com/watch?v=7RVCH9uQhjg
-    * Dei essa fruta pra minha namorada no blox fruits 😳
-      * Description references the "black market for limiteds and Robux" ro.place.
-      * URL: https://www.youtube.com/watch?v=Avbna2vudMk
-    * CADA BOSS É UMA FRUTA ALEATÓRIA NO KING PIECE POREM SE EU E MINHA NAMORADA MORRER O VIDEO VAI ACABAR
-      * Description references the "black market for limiteds and Robux" ro.place.
-      * URL: https://www.youtube.com/watch?v=NDUsXMk9i7o
 * FunkySquadHD (UseCode_Funky)
   * Information Collection
     * Rthro On Pet Simulator! Roblox
@@ -7185,6 +7150,23 @@ The following channels had nothing appear with manual searching. Videos may exis
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
+* MamyBlox (xMamys)
+  * Information Collection
+    * A FEIA REJEITADA FEZ CIRURGIA PLÁSTICA PRA FICAR BONITA - HISTORINHA DE BROOKHAVEN RP ROBLOX 🏡
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=VIu5TaX_f3Q
+    * DESCOBRI QUE O DONO DO ROUND 6 É MEU PAI - HISTORINHA SQUID GAME BROOKHAVEN RP ROBLOX 🏡
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=UIc_-sWYXiE
+    * A PRINCESA FOI PROIBIDA DE NAMORAR UM MANDRAKE - HISTORINHA DE BROOKHAVEN RP ROBLOX 🏡
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=rTS8EnxZ9Lk
+    * DESCOBRI QUE MINHA VERDADEIRA MÃE É DONA DO ROUND 6 SQUID GAME - BROOKHAVEN RP ROBLOX 🏡
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=kXjMZCZhQLE
+    * ELA COLAVA NA PROVA PARA SER A PREFERIDA DA PROFESSORA - HISTORINHA DE BROOKHAVEN RP ROBLOX 🏡
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=mR-TtGAKKnw
 * MathFacter360 (MathFacter360)
   * Non-Giftcard Robux Giveaways
     * complete my CASTLE OBBY and WIN 5,000 ROBUX!!! (Roblox)
@@ -7223,6 +7205,32 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FIRST PERSON TO BEAT MY CHALLENGE MAP WINS 1,000 ROBUX!!! | Flood Escape 2 on Roblox \#63
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=JSuVk5xVn-E
+* MedTw (MedTwYT)
+  * Information Collection
+    * QUAL É O MELHOR ?? ALL MIGHT VS DEKU 100% NO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=bODxx6zpC90
+    * \*incrível\* ITACHI UCHIHA NO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=lq3LDIvoeCo
+    * NOVIDADES SOBRE A GRANDE ATUALIZAÇÃO DO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=KgQamhdBf24
+    * SÓ PODE PERSONAGEM DE 2 ESTRELAS NO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=YGazkDeonq4
+    * QUAL É O MELHOR ?? ACE VS BROLY NO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=uwiDa5L1c08
+    * \*bug\* TROPAS NA ZONA VERMELHA NO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=8ZUAFN90a0c
+    * SÓ PODE EXP I, EXP II, EXP III NO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=z-MGoeltfmA
+    * TESTEI UM SUPOSTO BUG PARA GANHAR MEGA RARO NO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=oCYOK0XYc2o
 * MIKEYDOOD (IMMIKEYDOOD)
   * Phishing
     * HACKING MY VIEWER AND SPENDING ALL OF HIS ROBUX!!!
@@ -8742,6 +8750,159 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=6R9FU4PWvyY
 * Plique Games (PliqueYT)
   * Information Collection
+    * GASTANDO ROBUX NA NOVA MÁQUINA E O INESPERADO ACONTECEU... ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=buGFqSvK7MQ
+    * GASTEI 15.000 ROBUX NA MÁQUINA DE DUPLICAR NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=KVjcCTASdZY
+    * GASTANDO POÇÃO SHINY E VEIO ISSO... NO MUNDO DA ATUALIZAÇÃO VERÃO NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=TAiTYCRyzJs
+    * PEGUEI PASSIVA "LOADING" NA ATUALIZAÇÃO DE VERÃO NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=SSt3pqgmjJA
+    * ENTÃO ESSE É O NOVO MYTHICAL META DO ANIME ADVENTURES?! (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=0xbEr27RmK4
+    * COMPREI O ITEM SECRETO QUE EU PRECISAVA NA BULMA ANIME ADVENTURES (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=D-PpsmGRjbA
+    * PRIMEIRA MONTARIA NO ANIME FIGHTERS DIFERENCIADO - ANIME HEROES SIMULATOR (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=ZpU0pyx2XNo
+    * ZERANDO O MUNDO DA ATUALIZAÇÃO DE TOKYO GHOUL NO ANIME ADVENTURES (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=9eJ6rGQ7LmE
+    * EM BUSCA DA NOVA PASSIVA SECRETA NO MELHOR DIVINO DO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=uCq1bZfkNEk
+    * FIZ A NOVA DIVINA LIMIT BREAKER NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=8KwFEzcrrlA
+    * PEGUEI O MELHOR PERSONAGEM PARA MODO HISTÓRIA NO ANIME ADVENTURES (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=snpyykbR1X4
+    * MAIS DIVINO COM MENOS LUCK NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=siL3SJiQas8
+    * O NOOB GASTANDO ROBUX NO ANIME ADVENTURES PARA FICAR FORTE (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=N1jiny5ON78
+    * usei a POÇÃO SHINY no mundo da ATUALIZAÇÃO DO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=_QTY78zbFhY
+    * NEM TUDO É O QUE PARECE NA ATUALIZAÇÃO DO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=04AgWq1A3fY
+    * ERA PARA NÃO TER NADA, MAS... ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=76r6WZuX_yw
+    * NOVO DIVINO DA ATUALIZAÇÃO MUITO MAIS FORTE QUE O LIMITADO NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=JV_jd38oO80
+    * ATUALIZAÇÃO SOUL EATER, ARTEFATOS, NOVO DIVINO, EVENTO OP E MAIS! ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=odL1JA8VuHw
+    * NUNCA FIQUEI FELIZ GASTANDO ROBUX NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=ORwMCvJazvQ
+    * FUI FAZER A PARTE CHATA E TIVE MUITA SORTE NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=U6X0JhXXoM8
+    * CONTINUE A NADAR,NADAR,NADAR... ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=cypm2cet7P0
+    * QUEM DISSE QUE SUPORTE NÃO DA DANO... ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=oeQjKyve8hA
+    * NUNCA VEIO TANTA PASSIVA MYTHICAL NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=1FIo_xowZ54
+    * O QUE ACONTECEU PET SIMULATOR X...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=AD1AelHJH9M
+    * PASSIVA PERF... ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=oBXozM4v0LM
+    * ESSE EVENTO... E NUNCA VI TANTAS PASSIVA SECRETA NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=c0OBwSmwVgc
+    * SE NÃO VIR DROP BOM EU SOU UM CABO HDMI - ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=m0cz6o8A-ng
+    * ESSE SIMULATOR DE MINIONS FICOU MUITO FAMOSO - MINION SIMULATOR (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=vLrqfm23xww
+    * ENTÃO, ESSE VAI SER O MELHOR SUPORTE DO MEU TIME NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=tG0BS6ig0SU
+    * O VERDADEIRO SIGNIFICADO DE TANTO FAZ NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=u4u3CPqKGbk
+    * CONTA "NOOB" SOLANDO DUNGEON NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=GVMbsGjYg8A
+    * SORTE NO AZAR É O QUE DIZEM... ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=q4tbc0vhdag
+    * VOLTEI NESSE SIMULATOR DEPOIS DE MESES NO CLICKER SIMUALATOR (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=sCa81aBR1hQ
+    * OBRIGADO ATUALIZAÇÃO ANIME FIGHTERS 20X MAIS FORTE! (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=Dserx_Bm0r4
+    * FUI BRINCAR DE PEGAR PASSIVA NO ANIME FIGHTERS E....
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=GpQ0jciCLFI
+    * FIZ O MELHOR COMBO NO NOVO TOWER DEFENSE DE ANIME - ANIME ADVENTURES (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=O74Xyj7tiR8
+    * FUI USAR POÇÃO SHINY NA ATUALIZAÇÃO DO ANIME FIGHTERS...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=Xkn3YBWlZgE
+    * A DUNGEON DA ATUALIZAÇÃO ESTÁ MUITO OP E EU POSSO PROVAR NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=nWXxoY6LwQA
+    * ATUALIZAÇÃO OVERLORD, NOVA PASSIVA, NOVO META ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=Mab1dQpu5kk
+    * PEGUEI A NOVA PASSIVA MYTHICAL MAIS ROUBADA DO ANIME FIGHTERS NO DIVINO (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=TYa775GRPAk
+    * FAZER ISSO NA ATUALIZAÇÃO ESTÁ MUITO OP! ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=xRLYvHdwm-0
+    * O NOOB GASTOU ROBUX E CONSEGUIU A MELHOR ESPADA NO SLAYER SIMULATOR (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=lZXvHHgzebs
+    * O NOOB FRACO QUE FICOU OVERPOWER E PRO NO NEM FIGHTING SIMULATOR (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=aFVhWXgrK-k
+    * USEI 400 SHARDS NO DIVINO KAIDO E ESSAS PASSIVAS MYTHICAL VEIO NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=_EFm8pNRBHM
+    * O NOOB QUE FICOU PRO E OVERPOWER NO SIMULATOR SLAYER SIMULATOR
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=3UFMkXTEg8Y
+    * ESSA PASSIVA MYTHICAL É BOA MESMO HEIN! ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=Z_Y1h3q9IYk
+    * SATISFATÓRIO! DUNGEON NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=ncK7zuKP9ds
+    * PEGUEI SOLID GOLD NO SECRETO COM PASSIVA SECRETA MONSTER NO ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=ab2_FC6vTBI
+    * ESSE EVENTO DA ATUALIZAÇÃO FOI... ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=S2_RGnh1z30
+    * VOCÊ SE GARANTE NA SORTE? EU NÃO! ANIME FIGHTERS (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=k8dPuANPk6Q
+    * É SÉRIO QUE EU GASTEI ROBUX, PARA ISSO? ANIME FIGHTERS... (ROBLOX)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=x4uqn191yWQ
     * FIZ DEFENSE POR HORAS E ESSA ESTRATÉGIA NO NOVO SECRETO DO ANIME FIGHTERS (ROBLOX)
       * Description references the data collection website rbxgum.com.
       * URL: https://www.youtube.com/watch?v=71nY-LMUKXI
@@ -9128,6 +9289,53 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * 10,000 ROBUX GIVEAWAY CONTEST! WATCH TO FIND OUT HOW TO WIN! Robux Giveaway In Roblox
       * URL: https://www.youtube.com/watch?v=HqTKlVCJDFs
+* Red Weeb (hashir109)
+  * Information Collection
+    * CODE] ALL NEW 5 \*SECRETCODES\* SECRET CODES in SHINDO LIFE (Shindo Life Codes)ROBLOX Shindo life
+      * Description references the data collection website collectrobux.com.
+      * URL: https://www.youtube.com/watch?v=PYsDP-_TVAA
+    * \[CODE\] I BECAME \*MOMOSHIKI OTSUTSUKI\* IN SHINDO LIFE! | Roblox Shindo Life |Shindo Life Codes
+      * Description references the data collection website collectrobux.com.
+      * URL: https://www.youtube.com/watch?v=_1kYytRJTeI
+    * \[CODE\] ALL NEW 4 \*SECRET CODES\* FREE SPINS in SHINDO LIFE (Shindo Life Codes) Shindo life Rellgames
+      * Description references the data collection website collectrobux.com.
+      * URL: https://www.youtube.com/watch?v=lHU6WCPuGrs
+    * \[820k CODE\] All New Codes For \*NEW SPINS\* Working Codes In Shindo Life | Shindo Life Codes
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=3Ml57L-II44
+    * \[CODE\] AKUMA MASSIVE BUFF + REMASTERED | Shindo Life Update 40.0 Showcase | Shindo Life Codes
+      * Description references the data collection website collectrobux.com.
+      * URL: https://www.youtube.com/watch?v=3v6ahsNd140
+    * \[CODE\] All New Codes For \*UPDATE\* Working Codes In Shindo Life Rellgames | Shindo Life Codes
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=O_6e2xOkaIo
+    * How To Level Up Tailed Spirits In (10 MINS) Shindo life New Glitch Before It Gets PATCHED! Rellgames
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=u4nLxKqH0YM
+    * NEW \[BLOODLINE\] TIER LIST | RANKING EVERY GENKAI | Shindo Life Roblox | Shindo Life Codes
+      * Description references the data collection website collectrobux.com.
+      * URL: https://www.youtube.com/watch?v=gc2SUNRsp3g
+    * \[CODE\] HOW TO GET CUSTOM EYES IN SHINDO LIFE!!! | Roblox Shindo Life Shindo Life | Shindo Life Codes
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=lXBEWg9mNPI
+    * \[CODE\] I BECAME \*NARUTO UZUMAKI\* IN SHINDO LIFE! | Roblox Shindo Life Shindo Life|Shindo Life Codes
+      * Description references the data collection website collectrobux.com.
+      * URL: https://www.youtube.com/watch?v=an2HSdAhx8I
+    * SPINNING WITH RELLGAMES 1 MILLION SPIN CODE(HOW TO GET ANY RARE BLOODLINE)IN SHINDO LIFE ROBLOX CODE
+      * Description references the data collection website collectrobux.com.
+      * URL: https://www.youtube.com/watch?v=dF6UmHp9W_E
+    * \[CODE\] I BECAME SAGE OF SIX PATH IN SHINDO LIFE! | Roblox Shindo Life Shindo Life| Shindo Life Codes
+      * Description references the data collection website collectrobux.com.
+      * URL: https://www.youtube.com/watch?v=Wf73_j8O2dg
+    * \[CODE\] KURAMA IS BACK NEW LEAK AND UPDATE RELEASE DATE! | Roblox Shindo Life| Shindo Life
+      * Description references the data collection website collectrobux.com.
+      * URL: https://www.youtube.com/watch?v=xNUE3dlkSZo
+    * \[CODE\] I BECAME OBITO IN SHINDO LIFE! | Roblox Shindo Life ! Shindo Life| Shindo Life Codes
+      * Description references the data collection website collectrobux.com.
+      * URL: https://www.youtube.com/watch?v=jDm6msouNGQ
+    * How To Get \*RARE BLOODLINES\* By Using These TRICKS In Shindo Life Roblox
+      * Description references the data collection website collectrobux.com.
+      * URL: https://www.youtube.com/watch?v=YEB7IRr4lCQ
 * Rektway (Rektway)
   * Non-Giftcard Robux Giveaways
     * 1000 ROBUX GIVEAWAY WINNERS!
@@ -9985,6 +10193,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ESSE TREM TE LEVA PARA OUTRA DIMENSÃO..... 🚂🚆
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=vGRrhMxIdEA
+    * FAZENDO O AVATAR DO LIL PUMP NO ROBLOX!!!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=FoNBJep7oSE
     * O PREÇO DESSE ITEM É 666!! (NÚMEROS DO DIABO)!!! 😈👿
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=MhOLtuzKX0w
@@ -10761,6 +10972,15 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=2odplgBeGh8
 * XenoTy (xXenoTy)
   * Information Collection
+    * \[CODE\] Flame Element REWORK Full Showcase Shindo Life Rellgames
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=yulhSQZTbXo
+    * GEN 3 BATTLE! Apol Vs Maru Vs Sparky! |  Shindo Life Rellgames
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=DPWh_rl98ps
+    * SnakeMan Platinum Bloodline Full Showcase | Shindo Life Rellgames
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=RuYHZNaAozQ
     * This NEW Naruto Game On Roblox HAS EVERYTHING YOU WANT!
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=0zYzvn_SgvA
@@ -10770,6 +10990,24 @@ The following channels had nothing appear with manual searching. Videos may exis
     * This NEW Roblox Anime GAME JUST RELEASED!
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=YfMoDALRIoQ
+    * \[CODE\] The Deva Rengoku Rengoku Rework Will Make One Piece Fans SALTY In Shindo Life!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=7cipNtmdbxE
+    * \[CODE\] Rellgames Just Made This The Strongest Bloodline....Or Did They? | Shindo Life
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=f9ucXoIKEaA
+    * GET This God Bloodline Before It Gets REWORKED This Upcoming Update On Shindo Life!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=YCaPk2vc6-A
+    * Top 5 Strongest Bloodline's In Shindo Life! | Shindo Life Bloodline Tierlist
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Fqxb6Hypp0I
+    * Get This FREE BLOODLINE BAG Feature In This NEW Shindo Life Update!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=fUNIixJRC9I
+    * \[Shindo\] The 24 Hour Momoshiki Experience In Shindo Life | Rellgames
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Si8whY0x1pw
     * Bruce Kenichi Vs Ryuji Kenichi! Which Is Better? Shindo Life
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=gNJbNR5m9Ck
@@ -10779,6 +11017,33 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*MAX\* Raion Gaiden Sengoku Bloodline FULL SHOWCASE! Shindo Life | Rellgames
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=8xQiI7FEnjc
+    * \[CODE\] These 2 TOXIC & OP GOD BLOODLINES DESTROY NOOBS In 2v2 COMP! | Shindo Life |Shindo Life Codes
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=GVvcokTFLNQ
+    * \[CODE\] EASTWOOD KORASHI VS GHOST KORASHI! Which Is Better? | Shindo Life | Shindo Life Codes Roblox
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=k1JcYZO7cnc
+    * \[CODE\] RYUJI PLATINUM VS RYUJI KENICHI! Which Is Better? Shindo Life | Shindo Life Codes
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=UxzpK6s_vs8
+    * \[CODE\] 1250 SPIN CODES To Unlock THE ULTIMATE TENTACION MODE! | Shindo Life | Shindo Life Codes
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=g38nG0jjORg
+    * \[CODE\] USE These CODES To Unlock THE ULTIMATE TENTACION MODE! | Shindo Life | Shindo Life Codes
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Wwz4tAKNEdg
+    * \[730K CODE\] ALL NEW 6 \*FREE SPINS\* SECRET CODES in SHINDO LIFE (Shindo Life Codes)ROBLOX Shindo life
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Mk2Kcj27WDI
+    * \[CODE\] SIX PATHS TS VS FULL SUSANOO AKUMA! Which is Better? | Roblox Shindo Life | Shindo Life
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=pg1iYIHrkE0
+    * \[CODE\] ALL NEW 5 \*FREE SPINS\* SECRET CODES in SHINDO LIFE (Shindo Life Codes)ROBLOX Shindo life
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=CFEcoRWh-d8
+    * Zoro & Luffy | ABA Ranked 2v2’s | Ft Sensei Maui | Anime Battle Arena | Roblox
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=ETuqF6n3ce4
 * xMarcelo (xMarcelo)
   * Information Collection
     * 😱 PRÓXIMOS EVENTOS!! E POSSÍVEIS EVENTOS PATROCINADOS do ROBLOX 😍🎉
@@ -10962,6 +11227,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Si Veo A Alguien Con Takis En Roblox El Video Termina...
       * Description references the data collection website rbxgum.com.
       * URL: https://www.youtube.com/watch?v=xve5Xr33DDI
+* Xou (xouzin7)
+  * Information Collection
+    * TESTEI os PERSONAGENS 2 ESTRELAS e FIQUEI SURPRESO COM O QUE ACONTECEU no ALL STAR TOWER DEFENSE !!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=wiFE9lwpRYE
 * YoSoyLoki (YoSoyLokiYT)
   * Other
     * MAMA CLAUS LOCA SE ENAMORA DE MI en BROOKHAVEN - Roblox YoSoyLoki
