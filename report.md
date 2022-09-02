@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 1, 2022<br>
+Generated September 2, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 617,381 videos
-* Total videos found that match keywords: 43,234 videos
-  * Total unprocessed videos: 5,080 videos
+* Total videos: 623,742 videos
+* Total videos found that match keywords: 43,681 videos
+  * Total unprocessed videos: 5,527 videos
 * Total videos found that are processed and marked: 3,486 videos 
   * Information Collection: 2,343 videos
   * Non-Giftcard Robux Giveaways: 960 videos
@@ -281,7 +281,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * CherryAhrizona (baby_ahrizona)
 * Chillz (ChillzSubZero)
 * Chocoblox (Chocoblox_93)
-* ChosenOne (DigitoPlaysThis)
 * Chrisandthemike (chrisatm)
 * Christocream (Christocream)
 * Chrisu Gaming (ChristsuYT)
@@ -538,6 +537,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Michaels Mayhem 
 * MICHI RØBLØX (michineyley)
 * MicroGuardian (MicroGuardian)
+* MikeDoesThis (DigitoPlaysThis)
 * Mila FunPlayer (trxmila)
 * MiniBloxia (SubToMiniBloxia)
 * mk (real_mkyt)
