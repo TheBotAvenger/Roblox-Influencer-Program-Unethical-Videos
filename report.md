@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 3, 2022<br>
+Generated September 4, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,12 +182,12 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 623,742 videos
-* Total videos found that match keywords: 43,681 videos
-  * Total unprocessed videos: 5,527 videos
-* Total videos found that are processed and marked: 3,486 videos 
-  * Information Collection: 2,343 videos
-  * Non-Giftcard Robux Giveaways: 960 videos
+* Total videos: 624,493 videos
+* Total videos found that match keywords: 43,683 videos
+  * Total unprocessed videos: 248 videos
+* Total videos found that are processed and marked: 3,500 videos 
+  * Information Collection: 2,351 videos
+  * Non-Giftcard Robux Giveaways: 966 videos
   * Other: 146 videos
   * Phishing: 37 videos
 
@@ -234,7 +234,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BeaPlays Roblox (notBeaPlays)
 * Bebe Milo (BebeMiloAmiwito)
 * BeeBlox (ThePapaBee, imgabibee, MrBeeWasTaken, and LaMamaBee)
-* Benni (ImBenni)
 * BETO GAMER (betogamer_01)
 * Bia Gamer (BiiiaGamerYT)
 * Bianca Nayi (bianqui_nayi123)
@@ -604,7 +603,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PrestonGamez (PrestonPlayz)
 * Pretzel Etzel (pretzel_etzel)
 * PREZLEY (PrezleyOfficial)
-* PRIME FURIOUS - RaVeNeiD GaMiNG (Prime_Furious)
 * Princess Royale (IAmPrincessRoyale)
 * Princess Tori (ItsToriTimeYT)
 * Proder (Prod3r)
@@ -728,7 +726,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Trap Roblox (SUB_toTRAP)
 * TroyanoNanoReturns (TroyanoNanoReturns)
 * True entertainer (sambhaji12)
-* truffios (truffios)
 * tsetYT (tsetfed)
 * Turtles Wear Raincoats (TurtlesWearRaincoats)
 * TussyGames (TussyGames)
@@ -738,7 +735,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Tx_cle (TxcIes)
 * Uncle Kizaru (Uncle_Kizaru)
 * Unlimited (Unlimited_Resources)
-* V2 Plays (MinniiHxpe and toreject)
 * Valen Latina (Valen_Latina)
 * VarietyJay (VarietyJay_Real)
 * Veyar (VeyarYT)
@@ -945,6 +941,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SNEEZING On 9999 PEOPLE in Sneezing simulator! // Roblox
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
       * URL: https://www.youtube.com/watch?v=Sl0h1X-pXfs
+* Benni (ImBenni)
+  * Information Collection
+    * EARN FREE ROBUX AND FREE GAMES! | GAMEHAG
+      * Description references the data collection website gamehag.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=hEoLz4DPuxQ
 * BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
   * Other
     * GOT THE RONA in ROBLOX | SNEEZING SIMULATOR
@@ -1021,9 +1022,18 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=g49cxhhSGkc
 * Complex Roblox (IamComplexRoblox)
   * Non-Giftcard Robux Giveaways
+    * 15k Robux Giveaway 🤩👏
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=wYWTj1BzwHY
     * 10k ROBUX GIVEAWAY!? 🤩😍✨
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=hLU4V3Q_MR0
+    * FREE ROBUX GIVEAWAY..🤩🤗 \#roblox \#shorts
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=HpaPH0FsG-c
+    * FREE ROBUX GIVEAWAY-?!
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=SGQHBpt-GeM
 * Cylito 
   * Non-Giftcard Robux Giveaways
     * Bloxburg: Victorian Roleplay House 62K
@@ -5508,6 +5518,10 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I Found A Christmas LAPTOP MESSAGE! 😱 in Brookhaven 🏡RP ROBLOX...
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=tHrU_gt3lYw
+  * Non-Giftcard Robux Giveaways
+    * Thanks To 100 Subs! ROBUX GIVEAWAY \[Late Upload\]
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=9GX5nQln9W8
 * iamSanna (notiamsanna)
   * Non-Giftcard Robux Giveaways
     * WIN 10,000 ROBUX In This \*NEW\* Adopt Me FASHION CONTEST! (Adopt Me)
@@ -7063,6 +7077,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Donating ALL MY ROBUX to Fans At VIDCON!! - Linkmon99 IRL \#18
       * Description references the data collection website rbxtoys.com.
       * URL: https://www.youtube.com/watch?v=lqwtj7bfh-I&pp=sAQA
+    * ROBLOX Holiday \*GIVEAWAY\* / My SETUP TOUR!!! (250,000+ Subscriber Special!)
+      * Description references the data collection website gamehag.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=g9RiYmYoYyU
+    * ROBLOX Holiday \*GIVEAWAY\* / My SETUP TOUR!!! (250,000+ Subscriber Special!)
+      * Description references the data collection website gamehag.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=g9RiYmYoYyU&pp=sAQA
   * Non-Giftcard Robux Giveaways
     * IF YOU FIND ME, WIN 15,000 ROBUX!! (Fan HIDE & SEEK Challenge) - Linkmon99 ROBLOX
       * URL: https://www.youtube.com/watch?v=aQVzK3xhRAs
@@ -8965,6 +8985,11 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=zO9TU0qdcIo
     * BELIEVE I'M POKE, WIN 1000 ROBUX! (Roblox)
       * URL: https://www.youtube.com/watch?v=R1_7Zp5RN2A
+* PRIME FURIOUS - RaVeNeiD GaMiNG (Prime_Furious)
+  * Information Collection
+    * COMMENT GAGNER GRATUITEMENT DES ROBUX SUR ROBLOX EN 2021 !!!! UN SITE SANS ARNAQUE CA EXISTE !!!???
+      * Description references the data collection website gamehag.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=dfMOWKP4q2c
 * Rainway (UseCode_Rainway)
   * Information Collection
     * \*NEW UPDATE\* ADOPT A POLICE DOG! \*TREATS\* (ROBLOX MAD CITY)
@@ -9416,6 +9441,15 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
 * SeerRblx (ReaISeer)
   * Information Collection
+    * NEW ROBLOX PROMO CODES ITEMS! ALL ROBLOX 2020 PROMO CODES - (2020)
+      * Description references the data collection website gamehag.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=ChHzRpQPHIo
+    * ALL \*8\* NEW ROBLOX PROMO CODES ON ROBLOX 2020?! New Roblox Event Leaked! (October)
+      * Description references the data collection website gamehag.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=PLLB9V4Gmxo
+    * ALL \*6\* NEW ROBLOX PROMO CODES ON ROBLOX 2020!  Roblox Promo Codes (October)
+      * Description references the data collection website gamehag.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=mgSVpPBTwns
     * ALL NEW SECRET PET CODES in TAPPING LEGENDS! - Tapping Legends ⭐X5 CLICKS UPDATE⭐  (Roblox)
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=Wa4iiQ6CGgU
@@ -10759,6 +10793,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
 * Stron (StronbolYT)
   * Information Collection
+    * ESTE SITIO WEB DA JUEGOS Y RECOMPENSAS GRATIS \*INCREIBLE\*
+      * Description references the data collection website gamehag.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=VUSPgGIWUhw
     * ESPECIAL 150K SUSCRIPTORES MI NUEVO RAP
       * Contains an ad for the information collection website ezrewards.com.
       * URL: https://www.youtube.com/watch?v=rdEdLaRpBGU
@@ -10932,6 +10969,16 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=Qr-olKdTSgA
     * HACKING A FAN'S ROBLOX ACCOUNT! (I SPENT ALL THEIR ROBUX)
       * URL: https://www.youtube.com/watch?v=6_Xb00zC_m4
+* truffios (truffios)
+  * Non-Giftcard Robux Giveaways
+    * last to leave the circle wins FREE ROBUX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=72A1YXAA8U8
+* V2 Plays (MinniiHxpe and toreject)
+  * Non-Giftcard Robux Giveaways
+    * Join the 1K ROBUX GIVEAWAY
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=rmE4s7mEmwg
 * VeD\_DeV (VeD\_DeV)
   * Non-Giftcard Robux Giveaways
     * DO NOT MOVE TO WIN ROBUX in Jailbreak! (Roblox)
