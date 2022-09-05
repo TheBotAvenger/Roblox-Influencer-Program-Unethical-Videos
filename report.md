@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 4, 2022<br>
+Generated September 5, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 624,493 videos
-* Total videos found that match keywords: 43,683 videos
-  * Total unprocessed videos: 248 videos
+* Total videos: 624,646 videos
+* Total videos found that match keywords: 43,747 videos
+  * Total unprocessed videos: 312 videos
 * Total videos found that are processed and marked: 3,500 videos 
   * Information Collection: 2,351 videos
   * Non-Giftcard Robux Giveaways: 966 videos
@@ -670,7 +670,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Snowi Fox (snowi_fox)
 * Sofia Tube (sofiatube7)
 * Solem Archive (iJackeryz)
-* SOLURI (sososolu)
+* SOLURI (URlPOP)
 * Sons Of Fun (SonsofFun_YT)
 * Sontix (Sontixito)
 * Sopo Squad Gaming (mikedrop937, CammyxBoba, and soposhadow)
@@ -731,9 +731,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TussyGames (TussyGames)
 * TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
-* Twizzah 
 * Tx_cle (TxcIes)
 * Uncle Kizaru (Uncle_Kizaru)
+* unknown user 
 * Unlimited (Unlimited_Resources)
 * Valen Latina (Valen_Latina)
 * VarietyJay (VarietyJay_Real)
