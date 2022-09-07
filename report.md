@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 6, 2022<br>
+Generated September 7, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,8 @@ to the report if this happens.
 * Total videos: 625,196 videos
 * Total videos found that match keywords: 43,783 videos
   * Total unprocessed videos: 348 videos
-* Total videos found that are processed and marked: 3,500 videos 
-  * Information Collection: 2,351 videos
+* Total videos found that are processed and marked: 3,499 videos 
+  * Information Collection: 2,350 videos
   * Non-Giftcard Robux Giveaways: 966 videos
   * Other: 146 videos
   * Phishing: 37 videos
@@ -10793,9 +10793,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
 * Stron (StronbolYT)
   * Information Collection
-    * ESTE SITIO WEB DA JUEGOS Y RECOMPENSAS GRATIS \*INCREIBLE\*
-      * Description references the data collection website gamehag.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=VUSPgGIWUhw
     * ESPECIAL 150K SUSCRIPTORES MI NUEVO RAP
       * Contains an ad for the information collection website ezrewards.com.
       * URL: https://www.youtube.com/watch?v=rdEdLaRpBGU
