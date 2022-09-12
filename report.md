@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 11, 2022<br>
+Generated September 12, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -996,7 +996,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=CINjWkLYxEQ
-* Calixo - Roblox Adventures (BuBreezy)
+* Calixo (BuBreezy)
   * Non-Giftcard Robux Giveaways
     * Giving A Noob 50,000 Robux!! (He Went Mad!)
       * Uses group funds to giveaway Robux.
