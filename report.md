@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 12, 2022<br>
+Generated September 13, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 625,196 videos
-* Total videos found that match keywords: 43,783 videos
-  * Total unprocessed videos: 348 videos
-* Total videos found that are processed and marked: 3,499 videos 
-  * Information Collection: 2,350 videos
+* Total videos: 627,781 videos
+* Total videos found that match keywords: 43,940 videos
+  * Total unprocessed videos: 393 videos
+* Total videos found that are processed and marked: 3,510 videos 
+  * Information Collection: 2,351 videos
   * Non-Giftcard Robux Giveaways: 966 videos
-  * Other: 146 videos
+  * Other: 156 videos
   * Phishing: 37 videos
 
 ### No Videos Found
@@ -359,7 +359,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FishyBlox (FishyBloxYT)
 * FlameRBX (SnowRBX_Youtube)
 * Flamingo (mrflimflam)
-* flashii (flashiilindo)
 * Flebsy (Flebsy)
 * Flxral (xoFlxral)
 * FlyBorg (KaykBlox)
@@ -4826,6 +4825,38 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Consiga ROBUX GRÁTIS Dessa Maneira - SORTEIO 2000 Robux
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=Nda5CJd2LwQ
+* flashii (flashiilindo)
+  * Other
+    * Fiz a missão secreta pra despertar a gomu gomu no mi no king piece
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=URsJN2iNJpk
+    * Fui do nível 0 ao 3400 no king piece em 20 horas (level máximo)
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=9FXK8iKEFP4
+    * Testei a sorte dos meus amigos no blox fruits dnv kkkkkkkkjjj
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=MH4xtr1zp5E
+    * O gpo ficou de graça e se pah vou ser banido por conseguir essas frutas assim kkkkkkkkjjj
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=Lic9xHX-dd8
+    * O luffy biruta gear 5 nika chegou e eu gastei dinheiro atoa kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjj
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=sXgQNxocjN0
+    * Cada boss é uma fruta aleatória no king piece porem se a gente morrer o vídeo vai acabar kkkkkkjjj
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=fx2nKOPc09o
+    * Minha namorada comeu minha Bundha no blox fruits
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=D0zZm46shxE
+    * Testei a sorte dos meus amigos no blox fruits kkkkkjj
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=7RVCH9uQhjg
+    * Dei essa fruta pra minha namorada no blox fruits 😳
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=Avbna2vudMk
+    * CADA BOSS É UMA FRUTA ALEATÓRIA NO KING PIECE POREM SE EU E MINHA NAMORADA MORRER O VIDEO VAI ACABAR
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=NDUsXMk9i7o
 * FunkySquadHD (UseCode_Funky)
   * Information Collection
     * Rthro On Pet Simulator! Roblox
@@ -11016,6 +11047,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=2odplgBeGh8
 * XenoTy (xXenoTy)
   * Information Collection
+    * \[CODE\] Ray Kerada Bloodline FULL SHOWCASE | Shindo Life | Rellgames
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=xXRLr7UakJw
     * \[CODE\] Flame Element REWORK Full Showcase Shindo Life Rellgames
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=yulhSQZTbXo
