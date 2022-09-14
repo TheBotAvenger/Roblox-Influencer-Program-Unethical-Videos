@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 13, 2022<br>
+Generated September 14, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 627,781 videos
 * Total videos found that match keywords: 43,940 videos
-  * Total unprocessed videos: 393 videos
+  * Total unprocessed videos: 237 videos
 * Total videos found that are processed and marked: 3,510 videos 
-  * Information Collection: 2,351 videos
-  * Non-Giftcard Robux Giveaways: 966 videos
+  * Information Collection: 2,352 videos
+  * Non-Giftcard Robux Giveaways: 965 videos
   * Other: 156 videos
   * Phishing: 37 videos
 
@@ -260,6 +260,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Buur (BuurmanTenus)
 * BV0J (BV0J)
 * ByDerank (ByDerank_YT)
+* Calixo (BuBreezy)
 * callmehhaley (callmehhaleyx)
 * Canal Cahcildis (cahcildis)
 * Captain Capi (CaptainCapii)
@@ -522,7 +523,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MakotoUchiha (MakotoYoutube)
 * Mandinha Game (iii_Amandinha)
 * Manucraft (ManucraftYT)
-* MaRcDoGy (ImperiaIDoom)
 * Mariana Nana (marianavasco)
 * Mary - Frozencrystal 
 * Matsbxb (MATSbxb)
@@ -995,11 +995,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=CINjWkLYxEQ
-* Calixo (BuBreezy)
-  * Non-Giftcard Robux Giveaways
-    * Giving A Noob 50,000 Robux!! (He Went Mad!)
-      * Uses group funds to giveaway Robux.
-      * URL: https://www.youtube.com/watch?v=YYWu5J6ryPo
 * Cerso (Cerso93)
   * Non-Giftcard Robux Giveaways
     * SORTEO DE ROBUX PARA ROBLOX GRATIS | Cerso Roblox en español
@@ -7218,6 +7213,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ELA COLAVA NA PROVA PARA SER A PREFERIDA DA PROFESSORA - HISTORINHA DE BROOKHAVEN RP ROBLOX 🏡
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=mR-TtGAKKnw
+* MaRcDoGy (ImperiaIDoom)
+  * Information Collection
+    * Robux Gratis !!! %100 Real No Va En Broma !!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=uuZbDvTa40M
 * MathFacter360 (MathFacter360)
   * Non-Giftcard Robux Giveaways
     * complete my CASTLE OBBY and WIN 5,000 ROBUX!!! (Roblox)
