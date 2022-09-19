@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 18, 2022<br>
+Generated September 19, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -576,7 +576,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
-* Oscar (VanillaOreoCat)
 * P0gMasterZ (P0gMasterZ)
 * PaanDuh (PPaanDuh)
 * PaintingRainbows (RainbowsYT)
@@ -639,6 +638,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RoxiCake Gamer (YT_RoxiCake)
 * Royale Dior (ItsRoyaleDiorYT)
 * Royale Roleplay (Royalee_R)
+* Rubie (VanillaOreoCat)
 * Ruby Games (ruby_rubeYT)
 * RufflesOfficial (RufflesPlaysMC)
 * Ryguy - Roblox (ryguyrocky)
@@ -676,6 +676,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Soy Blue (SoyBluee)
 * Soy Mandy Games (SoyMandy2020)
 * SoyLuz (LuzCute24)
+* SoyTini (TinenQa1)
 * Spagz Blox (Spagzox)
 * Spekツ (ONESIEHOARDER308)
 * Squid Magic (Foolzy)
@@ -715,7 +716,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ThyEdgar (THYEDGAR_YT)
 * Tigre TV (StarCode_TigreTVyt)
 * Tikida (Sanaaa8ans)
-* TinenQa (TinenQa1)
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
 * Tooquick 
@@ -9016,7 +9016,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=zO9TU0qdcIo
     * BELIEVE I'M POKE, WIN 1000 ROBUX! (Roblox)
       * URL: https://www.youtube.com/watch?v=R1_7Zp5RN2A
-* PRIME FURIOUS - RaVeNeiD GaMiNG (Prime_Furious)
+* Prime Furious Gaming (Prime_Furious)
   * Information Collection
     * COMMENT GAGNER GRATUITEMENT DES ROBUX SUR ROBLOX EN 2021 !!!! UN SITE SANS ARNAQUE CA EXISTE !!!???
       * Description references the data collection website gamehag.com using a link shortener.
