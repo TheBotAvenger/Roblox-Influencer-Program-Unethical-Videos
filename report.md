@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 19, 2022<br>
+Generated September 20, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 627,781 videos
-* Total videos found that match keywords: 43,940 videos
-  * Total unprocessed videos: 237 videos
-* Total videos found that are processed and marked: 3,510 videos 
+* Total videos: 630,300 videos
+* Total videos found that match keywords: 44,105 videos
+  * Total unprocessed videos: 402 videos
+* Total videos found that are processed and marked: 3,453 videos 
   * Information Collection: 2,352 videos
   * Non-Giftcard Robux Giveaways: 965 videos
-  * Other: 156 videos
+  * Other: 99 videos
   * Phishing: 37 videos
 
 ### No Videos Found
@@ -9000,10 +9000,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website rbxgum.com.
       * URL: https://www.youtube.com/watch?v=4S2ctZvFOuE
 * Poke (Pokediger1)
-  * Other
-    * SPIN THE ROBLOX DEATH WHEEL (HE LOST 25,000 ROBUX)
-      * Video is about a wheel that has a chance to win or spend Robux.
-      * URL: https://www.youtube.com/watch?v=3vQT9KP6EeE
   * Phishing
     * HACKING AND GIVING A FAN FREE ROBUX ON ROBLOX!!
       * URL: https://www.youtube.com/watch?v=dQEnfrcMALQ
@@ -11456,174 +11452,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references a video about getting Robux for filling out surveys.
       * URL: https://www.youtube.com/watch?v=QTbRWUhK3wI
   * Other
-    * You won't believe what I found out about ROBLOX..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=CufmNdxOGmw
-    * Why ROBLOX Has Been Offline For 50 Days..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=B6cogz7V03E
-    * ROBLOX plays MINECRAFT for the first time..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=enUqVD_FsNw
-    * someone's on roblox's account..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=JbXYG9RInWA
-    * ROBLOX meets PROJECT ZORGO.. \*ends bad\*
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=2BI2n7OcRNQ
-    * Roblox is replacing me.. it's over
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=3fFCty5lV5w
-    * Roblox accidentally gave me admin..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=2euwSA0qnC4
-    * ROBLOX is HERE! But something's wrong..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=MeeGdHLvMbc
-    * Roblox Is HIDING This From Us.. I'M SHOCKED!
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=DyWcqHW_oXI
-    * ROBLOX Accidentally Left On FACE Cam
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=yI93U5K3BvM
-    * My LAST Video With Roblox..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=URkP3sC_DmI
-    * I Found BUILDERMAN In Roblox
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=laGhrVSQCkM
-    * ROBLOX FACE REVEAL
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=s2xrWPgrEwY
-    * Is He REAL?
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=zGeWXSAtkyk
-    * I Called ROBLOX With My GIRL VOICE! \*HE ANSWERED\*
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=AObPQiYlwZI
-    * I Pretended To Be ROBLOX's CRUSH (Ends Bad)
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=kKs7nmmsEmU
-    * I Found ROBLOX in ADOPT ME! OMG!!!!!!!
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=g8zqownXLyE
-    * ROBLOX Joined My Game LIVE On Stream!
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=43IPixGj7wA
-    * What I Found INSIDE Roblox's iPhone Will SHOCK YOU!
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=jr0lW7SG42M
-    * IGNORING ROBLOX FOR 24 HOURS!
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=jE4abjtrWac
-    * I Told ROBLOX I'm Quitting..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=ncwmyROykt4
-    * ROBLOX EVIL SCP FACILITY
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=X8r8Hq875RI
-    * I Played Roblox's NEW Game with ROBLOX!
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=WQ5oRYn6VWQ
-    * If EVIL Roblox Joins.. HIDE
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=_Q_pkUsAjCA
-    * I Met MYSELF In Roblox
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=R7b4RCve8FU
-    * The END of Evil Roblox
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=Ac7htiZc_8M
-    * Escaping EVIL Roblox Escape Room!
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=lvjt_TdGUA8
-    * Meet Roblox's EVIL Twin..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=gz3C01kGkIU
-    * If You See Roblox.. RUN
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=i7q2qCbSUDw
-    * ERROR 404: Roblox Not Found!
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=vmRfLwRttVU
-    * URGENT: Do NOT Look At ROBLOX
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=poWcm6z8qrU
-    * WARNING: ROBLOX Threat Detected
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=dnPo6HYNI4U
-    * ROBLOX Lost His Memory..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=Ivp73zFk-EE
-    * I Called ROBLOX.. \*HE ANSWERED\*
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=GXA9BKe-7R4
-    * I Found ROBLOX's Number.. \*HE TEXTED BACK\*
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=fOwk-lFrXRM
-    * ROBLOX Reveals NEW Promo Codes!
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=p660zlJBtG4
-    * I Looked After ROBLOX's Kids In Daycare.. They Are EVIL!
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=5pxN-x0FDtY
-    * Hello, This Is ROBLOX
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=pJ_-tqjGsD4
-    * We Used CAMERAS To Catch ROBLOX'S Stalker!
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=DK0yvSHr7fM
-    * It Was His DREAM To Meet Roblox..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=efWtP_7VXRc
-    * ROBLOX But He Says YES To Everything..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=QCVCDtlLgG8
-    * I Spoke to ROBLOX With Voice Chat!
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=idbm5PpE1U0
-    * I Used a DRONE In The Roblox Office to Spy On Roblox..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=pZqjyPApeMI
-    * Roblox is HIDING this from you..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=KH0mA4E6li8
-    * I Added BUILDERMAN As A Friend.. (Roblox)
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=yXd-8f8MCBA
-    * I Went To a SECRET Roblox Meeting..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=LWR05djPi2E
-    * ROBLOX is ENDING...........?
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=k4U4bEabCjs
-    * I Set Up SECURITY CAMERAS In The ROBLOX Office And What I Found Was Shocking..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=dTe9SQhQmTA
-    * Say GOODBYE To The OOF Sound In Roblox..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=FIKmqOcfPrg
-    * Builderman Reveals The TRUTH About Roblox..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=eZyanLTxCMc
-    * I Joined BUILDERMAN'S ROBLOX Game..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=kmLuAs1ftZU
-    * I Joined ROBLOX'S VIP Server..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=BLTmlXJlB_U
-    * ROBLOX showed me the secret free catalog..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=Ada4kpvqJ0c
-    * I Added ROBLOX As A Friend..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=qUbU1akDnm4
-    * ROBLOX Gave Me ADMIN..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=LAKqAIXoENE
-    * I Joined ROBLOX'S Game..
-      * Video involves impersonating Roblox employee accounts.
-      * URL: https://www.youtube.com/watch?v=g_LIiAT7Y6k
     * MAKING JAMES CHARLES a ROBLOX ACCOUNT
       * Includes the words "Sex Tape" at 2:53
       * URL: https://www.youtube.com/watch?v=3P6LVJBFkGg
