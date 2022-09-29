@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 28, 2022<br>
+Generated September 29, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,11 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 632,861 videos
 * Total videos found that match keywords: 44,261 videos
-  * Total unprocessed videos: 1 video
-* Total videos found that are processed and marked: 3,454 videos 
+* Total videos found that are processed and marked: 3,455 videos 
   * Information Collection: 2,353 videos
   * Non-Giftcard Robux Giveaways: 966 videos
-  * Other: 98 videos
+  * Other: 99 videos
   * Phishing: 37 videos
 
 ### No Videos Found
@@ -9405,6 +9404,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX Exploiters In A Nutshell
       * Uses the "F word" (4x), "S word" (3x), and "P word"
       * URL: https://www.youtube.com/watch?v=APz3TSj0NbU
+    * How To Be a ROBLOX Hacker
+      * Uses the "F word" (3x) and "S word"
+      * URL: https://www.youtube.com/watch?v=KL8vtXmwrhs
     * Roblox "Hackers"
       * Uses the "F word" (16x) and "B word"
       * URL: https://www.youtube.com/watch?v=VIQ73nJgN-I
