@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 2, 2022<br>
+Generated October 3, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -200,7 +200,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Adri (BebeAdriYT)
 * AEREN (AaronDRonin)
 * AidanGamerHD (AidanGamerHDXD)
-* AKEESHA (akeeshaaaaa)
 * Alex Crafted (HeyCrafted)
 * Aline Games (AliineGamesYT)
 * alixia 
@@ -270,6 +269,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Carbon Meister Plays (CarbonMeister)
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
+* Castor Troy (akeeshaaaaa)
 * CatFer (SoyCatFer)
 * CATYPINK PLAY (catypink15)
 * cazum8 (cazum8)
@@ -310,7 +310,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DaPandaGirl (Da_PandaGirl)
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
-* deathvanessa (itsdeathvanessa)
+* deathvanessa (IShowMajorSpeed)
 * DeeterPlays (DeeterPlays)
 * DeGoBooM (BumiReal)
 * Devo (Devovorya)
@@ -437,7 +437,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ItsFunneh (Funnehcake)
 * ItsLimey (BamItsLimey)
 * ItzSweaking (ItzSweaking)
-* ItzzMelisa (AGirl_ItzzMelisa)
+* ItzzMelisa (itzzmelisa_official)
 * J-Bug (J_Buggo)
 * Jake Globox (JakeGlobox)
 * Jake Pudding (JakeZPudding)
