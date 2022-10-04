@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 3, 2022<br>
+Generated October 4, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,10 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 632,861 videos
-* Total videos found that match keywords: 44,261 videos
-* Total videos found that are processed and marked: 3,455 videos 
-  * Information Collection: 2,353 videos
+* Total videos: 635,452 videos
+* Total videos found that match keywords: 44,390 videos
+  * Total unprocessed videos: 128 videos
+* Total videos found that are processed and marked: 3,456 videos 
+  * Information Collection: 2,354 videos
   * Non-Giftcard Robux Giveaways: 966 videos
   * Other: 99 videos
   * Phishing: 37 videos
@@ -11046,6 +11047,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=2odplgBeGh8
 * XenoTy (xXenoTy)
   * Information Collection
+    * \[CODE\] Kamaki 3rd Stage Vs Jinshiki | Which Is Better? Shindo Life
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=P3xUWgIMvqk
     * Shindo Life’s 2 Year Anniversary & 250k Rellcoin Challenge | Shindo Life Rellgames
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=YfszXV8h5L0
