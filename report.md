@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 9, 2022<br>
+Generated October 10, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,7 +182,7 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 635,452 videos
+* Total videos: 635,461 videos
 * Total videos found that match keywords: 44,390 videos
   * Total unprocessed videos: 128 videos
 * Total videos found that are processed and marked: 3,456 videos 
@@ -311,7 +311,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DaPandaGirl (Da_PandaGirl)
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
-* deathvanessa (IShowMajorSpeed)
+* Deathvanessa (BlondeBlaire)
 * DeeterPlays (DeeterPlays)
 * DeGoBooM (BumiReal)
 * Devo (Devovorya)
@@ -334,7 +334,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
 * El Magnum (MagnumStormus)
-* Elemental (FakeE1emental)
+* Elemental (E1ementalYT)
 * ElemperadormaxiYT (EmperadorMaxiOFICIAL)
 * Elite (E1ite_E)
 * Elitelupus (elitelupus)
@@ -425,6 +425,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * iKotori (iKotori)
 * iLeahxo 
 * ImaGamerGirl (lmaGamerGirI)
+* InceptionTime (InceptionTime)
 * Inemafoo (Inemajohn)
 * Infernasu (Infernasu)
 * Irmãs Gamers (iiPietra_GamesYT)
@@ -718,7 +719,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
 * Tooquick 
-* Toxic Berry (NotToxicBerry)
+* Toxic Berry (berryiie)
 * ToxicJim (supersonshadow17)
 * TrafTheOpest (TrafTheOpest)
 * Trap Roblox (SUB_toTRAP)
