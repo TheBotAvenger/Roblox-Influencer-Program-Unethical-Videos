@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 11, 2022<br>
+Generated October 12, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,10 +185,10 @@ to the report if this happens.
 * Total videos: 637,977 videos
 * Total videos found that match keywords: 44,540 videos
   * Total unprocessed videos: 276 videos
-* Total videos found that are processed and marked: 3,458 videos 
+* Total videos found that are processed and marked: 3,448 videos 
   * Information Collection: 2,356 videos
   * Non-Giftcard Robux Giveaways: 966 videos
-  * Other: 99 videos
+  * Other: 89 videos
   * Phishing: 37 videos
 
 ### No Videos Found
@@ -667,6 +667,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Slykage (Sly_Kage)
 * Sniffycat (SnickerHoops)
 * Snowi Fox (snowi_fox)
+* Snug Life (YT_SnugLife)
 * Sofia Tube (sofiatube7)
 * Solem Archive (iJackeryz)
 * SOLURI (URlPOP)
@@ -10619,38 +10620,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 5 MISTERIOS DO ROBLOX QUE VOCÊ NUNCA SOUBE
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=56mZo9WAWaU
-* Snug Life (YT_SnugLife)
-  * Other
-    * I \*CRAFTED\* a SHINY BEACH MYTHIC HAT! 20,000,000 TOTAL INFECT! \*SUPER OP!\* In Sneezing Simulator!
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=4WAP4u2-l7k
-    * MASSIVE CHEST AT SPAWN HAS BEEN DESTROYED! GOALS HAVE BEEN REACHED! NEW REWARD? | SNEEZING SIMULATOR
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=Uwn7ve1P-BY
-    * I Broke the game in the new Carnival Update..... | Sneezing Simulator
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=FWwAA1hiM9Y
-    * I ACCIDENTALLY DELETED THE NEW \*MYTHIC\* PURPLE SPARKLE TIME FEDORA IN SNEEZING SIMULATORS NEW UPDATE
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=yRRwd3t7ZRw
-    * HOW TO GET THE \*SECRET HAT\* IN SNEEZING SIMULATOR! BEST HAT IN-GAME! ABSOLUTELY DISGUSTING STATS!
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=qM-vMFgWPBk
-    * SNEEZING SIMULATOR NEW UPDATE! I UNBOXED THE BEST LEGENDARY HAT IN-GAME! \*SUPER OP\* EASY REBIRTHS!
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=kVDf7wX-e94
-    * YOU CAN NOW TRAVEL IN \*SPACE\* IN SNEEZING SIMULATOR?! NEW EVOLUTIONS! NEW SPACESHIP?! NEW CODES!
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=BIoWma7yQPQ
-    * SNEEZING SIMULATOR ADDED A \*REBIRTH SHOP!\* YOU CAN NOW REBIRTH AND \*UNLOCK\* PERM BOOSTS!
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=yMOXbkwQ-TY
-    * I SPENT 50,000,000 MILLION POINTS ON THE \*NEW\* ANCIENT PHARAOH IN ANCIENT RUINS! SNEEZING SIMULATOR!
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=SeDqmaXmspU
-    * \*NEW\* SNEEZING SIMULATOR! HOW TO INFECT PEOPLE \*SUPER FAST!\* AND GAIN FAST POINTS!!!!\*KING NOOB OP\*
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=NmJMdWhG9-8
 * SrtaLuly (SrtaLuly03)
   * Information Collection
     * BALDI o GRANNY? QUÉ PREFIERES? en ROBLOX 😱
