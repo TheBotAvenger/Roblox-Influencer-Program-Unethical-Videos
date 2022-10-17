@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 16, 2022<br>
+Generated October 17, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -232,6 +232,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BeaPlays Roblox (notBeaPlays)
 * Bebe Milo (BebeMiloAmiwito)
 * BeeBlox (ThePapaBee, imgabibee, MrBeeWasTaken, and LaMamaBee)
+* Benx (Bensonheimer and ebruulein)
 * BETO GAMER (betogamer_01)
 * Bia Gamer (BiiiaGamerYT)
 * Bianca Nayi (bianqui_nayi123)
@@ -320,7 +321,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Digopollo (DigoPollos)
 * Divine (vrcia)
 * Diário do Casal Gamer (VictorNuclear and FernandaTreta)
-* DoctorBenx (Bensonheimer and ebruulein)
 * Dogbon62 (Dogbon62)
 * Dois Marmotas 
 * DOLLASTIC PLAYS! (DollasticDreams)
