@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 17, 2022<br>
+Generated October 18, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,10 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 637,977 videos
-* Total videos found that match keywords: 44,540 videos
-* Total videos found that are processed and marked: 3,448 videos 
-  * Information Collection: 2,356 videos
+* Total videos: 640,585 videos
+* Total videos found that match keywords: 44,678 videos
+  * Total unprocessed videos: 137 videos
+* Total videos found that are processed and marked: 3,449 videos 
+  * Information Collection: 2,357 videos
   * Non-Giftcard Robux Giveaways: 966 videos
   * Other: 89 videos
   * Phishing: 37 videos
@@ -11016,6 +11017,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=2odplgBeGh8
 * XenoTy (xXenoTy)
   * Information Collection
+    * \[CODE\] Rellgames Secretly BUFFED The STRONGEST Akuma In Shindo Life! \*Broken\*
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Yh_XBSC6RaY
     * NO WAY! Rellgames Made EVERY Limited Bloodline Spinnable & Rellcoin code REVEALED In Shindo Life
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=88WJx0DQ7wc
