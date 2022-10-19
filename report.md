@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 18, 2022<br>
+Generated October 19, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 640,585 videos
 * Total videos found that match keywords: 44,678 videos
-  * Total unprocessed videos: 137 videos
-* Total videos found that are processed and marked: 3,449 videos 
-  * Information Collection: 2,357 videos
-  * Non-Giftcard Robux Giveaways: 966 videos
+  * Total unprocessed videos: 138 videos
+* Total videos found that are processed and marked: 3,448 videos 
+  * Information Collection: 2,355 videos
+  * Non-Giftcard Robux Giveaways: 967 videos
   * Other: 89 videos
   * Phishing: 37 videos
 
@@ -260,7 +260,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Buur (BuurmanTenus)
 * BV0J (BV0J)
 * ByDerank (ByDerank_YT)
-* Calixo (BuBreezy)
 * callmehhaley (callmehhaleyx)
 * Canal Cahcildis (cahcildis)
 * Captain Capi (CaptainCapii)
@@ -996,6 +995,11 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=CINjWkLYxEQ
+* Calixo (BuBreezy)
+  * Non-Giftcard Robux Giveaways
+    * Giving A Noob 50,000 Robux!! (He Went Mad!)
+      * Uses group funds to giveaway Robux.
+      * URL: https://www.youtube.com/watch?v=YYWu5J6ryPo
 * Cerso (Cerso93)
   * Non-Giftcard Robux Giveaways
     * SORTEO DE ROBUX PARA ROBLOX GRATIS | Cerso Roblox en español
@@ -10932,9 +10936,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Build a boat UPDATE!! (New Quest & Fireworks & More!) RELEASED
       * Description references the data collection website claimrbx.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=dvriTSsotAQ
-    * LAWNMOWER GLITCH in Build a boat!
-      * Description references the data collection website claimrbx.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=vlrhSjN13iQ
     * NEW \*EXCLUSIVE\* CODE! | Vehicle Simulator ROBLOX
       * Description references the data collection website claimrbx.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=bnSEtPejMDE
@@ -11017,9 +11018,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=2odplgBeGh8
 * XenoTy (xXenoTy)
   * Information Collection
-    * \[CODE\] Rellgames Secretly BUFFED The STRONGEST Akuma In Shindo Life! \*Broken\*
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=Yh_XBSC6RaY
     * NO WAY! Rellgames Made EVERY Limited Bloodline Spinnable & Rellcoin code REVEALED In Shindo Life
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=88WJx0DQ7wc
