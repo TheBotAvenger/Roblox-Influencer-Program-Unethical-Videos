@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 23, 2022<br>
+Generated October 24, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -269,12 +269,12 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Carbon Meister Plays (CarbonMeister)
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
-* Castor Troy (akeeshaaaaa)
+* Castor Troy (akeelovesme)
 * CatFer (SoyCatFer)
 * CATYPINK PLAY (catypink15)
 * cazum8 (cazum8)
 * Cee\_berry (Cee\_berry)
-* Celestial Roblox (IM_Celestial)
+* Celestial Plays (IM_Celestial)
 * Cerority (OfflineEating)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
@@ -310,7 +310,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DaPandaGirl (Da_PandaGirl)
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
-* Deathvanessa (BlondeBlaire)
+* Deathvanessa (itsdeathvanessa)
 * DeeterPlays (DeeterPlays)
 * DeGoBooM (BumiReal)
 * Devo (Devovorya)
@@ -384,7 +384,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GamingwithVYT (GamingwithVYT)
 * GH0Ks (GHOKSZIN)
 * GhostInTheCosmos (GhostInTheCosmos)
-* GianBlox (GiianBloxYT)
+* GianBlox (GianBloxStarYT)
 * Godenot (godenot)
 * Godstatus (CallMeGodstatus)
 * GoingLimited (GoingLimited)
@@ -534,6 +534,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Michaels Mayhem 
 * MICHI RØBLØX (michineyley)
 * MicroGuardian (MicroGuardian)
+* MicroStrategy - ENG (RoofOmnis)
 * MikeDoesThis (DigitoPlaysThis)
 * Mila FunPlayer (trxmila)
 * MiniBloxia (SubToMiniBloxia)
@@ -629,7 +630,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Robrox (IchBinBrox)
 * Robstix (Robstix)
 * Rod Velloso (viddrox)
-* Roof (RoofOmnis)
 * Roplex Gaming 
 * RoTomek 
 * roxhi roblox (12345roxyhi12345)
@@ -6858,7 +6858,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * This Mobile Wins $10,000 ROBUX If He Gets 1 KILL... (Roblox Arsenal)
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=sEBKoeC_Pxs&pp=sAQA
-* Kaden Fumblebottom (jokerkid5898)
+* Kaden (jokerkid5898)
   * Non-Giftcard Robux Giveaways
     * STOP ASKING ME FOR ROBUX AAAA
       * Uses group funds to give away Robux.
@@ -9021,7 +9021,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=zO9TU0qdcIo
     * BELIEVE I'M POKE, WIN 1000 ROBUX! (Roblox)
       * URL: https://www.youtube.com/watch?v=R1_7Zp5RN2A
-* PRIME FURIOUS - RaVeNeiD GaMiNG (Prime_Furious)
+* PRIME FURIOUS (Prime_Furious)
   * Information Collection
     * COMMENT GAGNER GRATUITEMENT DES ROBUX SUR ROBLOX EN 2021 !!!! UN SITE SANS ARNAQUE CA EXISTE !!!???
       * Description references the data collection website gamehag.com using a link shortener.
