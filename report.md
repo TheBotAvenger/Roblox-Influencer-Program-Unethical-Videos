@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 25, 2022<br>
+Generated October 26, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,11 +184,11 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 643,233 videos
 * Total videos found that match keywords: 44,802 videos
-  * Total unprocessed videos: 124 videos
-* Total videos found that are processed and marked: 3,449 videos 
-  * Information Collection: 2,356 videos
+  * Total unprocessed videos: 125 videos
+* Total videos found that are processed and marked: 3,383 videos 
+  * Information Collection: 2,289 videos
   * Non-Giftcard Robux Giveaways: 967 videos
-  * Other: 89 videos
+  * Other: 90 videos
   * Phishing: 37 videos
 
 ### No Videos Found
@@ -597,6 +597,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Play with me - Apps and Games (da\_dania and kaan\_xy2)
 * Playonyx (okgamerman)
 * Plech (PlechitoYT)
+* Plique Games (PliqueYT)
 * Premiumsalad (premiumsalad)
 * PrestonGamez (PrestonPlayz)
 * Pretzel Etzel (pretzel_etzel)
@@ -666,7 +667,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Slykage (Sly_Kage)
 * Sniffycat (SnickerHoops)
 * Snowi Fox (snowi_fox)
-* Snug Life (YT_SnugLife)
 * Sofia Tube (sofiatube7)
 * Solem Archive (iJackeryz)
 * SOLURI (URlPOP)
@@ -7212,9 +7212,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * A PRINCESA FOI PROIBIDA DE NAMORAR UM MANDRAKE - HISTORINHA DE BROOKHAVEN RP ROBLOX 🏡
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=rTS8EnxZ9Lk
-    * DESCOBRI QUE MINHA VERDADEIRA MÃE É DONA DO ROUND 6 SQUID GAME - BROOKHAVEN RP ROBLOX 🏡
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=kXjMZCZhQLE
     * ELA COLAVA NA PROVA PARA SER A PREFERIDA DA PROFESSORA - HISTORINHA DE BROOKHAVEN RP ROBLOX 🏡
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=mR-TtGAKKnw
@@ -8809,206 +8806,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW CHRISTMAS UPDATE! \*SECRET\* HOW TO GET ADVANCED SERVER FOR FREE! IN PET SIMULATOR X!!
       * Description references the "black market for limiteds and Robux" ro.place.
       * URL: https://www.youtube.com/watch?v=6R9FU4PWvyY
-* Plique Games (PliqueYT)
-  * Information Collection
-    * GASTANDO ROBUX NA NOVA MÁQUINA E O INESPERADO ACONTECEU... ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=buGFqSvK7MQ
-    * GASTEI 15.000 ROBUX NA MÁQUINA DE DUPLICAR NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=KVjcCTASdZY
-    * GASTANDO POÇÃO SHINY E VEIO ISSO... NO MUNDO DA ATUALIZAÇÃO VERÃO NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=TAiTYCRyzJs
-    * PEGUEI PASSIVA "LOADING" NA ATUALIZAÇÃO DE VERÃO NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=SSt3pqgmjJA
-    * ENTÃO ESSE É O NOVO MYTHICAL META DO ANIME ADVENTURES?! (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=0xbEr27RmK4
-    * COMPREI O ITEM SECRETO QUE EU PRECISAVA NA BULMA ANIME ADVENTURES (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=D-PpsmGRjbA
-    * PRIMEIRA MONTARIA NO ANIME FIGHTERS DIFERENCIADO - ANIME HEROES SIMULATOR (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=ZpU0pyx2XNo
-    * ZERANDO O MUNDO DA ATUALIZAÇÃO DE TOKYO GHOUL NO ANIME ADVENTURES (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=9eJ6rGQ7LmE
-    * EM BUSCA DA NOVA PASSIVA SECRETA NO MELHOR DIVINO DO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=uCq1bZfkNEk
-    * FIZ A NOVA DIVINA LIMIT BREAKER NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=8KwFEzcrrlA
-    * PEGUEI O MELHOR PERSONAGEM PARA MODO HISTÓRIA NO ANIME ADVENTURES (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=snpyykbR1X4
-    * MAIS DIVINO COM MENOS LUCK NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=siL3SJiQas8
-    * O NOOB GASTANDO ROBUX NO ANIME ADVENTURES PARA FICAR FORTE (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=N1jiny5ON78
-    * usei a POÇÃO SHINY no mundo da ATUALIZAÇÃO DO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=_QTY78zbFhY
-    * NEM TUDO É O QUE PARECE NA ATUALIZAÇÃO DO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=04AgWq1A3fY
-    * ERA PARA NÃO TER NADA, MAS... ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=76r6WZuX_yw
-    * NOVO DIVINO DA ATUALIZAÇÃO MUITO MAIS FORTE QUE O LIMITADO NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=JV_jd38oO80
-    * ATUALIZAÇÃO SOUL EATER, ARTEFATOS, NOVO DIVINO, EVENTO OP E MAIS! ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=odL1JA8VuHw
-    * NUNCA FIQUEI FELIZ GASTANDO ROBUX NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=ORwMCvJazvQ
-    * FUI FAZER A PARTE CHATA E TIVE MUITA SORTE NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=U6X0JhXXoM8
-    * CONTINUE A NADAR,NADAR,NADAR... ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=cypm2cet7P0
-    * QUEM DISSE QUE SUPORTE NÃO DA DANO... ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=oeQjKyve8hA
-    * NUNCA VEIO TANTA PASSIVA MYTHICAL NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=1FIo_xowZ54
-    * O QUE ACONTECEU PET SIMULATOR X...
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=AD1AelHJH9M
-    * PASSIVA PERF... ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=oBXozM4v0LM
-    * ESSE EVENTO... E NUNCA VI TANTAS PASSIVA SECRETA NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=c0OBwSmwVgc
-    * SE NÃO VIR DROP BOM EU SOU UM CABO HDMI - ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=m0cz6o8A-ng
-    * ESSE SIMULATOR DE MINIONS FICOU MUITO FAMOSO - MINION SIMULATOR (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=vLrqfm23xww
-    * ENTÃO, ESSE VAI SER O MELHOR SUPORTE DO MEU TIME NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=tG0BS6ig0SU
-    * O VERDADEIRO SIGNIFICADO DE TANTO FAZ NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=u4u3CPqKGbk
-    * CONTA "NOOB" SOLANDO DUNGEON NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=GVMbsGjYg8A
-    * SORTE NO AZAR É O QUE DIZEM... ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=q4tbc0vhdag
-    * VOLTEI NESSE SIMULATOR DEPOIS DE MESES NO CLICKER SIMUALATOR (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=sCa81aBR1hQ
-    * OBRIGADO ATUALIZAÇÃO ANIME FIGHTERS 20X MAIS FORTE! (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=Dserx_Bm0r4
-    * FUI BRINCAR DE PEGAR PASSIVA NO ANIME FIGHTERS E....
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=GpQ0jciCLFI
-    * FIZ O MELHOR COMBO NO NOVO TOWER DEFENSE DE ANIME - ANIME ADVENTURES (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=O74Xyj7tiR8
-    * FUI USAR POÇÃO SHINY NA ATUALIZAÇÃO DO ANIME FIGHTERS...
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=Xkn3YBWlZgE
-    * A DUNGEON DA ATUALIZAÇÃO ESTÁ MUITO OP E EU POSSO PROVAR NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=nWXxoY6LwQA
-    * ATUALIZAÇÃO OVERLORD, NOVA PASSIVA, NOVO META ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=Mab1dQpu5kk
-    * PEGUEI A NOVA PASSIVA MYTHICAL MAIS ROUBADA DO ANIME FIGHTERS NO DIVINO (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=TYa775GRPAk
-    * FAZER ISSO NA ATUALIZAÇÃO ESTÁ MUITO OP! ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=xRLYvHdwm-0
-    * O NOOB GASTOU ROBUX E CONSEGUIU A MELHOR ESPADA NO SLAYER SIMULATOR (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=lZXvHHgzebs
-    * O NOOB FRACO QUE FICOU OVERPOWER E PRO NO NEM FIGHTING SIMULATOR (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=aFVhWXgrK-k
-    * USEI 400 SHARDS NO DIVINO KAIDO E ESSAS PASSIVAS MYTHICAL VEIO NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=_EFm8pNRBHM
-    * O NOOB QUE FICOU PRO E OVERPOWER NO SIMULATOR SLAYER SIMULATOR
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=3UFMkXTEg8Y
-    * ESSA PASSIVA MYTHICAL É BOA MESMO HEIN! ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=Z_Y1h3q9IYk
-    * SATISFATÓRIO! DUNGEON NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=ncK7zuKP9ds
-    * PEGUEI SOLID GOLD NO SECRETO COM PASSIVA SECRETA MONSTER NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=ab2_FC6vTBI
-    * ESSE EVENTO DA ATUALIZAÇÃO FOI... ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=S2_RGnh1z30
-    * VOCÊ SE GARANTE NA SORTE? EU NÃO! ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=k8dPuANPk6Q
-    * É SÉRIO QUE EU GASTEI ROBUX, PARA ISSO? ANIME FIGHTERS... (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=x4uqn191yWQ
-    * FIZ DEFENSE POR HORAS E ESSA ESTRATÉGIA NO NOVO SECRETO DO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=71nY-LMUKXI
-    * PEGUEI A NOVA PASSIVA NO SECRETO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=Zuldk3niQjc
-    * USAMOS A POÇÃO SHINY NO MELHOR EVENTO DO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=hl2vACmeVe4
-    * TRISTE... ATUALIZAÇÃO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=Z1EcG7sP1Ac
-    * TIVE A MAIOR SORTE NA NOVA DUNGEON DA ATUALIZAÇÃO NA NOOB AO PRO OP (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=cZ1HaeqUg88
-    * USEI 70.000 FRUTAS PARA FAZER ISSO NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=QM3dLL7bJUk
-    * GASTEI ROBUX COM O MYTHICAL SHANKS DE PET NO ANIME PLUSH SIMULATOR (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=Wjlew0-aG04
-    * FOI REVELADO ISSO NA ATUALIZAÇÃO DO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=cy9P3W56-m8
-    * FUI NA ÚLTIMA CAMADA PARA CONSEGUIR O MINÉRIO SECRETO E IR PARA O ESPAÇO NO MINING SIMULATOR 2
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=8b5udNvvvWU
-    * xau anime fighters oi blox fruits
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=ZY4_XJQPG4E
-    * FINALMENTE FIZ O TRUQUE DE UPAR PERSONAGEM NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=bc3ZKdRwQ8w
-    * ACONTECEU! MAIS DE 600 SHARDS EM PASSIVAS NO SECRETO DO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=DeyESCczq7s
-    * quem não arrisca não petisca, no divino shiny - noob ao pro op \#14 anime fighters (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=2IAi2FNYaqM
-    * USEI O TRUQUE SECRETO DE XP PARA UPAR RANK NO ANIME FIGHTERS (ROBLOX)
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=zAX_TYdSEVs
-    * ENTÃO... O PRIMEIRO DIVINO LIMITADO SHINY DA CONTA? - NOOB AO PRO OP \#13 ANIME FIGHTERS
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=4S2ctZvFOuE
 * Poke (Pokediger1)
   * Phishing
     * HACKING AND GIVING A FAN FREE ROBUX ON ROBLOX!!
@@ -10624,6 +10421,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 5 MISTERIOS DO ROBLOX QUE VOCÊ NUNCA SOUBE
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=56mZo9WAWaU
+* Snug Life (YT_SnugLife)
+  * Other
+    * I \*CRAFTED\* a SHINY BEACH MYTHIC HAT! 20,000,000 TOTAL INFECT! \*SUPER OP!\* In Sneezing Simulator!
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=4WAP4u2-l7k
 * SrtaLuly (SrtaLuly03)
   * Information Collection
     * BALDI o GRANNY? QUÉ PREFIERES? en ROBLOX 😱
