@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 30, 2022<br>
+Generated October 31, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -270,7 +270,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Carbon Meister Plays (CarbonMeister)
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
-* Castor Troy (akeelovesme)
+* Castor Troy (akeejayy)
 * CatFer (SoyCatFer)
 * CATYPINK PLAY (catypink15)
 * cazum8 (cazum8)
@@ -535,7 +535,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Michaels Mayhem 
 * MICHI RØBLØX (michineyley)
 * MicroGuardian (MicroGuardian)
-* MicroStrategy - ENG (RoofOmnis)
 * MikeDoesThis (DigitoPlaysThis)
 * Mila FunPlayer (trxmila)
 * MiniBloxia (SubToMiniBloxia)
@@ -579,7 +578,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * P0gMasterZ (P0gMasterZ)
 * PaanDuh (PPaanDuh)
 * PaintingRainbows (RainbowsYT)
-* palsitive / Signicial (Signicial)
 * PandazPlay (ComplexConniee and ComplexJason)
 * PandinhaGame (PandinhaGame)
 * Pankayz 
@@ -632,6 +630,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Robrox (IchBinBrox)
 * Robstix (Robstix)
 * Rod Velloso (viddrox)
+* Roof (RoofOmnis)
 * Roplex Gaming 
 * RoTomek 
 * roxhi roblox (12345roxyhi12345)
@@ -657,6 +656,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
+* Signicial (Signicial)
 * Silent Playz (RandomYoutuber0202)
 * SimplySpring 
 * Sircheko (Sircheko_yt)
@@ -715,7 +715,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ThyEdgar (THYEDGAR_YT)
 * Tigre TV (StarCode_TigreTVyt)
 * Tikida (Sanaaa8ans)
-* Tinii (TinenQa1)
+* TinenQa (TinenQa1)
 * TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
 * Tooquick 
@@ -767,7 +767,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Zilgon (Zilgon)
 * ZNac (LOLknitSuoY)
 * ZOMG (PandaBoss3_0)
-* zOnwley (zOnwley)
+* ZON (zOnwley)
 * ZULY (ItsZulyYT)
 * Zurielini (Zurix_500)
 * •Lavenderblossom• (OMG4LAV)
