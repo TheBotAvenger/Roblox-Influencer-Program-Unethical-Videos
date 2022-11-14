@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 13, 2022<br>
+Generated November 14, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -426,7 +426,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ImaGamerGirl (lmaGamerGirI)
 * InceptionTime (InceptionTime)
 * Inemafoo (Inemajohn)
-* Infernasu (nogreatergoodddd)
+* Infernasu (notwhatyouthinks)
 * Irmãs Gamers (iiPietra_GamesYT)
 * It's Akeila (itsakeila)
 * It's Siena (ItsNotSiena3)
@@ -548,7 +548,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mr\_Booshot (Mr\_Booshot)
 * MrLokazo86 (Lokazo86)
 * MrPankeyk (MrPankeyk)
-* Mud Playz (DunkinMud)
+* Mud Playz (Mud_Playz)
 * Mxddsie (mxddsie)
 * MxghtyJxstin (MxghtyJxstin)
 * Myster0y (Myster0y)
