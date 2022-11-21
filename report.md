@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 20, 2022<br>
+Generated November 21, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -270,7 +270,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Carbon Meister Plays (CarbonMeister)
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
-* Castor Troy (akeejayy)
+* Castor Troy (akeeloveshim)
 * CatFer (SoyCatFer)
 * CATYPINK PLAY (catypink15)
 * cazum8 (cazum8)
@@ -426,7 +426,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ImaGamerGirl (lmaGamerGirI)
 * InceptionTime (InceptionTime)
 * Inemafoo (Inemajohn)
-* Infernasu (notwhatyouthinks)
+* Infernasu (Infernasu)
 * Irmãs Gamers (iiPietra_GamesYT)
 * It's Akeila (itsakeila)
 * It's Siena (ItsNotSiena3)
