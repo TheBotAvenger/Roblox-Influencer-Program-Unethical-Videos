@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 27, 2022<br>
+Generated November 28, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -270,7 +270,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Carbon Meister Plays (CarbonMeister)
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
-* Castor Troy (akeeloveshim)
+* Castor Troy (akeepogiiii)
 * CatFer (SoyCatFer)
 * CATYPINK PLAY (catypink15)
 * cazum8 (cazum8)
@@ -283,7 +283,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Christocream (Christocream)
-* Chrisu Gaming (ChristsuYT)
+* Chrisu (ChristsuYT)
 * Chyna Gaming (Iamchynagaming)
 * cKev (cKevvv)
 * Claus (ClausOFC)
@@ -311,7 +311,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DaPandaGirl (Da_PandaGirl)
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
-* Deathvanessa (itsdeathvanessa)
+* Deathvanessa (H1llary_cli1nton)
 * DeeterPlays (DeeterPlays)
 * DeGoBooM (BumiReal)
 * Devo (Devovorya)
@@ -666,7 +666,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sleigher (Gsleigh)
 * Slykage (Sly_Kage)
 * Sniffycat (SnickerHoops)
-* Snowi Fox (snowi_fox)
 * Sofia Tube (sofiatube7)
 * Solem Archive (iJackeryz)
 * SOLURI (URlPOP)
@@ -731,6 +730,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
 * Tx_cle (TxcIes)
+* Tyler & Snowi (snowi_fox)
 * Uncle Kizaru (Uncle_Kizaru)
 * unknown user 
 * Unlimited (Unlimited_Resources)
@@ -927,6 +927,11 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=2oXe2807bDM
+* Balver 
+  * Non-Giftcard Robux Giveaways
+    * Complete The HotWheel Track For R$1,000 Robux Challenge!
+      * Video gives away using group funds.
+      * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
 * Bandites (Bandites)
   * Non-Giftcard Robux Giveaways
     * "If you WIN I'll Give You 10,000 ROBUX" (ROBLOX Arsenal)
@@ -10566,11 +10571,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * LA HISTORIA DE COMO MORÍ ASESINADA SIN PIEDAD en ROBLOX (Murder Mystery!) 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=2W-_Tx-wcKo
-* Straw 
-  * Non-Giftcard Robux Giveaways
-    * Complete The HotWheel Track For R$1,000 Robux Challenge!
-      * Video gives away using group funds.
-      * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
 * Stron (StronbolYT)
   * Information Collection
     * ESPECIAL 150K SUSCRIPTORES MI NUEVO RAP
