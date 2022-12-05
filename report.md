@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 4, 2022<br>
+Generated December 5, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -311,7 +311,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DaPandaGirl (Da_PandaGirl)
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
-* Deathvanessa (H1llary_cli1nton)
+* Deathvanessa (Itsdeathvanessa)
 * DeeterPlays (DeeterPlays)
 * DeGoBooM (BumiReal)
 * Devo (Devovorya)
@@ -715,7 +715,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Tigre TV (StarCode_TigreTVyt)
 * Tikida (Sanaaa8ans)
 * TinenQa (TinenQa1)
-* TinyTurtle Roblox (BeautifulTinyTurtle)
 * TitanHammer Roblox (TitanHammerYT)
 * Tooquick 
 * Toxic Berry (berryiie)
@@ -746,6 +745,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * WikiaColors (WikiaColor_s)
 * WILCO (EsElWilco)
 * Woozlo (Woozlo)
+* World Defenders - TinyTurtle Roblox (BeautifulTinyTurtle)
 * XanderPlaysThis (XanderPlaysThis)
 * XdarzethX - Roblox & More! (xdarzethx)
 * xEnesR (xEnesR)
@@ -927,11 +927,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=2oXe2807bDM
-* Balver 
-  * Non-Giftcard Robux Giveaways
-    * Complete The HotWheel Track For R$1,000 Robux Challenge!
-      * Video gives away using group funds.
-      * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
 * Bandites (Bandites)
   * Non-Giftcard Robux Giveaways
     * "If you WIN I'll Give You 10,000 ROBUX" (ROBLOX Arsenal)
@@ -4830,6 +4825,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Consiga ROBUX GRÁTIS Dessa Maneira - SORTEIO 2000 Robux
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=Nda5CJd2LwQ
+* Family Guy Season 21 
+  * Non-Giftcard Robux Giveaways
+    * Complete The HotWheel Track For R$1,000 Robux Challenge!
+      * Video gives away using group funds.
+      * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
 * flashii (flashiilindo)
   * Other
     * CADA BOSS É UMA FRUTA ALEATÓRIA NO KING PIECE POREM SE EU E MINHA NAMORADA MORRER O VIDEO VAI ACABAR
