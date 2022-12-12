@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 11, 2022<br>
+Generated December 12, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -668,9 +668,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sniffycat (SnickerHoops)
 * Sofia Tube (sofiatube7)
 * Solem Archive (iJackeryz)
-* SOLURI (URlPOP)
+* SOLURI (SoyLurix)
 * Sons Of Fun (SonsofFun_YT)
-* Sontix (Sontixito)
+* Sonti (Sontixito)
 * Sopo Squad Gaming (mikedrop937, CammyxBoba, and soposhadow)
 * Soy Blue (SoyBluee)
 * Soy Mandy Games (SoyMandy2020)
