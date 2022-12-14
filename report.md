@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 13, 2022<br>
+Generated December 14, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,11 +185,11 @@ to the report if this happens.
 * Total videos: 661,740 videos
 * Total videos found that match keywords: 45,772 videos
   * Total unprocessed videos: 872 videos
-* Total videos found that are processed and marked: 3,374 videos 
-  * Information Collection: 2,289 videos
+* Total videos found that are processed and marked: 3,371 videos 
+  * Information Collection: 2,288 videos
   * Non-Giftcard Robux Giveaways: 967 videos
   * Other: 81 videos
-  * Phishing: 37 videos
+  * Phishing: 35 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -716,6 +716,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Tikida (Sanaaa8ans)
 * TinenQa (TinenQa1)
 * TitanHammer Roblox (TitanHammerYT)
+* Tofuu (forstaken)
 * Tooquick 
 * Toxic Berry (berryiie)
 * ToxicJim (supersonshadow17)
@@ -10733,16 +10734,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=r26GshuLRYM
     * GingerBread SECRETS! (They Follow you) | Build a boat For treasure ROBLOX
       * URL: https://www.youtube.com/watch?v=C0uu8r3QwPw
-* Tofuu (forstaken)
-  * Information Collection
-    * WE CRAFTED THE RAREST MYTHIC! (Roblox Assassin)
-      * Description references the data collection website rbxtrading.com.
-      * URL: https://www.youtube.com/watch?v=ik4v09njtl0
-  * Phishing
-    * HACKING A FAN ON ROBLOX AND GIVING THEM FREE ROBUX!
-      * URL: https://www.youtube.com/watch?v=Qr-olKdTSgA
-    * HACKING A FAN'S ROBLOX ACCOUNT! (I SPENT ALL THEIR ROBUX)
-      * URL: https://www.youtube.com/watch?v=6_Xb00zC_m4
 * truffios (truffios)
   * Non-Giftcard Robux Giveaways
     * last to leave the circle wins FREE ROBUX
