@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 19, 2022<br>
+Generated December 20, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,14 +182,14 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 661,740 videos
-* Total videos found that match keywords: 45,772 videos
-  * Total unprocessed videos: 872 videos
-* Total videos found that are processed and marked: 3,371 videos 
+* Total videos: 664,412 videos
+* Total videos found that match keywords: 45,911 videos
+  * Total unprocessed videos: 139 videos
+* Total videos found that are processed and marked: 3,387 videos 
   * Information Collection: 2,288 videos
-  * Non-Giftcard Robux Giveaways: 967 videos
-  * Other: 81 videos
-  * Phishing: 35 videos
+  * Non-Giftcard Robux Giveaways: 973 videos
+  * Other: 90 videos
+  * Phishing: 36 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -279,7 +279,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cerority (OfflineEating)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
-* Chillz (ChillzSubZero)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Christocream (Christocream)
@@ -512,7 +511,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * LunaBlox (Luna4Dangelis and DeiakZ)
 * Lunar Eclipse (Lunar3clispe)
 * Luuy (iiLuuy)
-* luvsunny (sunshrxxm)
 * luvxshine (luvxsh1ne3)
 * Luzablxx (Lzablxx)
 * M4DARA TR (MADARATRTRTR)
@@ -777,6 +775,12 @@ The following channels had nothing appear with manual searching. Videos may exis
 ### Videos Found
 * Aati Plays (AatikahKashif)
   * Non-Giftcard Robux Giveaways
+    * 15K ROBUX GIVEAWAY!! ✨🤑🎉 \#roblox \#shorts \#fyp
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=arClQvkdSSA
+    * 15K ROBUX GIVEAWAY!! ✨🤑🎉
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=sCeXnpFP6bs
     * Announcing the ROBUX GIVEAWAY WINNERS! 🤩🤑🌷🌿🌼💸 ¦ Aati Plays ☆♡ 💗💕
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=22MyK8w4dZE
@@ -1006,6 +1010,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SORTEO DE ROBUX PARA ROBLOX GRATIS | Cerso Roblox en español
       * Uses a Roblox Group with group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=V5Y3MNZv4K8
+* Chillz (ChillzSubZero)
+  * Non-Giftcard Robux Giveaways
+    * I Surprised A FAN With 10,000 FREE ROBUX… \#roblox \#shorts
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=XUjFXIFvqJY
 * ComfySunday (ComfySunday)
   * Phishing
     * SURPRISING A FAN WITH 1,000 ROBUXS!! SHE SAID THIS...
@@ -1022,6 +1031,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=g49cxhhSGkc
 * Complex Roblox (IamComplexRoblox)
   * Non-Giftcard Robux Giveaways
+    * 10k robux giveaway?!!!
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=C-LnZh8016o
     * 15k Robux Giveaway 🤩👏
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=wYWTj1BzwHY
@@ -4833,6 +4845,33 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
 * flashii (flashiilindo)
   * Other
+    * FIZ A MISSÃO SECRETA PRA DESPERTAR A GOMU GOMU NO MI NO KING PIECE (FICOU MUITO FORTE)
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=URsJN2iNJpk
+    * FUI DO LEVEL 0 AO MÁXIMO NO KING PIECE EM APENAS UM VÍDEO (ROBLOX)
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=9FXK8iKEFP4
+    * TESTEI A SORTE DOS MEUS AMIGOS NO BLOX FRUITS DE NOVO, QUEM PEGAR A FRUTA MAIS RARA GANHA!
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=MH4xtr1zp5E
+    * O GRAND PIECE ONLINE FICOU DE GRAÇA E TALVEZ EU VOU SER BANIDO POR FAZER ISSO...
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=Lic9xHX-dd8
+    * O LUFFY GEAR 5 CHEGOU NESSE JOGO DE ROBLOX E EU GASTEI MEU DINHEIRO ATOA...
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=sXgQNxocjN0
+    * CADA BOSS É UMA FRUTA ALÉATORIA NO KING PIECE POREM SE A GENTE MORRER O VÍDEO VAI ACABAR KKKKKKJJJ
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=fx2nKOPc09o
+    * MINHA NAMORADA COMEU MINHA BUNDHA NO BLOX FRUITS
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=D0zZm46shxE
+    * TESTANDO A SORTE DOS MEUS AMIGOS NO BLOX FRUITS, QUEM TIRAR A MELHOR FRUTA GANHA
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=7RVCH9uQhjg
+    * DEI ESSA FRUTA PRA MINHA NAMORADA NO BLOX FRUITS 😳
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=Avbna2vudMk
     * CADA BOSS É UMA FRUTA ALEATÓRIA NO KING PIECE POREM SE EU E MINHA NAMORADA MORRER O VIDEO VAI ACABAR
       * Contains an ad for "black market" Robux and Limiteds ro.place.
       * URL: https://www.youtube.com/watch?v=NDUsXMk9i7o
@@ -6839,6 +6878,10 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=sEBKoeC_Pxs&pp=sAQA
 * Kaden (jokerkid5898)
+  * Phishing
+    * A fan gave me their PASSWORD… So I made them RICH
+      * Logs into a fan's account after being given the username and password over email. Also exposes the email of the user.
+      * URL: https://www.youtube.com/watch?v=Ib_wdZtbvwY
   * Non-Giftcard Robux Giveaways
     * STOP ASKING ME FOR ROBUX AAAA
       * Uses group funds to give away Robux.
@@ -7175,6 +7218,14 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Roblox - A CAIXA MAIS RARA DO LUMBER TYCOON 2!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=PjipkRCDeEY
+* luvsunny (sunshrxxm)
+  * Non-Giftcard Robux Giveaways
+    * ROBUX GIVEAWAY WINNERS \*SO MUCH ROBUX😱\*
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=slDo42OGX3Y
+    * HOW TO GET FREE ROBUX😳 \*2023 METHOD\*
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=IUThFHBAlYU
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
