@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 20, 2022<br>
+Generated December 21, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,11 +184,11 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 664,412 videos
 * Total videos found that match keywords: 45,911 videos
-  * Total unprocessed videos: 139 videos
-* Total videos found that are processed and marked: 3,387 videos 
+  * Total unprocessed videos: 148 videos
+* Total videos found that are processed and marked: 3,378 videos 
   * Information Collection: 2,288 videos
   * Non-Giftcard Robux Giveaways: 973 videos
-  * Other: 90 videos
+  * Other: 81 videos
   * Phishing: 36 videos
 
 ### No Videos Found
@@ -4845,33 +4845,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
 * flashii (flashiilindo)
   * Other
-    * FIZ A MISSÃO SECRETA PRA DESPERTAR A GOMU GOMU NO MI NO KING PIECE (FICOU MUITO FORTE)
-      * Contains an ad for "black market" Robux and Limiteds ro.place.
-      * URL: https://www.youtube.com/watch?v=URsJN2iNJpk
-    * FUI DO LEVEL 0 AO MÁXIMO NO KING PIECE EM APENAS UM VÍDEO (ROBLOX)
-      * Contains an ad for "black market" Robux and Limiteds ro.place.
-      * URL: https://www.youtube.com/watch?v=9FXK8iKEFP4
-    * TESTEI A SORTE DOS MEUS AMIGOS NO BLOX FRUITS DE NOVO, QUEM PEGAR A FRUTA MAIS RARA GANHA!
-      * Contains an ad for "black market" Robux and Limiteds ro.place.
-      * URL: https://www.youtube.com/watch?v=MH4xtr1zp5E
-    * O GRAND PIECE ONLINE FICOU DE GRAÇA E TALVEZ EU VOU SER BANIDO POR FAZER ISSO...
-      * Contains an ad for "black market" Robux and Limiteds ro.place.
-      * URL: https://www.youtube.com/watch?v=Lic9xHX-dd8
-    * O LUFFY GEAR 5 CHEGOU NESSE JOGO DE ROBLOX E EU GASTEI MEU DINHEIRO ATOA...
-      * Contains an ad for "black market" Robux and Limiteds ro.place.
-      * URL: https://www.youtube.com/watch?v=sXgQNxocjN0
-    * CADA BOSS É UMA FRUTA ALÉATORIA NO KING PIECE POREM SE A GENTE MORRER O VÍDEO VAI ACABAR KKKKKKJJJ
-      * Contains an ad for "black market" Robux and Limiteds ro.place.
-      * URL: https://www.youtube.com/watch?v=fx2nKOPc09o
-    * MINHA NAMORADA COMEU MINHA BUNDHA NO BLOX FRUITS
-      * Contains an ad for "black market" Robux and Limiteds ro.place.
-      * URL: https://www.youtube.com/watch?v=D0zZm46shxE
-    * TESTANDO A SORTE DOS MEUS AMIGOS NO BLOX FRUITS, QUEM TIRAR A MELHOR FRUTA GANHA
-      * Contains an ad for "black market" Robux and Limiteds ro.place.
-      * URL: https://www.youtube.com/watch?v=7RVCH9uQhjg
-    * DEI ESSA FRUTA PRA MINHA NAMORADA NO BLOX FRUITS 😳
-      * Contains an ad for "black market" Robux and Limiteds ro.place.
-      * URL: https://www.youtube.com/watch?v=Avbna2vudMk
     * CADA BOSS É UMA FRUTA ALEATÓRIA NO KING PIECE POREM SE EU E MINHA NAMORADA MORRER O VIDEO VAI ACABAR
       * Contains an ad for "black market" Robux and Limiteds ro.place.
       * URL: https://www.youtube.com/watch?v=NDUsXMk9i7o
