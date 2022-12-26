@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 25, 2022<br>
+Generated December 26, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -270,7 +270,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Carbon Meister Plays (CarbonMeister)
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
-* Castor Troy (akeepogiiii)
+* Castor Troy (akeekekeke)
 * CatFer (SoyCatFer)
 * CATYPINK PLAY (catypink15)
 * cazum8 (cazum8)
@@ -310,7 +310,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DaPandaGirl (Da_PandaGirl)
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
-* Deathvanessa (Itsdeathvanessa)
+* Deathvanessa (BlaireVanderwalt)
 * DeeterPlays (DeeterPlays)
 * DeGoBooM (BumiReal)
 * Devo (Devovorya)
@@ -546,7 +546,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mr\_Booshot (Mr\_Booshot)
 * MrLokazo86 (Lokazo86)
 * MrPankeyk (MrPankeyk)
-* Mud Playz (Mud_Playz)
+* Mud Playz (JollyMud)
 * Mxddsie (mxddsie)
 * MxghtyJxstin (MxghtyJxstin)
 * Myster0y (Myster0y)
@@ -4975,7 +4975,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO CREATE A PASSIVE INCOME GAMING 35 \#passiveincome \#gaming
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=l3qwVIOIwgc
-* GraserPlays (MasterGraser)
+* Graser Roblox (MasterGraser)
   * Other
     * i secretly used hacks against a Roblox Piggy youtuber..
       * Demonstrates using an autoclicker to exploit going through walls.
