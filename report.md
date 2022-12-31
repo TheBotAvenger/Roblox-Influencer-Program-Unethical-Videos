@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 30, 2022<br>
+Generated December 31, 2022<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,12 +184,12 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 667,088 videos
 * Total videos found that match keywords: 46,091 videos
-  * Total unprocessed videos: 334 videos
-* Total videos found that are processed and marked: 3,372 videos 
-  * Information Collection: 2,286 videos
-  * Non-Giftcard Robux Giveaways: 971 videos
-  * Other: 80 videos
-  * Phishing: 35 videos
+  * Total unprocessed videos: 7 videos
+* Total videos found that are processed and marked: 3,387 videos 
+  * Information Collection: 2,288 videos
+  * Non-Giftcard Robux Giveaways: 973 videos
+  * Other: 90 videos
+  * Phishing: 36 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -358,7 +358,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FishyBlox (FishyBloxYT)
 * FlameRBX (SnowRBX_Youtube)
 * Flamingo (mrflimflam)
-* flashii (flashiilindo)
 * Flebsy (Flebsy)
 * Flxral (xoFlxral)
 * FlyBorg (KaykBlox)
@@ -599,7 +598,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PrestonGamez (PrestonPlayz)
 * Pretzel Etzel (pretzel_etzel)
 * PREZLEY (PrezleyOfficial)
-* PRIME FURIOUS (Prime_Furious)
 * Princess Royale (IAmPrincessRoyale)
 * Princess Tori (ItsToriTimeYT)
 * Proder (Prod3r)
@@ -690,7 +688,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SweePee (SweePeeRBLX)
 * Só Por Causa (Est3vA0)
 * Tangochini (Tangochini)
-* TanqR (TanqR)
 * Tapparay (Tapparay)
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
@@ -784,6 +781,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 15K ROBUX GIVEAWAY!! ✨🤑🎉
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=sCeXnpFP6bs
+    * Announcing the ROBUX GIVEAWAY WINNERS! 🤩🤑🌷🌿🌼💸 ¦ Aati Plays ☆♡ 💗💕
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=22MyK8w4dZE
 * Ant (Cringley)
   * Other
     * So I MADE A ROBLOX GAME.. It's called DETECTIVE (Roblox)
@@ -4843,6 +4843,38 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Complete The HotWheel Track For R$1,000 Robux Challenge!
       * Video gives away using group funds.
       * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
+* flashii (flashiilindo)
+  * Other
+    * fiz a missão secreta pra despertar a gomu gomu no mi no king piece
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=URsJN2iNJpk
+    * fui do  LEVEL 0 AO MÁXIMO NO KING PIECE EM APENAS UM VÍDEO
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=9FXK8iKEFP4
+    * testando a sorte dos meus amigos no blox fruits dnv kkkkkkkjjj
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=MH4xtr1zp5E
+    * o grand piece ficou de graça e talvez eu seja banido por fazer isso
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=Lic9xHX-dd8
+    * o luffy gear 5 biruta chegou e eu gastei meu dinheiro atoa kkkkkkkkjj
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=sXgQNxocjN0
+    * cada boss é uma fruta aleatória no king piece porem se a gente morrer o vídeo acaba kkkkkkjj
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=fx2nKOPc09o
+    * minha namorada comeu minha bundha no blox fruits
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=D0zZm46shxE
+    * testando a sorte dos meus amigos no blox fruits kkkkkkkkjj
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=7RVCH9uQhjg
+    * dei essa fruta pra minha namorada no blox fruits 😳
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=Avbna2vudMk
+    * CADA BOSS É UMA FRUTA ALEATÓRIA NO KING PIECE POREM SE EU E MINHA NAMORADA MORRER O VIDEO VAI ACABAR
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=NDUsXMk9i7o
 * FunkySquadHD (UseCode_Funky)
   * Information Collection
     * Rthro On Pet Simulator! Roblox
@@ -6846,6 +6878,10 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=sEBKoeC_Pxs&pp=sAQA
 * Kaden (jokerkid5898)
+  * Phishing
+    * A fan gave me their PASSWORD… So I made them RICH
+      * Logs into a fan's account after being given the username and password over email. Also exposes the email of the user.
+      * URL: https://www.youtube.com/watch?v=Ib_wdZtbvwY
   * Non-Giftcard Robux Giveaways
     * STOP ASKING ME FOR ROBUX AAAA
       * Uses group funds to give away Robux.
@@ -8792,6 +8828,10 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website bloxmarket.com.
       * URL: https://www.youtube.com/watch?v=tbKapJPBUNY
 * PHMittens (PHMittensSTARCreator)
+  * Information Collection
+    * Pet Simulator X \#30 - ROBLOX - FACE REVEAL SA BILLIONAIRE HOUSE NILA @VonOrdonaVlogs NA SCAM AKO!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=aJnQ9D7NaSo
   * Other
     * NEW CHRISTMAS UPDATE! \*SECRET\* HOW TO GET ADVANCED SERVER FOR FREE! IN PET SIMULATOR X!!
       * Description references the "black market for limiteds and Robux" ro.place.
@@ -8809,6 +8849,11 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=zO9TU0qdcIo
     * BELIEVE I'M POKE, WIN 1000 ROBUX! (Roblox)
       * URL: https://www.youtube.com/watch?v=R1_7Zp5RN2A
+* PRIME FURIOUS (Prime_Furious)
+  * Information Collection
+    * COMMENT GAGNER GRATUITEMENT DES ROBUX SUR ROBLOX EN 2021 !!!! UN SITE SANS ARNAQUE CA EXISTE !!!???
+      * Description references the data collection website gamehag.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=dfMOWKP4q2c
 * Rainway (UseCode_Rainway)
   * Information Collection
     * \*NEW UPDATE\* ADOPT A POLICE DOG! \*TREATS\* (ROBLOX MAD CITY)
@@ -10608,6 +10653,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
+* TanqR (TanqR)
+  * Non-Giftcard Robux Giveaways
+    * 1 KILL = $1000 Robux in Roblox Bedwars..
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=COqizjAstxE
 * Telanthric (Telanthric)
   * Other
     * ⚡ I EVOLVED in Sneezing Simulator \*EVOLUTIONS  / UPDATE 3\* \[🎁CODE\]
