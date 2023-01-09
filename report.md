@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 8, 2023<br>
+Generated January 9, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -270,7 +270,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Carbon Meister Plays (CarbonMeister)
 * Cari - Roblox (Carihyper)
 * Carol TV (caaroltv)
-* Castor Troy (akeekekeke)
 * CatFer (SoyCatFer)
 * CATYPINK PLAY (catypink15)
 * cazum8 (cazum8)
@@ -279,6 +278,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cerority (OfflineEating)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
+* Cheska - Roblox (akeekekeke)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Christocream (Christocream)
