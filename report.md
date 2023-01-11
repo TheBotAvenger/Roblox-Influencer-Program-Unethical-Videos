@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 10, 2023<br>
+Generated January 11, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,8 @@ to the report if this happens.
 * Total videos: 672,080 videos
 * Total videos found that match keywords: 46,360 videos
   * Total unprocessed videos: 276 videos
-* Total videos found that are processed and marked: 3,387 videos 
-  * Information Collection: 2,288 videos
+* Total videos found that are processed and marked: 3,386 videos 
+  * Information Collection: 2,287 videos
   * Non-Giftcard Robux Giveaways: 973 videos
   * Other: 90 videos
   * Phishing: 36 videos
@@ -9315,9 +9315,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL NEW SECRET CODES in VEHICLE SIMULATOR! - Vehicle Simulator💵 2020 (Roblox)
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=O8HFg9Mnzbo
-    * HOW TO EARN EASY ROBUX!
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=K1dB08DJ348
 * Seniac (MrSeniac)
   * Other
     * ROBLOX SNEEZING SIMULATOR
