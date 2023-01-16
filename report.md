@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 15, 2023<br>
+Generated January 16, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -328,7 +328,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Dr laba (Dr_laba)
 * DraconiteDragon (ItsDraconiteDragon)
 * dragonplatinum (dragonplatinum)
-* Drei Diego (AndreiEon124)
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
 * El Magnum (MagnumStormus)
@@ -651,6 +650,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * sebee (23Sebee)
 * SeñoritoFran (SrFrancesYT)
 * shadow network (realshadownetwork)
+* Shakira Live (AndreiEon124)
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
@@ -8879,7 +8879,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * *HOW TO BECOME A PIRATE ON ROBLOX!*
       * *Video includes  "f\*\*\*" (59x),"s\*\*\*" (12x), and "b\*\*\*\*" (4x), "a\*\*" (2x), "r\*\*\*" (4x), and "c\*\*\*" (1x).*
       * *URL: https://www.youtube.com/watch?v=CNqOrpkX1xU*
-* Rambling Ramul (RamblingRamul)
+* RAMBLING RAMUL (RamblingRamul)
   * Non-Giftcard Robux Giveaways
     * TRYING TO DONATE REAL ROBUX TO PEOPLE \[ROBLOX Social Experiment\]
       * Uses group funds to give away Robux.
@@ -10615,20 +10615,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * LA HISTORIA DE COMO MORÍ ASESINADA SIN PIEDAD en ROBLOX (Murder Mystery!) 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=2W-_Tx-wcKo
-* Stron (StronbolYT)
-  * Information Collection
-    * ESPECIAL 150K SUSCRIPTORES MI NUEVO RAP
-      * Contains an ad for the information collection website ezrewards.com.
-      * URL: https://www.youtube.com/watch?v=rdEdLaRpBGU
-    * PROBANDO PAPAS ¿RARAS? DE OTROS PAISES 😱 \*CON MI CARA\*
-      * Video is about the informtion collection website ezrewards.today.
-      * URL: https://www.youtube.com/watch?v=KI5O1tRgekU
-    * 🎵 Roblox "El noob" 🎵 Parodia wake me up - Avicii ft JusepeHD 🎵
-      * Contains an ad for the information collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=3t5KXrZGv7Q
-    * YOUTUBERS VS ILUMINATI VIDEO REACCION EPICA CON XONNEK \*MUESTRO MI CARA\*
-      * Contains an ad for the information collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=gYBSdkTFOtY
 * Sub 
   * Non-Giftcard Robux Giveaways
     * YOU WON FREE ROBUX!
@@ -10703,6 +10689,20 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBUX GIVEAWAY! | HUNTING SHINY POKEMON (Pokemon Brick Bronze) | ROBLOX
       * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=X1yPl2wSYL8
+* Tesla News (StronbolYT)
+  * Information Collection
+    * ESPECIAL 150K SUSCRIPTORES MI NUEVO RAP
+      * Contains an ad for the information collection website ezrewards.com.
+      * URL: https://www.youtube.com/watch?v=rdEdLaRpBGU
+    * PROBANDO PAPAS ¿RARAS? DE OTROS PAISES 😱 \*CON MI CARA\*
+      * Video is about the informtion collection website ezrewards.today.
+      * URL: https://www.youtube.com/watch?v=KI5O1tRgekU
+    * 🎵 Roblox "El noob" 🎵 Parodia wake me up - Avicii ft JusepeHD 🎵
+      * Contains an ad for the information collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=3t5KXrZGv7Q
+    * YOUTUBERS VS ILUMINATI VIDEO REACCION EPICA CON XONNEK \*MUESTRO MI CARA\*
+      * Contains an ad for the information collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=gYBSdkTFOtY
 * ThatGuy (ThatGuyTG)
   * Non-Giftcard Robux Giveaways
     * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#8
