@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 17, 2023<br>
+Generated January 18, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,8 @@ to the report if this happens.
 * Total videos: 674,657 videos
 * Total videos found that match keywords: 46,533 videos
   * Total unprocessed videos: 449 videos
-* Total videos found that are processed and marked: 3,386 videos 
-  * Information Collection: 2,287 videos
+* Total videos found that are processed and marked: 3,382 videos 
+  * Information Collection: 2,283 videos
   * Non-Giftcard Robux Giveaways: 973 videos
   * Other: 90 videos
   * Phishing: 36 videos
@@ -692,6 +692,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
 * Temprist (Temprist)
+* Tesla News (StronbolYT)
 * Tex HS (TexWillerHS)
 * th3c0nnman (th3c0nnman)
 * The Crystalline Gamerz (sese64 and toftof2019)
@@ -10689,20 +10690,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBUX GIVEAWAY! | HUNTING SHINY POKEMON (Pokemon Brick Bronze) | ROBLOX
       * Uses group funds to giveaway Robux.
       * URL: https://www.youtube.com/watch?v=X1yPl2wSYL8
-* Tesla News (StronbolYT)
-  * Information Collection
-    * ESPECIAL 150K SUSCRIPTORES MI NUEVO RAP
-      * Contains an ad for the information collection website ezrewards.com.
-      * URL: https://www.youtube.com/watch?v=rdEdLaRpBGU
-    * PROBANDO PAPAS ¿RARAS? DE OTROS PAISES 😱 \*CON MI CARA\*
-      * Video is about the informtion collection website ezrewards.today.
-      * URL: https://www.youtube.com/watch?v=KI5O1tRgekU
-    * 🎵 Roblox "El noob" 🎵 Parodia wake me up - Avicii ft JusepeHD 🎵
-      * Contains an ad for the information collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=3t5KXrZGv7Q
-    * YOUTUBERS VS ILUMINATI VIDEO REACCION EPICA CON XONNEK \*MUESTRO MI CARA\*
-      * Contains an ad for the information collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=gYBSdkTFOtY
 * ThatGuy (ThatGuyTG)
   * Non-Giftcard Robux Giveaways
     * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#8
