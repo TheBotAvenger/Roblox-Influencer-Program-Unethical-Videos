@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 22, 2023<br>
+Generated January 23, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -310,7 +310,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DaPandaGirl (Da_PandaGirl)
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse and FunHouseDadWasTaken)
-* Deathvanessa (BlaireVanderwalt)
+* Deathvanessa (itsdeathvanessa)
 * DeeterPlays (DeeterPlays)
 * DeGoBooM (BumiReal)
 * Devo (Devovorya)
@@ -682,6 +682,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Stevebloxian (steven111234)
 * stream CA Roblox (stream\_CA and Dominus\_CA)
 * Striker180x (strikerl80x)
+* Stron (StronbolYT)
 * SunnyxMisty (xSunnyxMistyx)
 * Sunset Safari (HeySunsetSafari)
 * SuperDog Tyler (superdog_tyler)
@@ -692,7 +693,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
 * Temprist (Temprist)
-* Tesla News (StronbolYT)
 * Tex HS (TexWillerHS)
 * th3c0nnman (th3c0nnman)
 * The Crystalline Gamerz (sese64 and toftof2019)
