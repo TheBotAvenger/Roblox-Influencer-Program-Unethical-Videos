@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 24, 2023<br>
+Generated January 25, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,11 +184,11 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 677,217 videos
 * Total videos found that match keywords: 46,685 videos
-  * Total unprocessed videos: 601 videos
-* Total videos found that are processed and marked: 3,382 videos 
-  * Information Collection: 2,283 videos
+  * Total unprocessed videos: 603 videos
+* Total videos found that are processed and marked: 3,384 videos 
+  * Information Collection: 2,287 videos
   * Non-Giftcard Robux Giveaways: 973 videos
-  * Other: 90 videos
+  * Other: 88 videos
   * Phishing: 36 videos
 
 ### No Videos Found
@@ -682,7 +682,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Stevebloxian (steven111234)
 * stream CA Roblox (stream\_CA and Dominus\_CA)
 * Striker180x (strikerl80x)
-* Stron (StronbolYT)
 * SunnyxMisty (xSunnyxMistyx)
 * Sunset Safari (HeySunsetSafari)
 * SuperDog Tyler (superdog_tyler)
@@ -4844,12 +4843,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * fiz a missão secreta pra despertar a gomu gomu no mi no king piece
       * Contains an ad for "black market" Robux and Limiteds ro.place.
       * URL: https://www.youtube.com/watch?v=URsJN2iNJpk
-    * fui do  LEVEL 0 AO MÁXIMO NO KING PIECE EM APENAS UM VÍDEO
-      * Contains an ad for "black market" Robux and Limiteds ro.place.
-      * URL: https://www.youtube.com/watch?v=9FXK8iKEFP4
-    * testando a sorte dos meus amigos no blox fruits dnv kkkkkkkjjj
-      * Contains an ad for "black market" Robux and Limiteds ro.place.
-      * URL: https://www.youtube.com/watch?v=MH4xtr1zp5E
     * o grand piece ficou de graça e talvez eu seja banido por fazer isso
       * Contains an ad for "black market" Robux and Limiteds ro.place.
       * URL: https://www.youtube.com/watch?v=Lic9xHX-dd8
@@ -10616,6 +10609,20 @@ The following channels had nothing appear with manual searching. Videos may exis
     * LA HISTORIA DE COMO MORÍ ASESINADA SIN PIEDAD en ROBLOX (Murder Mystery!) 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=2W-_Tx-wcKo
+* Stron (StronbolYT)
+  * Information Collection
+    * ESPECIAL 150K SUSCRIPTORES MI NUEVO RAP
+      * Contains an ad for the information collection website ezrewards.com.
+      * URL: https://www.youtube.com/watch?v=rdEdLaRpBGU
+    * PROBANDO PAPAS ¿RARAS? DE OTROS PAISES 😱 \*CON MI CARA\*
+      * Video is about the informtion collection website ezrewards.today.
+      * URL: https://www.youtube.com/watch?v=KI5O1tRgekU
+    * 🎵 Roblox "El noob" 🎵 Parodia wake me up - Avicii ft JusepeHD 🎵
+      * Contains an ad for the information collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=3t5KXrZGv7Q
+    * YOUTUBERS VS ILUMINATI VIDEO REACCION EPICA CON XONNEK \*MUESTRO MI CARA\*
+      * Contains an ad for the information collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=gYBSdkTFOtY
 * Sub 
   * Non-Giftcard Robux Giveaways
     * YOU WON FREE ROBUX!
