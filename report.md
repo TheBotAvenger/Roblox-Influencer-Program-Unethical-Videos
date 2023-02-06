@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 5, 2023<br>
+Generated February 6, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -328,6 +328,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Dr laba (Dr_laba)
 * DraconiteDragon (ItsDraconiteDragon)
 * dragonplatinum (dragonplatinum)
+* Drei Diego (AndreiEon124)
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
 * El Magnum (MagnumStormus)
@@ -376,8 +377,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GabriellaGames 
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
-* Gamer Hexapod - R3 (Hexapod_xD)
 * Gamer Kawaii (iiGamerKawaiiYT)
+* GamerHexapod (Hexapod_xD)
 * Gamermais 
 * GamerNom (MaybeItsMyFault)
 * GamingwithVYT (GamingwithVYT)
@@ -650,7 +651,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * sebee (23Sebee)
 * SeñoritoFran (SrFrancesYT)
 * shadow network (realshadownetwork)
-* Shakira Live (AndreiEon124)
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
@@ -4838,6 +4838,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Consiga ROBUX GRÁTIS Dessa Maneira - SORTEIO 2000 Robux
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=Nda5CJd2LwQ
+* Family Guy Season 22 
+  * Non-Giftcard Robux Giveaways
+    * Complete The HotWheel Track For R$1,000 Robux Challenge!
+      * Video gives away using group funds.
+      * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
 * flashii (flashiilindo)
   * Other
     * fiz a missão secreta pra despertar a gomu gomu no mi no king piece
@@ -11104,11 +11109,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MAMA CLAUS LOCA SE ENAMORA DE MI en BROOKHAVEN - Roblox YoSoyLoki
       * Description references the "black market for limiteds and Robux" ro.place.
       * URL: https://www.youtube.com/watch?v=FxWczYI9BTI
-* YTStraw2023 
-  * Non-Giftcard Robux Giveaways
-    * Complete The HotWheel Track For R$1,000 Robux Challenge!
-      * Video gives away using group funds.
-      * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
 * ZacharyZaxor (ZacharyZaxor)
   * Phishing
     * I Hacked Into The Biggest Hackers Account.. (Roblox Bedwars)
