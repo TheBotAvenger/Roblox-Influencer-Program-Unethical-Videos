@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 7, 2023<br>
+Generated February 8, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 682,769 videos
 * Total videos found that match keywords: 46,998 videos
-  * Total unprocessed videos: 916 videos
-* Total videos found that are processed and marked: 3,384 videos 
+  * Total unprocessed videos: 917 videos
+* Total videos found that are processed and marked: 3,383 videos 
   * Information Collection: 2,287 videos
-  * Non-Giftcard Robux Giveaways: 973 videos
+  * Non-Giftcard Robux Giveaways: 972 videos
   * Other: 88 videos
   * Phishing: 36 videos
 
@@ -781,9 +781,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 15K ROBUX GIVEAWAY!! ✨🤑🎉
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=sCeXnpFP6bs
-    * Announcing the ROBUX GIVEAWAY WINNERS! 🤩🤑🌷🌿🌼💸 ¦ Aati Plays ☆♡ 💗💕
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=22MyK8w4dZE
 * Ant (Cringley)
   * Other
     * So I MADE A ROBLOX GAME.. It's called DETECTIVE (Roblox)
