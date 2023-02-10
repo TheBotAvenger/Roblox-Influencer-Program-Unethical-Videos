@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 9, 2023<br>
+Generated February 10, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,11 +184,11 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 682,769 videos
 * Total videos found that match keywords: 46,998 videos
-  * Total unprocessed videos: 917 videos
-* Total videos found that are processed and marked: 3,383 videos 
+  * Total unprocessed videos: 914 videos
+* Total videos found that are processed and marked: 3,386 videos 
   * Information Collection: 2,287 videos
-  * Non-Giftcard Robux Giveaways: 972 videos
-  * Other: 88 videos
+  * Non-Giftcard Robux Giveaways: 973 videos
+  * Other: 90 videos
   * Phishing: 36 videos
 
 ### No Videos Found
@@ -781,6 +781,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 15K ROBUX GIVEAWAY!! ✨🤑🎉
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=sCeXnpFP6bs
+    * Announcing the ROBUX GIVEAWAY WINNERS! 🤩🤑🌷🌿🌼💸 ¦ Aati Plays ☆♡ 💗💕
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=22MyK8w4dZE
 * Ant (Cringley)
   * Other
     * So I MADE A ROBLOX GAME.. It's called DETECTIVE (Roblox)
@@ -4845,6 +4848,12 @@ The following channels had nothing appear with manual searching. Videos may exis
     * fiz a missão secreta pra despertar a gomu gomu no mi no king piece
       * Contains an ad for "black market" Robux and Limiteds ro.place.
       * URL: https://www.youtube.com/watch?v=URsJN2iNJpk
+    * fui do LEVEL 0 AO MÁXIMO NO KING PIECE EM APENAS UM VÍDEO
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=9FXK8iKEFP4
+    * testando a sorte dos meus amigos no blox fruits dnv kkkkkkkjjj
+      * Contains an ad for "black market" Robux and Limiteds ro.place.
+      * URL: https://www.youtube.com/watch?v=MH4xtr1zp5E
     * o grand piece ficou de graça e talvez eu seja banido por fazer isso
       * Contains an ad for "black market" Robux and Limiteds ro.place.
       * URL: https://www.youtube.com/watch?v=Lic9xHX-dd8
