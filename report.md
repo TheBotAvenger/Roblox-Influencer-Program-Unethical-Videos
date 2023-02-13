@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 12, 2023<br>
+Generated February 13, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -219,7 +219,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Armenti (LeArmenti)
 * AshleyBunni (BunniYT)
 * Ashleyosity (itsAshleyosity)
-* AtlasZero (Atlas0Zero)
+* AtlasBloxx (Atlas0Zero)
 * Augus (augusvidal)
 * Auratix (Auratix)
 * Avocado Playz (AvocadoPlayzOfficial)
@@ -501,6 +501,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * LimaMosca (LimaMosca)
 * LinMeiLee (LinMeiLee)
 * locus (locus200k)
+* Loja Uso Ideal (Spagzox)
 * Lokis (lokis9340)
 * Lord (Lorrd_ofc)
 * LordMetalizer (MetalizerRBX)
@@ -564,6 +565,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Noob Master (N00B_Mast3rXD)
 * NotAmberRoblox (NotAmberRoblox)
 * notive (notive)
+* NPCTOYS (cortesgo)
 * O1G (TotallyNotO1G)
 * ObliviousHD (ObliviousHD)
 * officialnoobie (oofficialnoobie)
@@ -673,7 +675,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Soy Blue (SoyBluee)
 * Soy Mandy Games (SoyMandy2020)
 * SoyLuz (LuzCute24)
-* Spagz Blox (Spagzox)
 * Spekツ (ONESIEHOARDER308)
 * Squid Magic (Foolzy)
 * SrJuancho (JuanchoAcostado)
@@ -751,7 +752,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XericPlayz (XericPlayz)
 * xiaoleung (xiaoleung)
 * Xpie (Xpie101gamer)
-* Yafrima (cortesgo)
 * Yammy (yammyxox)
 * Yayixd Changuito 🐵 (YAYIXDCHANGU)
 * Yode Plays (yode1)
