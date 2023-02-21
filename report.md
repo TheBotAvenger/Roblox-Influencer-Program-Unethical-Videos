@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 20, 2023<br>
+Generated February 21, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 685,603 videos
-* Total videos found that match keywords: 47,148 videos
-  * Total unprocessed videos: 1,064 videos
-* Total videos found that are processed and marked: 3,386 videos 
+* Total videos: 688,250 videos
+* Total videos found that match keywords: 47,302 videos
+  * Total unprocessed videos: 1,217 videos
+* Total videos found that are processed and marked: 3,387 videos 
   * Information Collection: 2,287 videos
   * Non-Giftcard Robux Giveaways: 973 videos
-  * Other: 90 videos
+  * Other: 91 videos
   * Phishing: 36 videos
 
 ### No Videos Found
@@ -711,7 +711,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Thumbs Up Family (ThumbsUpFamily)
 * ThunberGames (ThunberGames)
 * ThyEdgar (THYEDGAR_YT)
-* Tigre TV (StarCode_TigreTVyt)
 * Tikida (Sanaaa8ans)
 * TinenQa (TinenQa1)
 * TitanHammer Roblox (TitanHammerYT)
@@ -10782,6 +10781,11 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=r26GshuLRYM
     * GingerBread SECRETS! (They Follow you) | Build a boat For treasure ROBLOX
       * URL: https://www.youtube.com/watch?v=C0uu8r3QwPw
+* Tigre TV (StarCode_TigreTVyt)
+  * Other
+    * O NOVO UPDATE DO BLOX FRUITS CRIADO DO 0 PELO YOUTUBER ATUALIZOU!!
+      * Description references the data collection website ezrewards.today.
+      * URL: https://www.youtube.com/watch?v=tVUV26nKVCE
 * truffios (truffios)
   * Non-Giftcard Robux Giveaways
     * last to leave the circle wins FREE ROBUX
