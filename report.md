@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 21, 2023<br>
+Generated February 22, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,8 @@ to the report if this happens.
 * Total videos: 688,250 videos
 * Total videos found that match keywords: 47,302 videos
   * Total unprocessed videos: 1,217 videos
-* Total videos found that are processed and marked: 3,387 videos 
-  * Information Collection: 2,287 videos
+* Total videos found that are processed and marked: 3,383 videos 
+  * Information Collection: 2,283 videos
   * Non-Giftcard Robux Giveaways: 973 videos
   * Other: 91 videos
   * Phishing: 36 videos
@@ -9142,18 +9142,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW FAME SIMULATOR CODES Roblox (Update 1)
       * Description references the data collection website gainblox.com.
       * URL: https://www.youtube.com/watch?v=CRjUtFMHGE4
-    * Jailbreak DINOSAUR MUSEUM UPDATE RELEASE DATE (Roblox Jailbreak)
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=CXYrlxO-rFo
-    * \*NEW\* How To Rob The MUSEUM! \[FULL WALK-THROUGH\]  Roblox Jailbreak Museum Update
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=wORbD2ARvEU
-    * HOW TO GET TONS OF ROBUX FOR CHEAP
-      * Description references the data collection website bloxmarket.com.
-      * URL: https://www.youtube.com/watch?v=-TCZhPO6Z0w
-    * GET FREE ROBUX FAST & EASY \*NOT CLICKBAIT\*
-      * Description references the data collection website earnrobux.gg/online/zone/com.
-      * URL: https://www.youtube.com/watch?v=jYwQYt1eGK4
   * Non-Giftcard Robux Giveaways
     * ALL 14 NEW VACUUM SIMULATOR CODES - New Vacuum/ Update 3 | Roblox
       * Description references a Robux giveaway on Twitter.
