@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 27, 2023<br>
+Generated February 28, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 688,250 videos
-* Total videos found that match keywords: 47,302 videos
-  * Total unprocessed videos: 1,217 videos
-* Total videos found that are processed and marked: 3,383 videos 
+* Total videos: 690,961 videos
+* Total videos found that match keywords: 47,471 videos
+  * Total unprocessed videos: 1,385 videos
+* Total videos found that are processed and marked: 3,384 videos 
   * Information Collection: 2,283 videos
   * Non-Giftcard Robux Giveaways: 973 videos
-  * Other: 91 videos
+  * Other: 92 videos
   * Phishing: 36 videos
 
 ### No Videos Found
@@ -7001,6 +7001,10 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ¡SOY EL MÁS GORDO DE ROBLOX! 🍕🍔🍟 \*CASÍ EXPLOTO\* | LEGOLAZ
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=92tgyLn5_kQ
+  * Other
+    * 😍 ME DIERON ESTO POR LOVE PERMANENTE EN BLOX FRUITS | LEGOLAZ
+      * Description references the data collection website ezrewards.today.
+      * URL: https://www.youtube.com/watch?v=I4ZB9_hmZnw
 * Liege North (LiegeNorth)
   * Information Collection
     * MAKE INVISIBLE AND CUSTOM PORTALS!!! - Build a Boat For Treasure PORTAL UPDATE! ROBLOX
