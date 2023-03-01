@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 28, 2023<br>
+Generated March 1, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,8 @@ to the report if this happens.
 * Total videos: 690,961 videos
 * Total videos found that match keywords: 47,471 videos
   * Total unprocessed videos: 1,385 videos
-* Total videos found that are processed and marked: 3,384 videos 
-  * Information Collection: 2,283 videos
+* Total videos found that are processed and marked: 3,383 videos 
+  * Information Collection: 2,282 videos
   * Non-Giftcard Robux Giveaways: 973 videos
   * Other: 92 videos
   * Phishing: 36 videos
@@ -10619,9 +10619,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * PROBANDO PAPAS ¿RARAS? DE OTROS PAISES 😱 \*CON MI CARA\*
       * Video is about the informtion collection website ezrewards.today.
       * URL: https://www.youtube.com/watch?v=KI5O1tRgekU
-    * 🎵 Roblox "El noob" 🎵 Parodia wake me up - Avicii ft JusepeHD 🎵
-      * Contains an ad for the information collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=3t5KXrZGv7Q
     * YOUTUBERS VS ILUMINATI VIDEO REACCION EPICA CON XONNEK \*MUESTRO MI CARA\*
       * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=gYBSdkTFOtY
