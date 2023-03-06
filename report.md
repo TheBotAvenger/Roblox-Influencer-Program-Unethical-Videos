@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 5, 2023<br>
+Generated March 6, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -549,7 +549,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MrPankeyk (MrPankeyk)
 * Mud Playz (DunkinMud)
 * Mxddsie (mxddsie)
-* MxghtyJxstin (maz_fanboy)
+* MxghtyJxstin (MxghtyJxstin)
 * Myster0y (Myster0y)
 * NanoProdigy (NanoProdigy)
 * NapkinNate 
@@ -7328,7 +7328,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * EASIEST WAY TO EARN ROBUX FROM ME!!! \*FREE ROBUX GIVEAWAYS\*
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=WZ7dbUBOePA
-* MuneebParwazMP (MuneebParwazMP)
+* MuneebParwazMP (ItsMuneeeb)
   * Phishing
     * (GONE WRONG) HACKING A FAN AND GIVING THEM FREE ROBUX!!! | Roblox
       * URL: https://www.youtube.com/watch?v=NJzfMDUMmMw
