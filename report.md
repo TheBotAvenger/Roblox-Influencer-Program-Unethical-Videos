@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 12, 2023<br>
+Generated March 13, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -220,7 +220,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Armenti (LeArmenti)
 * AshleyBunni (BunniYT)
 * Ashleyosity (itsAshleyosity)
-* AtlasBloxx (Atlas0Zero)
+* AtlasBloxx (AtlasBlox7)
 * Augus (augusvidal)
 * Auratix (Auratix)
 * Avocado Playz (AvocadoPlayzOfficial)
@@ -374,7 +374,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FunPiggy (CelestialPiggy)
 * Furious Jumper (furi0us_jumper)
 * FusionZGamer (NotFusionZGamer)
-* Futura (FuturaYT)
 * GabriellaGames 
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
@@ -693,6 +692,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
 * Temprist (Temprist)
+* Tesla Motors (FuturaYT)
 * Tex HS (TexWillerHS)
 * th3c0nnman (th3c0nnman)
 * The Crystalline Gamerz (sese64 and toftof2019)
