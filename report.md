@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 28, 2023<br>
+Generated March 29, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 701,516 videos
 * Total videos found that match keywords: 48,101 videos
   * Total unprocessed videos: 2,015 videos
-* Total videos found that are processed and marked: 3,383 videos 
-  * Information Collection: 2,282 videos
-  * Non-Giftcard Robux Giveaways: 973 videos
+* Total videos found that are processed and marked: 3,377 videos 
+  * Information Collection: 2,278 videos
+  * Non-Giftcard Robux Giveaways: 971 videos
   * Other: 92 videos
   * Phishing: 36 videos
 
@@ -614,6 +614,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Rareyma (Ririluvs11)
 * Rax (RaxBLX)
 * Razor (mprazor)
+* RazorFishGaming (UseCodeRAZORFISH and RazorFishPengi)
 * RealMoby (MOBY3W)
 * Rebootedpoppy (CryptedPoppy)
 * Red Ninja (STARC0DE_RedNinja)
@@ -9132,27 +9133,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * how to win my ROBUX giveaway
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=OLlRN5kkw-c
-* RazorFishGaming (UseCodeRAZORFISH and RazorFishPengi)
-  * Information Collection
-    * ALL 2 NEW SUPERHERO SIMULATOR CODES - New Game Release/ Roblox
-      * Description references the data collection website gainblox.com.
-      * URL: https://www.youtube.com/watch?v=w6ExgoXJxto
-    * ALL NEW DRILLING SIMULATOR CODES - New Release/ Unique Pets & Ore | Roblox
-      * Description references the data collection website gainblox.com.
-      * URL: https://www.youtube.com/watch?v=gBjKNNrIECw
-    * HOW TO CRAFT A KNIFE In Mad City Roblox
-      * Description references the data collection website gainblox.com.
-      * URL: https://www.youtube.com/watch?v=AFlAi6kUGb4
-    * NEW FAME SIMULATOR CODES Roblox (Update 1)
-      * Description references the data collection website gainblox.com.
-      * URL: https://www.youtube.com/watch?v=CRjUtFMHGE4
-  * Non-Giftcard Robux Giveaways
-    * ALL 14 NEW VACUUM SIMULATOR CODES - New Vacuum/ Update 3 | Roblox
-      * Description references a Robux giveaway on Twitter.
-      * URL: https://www.youtube.com/watch?v=augy23ui3WE
-    * ROBLOX REMOVES LIMITEDS FOR RTHRO LTD!?
-      * Description references a Robux giveaway on Twitter.
-      * URL: https://www.youtube.com/watch?v=yEDwbsr4ii8
 * Realistic Gaming (Starcode_RealisticG)
   * Information Collection
     * HOW TO GET FREE ROBUX in 2018! APP THAT GIVES YOU ROBUX FOR PLAYING GAMES! FREE ROBUX 2018
