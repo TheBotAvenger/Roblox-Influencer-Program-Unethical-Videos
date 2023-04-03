@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 2, 2023<br>
+Generated April 3, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -693,7 +693,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
 * Temprist (Temprist)
-* Tesla Motors (FuturaYT)
+* Tesla Motors (PatooLocooYT)
 * Tex HS (TexWillerHS)
 * th3c0nnman (th3c0nnman)
 * The Crystalline Gamerz (sese64 and toftof2019)
@@ -10591,7 +10591,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * LA HISTORIA DE COMO MORÍ ASESINADA SIN PIEDAD en ROBLOX (Murder Mystery!) 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=2W-_Tx-wcKo
-* Stron (StronbolYT)
+* Stron (StronbolDev)
   * Information Collection
     * ESPECIAL 150K SUSCRIPTORES MI NUEVO RAP
       * Contains an ad for the information collection website ezrewards.com.
