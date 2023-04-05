@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 4, 2023<br>
+Generated April 5, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 704,184 videos
 * Total videos found that match keywords: 48,252 videos
-  * Total unprocessed videos: 2,166 videos
-* Total videos found that are processed and marked: 3,377 videos 
-  * Information Collection: 2,278 videos
+  * Total unprocessed videos: 2,167 videos
+* Total videos found that are processed and marked: 3,376 videos 
+  * Information Collection: 2,277 videos
   * Non-Giftcard Robux Giveaways: 971 videos
   * Other: 92 videos
   * Phishing: 36 videos
@@ -599,6 +599,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PrestonGamez (PrestonPlayz)
 * Pretzel Etzel (pretzel_etzel)
 * PREZLEY (PrezleyOfficial)
+* PRIME FURIOUS (Prime_Furious)
 * Princess Royale (IAmPrincessRoyale)
 * Princess Tori (ItsToriTimeYT)
 * Proder (Prod3r)
@@ -8853,11 +8854,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=zO9TU0qdcIo
     * BELIEVE I'M POKE, WIN 1000 ROBUX! (Roblox)
       * URL: https://www.youtube.com/watch?v=R1_7Zp5RN2A
-* PRIME FURIOUS (Prime_Furious)
-  * Information Collection
-    * COMMENT GAGNER GRATUITEMENT DES ROBUX SUR ROBLOX EN 2021 !!!! UN SITE SANS ARNAQUE CA EXISTE !!!???
-      * Description references the data collection website gamehag.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=dfMOWKP4q2c
 * Rainway (UseCode_Rainway)
   * Information Collection
     * \*NEW UPDATE\* ADOPT A POLICE DOG! \*TREATS\* (ROBLOX MAD CITY)
