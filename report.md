@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 11, 2023<br>
+Generated April 12, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 706,822 videos
 * Total videos found that match keywords: 48,416 videos
   * Total unprocessed videos: 2,331 videos
-* Total videos found that are processed and marked: 3,376 videos 
+* Total videos found that are processed and marked: 3,372 videos 
   * Information Collection: 2,277 videos
-  * Non-Giftcard Robux Giveaways: 971 videos
+  * Non-Giftcard Robux Giveaways: 967 videos
   * Other: 92 videos
   * Phishing: 36 videos
 
@@ -8886,9 +8886,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * *URL: https://www.youtube.com/watch?v=CNqOrpkX1xU*
 * RAMBLING RAMUL (RamblingRamul)
   * Non-Giftcard Robux Giveaways
-    * TRYING TO DONATE REAL ROBUX TO PEOPLE \[ROBLOX Social Experiment\]
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=mCJHfYNT-_M
     * \[ROBLOX\] WIN FREE ROBUX IN MY LOTTERY IN SURVIVOR
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=-oDhbZUAa6Q
@@ -8904,9 +8901,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX JAILBREAK + WIN FREE ROBUX EVERY 10 MIN IN MY LOTTERY
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=tzWEBdn0ECk
-    * HOW TO GET FREE ROBUX ...Not Even Kidding (This Actually Works)
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=8xvAF51Dz2c
     * ROBLOX : PLAYING SHARKBITE + WIN FREE ROBUX EVERY 10 MIN
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=-zlfAHTv4Pw
@@ -9102,9 +9096,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * POKEMON BRICK BRONZE / HUNTING FOR MEW / ROBUX GIVEAWAY
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=YCvMYyxJ7Eg
-    * RESTAURANT TYCOON \#1 | CHEF RAMUL'S SUSHI | ROBLOX
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=5zA6YkYIGjU
     * GIVING AWAY 50 ROBUX EVERY FEW MINUTES / PLAYING PBB & ZOMBIE RUSH / ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=DZUOXsVkcRY
@@ -9126,9 +9117,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MANAPHY EGG HUNT + 2400 ROBUX GIVEAWAY / POKEMON BRICK BRONZE
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=q1nFZb81xCo
-    * how to win my ROBUX giveaway
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=OLlRN5kkw-c
 * Realistic Gaming (Starcode_RealisticG)
   * Information Collection
     * HOW TO GET FREE ROBUX in 2018! APP THAT GIVES YOU ROBUX FOR PLAYING GAMES! FREE ROBUX 2018
