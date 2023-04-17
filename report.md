@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 16, 2023<br>
+Generated April 17, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,17 +182,18 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 706,822 videos
-* Total videos found that match keywords: 48,416 videos
-  * Total unprocessed videos: 2,331 videos
-* Total videos found that are processed and marked: 3,372 videos 
-  * Information Collection: 2,277 videos
+* Total videos: 723,868 videos
+* Total videos found that match keywords: 48,682 videos
+  * Total unprocessed videos: 2,574 videos
+* Total videos found that are processed and marked: 3,395 videos 
+  * Information Collection: 2,300 videos
   * Non-Giftcard Robux Giveaways: 967 videos
   * Other: 92 videos
   * Phishing: 36 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
+* 39jeshi (39jeshi)
 * 3SB Games (cakemiix and ododahs)
 * 440HP (440HP)
 * Abbaok (Abbaok_YT)
@@ -202,6 +203,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Adri (BebeAdriYT)
 * AEREN (AaronDRonin)
 * AidanGamerHD (AidanGamerHDXD)
+* Alaska Violet (alaskaviolett)
 * Alex Crafted (HeyCrafted)
 * Aline Games (AliineGamesYT)
 * alixia 
@@ -277,6 +279,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cee\_berry (Cee\_berry)
 * Celestial Roblox (IM_Celestial)
 * Cerority (OfflineEating)
+* Chekecheto (Chekelete1)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
 * Cheska - Roblox (akeekekeke)
@@ -296,12 +299,14 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cosmic (bluecosmiic)
 * CPat 
 * cqqp (cqqp)
+* Crainer (MrCrainer1422)
 * Crainer Roblox 
 * Craxel (Craxelss)
 * CrazyErzy (CrazyErzy7u7)
 * Cristi Suki (CristiSukiYT)
 * Cryptize (Cryptize)
 * CrystalSims (CrystalSims)
+* CubeINC (RealCubeINC)
 * Curtified (CurtifiedYT)
 * Cute Cookie Gaming (CuteCookieGaming05)
 * cybernova games (THEREALCYBERNOVA)
@@ -314,6 +319,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Deathvanessa (itsdeathvanessa)
 * DeeterPlays (DeeterPlays)
 * DeGoBooM (BumiReal)
+* DernD (StarCode_dernd)
 * Devo (Devovorya)
 * Devoun (DevounTV)
 * Dexter Playz (D3XT3R_PLAYZ)
@@ -329,6 +335,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Dr laba (Dr_laba)
 * DraconiteDragon (ItsDraconiteDragon)
 * dragonplatinum (dragonplatinum)
+* DrakeTacos (Brianvid19)
 * Drei Diego (AndreiEon124)
 * DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
@@ -351,6 +358,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FakerUp (NotFakerUp)
 * Fanaticalight (Fanaticalight)
 * FancySmash (RealFancySmash)
+* faulty (Faulltyy)
 * Febatista 
 * fer999 (StarCode_fer)
 * Fera (Fera0ficial)
@@ -360,6 +368,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FlameRBX (SnowRBX_Youtube)
 * Flamingo (mrflimflam)
 * Flebsy (Flebsy)
+* FloatyZone (FloatyZone)
 * Flxral (xoFlxral)
 * FlyBorg (KaykBlox)
 * Fminusmic (fminusmic)
@@ -378,6 +387,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
 * Gamer Kawaii (iiGamerKawaiiYT)
+* Gamer Robot (Zioles)
 * GamerHexapod (Hexapod_xD)
 * Gamermais 
 * GamerNom (MaybeItsMyFault)
@@ -464,6 +474,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Juegahora (Juegahora_STAR)
 * Juicy John (Majojocl)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
+* Julianbank (blvckbank)
 * Junell Dominic (Junewuuu)
 * JunRoots (cheeseandcakejuice)
 * jvnq (jvnqYT)
@@ -484,8 +495,10 @@ The following channels had nothing appear with manual searching. Videos may exis
 * KraoESP (KraoESP)
 * Krystin Plays (KrystinPlays)
 * KTG Gaming (lifetimeobcman123)
+* Kvssidy (kvssidy)
 * Lakshart Nia (Laksharth)
 * LAMI (Lami_Roblox)
+* Lana's Life (Lanaraee)
 * Lani (LaniiPlayzzz)
 * LankyBox (LankyBoxGamesAdam)
 * Lari Gamer (iiLariGamer)
@@ -508,6 +521,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lucero Roblox (LuceroRobloxYT)
 * Luky (LukyBloxYT)
 * LunaBlox (Luna4Dangelis and DeiakZ)
+* LunaPorDos (LunaPorDos00)
 * Lunar Eclipse (Lunar3clispe)
 * Luuy (iiLuuy)
 * luvxshine (luvxsh1ne3)
@@ -550,6 +564,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mxddsie (mxddsie)
 * MxghtyJxstin (MxghtyJxstin)
 * Myster0y (Myster0y)
+* Nanndo (nanndoyt)
 * NanoProdigy (NanoProdigy)
 * NapkinNate 
 * Natasha Panda (NatashaPandaaYT)
@@ -577,12 +592,14 @@ The following channels had nothing appear with manual searching. Videos may exis
 * P0gMasterZ (P0gMasterZ)
 * PaanDuh (PPaanDuh)
 * PaintingRainbows (RainbowsYT)
+* PandaLemonTart (PandaLemonTart)
 * PandazPlay (ComplexConniee and ComplexJason)
 * PandinhaGame (PandinhaGame)
 * Pankayz 
 * Papile (jupapile)
 * Paula Urbaez (PaulaUrbaez)
 * Paulinho e Toquinho (PFlavio1)
+* peachyylexi (Lexiipeach)
 * PedroLetsPlay (pedroletsplayroblox)
 * Peepguy (peepguyx)
 * PeetahBread (PeetahBread)
@@ -603,6 +620,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Princess Royale (IAmPrincessRoyale)
 * Princess Tori (ItsToriTimeYT)
 * Proder (Prod3r)
+* ProjectSupreme (ProjectSupreme)
 * ProSidu (prosiduzao)
 * Proton Plays Roblox (Prxtonn)
 * PurxpleRblx (purxpllee)
@@ -641,6 +659,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Rubie (VanillaOreoCat)
 * Ruby Games (ruby_rubeYT)
 * RufflesOfficial (RufflesPlaysMC)
+* Rupthy (Rupthy)
 * Ryguy - Roblox (ryguyrocky)
 * S\_Viper (S\_Viper)
 * SallyGreenGamer 
@@ -652,11 +671,13 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ScriptedMatt (ScriptedMatt)
 * SDMittens (SDMittens)
 * sebee (23Sebee)
+* seqshell (seqshell)
 * SeñoritoFran (SrFrancesYT)
 * shadow network (realshadownetwork)
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
+* ShisuiXI (Sh1suiXI)
 * Signicial (Signicial)
 * Silent (RandomYoutuber0202)
 * SimplySpring 
@@ -677,6 +698,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Soy Mandy Games (SoyMandy2020)
 * SoyLuz (LuzCute24)
 * Spekツ (ONESIEHOARDER308)
+* Spok (spokchris)
 * Squid Magic (Foolzy)
 * SrJuancho (JuanchoAcostado)
 * Stanjee (Stanjeeplayz)
@@ -684,6 +706,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Stevebloxian (steven111234)
 * stream CA Roblox (stream\_CA and Dominus\_CA)
 * Striker180x (strikerl80x)
+* SulyMazing (iamtheonepoundfish)
 * SunnyxMisty (xSunnyxMistyx)
 * Sunset Safari (HeySunsetSafari)
 * SuperDog Tyler (superdog_tyler)
@@ -706,6 +729,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TheAtlanticCraft 
 * TheEvilShark (StarCode_Animal)
 * TheGreatACE (TheGreatAced)
+* TheKacperosEN (TheKacperos)
 * Thinknoodles (ImNotThinknoodles)
 * Thiq Betty (ChrisPurKittiess)
 * ThnxCya (NotThnxCya)
@@ -743,6 +767,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * Volt (v0_1t)
 * Waike (JJ_Waike)
+* WhoseTrade (WhoseTrade)
 * WikiaColors (WikiaColor_s)
 * WILCO (EsElWilco)
 * Woozlo (Woozlo)
@@ -760,6 +785,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * yTowak (yTowakGb)
 * Z00LD 
 * ZaiLetsPlay (YT_ZaiLetsPlay)
+* Zaryee (JustZaryee)
 * Zaze Blox (zazebloxx)
 * ZeDarkAlien (ZeDarkAlien)
 * Zepyxl (Zepyxl)
@@ -988,6 +1014,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Reminder for Robux giveaway(On 100 subs) Steps to enter
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=zmzDTFS4xw8
+* BRYAN MCQUEEN (IamBryanMcqueen)
+  * Information Collection
+    * ESCONDIDAS EXTREMAS en BROOKHAVEN
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=FikFHmHYPX4
 * Builderboy TV (builderboy100009)
   * Information Collection
     * \*LEGIT!\* HOW TO GET FREE ROBUX 2019! EARN FREE ROBUX FAST!? | ROBLOX | Builderboy TV
@@ -1052,6 +1083,71 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Bloxburg: Victorian Roleplay House 62K
       * Description includes a building contest for Robux.
       * URL: https://www.youtube.com/watch?v=cD8ZvszEXf4
+* DanteField (etnad34)
+  * Information Collection
+    * NO ENTRES A ESTE JUEGO DE ROBLOX (Crooswoods)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=cCFWGhx0ZpQ
+    * ¡ROBLOX ESTO ES IMPOSIBLE! 😢
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=Gz2_CKuHuI0
+    * Sueño del Robux...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=BNp3GH_Y5S8
+    * Roblox visita LATAM...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=SZSTkYJh0Ow
+    * Robux en 2045...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=X3nR0t_H7dg
+    * Si yo fuera admin de Roblox...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=u0NKiEaOnSE
+    * Así me hackearon...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=38FR_0JzHCI
+    * Si tu fueras dueño de Roblox...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=GkZGAhjB3ss
+    * Mato a un noob por 1M...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=FLW6CIjihSI
+    * No tuve elección...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=ZF3LJ1L3IY8
+    * Si eliminarán slenders...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=VNOJSMZvYZY
+    * Si no existieran robux....
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=krpCRl0wXjs
+    * Toxicidad de Roblox...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=-64mZ7ifTNo
+    * Roblox compra NFT...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=OEG53q-XbUg
+    * Minecraft invade Roblox 2...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=7UWGLxMK9a0
+    * Roleplayers serios en Roblox...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=697Lcb09apY
+    * Emos de Roblox...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=QeRCtBLN94k
+    * Roblox sin tóxicos...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=yGtFJ-vPRQA
+    * Minecraft invade Roblox...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=QEvhRLXL06k
+    * Roblox llega a su fin...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=KSZge1Cnxg4
+    * 订阅
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=iP2AmSx_Lxs
 * DefildPlays (DefildPlays)
   * Information Collection
     * MEGA FREE 60 GAMEPASSES SALE CODES IN BUBBLE GUM SIMULATOR! Roblox
@@ -10749,6 +10845,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Join the 1K ROBUX GIVEAWAY
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=rmE4s7mEmwg
+* VANILLA (UseStarCode_VANILLA)
+  * Information Collection
+    * GETTING UNIQUE SHINY PUCHI (HEAVEN) SHOWCASE - Anime Adventures
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=UTwCAEFSA30
 * VeD\_DeV (VeD\_DeV)
   * Non-Giftcard Robux Giveaways
     * DO NOT MOVE TO WIN ROBUX in Jailbreak! (Roblox)
