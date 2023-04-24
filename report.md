@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 23, 2023<br>
+Generated April 24, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 726,477 videos
-* Total videos found that match keywords: 48,822 videos
-  * Total unprocessed videos: 2,714 videos
+* Total videos: 727,326 videos
+* Total videos found that match keywords: 48,884 videos
+  * Total unprocessed videos: 2,776 videos
 * Total videos found that are processed and marked: 3,395 videos 
   * Information Collection: 2,300 videos
   * Non-Giftcard Robux Giveaways: 967 videos
@@ -203,6 +203,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Adri (BebeAdriYT)
 * AEREN (AaronDRonin)
 * AidanGamerHD (AidanGamerHDXD)
+* Akeesha - Roblox (akeekekeke)
 * Alaska Violet (alaskaviolett)
 * Alex Crafted (HeyCrafted)
 * Aline Games (AliineGamesYT)
@@ -233,7 +234,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BaixaMemoria (CaueBM)
 * BALETKA07 (BALETKA07)
 * Bandi (BandiRue)
-* BeaPlays Roblox (notBeaPlays)
+* BeaPlays (notBeaPlays)
 * Bebe Milo (BebeMiloAmiwito)
 * BeeBlox (ThePapaBee, imgabibee, MrBeeWasTaken, and LaMamaBee)
 * Benx (Bensonheimer and ebruulein)
@@ -282,7 +283,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Chekecheto (Chekelete1)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
-* Cheska - Roblox (akeekekeke)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Christocream (Christocream)
@@ -461,6 +461,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JehxTp (JehxTp)
 * Jello Queen (JelloQueenYT)
 * Jenstine (jenstine and jenstinex)
+* Jeny\_Punker (Jeny\_Punker)
 * JessEmma (TheJessEmma)
 * JesuaCunnigham (Jesua_Cunnigham)
 * Joao joao (Joao_joaooficial)
@@ -479,7 +480,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JunRoots (cheeseandcakejuice)
 * jvnq (jvnqYT)
 * Karim Juega (karimjuega)
-* Kawaii Kunicorn Shorts (kawaii_kunicorn)
 * Kelogish 
 * Kelvingts (Kelvingts)
 * Kepu The Cat (KepuTheCat)
@@ -495,6 +495,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * KraoESP (KraoESP)
 * Krystin Plays (KrystinPlays)
 * KTG Gaming (lifetimeobcman123)
+* KunicornCraft (kawaii_kunicorn)
 * Kvssidy (kvssidy)
 * Lakshart Nia (Laksharth)
 * LAMI (Lami_Roblox)
@@ -508,11 +509,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Leah Ashe (NotLeah)
 * Lenay (lenay_ROBLOX)
 * LiaBlossoms (LiaBlossoms)
+* LilahBloxy (3lilahbloxy)
 * Lilly BloxTV (Lilly_TVs)
 * LimaMosca (LimaMosca)
 * LinMeiLee (LinMeiLee)
 * locus (locus200k)
-* Loja Uso Ideal (Spagzox)
 * Lokis (lokis9340)
 * Lord (Lorrd_ofc)
 * LordMetalizer (MetalizerRBX)
@@ -570,6 +571,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Natasha Panda (NatashaPandaaYT)
 * Nathy Super Gamer (Nathy_SuperGamer)
 * Natsuki Sel (Natsuki_Sel)
+* NavyXFlame (NavyXFlame)
 * Nezi Plays Roblox (NeziPlaysROBLOX)
 * NicksDagaYT (nicks543)
 * Nicole Maffi (NicoleMaffi and vanessamaffi)
@@ -585,6 +587,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * officialnoobie (oofficialnoobie)
 * oGVexx (LouDaREALGamer)
 * OKEH SQUAD (Rbellomello)
+* Olix (OIixYT)
 * OMB Gaming (OMBgamingYT)
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
@@ -697,6 +700,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Soy Blue (SoyBluee)
 * Soy Mandy Games (SoyMandy2020)
 * SoyLuz (LuzCute24)
+* SpagzBlox (Spagzox)
 * Spekツ (ONESIEHOARDER308)
 * Spok (spokchris)
 * Squid Magic (Foolzy)
@@ -748,6 +752,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Trap Roblox (SUB_toTRAP)
 * TroyanoNanoReturns (TroyanoNanoReturns)
 * True entertainer (sambhaji12)
+* TrustlyDragon (TheTrustlyDragon)
 * tsetYT (tsetfed)
 * Turtles Wear Raincoats (TurtlesWearRaincoats)
 * TussyGames (TussyGames)
