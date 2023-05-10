@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 9, 2023<br>
+Generated May 10, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,8 @@ to the report if this happens.
 * Total videos: 735,010 videos
 * Total videos found that match keywords: 49,331 videos
   * Total unprocessed videos: 3,224 videos
-* Total videos found that are processed and marked: 3,394 videos 
-  * Information Collection: 2,299 videos
+* Total videos found that are processed and marked: 3,393 videos 
+  * Information Collection: 2,298 videos
   * Non-Giftcard Robux Giveaways: 967 videos
   * Other: 92 videos
   * Phishing: 36 videos
@@ -10819,9 +10819,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW UPDATE! (Candy Harpoons, Glowing Block, Snow Plane!) | Build a boat For Treasure ROBLOX
       * Description references the data collection website claimrbx.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=6NOH7ECGGGY
-    * \*HUGE\* GINGERMAN MECH! | Build a boat For Treasure ROBLOX
-      * Description references the data collection website claimrbx.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=kDitN1JRsXs
     * RAREST \*NEW\* WINTER CODE!🎅 | Build a boat For Treasure ROBLOX
       * Description references the data collection website claimrbx.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=mbf50j_fdRY
