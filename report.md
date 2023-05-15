@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 14, 2023<br>
+Generated May 15, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -223,7 +223,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Armenti (LeArmenti)
 * AshleyBunni (BunniYT)
 * Ashleyosity (itsAshleyosity)
-* AtlasBloxx (AtlasBlox7)
+* AtlasZero (AtlasBlox7)
 * Augus (augusvidal)
 * Auratix (Auratix)
 * Avocado Playz (AvocadoPlayzOfficial)
@@ -306,7 +306,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cristi Suki (CristiSukiYT)
 * Cryptize (Cryptize)
 * CrystalSims (CrystalSims)
-* CS:GO (EmperadorMaxiOFICIAL)
 * CubeINC (RealCubeINC)
 * Curtified (CurtifiedYT)
 * Cute Cookie Gaming (CuteCookieGaming05)
@@ -342,6 +341,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DV Plays (DVwastaken)
 * El Magnum (MagnumStormus)
 * Elemental (E1ementalYT)
+* ElemperadormaxiYT (EmperadorMaxiOFICIAL)
 * Elite (E1ite_E)
 * Elitelupus (elitelupus)
 * elOrioN (elOrioNYT)
@@ -634,7 +634,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Rainster (RainsterYT)
 * Rajo END (Rajo_END)
 * Rareyma (Ririluvs11)
-* Rax (Raxito_o)
+* Rax (RaxBLX)
 * Razor (mprazor)
 * RazorFishGaming (UseCodeRAZORFISH and RazorFishPengi)
 * RealMoby (MOBY3W)
