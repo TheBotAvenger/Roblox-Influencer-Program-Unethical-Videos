@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 21, 2023<br>
+Generated May 22, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,7 +182,7 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 737,571 videos
+* Total videos: 737,671 videos
 * Total videos found that match keywords: 49,475 videos
   * Total unprocessed videos: 3,368 videos
 * Total videos found that are processed and marked: 3,393 videos 
@@ -206,7 +206,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Akeesha - Roblox (akeekekeke)
 * Alaska Violet (alaskaviolett)
 * Alex Crafted (HeyCrafted)
-* Aline Games (AliineGamesYT)
+* Aline Games (AliineGamezs)
 * alixia 
 * Alles Ava Gaming 
 * AlphaGG (RealYouTube_AlphaGG)
@@ -481,6 +481,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * jvnq (jvnqYT)
 * Karim Juega (karimjuega)
 * Kelogish 
+* KelseyAnna (KelseyAnna)
 * Kelvingts (Kelvingts)
 * Kepu The Cat (KepuTheCat)
 * KHORTEX (StarCodeKTX)
@@ -587,7 +588,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * officialnoobie (oofficialnoobie)
 * oGVexx (LouDaREALGamer)
 * OKEH SQUAD (Rbellomello)
-* Olix (OIixYT)
+* Olix (codeOLIX)
 * OMB Gaming (OMBgamingYT)
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
@@ -4940,11 +4941,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Consiga ROBUX GRÁTIS Dessa Maneira - SORTEIO 2000 Robux
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=Nda5CJd2LwQ
-* Family Guy Season 22 
-  * Non-Giftcard Robux Giveaways
-    * Complete The HotWheel Track For R$1,000 Robux Challenge!
-      * Video gives away using group funds.
-      * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
 * flashii (flashiilindo)
   * Other
     * fiz a missão secreta pra despertar a gomu gomu no mi no king piece
@@ -10673,6 +10669,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * LA HISTORIA DE COMO MORÍ ASESINADA SIN PIEDAD en ROBLOX (Murder Mystery!) 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=2W-_Tx-wcKo
+* StrawYT Gaming 
+  * Non-Giftcard Robux Giveaways
+    * Complete The HotWheel Track For R$1,000 Robux Challenge!
+      * Video gives away using group funds.
+      * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
 * Stron (StronbolDev)
   * Information Collection
     * ESPECIAL 150K SUSCRIPTORES MI NUEVO RAP
