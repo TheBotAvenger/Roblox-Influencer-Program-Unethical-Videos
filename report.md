@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 23, 2023<br>
+Generated May 24, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 740,103 videos
 * Total videos found that match keywords: 49,603 videos
-  * Total unprocessed videos: 3,496 videos
-* Total videos found that are processed and marked: 3,393 videos 
-  * Information Collection: 2,298 videos
-  * Non-Giftcard Robux Giveaways: 967 videos
+  * Total unprocessed videos: 3,498 videos
+* Total videos found that are processed and marked: 3,391 videos 
+  * Information Collection: 2,297 videos
+  * Non-Giftcard Robux Giveaways: 966 videos
   * Other: 92 videos
   * Phishing: 36 videos
 
@@ -709,6 +709,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Stanjee (Stanjeeplayz)
 * StaTick (St4Tick)
 * Stevebloxian (steven111234)
+* StrawYT Gaming 
 * stream CA Roblox (stream\_CA and Dominus\_CA)
 * Striker180x (strikerl80x)
 * SulyMazing (iamtheonepoundfish)
@@ -5633,9 +5634,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 1000 Subscriber Special !!! // VG Gang// Jailbreak Roblox// Roblox Special!
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=de2PnVznoC0
-    * Bugatti or Volt Bike RACE / Bugatti or Volt bike Is the FASTEST Car(short distance )Jailbreak Roblox
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=f8eytjR6Ep8
     * LIFE IN JAILBREAK BETWEEN A NOOB AND A PRO
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=VlEWzDnXXTE
@@ -10669,11 +10667,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * LA HISTORIA DE COMO MORÍ ASESINADA SIN PIEDAD en ROBLOX (Murder Mystery!) 😱
       * Description references the data collection website rbxfree.com.
       * URL: https://www.youtube.com/watch?v=2W-_Tx-wcKo
-* StrawYT Gaming 
-  * Non-Giftcard Robux Giveaways
-    * Complete The HotWheel Track For R$1,000 Robux Challenge!
-      * Video gives away using group funds.
-      * URL: https://www.youtube.com/watch?v=iP7bdpWjtkk
 * Stron (StronbolDev)
   * Information Collection
     * ESPECIAL 150K SUSCRIPTORES MI NUEVO RAP
