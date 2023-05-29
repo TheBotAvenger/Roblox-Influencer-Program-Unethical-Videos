@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 28, 2023<br>
+Generated May 29, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -386,7 +386,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GabriellaGames 
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
-* Gamer Kawaii (iiGamerKawaiiYT)
+* Gamer Kawaii (OficialGamerKawaii)
 * Gamer Robot (Zioles)
 * GamerHexapod (Hexapod_xD)
 * Gamermais 
@@ -588,7 +588,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * officialnoobie (oofficialnoobie)
 * oGVexx (LouDaREALGamer)
 * OKEH SQUAD (Rbellomello)
-* Olix (codeOLIX)
+* Olix (OIixYT)
 * OMB Gaming (OMBgamingYT)
 * OmegaNova (NotOmegaNova)
 * Ominous Nebula (StarCode_Ominous)
