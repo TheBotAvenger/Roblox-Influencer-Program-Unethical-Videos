@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 29, 2023<br>
+Generated May 30, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 740,103 videos
-* Total videos found that match keywords: 49,603 videos
-  * Total unprocessed videos: 3,498 videos
+* Total videos: 742,569 videos
+* Total videos found that match keywords: 49,744 videos
+  * Total unprocessed videos: 3,639 videos
 * Total videos found that are processed and marked: 3,391 videos 
   * Information Collection: 2,297 videos
   * Non-Giftcard Robux Giveaways: 966 videos
