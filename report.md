@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 30, 2023<br>
+Generated May 31, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,12 +184,12 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 742,569 videos
 * Total videos found that match keywords: 49,744 videos
-  * Total unprocessed videos: 3,639 videos
-* Total videos found that are processed and marked: 3,391 videos 
+  * Total unprocessed videos: 3,645 videos
+* Total videos found that are processed and marked: 3,386 videos 
   * Information Collection: 2,297 videos
-  * Non-Giftcard Robux Giveaways: 966 videos
+  * Non-Giftcard Robux Giveaways: 962 videos
   * Other: 92 videos
-  * Phishing: 36 videos
+  * Phishing: 35 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -616,6 +616,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Playonyx (okgamerman)
 * Plech (PlechitoYT)
 * Plique Games (PliqueYT)
+* Poke (Pokediger1)
 * Premiumsalad (premiumsalad)
 * PrestonGamez (PrestonPlayz)
 * Pretzel Etzel (pretzel_etzel)
@@ -8933,19 +8934,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW CHRISTMAS UPDATE! \*SECRET\* HOW TO GET ADVANCED SERVER FOR FREE! IN PET SIMULATOR X!!
       * Description references the "black market for limiteds and Robux" ro.place.
       * URL: https://www.youtube.com/watch?v=6R9FU4PWvyY
-* Poke (Pokediger1)
-  * Phishing
-    * HACKING AND GIVING A FAN FREE ROBUX ON ROBLOX!!
-      * URL: https://www.youtube.com/watch?v=dQEnfrcMALQ
-  * Non-Giftcard Robux Giveaways
-    * IMPOSSIBLE HIDE AND SEEK WITH MORPH COMMAND!  (Roblox)
-      * URL: https://www.youtube.com/watch?v=a80GNiucA_c
-    * I Trapped A POKE HATER In My \*SECRET\* ESCAPE ROOM! (Roblox)
-      * URL: https://www.youtube.com/watch?v=h9BR34DoLzQ
-    * IF THEY CHOOSE THE RIGHT CUP, THEY WIN FREE ROBUX! (Roblox)
-      * URL: https://www.youtube.com/watch?v=zO9TU0qdcIo
-    * BELIEVE I'M POKE, WIN 1000 ROBUX! (Roblox)
-      * URL: https://www.youtube.com/watch?v=R1_7Zp5RN2A
 * Rainway (UseCode_Rainway)
   * Information Collection
     * \*NEW UPDATE\* ADOPT A POLICE DOG! \*TREATS\* (ROBLOX MAD CITY)
