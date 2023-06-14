@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 13, 2023<br>
+Generated June 14, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 747,787 videos
 * Total videos found that match keywords: 49,992 videos
   * Total unprocessed videos: 3,893 videos
-* Total videos found that are processed and marked: 3,386 videos 
+* Total videos found that are processed and marked: 3,355 videos 
   * Information Collection: 2,297 videos
-  * Non-Giftcard Robux Giveaways: 962 videos
+  * Non-Giftcard Robux Giveaways: 931 videos
   * Other: 92 videos
   * Phishing: 35 videos
 
@@ -480,6 +480,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JunRoots (cheeseandcakejuice)
 * jvnq (jvnqYT)
 * Karim Juega (karimjuega)
+* Keisyo (Keisyo)
 * Kelogish 
 * KelseyAnna (KelseyAnna)
 * Kelvingts (Kelvingts)
@@ -6990,101 +6991,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * DRAWING & VIDEO CONTEST (300K SUBS)
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=elG3Tjy7UVs
-* Keisyo (Keisyo)
-  * Non-Giftcard Robux Giveaways
-    * GETTING REVENGE ON BULLY AS PRINCIPAL / Roblox High School / Roblox Principal / Roblox Funny Moments
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=Hr2iIpK09Wo
-    * TROLLING EVERYONE WITH ADMIN COMMANDS // Roblox Laundromat // Roblox Admin Command Trolling // Funny
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=m3Ebp6u-0RA
-    * I AM SANTA'S NEW ELF! 🎄🎅 // Roblox Santa's Workshop // Roblox Funny Moments // Roblox Roleplay
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=GkxnkqcsQ5c
-    * NOOBS RUIN ODER PARTY // Roblox Meepcity // Roblox Funny Moments // Roblox  Online Dating
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=eJxpBfC757s
-    * WE'RE MAKING OUR FIRST FRIENDS // Roblox Royale High School \#3 w/ Cybernova & Cheridet
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=wOZdJI5MKxs
-    * DONATING 100K TO STRANGERS IN BLOXBURG 🎁🎄 // Roblox Bloxburg // Roblox Christmas // Bloxburg House
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=ExgopIeUs2s
-    * WEIRD MOM KILLS AND ABANDONS ME 😢 // Roblox Adopt me // Roblox Adopt Game // Roblox Funny Moments
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=UA9jFMe71DU
-    * BEAUTIFUL CHRISTMAS MANSION // Roblox Bloxburg Subscriber House Tour //  Bloxburg House Tour
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=Mc-Y2L7yJR4
-    * BOYFRIEND DEFENDS ME FROM MY BULLY // Robloxian High School // Roblox Bully // Roblox High School
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=yO8_rvyVWnA
-    * TRAPPED IN SCHOOL WITH SLENDERMAN AND JASON 😱 // Robloxian High School // Roblox Creepy Pasta
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=qOqeAlfhXLA
-    * KIDNAPPING FANS WITH ADMIN COMMANDS AND GETTING KIDNAPPED IN ROBLOX 😱 // Roblox Adopt and Raise
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=iqqcHLRqBI8
-    * SPENDING OVER 25000 GEMS // GETTING A SKIRT & DECORATING OUR LOCKER //  Roblox Royale High School \#2
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=VTtVC02RJaA
-    * BULLIED BECAUSE I'M A YOUTUBER? 😟 // Roblox Runway Rumble // Roblox Funny Moments // Roblox Bully
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=DC4jIOsrM1k
-    * LIFEGUARD WANTS TO DATE ME & GUEST 666?! 😱 // Robloxian Waterpark // Roblox Online Dating // Funny
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=1Tzg_H89AnU
-    * CRAZY HACKER ATTACK ON HOSPITAL & SAVING LIVES // Roblox Hospital Life 2 // Roblox Funny Moments
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=7VCeVxKJvz4
-    * WE MADE HIM CRY :( // Roblox Sad Story // Roblox Working in a Cinema // Roblox Funny Moments
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=i9PocA7B5Dc
-    * CREEPY DATER WON'T LEAVE US ALONE // Roblox Funny Moments // Roblox Creepy // Roblox Online Dating
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=CQ9j5GdAJ9E
-    * BULLY CHEATS ON HIS BULLY GIRLFRIEND & HUGE BULLY FIGHT // Robloxian Life // Roblox Funny Moments
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=EKevJjx8j-I
-    * EVIL MOM KILLS ME // Roblox Laundromat // Roblox Funny Moments // Roblox Online Dater // Adopt a kid
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=HbA6ljsWRH4
-    * MY FIRST DAY // Decorating my Dorm // Roblox Royale High School // Roblox School // Funny Moments
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=pOA6JECSr6w
-    * CREEPY MANAGER!!! BUT WE MADE HIM QUIT // Roblox Pizza Place // Roblox Creepy // Roblox Online Dater
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=moCmW5mDfwo
-    * BULLIED AS A MINION IN ROBLOX HIGH SCHOOL // Roblox High School // Bully Story // Roblox Minion
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=XCUAswuCf2A
-    * WEIRD ONLINE DATER ROOMATE // Roblox High School Dorm Life // Roblox Weird // Roblox Funny Moments
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=M9EJ3kGaFhQ
-    * CATFISH PRANK ON ONLINE DATERS // Robloxian Highschool // Roblox Funny Moments // Roblox Trolling
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=NMtAQQ3EE8g
-    * UNICORNS MAKE ONLINE DATER LEAVE PARTY // Roblox Unicorns // Roblox Meepcity // Roblox Funny Moments
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=U6qxRjXNCcM
-    * CREEPIEST BOSS IN ROBLOX // Roblox Bikini Bottom // Roblox Creepy Boss // Roblox Online Dater
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=29A7c8fLF2o
-    * THE CRAZIEST GAME IN ROBLOX // I ACCIDENTALLY GRIEFED THE SERVER // Robloxian Town // Roblox Funny
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=dVPfYJdIbPc
-    * CREEPY ONLINE DATER GIVES ME 100K // Roblox Bloxburg // Roblox Online Dater // Roblox Creepy
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=skqLTWtJg6o
-    * BOYFRIEND TAKES ME TO PROM // ROBLOX PROM GONE WRONG // Roblox Prom // Roblox Boyfriend // Roleplay
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=fQwAdoLZosI
-    * TROLLING PEOPLE AS A TURKEY FOR THANKSGIVING // Roblox Trolling  // Roblox Funny Moments
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=skfoGY-5b2M
-    * OWNER TROLLS ME WITH ADMIN COMMANDS // Roblox Waterpark // Roblox Admin Trolling // Funny Moments
-      * Link references a Robux giveaway through group funds
-      * URL: https://www.youtube.com/watch?v=eeb7HEchoj4
 * KreekCraft (StarCode_RealKreek)
   * Phishing
     * ROBLOX HACKING A HATERS FAN ACCOUNT AND TURNING THEM INTO A THICC GIRL!!
