@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 18, 2023<br>
+Generated June 19, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -694,6 +694,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sleigher (Gsleigh)
 * Slykage (Sly_Kage)
 * Sniffycat (SnickerHoops)
+* Sofia Tube (sofiatube7)
 * Solem Archive (iJackeryz)
 * SOLURI (SoyLurix)
 * Sons Of Fun (SonsofFun_YT)
@@ -725,7 +726,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * teenager paul (teenagerpaul)
 * Temprist (Temprist)
 * Tesla Motors (PatooLocooYT)
-* Tesla News (sofiatube7)
 * Tex HS (TexWillerHS)
 * th3c0nnman (th3c0nnman)
 * The Crystalline Gamerz (Crystalaco and Emeraldoft)
