@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 19, 2023<br>
+Generated June 20, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 747,787 videos
-* Total videos found that match keywords: 49,992 videos
-  * Total unprocessed videos: 3,893 videos
-* Total videos found that are processed and marked: 3,355 videos 
+* Total videos: 750,317 videos
+* Total videos found that match keywords: 50,130 videos
+  * Total unprocessed videos: 4,030 videos
+* Total videos found that are processed and marked: 3,356 videos 
   * Information Collection: 2,297 videos
   * Non-Giftcard Robux Giveaways: 931 videos
-  * Other: 92 videos
+  * Other: 93 videos
   * Phishing: 35 videos
 
 ### No Videos Found
@@ -10867,6 +10867,10 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Zoro & Luffy | ABA Ranked 2v2’s | Ft Sensei Maui | Anime Battle Arena | Roblox
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=ETuqF6n3ce4
+  * Other
+    * (CODE) Daki's BDA Is CONFIRMED Coming To Project Slayers UPDATE 2!
+      * Description references the "black market for limiteds and Robux" ro.place.
+      * URL: https://www.youtube.com/watch?v=ti_3hA7bHcg
 * xMarcelo (xMarcelo)
   * Information Collection
     * 😱 PRÓXIMOS EVENTOS!! E POSSÍVEIS EVENTOS PATROCINADOS do ROBLOX 😍🎉
