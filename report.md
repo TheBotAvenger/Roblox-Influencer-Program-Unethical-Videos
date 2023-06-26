@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 25, 2023<br>
+Generated June 26, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,7 +182,7 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 750,317 videos
+* Total videos: 750,371 videos
 * Total videos found that match keywords: 50,130 videos
   * Total unprocessed videos: 4,030 videos
 * Total videos found that are processed and marked: 3,356 videos 
@@ -618,6 +618,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Plech (PlechitoYT)
 * Plique Games (PliqueYT)
 * Poke (Pokediger1)
+* PolarCub (polarcub_art)
 * Premiumsalad (premiumsalad)
 * PrestonGamez (PrestonPlayz)
 * Pretzel Etzel (pretzel_etzel)
