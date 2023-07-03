@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 2, 2023<br>
+Generated July 3, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -8106,11 +8106,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 1,000 ROBUX MAKEOVER || (Fan Surprise!)
       * Offers to give Robux in exchange for a username and password.
       * URL: https://www.youtube.com/watch?v=95TVy5Udq9o
-* SimplyCoco (VURIIN)
-  * Non-Giftcard Robux Giveaways
-    * RATING MY FANS SINGING!! + 1K ROBUX GIVEAWAY WINNER‼️ || SimplyCoco
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=mvkfP58fGZw
 * Smurfzin (Smurfzineo_YT)
   * Information Collection
     * O Fim da Black Friday no ROBLOX..😔❌
@@ -9491,6 +9486,11 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=a52W2QhS6YA
     * HIDE AND SEEK IN JAILBREAK FOR 1000 ROBUX! (Roblox)
       * URL: https://www.youtube.com/watch?v=Dr1ZAAN-mg8
+* vurefr (VURIIN)
+  * Non-Giftcard Robux Giveaways
+    * RATING MY FANS SINGING!! + 1K ROBUX GIVEAWAY WINNER‼️ || SimplyCoco
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=mvkfP58fGZw
 * Xegothasgot (Xegot)
   * Information Collection
     * HOW TO GET FREE ROBUX IN LESS THAN 1 MINUTE! \*\*Not Clickbait\*\*
