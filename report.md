@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 4, 2023<br>
+Generated July 5, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 755,487 videos
 * Total videos found that match keywords: 50,392 videos
-  * Total unprocessed videos: 4,281 videos
-* Total videos found that are processed and marked: 3,365 videos 
+  * Total unprocessed videos: 4,282 videos
+* Total videos found that are processed and marked: 3,364 videos 
   * Information Collection: 2,299 videos
-  * Non-Giftcard Robux Giveaways: 936 videos
+  * Non-Giftcard Robux Giveaways: 935 videos
   * Other: 94 videos
   * Phishing: 36 videos
 
@@ -667,6 +667,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Vitamine (VitamineRoblox)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * Volt (v0_1t)
+* vurefr (VURIIN)
 * Waike (JJ_Waike)
 * WhoseTrade (WhoseTrade)
 * WikiaColors (WikiaColor_s)
@@ -9489,11 +9490,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=a52W2QhS6YA
     * HIDE AND SEEK IN JAILBREAK FOR 1000 ROBUX! (Roblox)
       * URL: https://www.youtube.com/watch?v=Dr1ZAAN-mg8
-* vurefr (VURIIN)
-  * Non-Giftcard Robux Giveaways
-    * RATING MY FANS SINGING!! + 1K ROBUX GIVEAWAY WINNER‼️ || SimplyCoco
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=mvkfP58fGZw
 * Xegothasgot (Xegot)
   * Information Collection
     * HOW TO GET FREE ROBUX IN LESS THAN 1 MINUTE! \*\*Not Clickbait\*\*
