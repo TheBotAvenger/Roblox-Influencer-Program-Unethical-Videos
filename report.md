@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 16, 2023<br>
+Generated July 17, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -353,7 +353,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FusionZGamer (NotFusionZGamer)
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
-* Gamer Kawaii (OficialGamerKawaii)
+* Gamer Kawaii (iiGamerKawaiiYT)
 * Gamer Robot (Zioles)
 * GamerHexapod (Hexapod_xD)
 * GamerNom (MaybeItsMyFault)
@@ -483,7 +483,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MIANNN (MIANNNGAMER)
 * MICHI RØBLØX (michineyley)
 * MicroGuardian (MicroGuardian)
-* MikeDoesThis (DigitoPlaysThis)
 * Mila FunPlayer (trxmila)
 * MiniBloxia (SubToMiniBloxia)
 * Model8197 (Modeldog8197)
@@ -516,7 +515,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OKEH SQUAD (Rbellomello)
 * Olix (OIixYT)
 * OMB Gaming (OMBgamingYT)
-* Ominous Nebula (StarCode_Ominous)
+* Ominous Nebula (LeopardSpammer101)
 * OneSpottedFriend (OneSpottedFriend)
 * PaanDuh (PPaanDuh)
 * PaintingRainbows (RainbowsYT)
@@ -576,6 +575,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RufflesOfficial (RufflesPlaysMC)
 * Rupthy (Rupthy)
 * S\_Viper (S\_Viper)
+* SamHandling (DigitoPlaysThis)
 * Sant (heysant2018)
 * Santino Tossi (SantinoTossi03)
 * Saoli (saoli11)
