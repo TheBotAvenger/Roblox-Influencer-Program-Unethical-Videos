@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 23, 2023<br>
+Generated July 24, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -515,7 +515,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OKEH SQUAD (Rbellomello)
 * Olix (OIixYT)
 * OMB Gaming (OMBgamingYT)
-* Ominous Nebula (LeopardSpammer101)
+* Ominous Nebula (ALeopardSpammer)
 * OneSpottedFriend (OneSpottedFriend)
 * PaanDuh (PPaanDuh)
 * PaintingRainbows (RainbowsYT)
