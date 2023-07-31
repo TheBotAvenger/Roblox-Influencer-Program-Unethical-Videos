@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 30, 2023<br>
+Generated July 31, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -515,7 +515,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OKEH SQUAD (Rbellomello)
 * Olix (OIixYT)
 * OMB Gaming (OMBgamingYT)
-* Ominous Nebula (ALeopardSpammer)
+* Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
 * PaanDuh (PPaanDuh)
 * PaintingRainbows (RainbowsYT)
@@ -748,7 +748,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * "If you WIN I'll Give You 10,000 ROBUX" (ROBLOX Arsenal)
       * Uses group funds to give away Robux for a competition.
       * URL: https://www.youtube.com/watch?v=MMnpUXv_rsI
-* Bax (DefinitelyNotBaxtrix)
+* Baxtrix (DefinitelyNotBaxtrix)
   * Other
     * Infecting 99999 ALIENS in Sneezing Simulator! // Roblox
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
