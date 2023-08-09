@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 8, 2023<br>
+Generated August 9, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 768,187 videos
 * Total videos found that match keywords: 50,978 videos
-  * Total unprocessed videos: 4,868 videos
-* Total videos found that are processed and marked: 3,364 videos 
-  * Information Collection: 2,299 videos
+  * Total unprocessed videos: 4,869 videos
+* Total videos found that are processed and marked: 3,363 videos 
+  * Information Collection: 2,298 videos
   * Non-Giftcard Robux Giveaways: 935 videos
   * Other: 94 videos
   * Phishing: 36 videos
@@ -5235,9 +5235,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO GET FREE HEADLESS HEAD! \*WORKING!\* (2019)- Roblox
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=lzVw6fFkUlE
-    * HOW TO GET FREE FACES ON ROBLOX! (2022)\*WORKING\* PROMO CODE ROBLOX
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=VR3j9fx4xXQ
     * ROBLOX JAILBREAK - I BECAME INVISIBLE IN JAILBREAK+ TROLL (GONE RAGE QUIT)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=_8zo7dO0e6I
