@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 13, 2023<br>
+Generated August 14, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -360,7 +360,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GamingwithVYT (GamingwithVYT)
 * GH0Ks (GHOKSZIN)
 * GhostInTheCosmos (GhostInTheCosmos)
-* GianBlox (GianBloxStarYT)
+* GianBlox (OficialGianBlox)
 * Godenot (godenot)
 * Godstatus (CallMeGodstatus)
 * GoldenGlare (GOLD3NGLARE)
