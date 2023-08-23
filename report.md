@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 22, 2023<br>
+Generated August 23, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,8 @@ to the report if this happens.
 * Total videos: 773,673 videos
 * Total videos found that match keywords: 51,205 videos
   * Total unprocessed videos: 5,096 videos
-* Total videos found that are processed and marked: 3,363 videos 
-  * Information Collection: 2,298 videos
+* Total videos found that are processed and marked: 3,362 videos 
+  * Information Collection: 2,297 videos
   * Non-Giftcard Robux Giveaways: 935 videos
   * Other: 94 videos
   * Phishing: 36 videos
@@ -8500,10 +8500,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website bloxawards.com.
       * Description references the data collection website bloxpoints.com.
       * URL: https://www.youtube.com/watch?v=mX-jhaFomR8
-    * cuidado com os bacons hairs do roblox......
-      * Description references the data collection website bloxawards.com.
-      * Description references the data collection website bloxpoints.com.
-      * URL: https://www.youtube.com/watch?v=2UXKBeIGpcs
     * HERÓI OU CRIMINOSO?? - Mad City Roblox 🕵
       * Description references the data collection website bloxawards.com.
       * Description references the data collection website bloxpoints.com.
