@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 27, 2023<br>
+Generated August 28, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -419,7 +419,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Judo Unicorn (judounicorn11)
 * Juicy John (Majojocl)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
-* Julianbank (blvckbank)
+* Julianbank 2 (blvckbank)
 * Junell Dominic (Junewuuu)
 * JunRoots (cheeseandcakejuice)
 * jvnq (jvnqYT)
