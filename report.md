@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 29, 2023<br>
+Generated August 30, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,12 +184,12 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 776,385 videos
 * Total videos found that match keywords: 51,318 videos
-  * Total unprocessed videos: 5,209 videos
-* Total videos found that are processed and marked: 3,362 videos 
-  * Information Collection: 2,297 videos
+  * Total unprocessed videos: 5,211 videos
+* Total videos found that are processed and marked: 3,359 videos 
+  * Information Collection: 2,296 videos
   * Non-Giftcard Robux Giveaways: 935 videos
   * Other: 94 videos
-  * Phishing: 36 videos
+  * Phishing: 34 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -435,6 +435,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Kitt Gaming (StarCode_kitt)
 * Kodak (KodakOF)
 * KraoESP (KraoESP)
+* KreekCraft (StarCode_RealKreek)
 * Krystin Plays (KrystinPlays)
 * KTG Gaming (lifetimeobcman123)
 * KunicornCraft (kawaii_kunicorn)
@@ -6751,12 +6752,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MEEPCITY BAILE DÍA DEL AMOR CON MIS ALUMNOS💖PROPUESTA DEL PROFESOR😱💖- ROBLOX
       * Description references the data collection website rbxtrade.com.
       * URL: https://www.youtube.com/watch?v=ZoDzvJ-dCDc
-* KreekCraft (StarCode_RealKreek)
-  * Phishing
-    * ROBLOX HACKING A HATERS FAN ACCOUNT AND TURNING THEM INTO A THICC GIRL!!
-      * URL: https://www.youtube.com/watch?v=hqsYQu9twno
-    * HACKING A FANS ROBLOX ACCOUNT AND GIVING THEM FREE ROBUX!! | Roblox LIVE 🔴
-      * URL: https://www.youtube.com/watch?v=hC5BdAC2X8o
 * Legolaz (LegolazYoutube)
   * Information Collection
     * ¡SOY EL MÁS GORDO DE ROBLOX! 🍕🍔🍟 \*CASÍ EXPLOTO\* | LEGOLAZ
