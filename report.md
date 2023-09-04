@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 3, 2023<br>
+Generated September 4, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -412,7 +412,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JesuaCunnigham (Jesua_Cunnigham)
 * Joao joao (Joao_joaooficial)
 * Joe Albanese (Joey_Albanese)
-* JoeyDaPlayer (UseStarCodee_JOEY)
+* JoeyDaPrayer (UseStarCodee_JOEY)
 * JoJocraftHP (JoJocraftHP)
 * JonesGotGame (JonesGotGame)
 * Juaumzinho (JUAUMZONES)
