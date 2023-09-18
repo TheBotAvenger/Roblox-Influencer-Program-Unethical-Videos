@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 17, 2023<br>
+Generated September 18, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,7 +182,7 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 781,554 videos
+* Total videos: 781,562 videos
 * Total videos found that match keywords: 51,551 videos
   * Total unprocessed videos: 5,444 videos
 * Total videos found that are processed and marked: 3,358 videos 
@@ -329,6 +329,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Fanaticalight (Fanaticalight)
 * FancySmash (RealFancySmash)
 * faulty (Faulltyy)
+* febatista (febatistaYT)
 * fer999 (StarCode_fer)
 * Fera (Fera0ficial)
 * FGTeeV (FGTeeV and DrizzMcNizz)
