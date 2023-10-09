@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 8, 2023<br>
+Generated October 9, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 788,658 videos
-* Total videos found that match keywords: 51,838 videos
-  * Total unprocessed videos: 5,731 videos
+* Total videos: 789,246 videos
+* Total videos found that match keywords: 51,841 videos
+  * Total unprocessed videos: 5,734 videos
 * Total videos found that are processed and marked: 3,358 videos 
   * Information Collection: 2,296 videos
   * Non-Giftcard Robux Giveaways: 934 videos
@@ -451,11 +451,12 @@ The following channels had nothing appear with manual searching. Videos may exis
 * LcLc (LcLcO1)
 * Leah Ashe (NotLeah)
 * Lenay (lenay_ROBLOX)
+* Leshero Morrazo (MoroSamy)
 * LiaBlossoms (LiaBlossoms)
 * LilahBloxy (3lilahbloxy)
 * Lilly BloxTV (Lilly_TVs)
 * LimaMosca (LimaMosca)
-* LinMeiLee (LinMeiLee)
+* LinMeiLee (ItzLinPlays)
 * locus (locus200k)
 * Lokis (lokis9340)
 * Lord (Lorrd_ofc)
@@ -516,7 +517,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * oGVexx (LouDaREALGamer)
 * OKEH SQUAD (Rbellomello)
 * Olix (OIixYT)
-* OMB Gaming (OMBgamingYT)
+* OMB Gaming (OMBcreates)
 * Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
 * PaanDuh (PPaanDuh)
