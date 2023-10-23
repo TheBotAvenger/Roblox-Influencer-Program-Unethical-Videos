@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 22, 2023<br>
+Generated October 23, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 791,585 videos
-* Total videos found that match keywords: 51,953 videos
-  * Total unprocessed videos: 5,846 videos
+* Total videos found that match keywords: 51,955 videos
+  * Total unprocessed videos: 5,848 videos
 * Total videos found that are processed and marked: 3,358 videos 
   * Information Collection: 2,296 videos
   * Non-Giftcard Robux Giveaways: 934 videos
@@ -354,6 +354,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FusionZGamer (NotFusionZGamer)
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
+* Gamer Hoops (SnickerHoops)
 * Gamer Kawaii (iiGamerKawaiiYT)
 * Gamer Robot (Zioles)
 * GamerHexapod (Hexapod_xD)
@@ -520,6 +521,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OMB Gaming (OMBcreates)
 * Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
+* Oscar (VanillaOreoCat)
 * PaanDuh (PPaanDuh)
 * PaintingRainbows (RainbowsYT)
 * PandaLemonTart (PandaLemonTart)
@@ -573,7 +575,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * roxhi roblox (12345roxyhi12345)
 * RoxiCake Gamer (YT_RoxiCake)
 * Royale Dior (ItsRoyaleDiorYT)
-* Rubie (VanillaOreoCat)
 * Ruby Games (ruby_rubeYT)
 * RufflesOfficial (RufflesPlaysMC)
 * Rupthy (Rupthy)
@@ -600,7 +601,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SlEGHART (SlEGHART)
 * Sleigher (Gsleigh)
 * Slykage (Sly_Kage)
-* Sniffycat (SnickerHoops)
 * Sofia Tube (sofiatube7)
 * Solem Archive (iJackeryz)
 * Sons Of Fun (SonsofFun_YT)
@@ -9382,7 +9382,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* TanqR (TanqR)
+* TanqR (iVoteFFAMode)
   * Non-Giftcard Robux Giveaways
     * 1 KILL = $1000 Robux in Roblox Bedwars..
       * Uses group funds to give away Robux.
