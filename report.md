@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 24, 2023<br>
+Generated October 26, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,8 @@ to the report if this happens.
 * Total videos: 796,131 videos
 * Total videos found that match keywords: 52,111 videos
   * Total unprocessed videos: 6,004 videos
-* Total videos found that are processed and marked: 3,358 videos 
-  * Information Collection: 2,296 videos
+* Total videos found that are processed and marked: 3,356 videos 
+  * Information Collection: 2,294 videos
   * Non-Giftcard Robux Giveaways: 934 videos
   * Other: 94 videos
   * Phishing: 34 videos
@@ -879,9 +879,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Roblox visita LATAM...
       * Description references the data collection website rbxgum.com.
       * URL: https://www.youtube.com/watch?v=SZSTkYJh0Ow
-    * Robux en 2045...
-      * Description references the data collection website rbxgum.com.
-      * URL: https://www.youtube.com/watch?v=X3nR0t_H7dg
     * Si yo fuera admin de Roblox...
       * Description references the data collection website rbxgum.com.
       * URL: https://www.youtube.com/watch?v=u0NKiEaOnSE
@@ -7513,9 +7510,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * THE NEW RAREST PETS IN THE GAME | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=lSdVk_yVfCY
-    * BUYING TIER 14 EGGS (Super OP) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=E7u_CF83g6U
     * BUYING ALL \*NEW\* GAMEPASSES | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=VAp5OMzafSs
