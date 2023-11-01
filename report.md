@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 31, 2023<br>
+Generated November 1, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -186,8 +186,8 @@ to the report if this happens.
 * Total videos found that match keywords: 52,187 videos
   * Total unprocessed videos: 6,080 videos
 * Total videos found that are processed and marked: 3,356 videos 
-  * Information Collection: 2,294 videos
-  * Non-Giftcard Robux Giveaways: 934 videos
+  * Information Collection: 2,295 videos
+  * Non-Giftcard Robux Giveaways: 933 videos
   * Other: 94 videos
   * Phishing: 34 videos
 
@@ -879,6 +879,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Roblox visita LATAM...
       * Description references the data collection website rbxgum.com.
       * URL: https://www.youtube.com/watch?v=SZSTkYJh0Ow
+    * Robux en 2045...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=X3nR0t_H7dg
     * Si yo fuera admin de Roblox...
       * Description references the data collection website rbxgum.com.
       * URL: https://www.youtube.com/watch?v=u0NKiEaOnSE
@@ -7722,9 +7725,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * WIN FREE ROBUX EVERY 10 MIN IN MY ROBLOX LOTTERY IN SURVIVOR
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=OyI5cirJMJ8
-    * FREE ROBUX LOTTERY EVERY 10 MIN IN JAILBREAK ROBLOX (NOT FAKE)
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=oeyvoqUrgBo
     * WIN ROBUX EVERY 10 MIN IN MY ROBUX LOTTERY IN JAILBREAK
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=vfPMgPISvFk
