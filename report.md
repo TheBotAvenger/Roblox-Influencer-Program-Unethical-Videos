@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 5, 2023<br>
+Generated November 6, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -362,7 +362,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GamingwithVYT (GamingwithVYT)
 * GH0Ks (GHOKSZIN)
 * GhostInTheCosmos (GhostInTheCosmos)
-* GianBlox (OficialGianBlox)
+* GianBlox (GianBloxStarYT)
 * Godenot (godenot)
 * Godstatus (CallMeGodstatus)
 * GoldenGlare (GOLD3NGLARE)
@@ -9376,7 +9376,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* TanqR (iVoteFFAMode)
+* TanqR (TanqR)
   * Non-Giftcard Robux Giveaways
     * 1 KILL = $1000 Robux in Roblox Bedwars..
       * Uses group funds to give away Robux.
