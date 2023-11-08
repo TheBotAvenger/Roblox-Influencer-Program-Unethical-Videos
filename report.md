@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 7, 2023<br>
+Generated November 8, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 800,959 videos
 * Total videos found that match keywords: 52,261 videos
-  * Total unprocessed videos: 6,154 videos
-* Total videos found that are processed and marked: 3,356 videos 
-  * Information Collection: 2,295 videos
-  * Non-Giftcard Robux Giveaways: 933 videos
+  * Total unprocessed videos: 6,162 videos
+* Total videos found that are processed and marked: 3,352 videos 
+  * Information Collection: 2,290 videos
+  * Non-Giftcard Robux Giveaways: 934 videos
   * Other: 94 videos
   * Phishing: 34 videos
 
@@ -4919,9 +4919,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * PLAY ROBLOX JAILBREAK ON MY DAD IPAD FOR THE FIRST TIME! \*MOBILE\* (ROBLOX)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=Cq41fX5_eOU
-    * HOW TO GET FREE FACES ON ROBLOX! FREE BEAST MODE! (2022) \*WORKING\*
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=lPoshyYVrqo
     * TOP 3 SECRETS FOUND IN JAILBREAK ROBLOX BANK UPDATE (ROBLOX)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=3NygyFECZ_0
@@ -5033,9 +5030,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * JAILBREAK ROBLOX LEVEL GLITCH! COP LEVELING UP GLITCH \*FAST\* (ROBLOX)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=cBqcmcEo00o
-    * JAILBREAK ROBLOX LEVEL GLITCH ! BANK GLITCH, JEWELRY STORE GLITCH, MUSEUM GLITCH IN JAILBREAK!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=OsAutF1JUcQ
     * JAILBREAK UNDERWATER| Asimo3089 HACKED ROBLOX VIP SERVER | FLOODED JAILBREAK!
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=YqQbKkugMNA
@@ -5066,12 +5060,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL NEW CODES IN ROBLOX JAILBREAK (JAILBREAK WINTER UPDATE) ALL PROMO CODES IN JAILBREAK ROBLOX
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=mU9NsHirV88
-    * HOW TO GET IN THE NEW CRIMINAL BASE IN JAILBREAK WITHOUT GETTING LEVEL 20| JAILBREAK LEVEL GLITCH!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=BIotL9x1WL8
-    * ALL CODES IN ROBLOX JAILBREAK (JAILBREAK WINTER UPDATE) ALL PROMO CODES IN JAILBREAK ROBLOX
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=Q5geRdLzs2A
     * ROBLOX JAILBREAK WINTER UPDATE FULL REVIEW! (ROBLOX JAILBREAK UPDATE REVIEW 2018)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=SGrGPiGnQnI
@@ -5099,9 +5087,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX JAILBREAK HOW TO USE GUNS IN MUSEUM! \*NEW GLITCH!\*
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=1eDey4QYS-8
-    * ROBLOX PROMO CODES!! (2020) -WORKING PROMO CODE THE TEAL TECHNO RABBIT HEADPHONES
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=1aa7EourQEo
     * HOW TO GET FREE FACES ON ROBLOX! \*WORKING\* (2019)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=77oGA009P94
@@ -5232,12 +5217,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO SPEED GLITCH IN JAILBREAK ROBLOX (FASTER THAN CAR!) 2018!
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=nQ2_B4Iy5qk
-    * HOW TO REDUCE/FIX LAG ON ROBLOX \*WORKING\* (2021!)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=DAJiF6z8wvY
-    * HOW TO GET FREE HEADLESS HEAD! \*WORKING!\* (2019)- Roblox
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=lzVw6fFkUlE
     * ROBLOX JAILBREAK - I BECAME INVISIBLE IN JAILBREAK+ TROLL (GONE RAGE QUIT)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=_8zo7dO0e6I
@@ -5259,9 +5238,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * DARES ON ROBLOX!!! \#1 (GONE WRONG?) -Roblox Jailbreak
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=-AGtsVGYDtY
-    * ROBLOX JAILBREAK- 5 Secrets YOU MIGHT NOT KNOW !
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=-RV1NSCQAY4
     * NEW CODES IN DESTRUCTION SIMULATOR | Roblox All New Codes
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=rrY9hAJ8Ppg
@@ -7138,9 +7114,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * MAKING THE CITY GOLD! | Billionaire Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=u-HBx87800Q
+    * IntelPlayz - cLout chasin (Lacrase Diss Track) Official Video
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=Sx47-eLJI0c
     * MAKING MILLIONS IN 10 MINUTES |  💰Billionaire Simulator💰
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=0zVTZj342-Q
+    * HE MADE A DISSTRACK ON ME (Reaction)
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=ZwR0ub0qmJo
     * WE GOT 5 GIANT CATS IN 1 SERVER (Insane) | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=t6JQCQpUlmw
@@ -7513,6 +7495,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * THE NEW RAREST PETS IN THE GAME | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=lSdVk_yVfCY
+    * BUYING TIER 14 EGGS (Super OP) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=E7u_CF83g6U
     * BUYING ALL \*NEW\* GAMEPASSES | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=VAp5OMzafSs
@@ -7543,6 +7528,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NOOB vs PRO vs ROBUX SPENDER | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=z3-Yx2NYeLU
+    * BUYING THE INFINITE PET GAMEPASS IN PET SIMULATOR (40k ROBUX) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=l9dfsynl1U0
     * HOW TO GET 2 BILLION COINS WITH 1 CHEST | Pet Simulator
       * Description references the data collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=bugUjvH9kq4
@@ -7725,6 +7713,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * WIN FREE ROBUX EVERY 10 MIN IN MY ROBLOX LOTTERY IN SURVIVOR
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=OyI5cirJMJ8
+    * FREE ROBUX LOTTERY EVERY 10 MIN IN JAILBREAK ROBLOX (NOT FAKE)
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=oeyvoqUrgBo
     * WIN ROBUX EVERY 10 MIN IN MY ROBUX LOTTERY IN JAILBREAK
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=vfPMgPISvFk
