@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 12, 2023<br>
+Generated November 13, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -5428,6 +5428,584 @@ The following channels had nothing appear with manual searching. Videos may exis
     * WHEN A STRANGER FINDS 1,000 ROBUX | Roblox Social Experiment
       * Randomly gives out Robux using a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=wgXTsve1zOs
+* IntelPlayz (IamRoBuilder)
+  * Information Collection
+    * THE PORTAL FINALLY OPENED | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=PRkqgIxiiUk
+    * UPDATE LEAKS! Underworld & More | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=iVl8nkLztVk
+    * Playing with MODS on Roblox...
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=LpgOWjG31uA
+    * THE OWNER GAVE ME 4 MILLION SILVER | Snowman Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=6U6abz3HeJ0
+    * ALL CODES & DEVELOPER GAVE ME EVERYTHING | Fishing Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=JwE32cBhwk8
+    * SPENDING ALL MY GOLD TO UPGRADE MY RAREST PET! | Snowman Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=mmGWgi-Vblc
+    * WHATS ON TOP OF THE SECRET ISLAND | Snowman Simulator ☃️
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=HCQIR9xRsrE
+    * NEW UPDATE SNOW MAP & MYTHIC ZONE! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=bRBa-5goNg4
+    * I BOUGHT 3 MILLION SILVER THEN GOT MYTHIC PRESENTS | Snowman Simulator ☃️
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=Zw4IjLUFJ7A
+    * ALL CODES! | Battle Bot Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=qvAvo7ly6Wo
+    * A FAN GAVE ME THE RAREST PET | Bubble Gum Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=Ehn7PDDLbH8
+    * ULTIMATE TIER PETS (Elf OP) | North Pole Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=MMN0_fpA5No
+    * MAXING OUT MY ARMY | Army Control Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=XYf_lJ7EshU
+    * I GOT THE RAREST GODLY PET (update) | North Pole Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=onK_XjgMpZo
+    * I GOT THE MOST POWERFUL SPELL & THE INF BAG! | Army Control Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=iyOJKxdNvIs
+    * I BOUGHT THE BEST SLEIGH AND BROKE THE GAME! | North Pole Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=j-OHtLszPZM
+    * I BOUGHT THE MOST EXPENSIVE GAMEPASS (5k R$) | North Pole Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=DiFJ73lsgxA
+    * THIS CODE GIVES YOU THE BEST RANK! | North Pole Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=NffuVMaCqFc
+    * I BOUGHT EVERY GAMEPASS! | North Pole Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=UzxC0Eh4H-A
+    * GREAT GOLDEN SWORD (op)! | Army Control Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=-mLDQL0I6QI
+    * SHINY PETS AND GEM GENIE  UPDATE!!  | Bubble Gum Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=8EoDCx1TVos
+    * THE OWNER GAVE ME THIS..... (OP) | North Pole Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=WFFwfnmkIjY
+    * THE OWNER GAVE ME UNLIMITED SPINS | Slot Machine Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=_85tzNOWE7o
+    * FIRST LOOK! (Snow Shoveling Simulator 2) | The North Pole
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=6hQ2JP8pzFU
+    * REBIRTHING WITH ONLY THE HOT DOG STAND! (Challenge) | Billionaire Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=HB08FtH6Ev0
+    * BUYING THE MOST EXPENSIVE FLAVOR & MONSTER EGGS! | Bubble Gum Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=sjllhasdkVA
+    * MAKING THE CITY GOLD! | Billionaire Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=u-HBx87800Q
+    * IntelPlayz - cLout chasin (Lacrase Diss Track) Official Video
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=Sx47-eLJI0c
+    * MAKING MILLIONS IN 10 MINUTES |  💰Billionaire Simulator💰
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=0zVTZj342-Q
+    * HE MADE A DISSTRACK ON ME (Reaction)
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=ZwR0ub0qmJo
+    * WE GOT 5 GIANT CATS IN 1 SERVER (Insane) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=t6JQCQpUlmw
+    * HOW I GOT 1 BILLION COINS AND ON THE LEADERBORED! | Bubble Gum Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=iyheovxKkxw
+    * Noob vs Hacker vs Pro \[ Bubble Gum Simulator Edition\]
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=P_KSsgXTLVQ
+    * \*NEW\* VOID AREA & EGGS | Bubble Gum Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=k0v4gqkwNhQ
+    * I GOT THE GIANT CAT | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=vR9RwO37unw
+    * NEW GAMEPASSES & DARK MATER EGGS! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=Gz_QZV7iMmA
+    * BUYING GAMEPASSES TO UNLOCK THE BEST FLAVOR | Bubble Gum Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=x7BLtu5273A
+    * CREATING A GIANT PENGUIN! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=JA8rR5LLRYg
+    * RAINBOW DARK MATTER PETS! (Glitched) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=OZPAQgr3I50
+    * THE RAREST PET IN THE GAME DARK MATTER AGONY | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=26knAsuRkZo
+    * GATHERING SLIME TO GET TO THE TOP! | Slimeulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=BnTX9BHca4o
+    * HOW TO GET THE GIANT CAT! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=A6JHy6k5WkE
+    * MAKING DARK MATTER DOMINUS HUGE (Bad Idea) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=jN2jbIi1QTk
+    * WE USED 1200 DOGS AND BROKE THE GAME! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=wo4ApuvPd58
+    * I GAVE HIM THE DARK MATTER DOMINUS HUGE | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=8n3BxHm2Shw
+    * \*NEW\* DARK MATTER PETS AND LIMITED TIME RAINBOW EGG | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=RScOAp5EQZ4
+    * I BOUGHT 3 OP GAMEPASESS | Prison Escape Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=2FCdoTeeLrI
+    * I WILL BE THE BEST BLOB BUSTER | Blob Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=gEVv8XA5vM8
+    * BROKEN MONEY ACCOUNT GIVEAWAY | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=vArbaApnV84
+    * ROBLOX TOYS + FREE CODES!
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=21eU70g0haw
+    * GETTING A DUPER BANNED ON PET SIMULATOR \#SavePetSim
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=HJ0cDV1bL1E
+    * WE GOT THE BEST PET IN THE GAME! (Broken)| Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=4RiFXXbcRxk
+    * I MADE MY HYDRA RAINBOW (Rarest Pet) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=sZN1BaRSu_A
+    * I GOT THE RAREST PET (Update 10) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=sP9M-XP7daM
+    * TIER 18 (Make ANYTHING Gold) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=RaLzpRA50zg
+    * 150k Q&A + ROBLOX TOY CODES GIVEAWAY!
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=wfm7PSJD8x4
+    * THE OWNER GAVE ME THIS PET | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=fRHHDS48bUw
+    * BROKEN MONEY &GOLD DOMINUS HUGE ACCOUNT GIVEAWAY | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=rTEsPdor8Q8
+    * HOW TO DUPE PETS & NOT GET BANNED! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=KqaVxFmkanU
+    * I GOT BROKEN MOON COINS WITH THE BEST PET | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=7MjWRcRsiTE
+    * EVERY DOMINUS HUGE vs DOMINUS CHEST (FAST)! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=7aGDLJodIbQ
+    * NEW JUMP LAUNCH GLITCH | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=NvlabWaEW70
+    * NOW I CAN PLAY PET SIM ALL DAY (E-win Chair)
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=LCr1HjC6mlI
+    * RAINBOW DOMINUS HUGE (Rarest Pet) vs DOMINUS CHEST | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=TJvnatFkhTw
+    * I BOUGHT 5 MILLION COINS | Weapon Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=7JOAwm3vZm8
+    * 1 DOMINUS HUGE vs. THE DOMINUS CHEST | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=h5Yu4cbqrT8
+    * I GOT BROKEN MONEY WITH THE BEST PET | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=WIpeLJn6eHY
+    * GOLD AND RAINBOW HATS | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=fZ0BWe9VA00
+    * MY NEW BEST PET (Super Good) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=umYGQjZfOP4
+    * MY BEST PET VS THE DOMINUS CHEST (oof) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=g6-xCB6fxdQ
+    * DESTROYING THE DOMINUS CHEST SOLO (Fast) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=e4NQUq5oDMQ
+    * NEW UPDATE (Best One Yet) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=3Umg6QCXCU0
+    * NEW GAMEPASS AUTO PILOT (Idea) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=dv5en832qEE
+    * So i Played Pet Simulator With Rthro (Anthro)......
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=9tQiFpoplQ0
+    * I GAVE HIM THE BEST PET | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=iZVvMw8-sVs
+    * MY INFINITE PETS GAMEPASS STILL WORKS! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=PYygObpnydg
+    * OPENS LIMITED TIME EGGS & GOT 2 RARE PETS! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=6nJWEAtiPNg
+    * BACON HAIR GETS THE RAREST CHEST | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=LtQTpuGB3c0
+    * HALLOWEEN UPDATE (Rare Pets) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=q_OzDgMEMj4
+    * I GOT HACKED (800,000R$) & ALL MY STUFF | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=yhuRpmowFrw
+    * HE GOT ME THE RAREST HAT IN PET SIMULATOR
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=ebqoD6gUNLk
+    * THE OWNER GAVE ME UNLIMITED MONEY | Timberds Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=EFwIFUr8Vo4
+    * HE BOUGHT ME THE INFINITE PETS GAMEPASS 40,000R$ (Trolling) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=xpRmKckMBHQ
+    * \*NEW SCAM\* Hat Stat Scam | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=83FGqQRLht0
+    * THE WORST PET vs THE BEST CHEST (Shocking) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=4nrjzHEoCGw
+    * BUYING THE NEW GAMEPASS (100 Hats) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=OXbpOwrJWhA
+    * HATS UPDATE! (Super OP) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=YeYkmn-ZB4o
+    * One Plot Challenge Getting Started (Season 2) | Lumber Tycoon 2
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=-iwYu8QAm-c
+    * 50 RAINBOW SHOCKS vs RAREST CHEST | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=LyXiheH_zYw
+    * WATCH ME DUPE (Trolling) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=CRd2Reni498
+    * 50+ KILLS SNIPER GAMEPLAY (Crazy Feeds) | Fray
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=Znroxk1_j5Q
+    * BUYING THE HEADLESS HORSEMAN FOR MY ALT ACCOUNT (31kR$) | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=4LthwyDvk6o
+    * PRONE ONLY CHALLENGE | Fray
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=GlqArI4Gli8
+    * GOING INVISIBLE IN FRAY | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=Vhsh4i79ARY
+    * NOOB vs PRO vs ANNOYING PEOPLE | 💥 Super Power Training Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=s6iUq8b_BlI
+    * RAINBOW TIER 16 ONLY CHALLENGE! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=jZT2kJnuacQ
+    * BUYING THE RAINBOW CORE SHOCK |Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=5qprpXnex5I
+    * FRAY- The Beginning | Montage
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=5w_vt38Fx6I
+    * NEW \*EXCLUSIVE\* CODE! (Free Pet) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=fQFDvGriBkI
+    * HUNTING FOR RAINBOW CORE SHOCK | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=YoyuFTBz7qs
+    * I GOT THE RAREST/BEST PET | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=h4-5aWy5Hmg
+    * BUYING ALL THE GAMEPASES (1,000 R$) | Fray
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=NVCg3RMZxoU
+    * GETTING MY FIRST SUPER POWER!| 💥 Super Power Training Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=cPanr7dFVQY
+    * I PAID 5k ROBUX FOR THIS (anthro) SNIPER | Fray
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=4sdbD0SRnBg
+    * HOW MANY COINS WILL WE GET ...... | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=uJBc0NcL1gA
+    * HALLOWEEN OUTFIT 2018! | Spooky
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=MDkrpIH0-_8
+    * BEST PET IN UPDATE 6? | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=KzoEfbrRBbE
+    * CHEST ONLY CHALLENGE | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=pl6ogVSrUGg
+    * NEW UPDATE CYBORG PETS & EGGS (Teleport) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=v1BdNLLmsEg
+    * DELETING ALL MY RAINBOW MORTUUS | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=lg9BgtaSByU
+    * I Tried To Give a NOOB Pets and This Happend... | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=43HfOVrpGIs
+    * FINALLY WE GOT RAINBOW DOMORTUUS | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=Z3tBGMP-6Ac
+    * New Game \*EXCLUSIVE ITEMS\*(Codes) | Lumberjack Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=fqiqWkDc5fs
+    * BEST ITEM IN THE GAME! | Dragon Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=3TGszKeHrVw
+    * I HOPE I DONT GET BANNED FOR THIS...... | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=OrhSCBAgPvQ
+    * CONVERTING COINS TO MOON COINS UPDATE (Soon) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=89GgefcB7eU
+    * ONE PET CHALLENGE (Race to Space) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=QucCpS7zdNc
+    * WE GOT DOMOURTUS AND RAINBOW AME DAMNEE | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=_Vvo8WtnBsc
+    * GIVING RussoPlays THE BEST PET IN THE GAME! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=fB7qHrD39w4
+    * She Gave Me The BEST Pet in PET SIMULATOR!! | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=jiNRP3_0LRU
+    * HOW TO GET COINS \*MEGA\* FAST | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=aul1ZXoknpg
+    * MAKING MY RAREST PET GOLDEN | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=KdKselIwWWE
+    * BUYING THE NEW GAMEPASSES (Good or No) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=Lt2j6zuSNrs
+    * MAKING GHOST TREE A ROBLOX ACCOUNT
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=xNL14F5lWv4
+    * FAN HANGOUT (Speed Build) PT.2 | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=DB3uogB1E7k
+    * PRO HELPS NOOB | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=bTt_frdCHlE
+    * I GOT THE NEW RAREST PET IN THE UPDATE! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=q7VSjrNFKZE
+    * FAN HANGOUT (Speed Build) PT.1 | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=absSSx9YkJ8
+    * MY SECRET TALENTS | Vlog \#1
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=xBrUokimOpc
+    * NEW EXCLUSIVE CODES w/CodePrime8 | Mining Simulator X
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=maogxj6cerQ
+    * ANTHRO IS HERE AND I LIKE IT | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=OQPt3gsKXQE
+    * GIVING AWAY ALL MY PETS | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=JRsiXPX1cpU
+    * PvP IN DESTRUCTION SIMULATOR | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=sVuWA3odChI
+    * I MADE HIM THINK THE BEE IS THE RAREST PET  | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=N8fUBu6daPQ
+    * I WILL BE THE BEST! | Parkour Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=c3lMU1W7In4
+    * HE GAVE ME THE BEST/RAREST PET IN THE GAME | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=tepd7ppa4EU
+    * I GAVE A NOOB THE RAREST PET | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=OIFlqMtpVRA
+    * PRO HELPS NOOB | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=Prx6TVaV6PQ
+    * HELPING FANS! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=mP9j0_aNBQU
+    * \*EXCLUSIVE\* CODES! | Mining Simulator X
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=CwY8oSSldiM
+    * GIVING AWAY ALL MY OLD PETS! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=WqPU2UuyT3Q
+    * NEW BEST PET (Updated Mortous) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=S3GlpESeD2M
+    * NEW GOLDEN 1NE PET | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=wLaN_gW2J-E
+    * FIRST LOOK | Mining Simulator X
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=2VJdVAD-a4M
+    * HUGE UPDATE! (TIER 15+CandyLand) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=LLENTMgcByA
+    * HOW TO GET A FREE V.I.P SERVER | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=PNTuWRl-_Aw
+    * Pet Simulator CHALLENGE (no Robux) | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=q3sUGqZLIvE
+    * I FLOODED Yard Work Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=9kLzH_Ht4zw
+    * PAYING STRANGERS TO BUILD ME A HOUSE | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=gv4MOZWRU6g
+    * NEW! 💥Destruction Simulator Black hole | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=JHcWmecu_ts
+    * PRO HELPS NOOB | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=yIUYCMgU3Us
+    * I GOT THE 2 RAREST PETS | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=yDlhlAJ3DJQ
+    * I EQUIP 500 TIER 14 PETS THEN THIS HAPPEN ....
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=T9Hi6syAjc0
+    * THE NEW RAREST PETS IN THE GAME | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=lSdVk_yVfCY
+    * BUYING TIER 14 EGGS (Super OP) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=E7u_CF83g6U
+    * BUYING ALL \*NEW\* GAMEPASSES | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=VAp5OMzafSs
+    * SPACE UPDATE! (Broken) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=HeRVxu_ckFE
+    * NEW ZONES,CHESTS & PETS (Leaked) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=WmHKfHRgJBY
+    * USING HACKED PETS! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=FOCBfwpiOe8
+    * PETS ARE BACK (OP) | Yard Work Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=UvdIxqZGSTA
+    * HATS FOR PETS! (Coming soon) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=Bzdm4PWbI0Y
+    * MAKING SPACE FOR THE \*NEW\* TIER 13 PETS | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=Kxu4swFGLaQ
+    * THE OWNER SHOWED ME THIS... | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=QwPwtbmpkC0
+    * i used 100 tier 12 pets, then this happened... | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=gZ3U0_clNw8
+    * NOOB vs PRO vs ROBUX SPENDER | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=z3-Yx2NYeLU
+    * BUYING THE INFINITE PET GAMEPASS IN PET SIMULATOR (40k ROBUX) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=l9dfsynl1U0
+    * HOW TO GET 2 BILLION COINS WITH 1 CHEST | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=bugUjvH9kq4
+    * GOLD PETS , TRADING & EXPENSIVE GAMEPASS | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=GDB7F1AG9wc
+    * SHOP SPEED BUILD (New Game) | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=r_EK9-T_CIw
+    * HOW TO SPAWN CHEST! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=Amm4DSP3VN0
+    * THERE IS A 1% CHANCE TO GET THIS EGG | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=M2Vt50cCK8Y
+    * JAILBREAK UPDATE (RPG,GRENADES,New Car) | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=ZcVDLYqaIVM
+    * Free For All MOD TROLLING | Bo2
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=boV9Kv7bazQ
+    * BUYING EVERY GAMEPASS (Super OP) | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=U9c3qMT5oqM
+    * LINKMON99 SENT ME A TRADE | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=FqaE3Al3bVk
+    * CHICKEN SPAWN GLITCH (Helping Noobs) | Egg Farm Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=r_u8G7yPTKA
+    * UNLIMITED EGGS FROM THE DEALER | Egg Farm Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=6GO7BSu4YBY
+    * Noob vs Hacker vs Pro \[ Island Royale Edition \]
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=15s_8xqMaG4
+    * I BOOSTED THE WHOLE ROBLOX SERVER! | Yard Work Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=2-1gyuXljMc
+    * I-R-R-E-L-E-V-A-N-T | going to skatepark
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=QhgI-pdmU70
+    * BUILD A BOAT OBBY w/ Z_Nac (SUPER FUNNY) | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=y4d0uJrrkas
+    * Egg Farm Simulator First Look! | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=7KCeh8nwymQ
+    * DOMINUS GIVEAWAY!!! | Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=BzYg6a-y3P4
+    * WE MADE A PENGUIN ARMY (Unlimited Money) | Beach Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=XmhbSQNeglY
+    * RELEASING ALL MY PETS (New Pet) | Beach Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=aMyi5meSMVQ
+    * Mining Simulator REVENGE!
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=5lCMZRc2kXA
+    * Bad Roblox SUPER DURP
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=psxDS3Wu8T4
+    * Filling The INF. Bag | Yard Work Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=8AeM-NJ-F6c
+    * I DevEx 1M R$! |Roblox
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=aXVuFp4d96M
+    * FIRST EVER Pets Only Boss KILL! Snow Shoveling Simulator❄️| Roblox
+      * Description references the data collection website robux.network.
+      * URL: https://www.youtube.com/watch?v=66SKEiRH-W4
+    * HUGE PUMPKIN!! | EPIC BOAT | Roblox Build A Boat For Treasure
+      * Description references the data collection website bloxmarket.com.
+      * URL: https://www.youtube.com/watch?v=SmgFuI7UzbM
+    * Buying Super Powers For 5 Fan! (50,000,000$) Lumber Tycoon 2
+      * Description references the data collection website bloxmarket.com.
+      * URL: https://www.youtube.com/watch?v=tbKapJPBUNY
 * ItsMatrix (MatrixPlaysRB)
   * Non-Giftcard Robux Giveaways
     * FULL THROTTLE RACING TOURNAMENT! \[SUBSCRIBERS WIN FREE ROBUX!\]
@@ -7031,584 +7609,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Help Me Beat This OBBY... WIN $100,000
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=zF73iRJCN7M
-* Now Vending (IamRoBuilder)
-  * Information Collection
-    * THE PORTAL FINALLY OPENED | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=PRkqgIxiiUk
-    * UPDATE LEAKS! Underworld & More | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=iVl8nkLztVk
-    * Playing with MODS on Roblox...
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=LpgOWjG31uA
-    * THE OWNER GAVE ME 4 MILLION SILVER | Snowman Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=6U6abz3HeJ0
-    * ALL CODES & DEVELOPER GAVE ME EVERYTHING | Fishing Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=JwE32cBhwk8
-    * SPENDING ALL MY GOLD TO UPGRADE MY RAREST PET! | Snowman Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=mmGWgi-Vblc
-    * WHATS ON TOP OF THE SECRET ISLAND | Snowman Simulator ☃️
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=HCQIR9xRsrE
-    * NEW UPDATE SNOW MAP & MYTHIC ZONE! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=bRBa-5goNg4
-    * I BOUGHT 3 MILLION SILVER THEN GOT MYTHIC PRESENTS | Snowman Simulator ☃️
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Zw4IjLUFJ7A
-    * ALL CODES! | Battle Bot Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=qvAvo7ly6Wo
-    * A FAN GAVE ME THE RAREST PET | Bubble Gum Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Ehn7PDDLbH8
-    * ULTIMATE TIER PETS (Elf OP) | North Pole Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=MMN0_fpA5No
-    * MAXING OUT MY ARMY | Army Control Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=XYf_lJ7EshU
-    * I GOT THE RAREST GODLY PET (update) | North Pole Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=onK_XjgMpZo
-    * I GOT THE MOST POWERFUL SPELL & THE INF BAG! | Army Control Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=iyOJKxdNvIs
-    * I BOUGHT THE BEST SLEIGH AND BROKE THE GAME! | North Pole Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=j-OHtLszPZM
-    * I BOUGHT THE MOST EXPENSIVE GAMEPASS (5k R$) | North Pole Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=DiFJ73lsgxA
-    * THIS CODE GIVES YOU THE BEST RANK! | North Pole Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=NffuVMaCqFc
-    * I BOUGHT EVERY GAMEPASS! | North Pole Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=UzxC0Eh4H-A
-    * GREAT GOLDEN SWORD (op)! | Army Control Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=-mLDQL0I6QI
-    * SHINY PETS AND GEM GENIE  UPDATE!!  | Bubble Gum Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=8EoDCx1TVos
-    * THE OWNER GAVE ME THIS..... (OP) | North Pole Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=WFFwfnmkIjY
-    * THE OWNER GAVE ME UNLIMITED SPINS | Slot Machine Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=_85tzNOWE7o
-    * FIRST LOOK! (Snow Shoveling Simulator 2) | The North Pole
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=6hQ2JP8pzFU
-    * REBIRTHING WITH ONLY THE HOT DOG STAND! (Challenge) | Billionaire Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=HB08FtH6Ev0
-    * BUYING THE MOST EXPENSIVE FLAVOR & MONSTER EGGS! | Bubble Gum Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=sjllhasdkVA
-    * MAKING THE CITY GOLD! | Billionaire Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=u-HBx87800Q
-    * IntelPlayz - cLout chasin (Lacrase Diss Track) Official Video
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Sx47-eLJI0c
-    * MAKING MILLIONS IN 10 MINUTES |  💰Billionaire Simulator💰
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=0zVTZj342-Q
-    * HE MADE A DISSTRACK ON ME (Reaction)
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=ZwR0ub0qmJo
-    * WE GOT 5 GIANT CATS IN 1 SERVER (Insane) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=t6JQCQpUlmw
-    * HOW I GOT 1 BILLION COINS AND ON THE LEADERBORED! | Bubble Gum Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=iyheovxKkxw
-    * Noob vs Hacker vs Pro \[ Bubble Gum Simulator Edition\]
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=P_KSsgXTLVQ
-    * \*NEW\* VOID AREA & EGGS | Bubble Gum Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=k0v4gqkwNhQ
-    * I GOT THE GIANT CAT | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=vR9RwO37unw
-    * NEW GAMEPASSES & DARK MATER EGGS! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Gz_QZV7iMmA
-    * BUYING GAMEPASSES TO UNLOCK THE BEST FLAVOR | Bubble Gum Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=x7BLtu5273A
-    * CREATING A GIANT PENGUIN! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=JA8rR5LLRYg
-    * RAINBOW DARK MATTER PETS! (Glitched) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=OZPAQgr3I50
-    * THE RAREST PET IN THE GAME DARK MATTER AGONY | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=26knAsuRkZo
-    * GATHERING SLIME TO GET TO THE TOP! | Slimeulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=BnTX9BHca4o
-    * HOW TO GET THE GIANT CAT! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=A6JHy6k5WkE
-    * MAKING DARK MATTER DOMINUS HUGE (Bad Idea) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=jN2jbIi1QTk
-    * WE USED 1200 DOGS AND BROKE THE GAME! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=wo4ApuvPd58
-    * I GAVE HIM THE DARK MATTER DOMINUS HUGE | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=8n3BxHm2Shw
-    * \*NEW\* DARK MATTER PETS AND LIMITED TIME RAINBOW EGG | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=RScOAp5EQZ4
-    * I BOUGHT 3 OP GAMEPASESS | Prison Escape Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=2FCdoTeeLrI
-    * I WILL BE THE BEST BLOB BUSTER | Blob Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=gEVv8XA5vM8
-    * BROKEN MONEY ACCOUNT GIVEAWAY | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=vArbaApnV84
-    * ROBLOX TOYS + FREE CODES!
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=21eU70g0haw
-    * GETTING A DUPER BANNED ON PET SIMULATOR \#SavePetSim
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=HJ0cDV1bL1E
-    * WE GOT THE BEST PET IN THE GAME! (Broken)| Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=4RiFXXbcRxk
-    * I MADE MY HYDRA RAINBOW (Rarest Pet) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=sZN1BaRSu_A
-    * I GOT THE RAREST PET (Update 10) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=sP9M-XP7daM
-    * TIER 18 (Make ANYTHING Gold) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=RaLzpRA50zg
-    * 150k Q&A + ROBLOX TOY CODES GIVEAWAY!
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=wfm7PSJD8x4
-    * THE OWNER GAVE ME THIS PET | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=fRHHDS48bUw
-    * BROKEN MONEY &GOLD DOMINUS HUGE ACCOUNT GIVEAWAY | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=rTEsPdor8Q8
-    * HOW TO DUPE PETS & NOT GET BANNED! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=KqaVxFmkanU
-    * I GOT BROKEN MOON COINS WITH THE BEST PET | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=7MjWRcRsiTE
-    * EVERY DOMINUS HUGE vs DOMINUS CHEST (FAST)! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=7aGDLJodIbQ
-    * NEW JUMP LAUNCH GLITCH | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=NvlabWaEW70
-    * NOW I CAN PLAY PET SIM ALL DAY (E-win Chair)
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=LCr1HjC6mlI
-    * RAINBOW DOMINUS HUGE (Rarest Pet) vs DOMINUS CHEST | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=TJvnatFkhTw
-    * I BOUGHT 5 MILLION COINS | Weapon Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=7JOAwm3vZm8
-    * 1 DOMINUS HUGE vs. THE DOMINUS CHEST | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=h5Yu4cbqrT8
-    * I GOT BROKEN MONEY WITH THE BEST PET | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=WIpeLJn6eHY
-    * GOLD AND RAINBOW HATS | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=fZ0BWe9VA00
-    * MY NEW BEST PET (Super Good) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=umYGQjZfOP4
-    * MY BEST PET VS THE DOMINUS CHEST (oof) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=g6-xCB6fxdQ
-    * DESTROYING THE DOMINUS CHEST SOLO (Fast) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=e4NQUq5oDMQ
-    * NEW UPDATE (Best One Yet) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=3Umg6QCXCU0
-    * NEW GAMEPASS AUTO PILOT (Idea) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=dv5en832qEE
-    * So i Played Pet Simulator With Rthro (Anthro)......
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=9tQiFpoplQ0
-    * I GAVE HIM THE BEST PET | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=iZVvMw8-sVs
-    * MY INFINITE PETS GAMEPASS STILL WORKS! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=PYygObpnydg
-    * OPENS LIMITED TIME EGGS & GOT 2 RARE PETS! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=6nJWEAtiPNg
-    * BACON HAIR GETS THE RAREST CHEST | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=LtQTpuGB3c0
-    * HALLOWEEN UPDATE (Rare Pets) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=q_OzDgMEMj4
-    * I GOT HACKED (800,000R$) & ALL MY STUFF | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=yhuRpmowFrw
-    * HE GOT ME THE RAREST HAT IN PET SIMULATOR
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=ebqoD6gUNLk
-    * THE OWNER GAVE ME UNLIMITED MONEY | Timberds Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=EFwIFUr8Vo4
-    * HE BOUGHT ME THE INFINITE PETS GAMEPASS 40,000R$ (Trolling) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=xpRmKckMBHQ
-    * \*NEW SCAM\* Hat Stat Scam | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=83FGqQRLht0
-    * THE WORST PET vs THE BEST CHEST (Shocking) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=4nrjzHEoCGw
-    * BUYING THE NEW GAMEPASS (100 Hats) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=OXbpOwrJWhA
-    * HATS UPDATE! (Super OP) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=YeYkmn-ZB4o
-    * One Plot Challenge Getting Started (Season 2) | Lumber Tycoon 2
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=-iwYu8QAm-c
-    * 50 RAINBOW SHOCKS vs RAREST CHEST | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=LyXiheH_zYw
-    * WATCH ME DUPE (Trolling) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=CRd2Reni498
-    * 50+ KILLS SNIPER GAMEPLAY (Crazy Feeds) | Fray
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Znroxk1_j5Q
-    * BUYING THE HEADLESS HORSEMAN FOR MY ALT ACCOUNT (31kR$) | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=4LthwyDvk6o
-    * PRONE ONLY CHALLENGE | Fray
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=GlqArI4Gli8
-    * GOING INVISIBLE IN FRAY | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Vhsh4i79ARY
-    * NOOB vs PRO vs ANNOYING PEOPLE | 💥 Super Power Training Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=s6iUq8b_BlI
-    * RAINBOW TIER 16 ONLY CHALLENGE! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=jZT2kJnuacQ
-    * BUYING THE RAINBOW CORE SHOCK |Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=5qprpXnex5I
-    * FRAY- The Beginning | Montage
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=5w_vt38Fx6I
-    * NEW \*EXCLUSIVE\* CODE! (Free Pet) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=fQFDvGriBkI
-    * HUNTING FOR RAINBOW CORE SHOCK | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=YoyuFTBz7qs
-    * I GOT THE RAREST/BEST PET | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=h4-5aWy5Hmg
-    * BUYING ALL THE GAMEPASES (1,000 R$) | Fray
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=NVCg3RMZxoU
-    * GETTING MY FIRST SUPER POWER!| 💥 Super Power Training Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=cPanr7dFVQY
-    * I PAID 5k ROBUX FOR THIS (anthro) SNIPER | Fray
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=4sdbD0SRnBg
-    * HOW MANY COINS WILL WE GET ...... | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=uJBc0NcL1gA
-    * HALLOWEEN OUTFIT 2018! | Spooky
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=MDkrpIH0-_8
-    * BEST PET IN UPDATE 6? | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=KzoEfbrRBbE
-    * CHEST ONLY CHALLENGE | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=pl6ogVSrUGg
-    * NEW UPDATE CYBORG PETS & EGGS (Teleport) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=v1BdNLLmsEg
-    * DELETING ALL MY RAINBOW MORTUUS | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=lg9BgtaSByU
-    * I Tried To Give a NOOB Pets and This Happend... | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=43HfOVrpGIs
-    * FINALLY WE GOT RAINBOW DOMORTUUS | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Z3tBGMP-6Ac
-    * New Game \*EXCLUSIVE ITEMS\*(Codes) | Lumberjack Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=fqiqWkDc5fs
-    * BEST ITEM IN THE GAME! | Dragon Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=3TGszKeHrVw
-    * I HOPE I DONT GET BANNED FOR THIS...... | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=OrhSCBAgPvQ
-    * CONVERTING COINS TO MOON COINS UPDATE (Soon) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=89GgefcB7eU
-    * ONE PET CHALLENGE (Race to Space) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=QucCpS7zdNc
-    * WE GOT DOMOURTUS AND RAINBOW AME DAMNEE | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=_Vvo8WtnBsc
-    * GIVING RussoPlays THE BEST PET IN THE GAME! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=fB7qHrD39w4
-    * She Gave Me The BEST Pet in PET SIMULATOR!! | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=jiNRP3_0LRU
-    * HOW TO GET COINS \*MEGA\* FAST | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=aul1ZXoknpg
-    * MAKING MY RAREST PET GOLDEN | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=KdKselIwWWE
-    * BUYING THE NEW GAMEPASSES (Good or No) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Lt2j6zuSNrs
-    * MAKING GHOST TREE A ROBLOX ACCOUNT
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=xNL14F5lWv4
-    * FAN HANGOUT (Speed Build) PT.2 | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=DB3uogB1E7k
-    * PRO HELPS NOOB | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=bTt_frdCHlE
-    * I GOT THE NEW RAREST PET IN THE UPDATE! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=q7VSjrNFKZE
-    * FAN HANGOUT (Speed Build) PT.1 | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=absSSx9YkJ8
-    * MY SECRET TALENTS | Vlog \#1
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=xBrUokimOpc
-    * NEW EXCLUSIVE CODES w/CodePrime8 | Mining Simulator X
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=maogxj6cerQ
-    * ANTHRO IS HERE AND I LIKE IT | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=OQPt3gsKXQE
-    * GIVING AWAY ALL MY PETS | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=JRsiXPX1cpU
-    * PvP IN DESTRUCTION SIMULATOR | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=sVuWA3odChI
-    * I MADE HIM THINK THE BEE IS THE RAREST PET  | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=N8fUBu6daPQ
-    * I WILL BE THE BEST! | Parkour Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=c3lMU1W7In4
-    * HE GAVE ME THE BEST/RAREST PET IN THE GAME | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=tepd7ppa4EU
-    * I GAVE A NOOB THE RAREST PET | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=OIFlqMtpVRA
-    * PRO HELPS NOOB | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Prx6TVaV6PQ
-    * HELPING FANS! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=mP9j0_aNBQU
-    * \*EXCLUSIVE\* CODES! | Mining Simulator X
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=CwY8oSSldiM
-    * GIVING AWAY ALL MY OLD PETS! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=WqPU2UuyT3Q
-    * NEW BEST PET (Updated Mortous) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=S3GlpESeD2M
-    * NEW GOLDEN 1NE PET | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=wLaN_gW2J-E
-    * FIRST LOOK | Mining Simulator X
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=2VJdVAD-a4M
-    * HUGE UPDATE! (TIER 15+CandyLand) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=LLENTMgcByA
-    * HOW TO GET A FREE V.I.P SERVER | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=PNTuWRl-_Aw
-    * Pet Simulator CHALLENGE (no Robux) | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=q3sUGqZLIvE
-    * I FLOODED Yard Work Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=9kLzH_Ht4zw
-    * PAYING STRANGERS TO BUILD ME A HOUSE | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=gv4MOZWRU6g
-    * NEW! 💥Destruction Simulator Black hole | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=JHcWmecu_ts
-    * PRO HELPS NOOB | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=yIUYCMgU3Us
-    * I GOT THE 2 RAREST PETS | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=yDlhlAJ3DJQ
-    * I EQUIP 500 TIER 14 PETS THEN THIS HAPPEN ....
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=T9Hi6syAjc0
-    * THE NEW RAREST PETS IN THE GAME | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=lSdVk_yVfCY
-    * BUYING TIER 14 EGGS (Super OP) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=E7u_CF83g6U
-    * BUYING ALL \*NEW\* GAMEPASSES | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=VAp5OMzafSs
-    * SPACE UPDATE! (Broken) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=HeRVxu_ckFE
-    * NEW ZONES,CHESTS & PETS (Leaked) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=WmHKfHRgJBY
-    * USING HACKED PETS! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=FOCBfwpiOe8
-    * PETS ARE BACK (OP) | Yard Work Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=UvdIxqZGSTA
-    * HATS FOR PETS! (Coming soon) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Bzdm4PWbI0Y
-    * MAKING SPACE FOR THE \*NEW\* TIER 13 PETS | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Kxu4swFGLaQ
-    * THE OWNER SHOWED ME THIS... | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=QwPwtbmpkC0
-    * i used 100 tier 12 pets, then this happened... | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=gZ3U0_clNw8
-    * NOOB vs PRO vs ROBUX SPENDER | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=z3-Yx2NYeLU
-    * BUYING THE INFINITE PET GAMEPASS IN PET SIMULATOR (40k ROBUX) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=l9dfsynl1U0
-    * HOW TO GET 2 BILLION COINS WITH 1 CHEST | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=bugUjvH9kq4
-    * GOLD PETS , TRADING & EXPENSIVE GAMEPASS | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=GDB7F1AG9wc
-    * SHOP SPEED BUILD (New Game) | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=r_EK9-T_CIw
-    * HOW TO SPAWN CHEST! | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=Amm4DSP3VN0
-    * THERE IS A 1% CHANCE TO GET THIS EGG | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=M2Vt50cCK8Y
-    * JAILBREAK UPDATE (RPG,GRENADES,New Car) | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=ZcVDLYqaIVM
-    * Free For All MOD TROLLING | Bo2
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=boV9Kv7bazQ
-    * BUYING EVERY GAMEPASS (Super OP) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=U9c3qMT5oqM
-    * LINKMON99 SENT ME A TRADE | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=FqaE3Al3bVk
-    * CHICKEN SPAWN GLITCH (Helping Noobs) | Egg Farm Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=r_u8G7yPTKA
-    * UNLIMITED EGGS FROM THE DEALER | Egg Farm Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=6GO7BSu4YBY
-    * Noob vs Hacker vs Pro \[ Island Royale Edition \]
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=15s_8xqMaG4
-    * I BOOSTED THE WHOLE ROBLOX SERVER! | Yard Work Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=2-1gyuXljMc
-    * I-R-R-E-L-E-V-A-N-T | going to skatepark
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=QhgI-pdmU70
-    * BUILD A BOAT OBBY w/ Z_Nac (SUPER FUNNY) | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=y4d0uJrrkas
-    * Egg Farm Simulator First Look! | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=7KCeh8nwymQ
-    * DOMINUS GIVEAWAY!!! | Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=BzYg6a-y3P4
-    * WE MADE A PENGUIN ARMY (Unlimited Money) | Beach Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=XmhbSQNeglY
-    * RELEASING ALL MY PETS (New Pet) | Beach Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=aMyi5meSMVQ
-    * Mining Simulator REVENGE!
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=5lCMZRc2kXA
-    * Bad Roblox SUPER DURP
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=psxDS3Wu8T4
-    * Filling The INF. Bag | Yard Work Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=8AeM-NJ-F6c
-    * I DevEx 1M R$! |Roblox
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=aXVuFp4d96M
-    * FIRST EVER Pets Only Boss KILL! Snow Shoveling Simulator❄️| Roblox
-      * Description references the data collection website robux.network.
-      * URL: https://www.youtube.com/watch?v=66SKEiRH-W4
-    * HUGE PUMPKIN!! | EPIC BOAT | Roblox Build A Boat For Treasure
-      * Description references the data collection website bloxmarket.com.
-      * URL: https://www.youtube.com/watch?v=SmgFuI7UzbM
-    * Buying Super Powers For 5 Fan! (50,000,000$) Lumber Tycoon 2
-      * Description references the data collection website bloxmarket.com.
-      * URL: https://www.youtube.com/watch?v=tbKapJPBUNY
 * PHMittens (PHMittensSTARCreator)
   * Information Collection
     * Pet Simulator X \#30 - ROBLOX - FACE REVEAL SA BILLIONAIRE HOUSE NILA @VonOrdonaVlogs NA SCAM AKO!
