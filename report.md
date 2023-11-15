@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 14, 2023<br>
+Generated November 15, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 803,280 videos
 * Total videos found that match keywords: 52,370 videos
-  * Total unprocessed videos: 6,271 videos
-* Total videos found that are processed and marked: 3,352 videos 
-  * Information Collection: 2,290 videos
+  * Total unprocessed videos: 6,272 videos
+* Total videos found that are processed and marked: 3,351 videos 
+  * Information Collection: 2,289 videos
   * Non-Giftcard Robux Giveaways: 934 videos
   * Other: 94 videos
   * Phishing: 34 videos
@@ -5391,9 +5391,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO ROB THE JEWELRY STORE AS A COP GLITCH \*\* NO HACK\*\*
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=Im4tLbg3za0
-    * ✅HOW TO GET ENGINE 5 CAR AND MAX TEXTURE ON JAILBREAK ROBLOX
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=vzP86u0grVY
 * Hxyila (hayiIaaa)
   * Information Collection
     * Things that you probably didn't notice in Brookhaven 🏡RP \[Town Hall UPDATE\] ROBLOX
