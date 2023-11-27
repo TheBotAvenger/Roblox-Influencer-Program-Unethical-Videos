@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 26, 2023<br>
+Generated November 27, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -475,7 +475,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Magicbus (MagicbusYT)
 * Mahadinoor Playz (MahadiNr)
 * Maislie (Maislie)
-* MakotoUchiha (MakotoYoutube)
+* Makoto Uchiha (MakotoYoutube)
 * Mandinha Game (iii_Amandinha)
 * Manucraft (ManucraftYT)
 * Mariana Nana (marianavasco)
