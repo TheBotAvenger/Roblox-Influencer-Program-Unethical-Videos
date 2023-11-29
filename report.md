@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 28, 2023<br>
+Generated November 29, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 807,797 videos
 * Total videos found that match keywords: 52,596 videos
-  * Total unprocessed videos: 6,498 videos
-* Total videos found that are processed and marked: 3,380 videos 
-  * Information Collection: 2,289 videos
+  * Total unprocessed videos: 6,502 videos
+* Total videos found that are processed and marked: 3,376 videos 
+  * Information Collection: 2,285 videos
   * Non-Giftcard Robux Giveaways: 963 videos
   * Other: 94 videos
   * Phishing: 34 videos
@@ -476,6 +476,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mahadinoor Playz (MahadiNr)
 * Maislie (Maislie)
 * Makoto Uchiha (MakotoYoutube)
+* MamyBlox (xMamys)
 * Mandinha Game (iii_Amandinha)
 * Manucraft (ManucraftYT)
 * Mariana Nana (marianavasco)
@@ -7495,20 +7496,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
-* MamyBlox (xMamys)
-  * Information Collection
-    * A FEIA REJEITADA FEZ CIRURGIA PLÁSTICA PRA FICAR BONITA - HISTORINHA DE BROOKHAVEN RP ROBLOX 🏡
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=VIu5TaX_f3Q
-    * DESCOBRI QUE O DONO DO ROUND 6 É MEU PAI - HISTORINHA SQUID GAME BROOKHAVEN RP ROBLOX 🏡
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=UIc_-sWYXiE
-    * A PRINCESA FOI PROIBIDA DE NAMORAR UM MANDRAKE - HISTORINHA DE BROOKHAVEN RP ROBLOX 🏡
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=rTS8EnxZ9Lk
-    * ELA COLAVA NA PROVA PARA SER A PREFERIDA DA PROFESSORA - HISTORINHA DE BROOKHAVEN RP ROBLOX 🏡
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=mR-TtGAKKnw
 * MathFacter360 (MathFacter360)
   * Non-Giftcard Robux Giveaways
     * complete my CASTLE OBBY and WIN 5,000 ROBUX!!! (Roblox)
