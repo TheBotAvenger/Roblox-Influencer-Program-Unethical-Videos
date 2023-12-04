@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 3, 2023<br>
+Generated December 4, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -377,6 +377,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HeyDavi (DAVIPLAY_14)
 * heyhana (iheyhana)
 * HeyRosalina (HeyRosalina)
+* HiCoco (VURIIN)
 * Hoops The Bee (hoopsthebee)
 * HW5567 (HW5567)
 * Hyper (DylanTheHyper)
@@ -539,7 +540,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
 * Play with me - Apps and Games (da\_dania and kaan\_xy2)
-* Playonyx (okgamerman)
 * Plech (PlechitoYT)
 * Plique Games (PliqueYT)
 * PolarCub (polarcub_art)
@@ -595,10 +595,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
 * ShisuiXI (Sh1suiXI)
+* Shylow (okgamerman)
 * Signicial (Signicial)
 * Silent (RandomYoutuber0202)
 * Sircheko (Sircheko_yt)
-* SkippyPlays (SkippyPIaysYT)
+* SkippyPlays (skipsk0p)
 * SlEGHART (SlEGHART)
 * Sleigher (Gsleigh)
 * Slykage (Sly_Kage)
@@ -671,7 +672,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Vitamine (VitamineRoblox)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * Volt (v0_1t)
-* vurefr (VURIIN)
 * Waike (JJ_Waike)
 * WhoseTrade (WhoseTrade)
 * WikiaColors (WikiaColor_s)
