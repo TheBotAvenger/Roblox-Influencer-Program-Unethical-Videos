@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 10, 2023<br>
+Generated December 11, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -263,7 +263,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * CATYPINK PLAY (catypink15)
 * cazum8 (cazum8)
 * Cee\_berry (Cee\_berry)
-* Celestial Roblox (IM_Celestial)
 * Chekecheto (Chekelete1)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
@@ -341,7 +340,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FloatyZone (FloatyZone)
 * Flxral (xoFlxral)
 * FlyBorg (KaykBlox)
-* Fminusmic (fminusmic)
+* Fminus (fminusmic)
 * FoamyBubbles (FoamyBubbIes)
 * Folix (Mrpresident1302)
 * Foltyn (TheRealFoltyn)
@@ -594,6 +593,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
+* Shenty Gaming (IM_Celestial)
 * ShisuiXI (Sh1suiXI)
 * Shylow (okgamerman)
 * Signicial (Signicial)
