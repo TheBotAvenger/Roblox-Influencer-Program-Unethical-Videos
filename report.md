@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 12, 2023<br>
+Generated December 13, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,10 +185,10 @@ to the report if this happens.
 * Total videos: 812,553 videos
 * Total videos found that match keywords: 52,825 videos
   * Total unprocessed videos: 6,731 videos
-* Total videos found that are processed and marked: 3,375 videos 
+* Total videos found that are processed and marked: 3,071 videos 
   * Information Collection: 2,284 videos
-  * Non-Giftcard Robux Giveaways: 963 videos
-  * Other: 94 videos
+  * Non-Giftcard Robux Giveaways: 660 videos
+  * Other: 93 videos
   * Phishing: 34 videos
 
 ### No Videos Found
@@ -4891,9 +4891,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Roblox Piggy map owner caught me hacking..
       * Demonstrates using an autoclicker to exploit going through walls.
       * URL: https://www.youtube.com/watch?v=QXlxBN8Fg5U
-    * i used hacks in a Roblox Piggy youtuber lobby..
-      * Demonstrates using an autoclicker to exploit going through walls.
-      * URL: https://www.youtube.com/watch?v=k_qLoaXOVcU
     * i was caught using hacks by the owner of this Roblox Piggy map..
       * Demonstrates using an autoclicker to exploit going through walls.
       * URL: https://www.youtube.com/watch?v=GlCL_MzTJSo
