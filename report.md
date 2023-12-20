@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 19, 2023<br>
+Generated December 20, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,10 +185,10 @@ to the report if this happens.
 * Total videos: 815,088 videos
 * Total videos found that match keywords: 52,960 videos
   * Total unprocessed videos: 6,866 videos
-* Total videos found that are processed and marked: 3,071 videos 
+* Total videos found that are processed and marked: 3,070 videos 
   * Information Collection: 2,284 videos
-  * Non-Giftcard Robux Giveaways: 660 videos
-  * Other: 93 videos
+  * Non-Giftcard Robux Giveaways: 658 videos
+  * Other: 94 videos
   * Phishing: 34 videos
 
 ### No Videos Found
@@ -4891,6 +4891,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Roblox Piggy map owner caught me hacking..
       * Demonstrates using an autoclicker to exploit going through walls.
       * URL: https://www.youtube.com/watch?v=QXlxBN8Fg5U
+    * i used hacks in a Roblox Piggy youtuber lobby..
+      * Demonstrates using an autoclicker to exploit going through walls.
+      * URL: https://www.youtube.com/watch?v=k_qLoaXOVcU
     * i was caught using hacks by the owner of this Roblox Piggy map..
       * Demonstrates using an autoclicker to exploit going through walls.
       * URL: https://www.youtube.com/watch?v=GlCL_MzTJSo
@@ -5406,10 +5409,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I Found A Christmas LAPTOP MESSAGE! 😱 in Brookhaven 🏡RP ROBLOX...
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=tHrU_gt3lYw
-  * Non-Giftcard Robux Giveaways
-    * Thanks To 100 Subs! ROBUX GIVEAWAY \[Late Upload\]
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=9GX5nQln9W8
 * iamSanna (notiamsanna)
   * Non-Giftcard Robux Giveaways
     * WIN 10,000 ROBUX In This \*NEW\* Adopt Me FASHION CONTEST! (Adopt Me)
