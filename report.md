@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 26, 2023<br>
+Generated December 27, 2023<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 817,527 videos
 * Total videos found that match keywords: 53,099 videos
-  * Total unprocessed videos: 7,005 videos
-* Total videos found that are processed and marked: 3,070 videos 
-  * Information Collection: 2,284 videos
+  * Total unprocessed videos: 7,006 videos
+* Total videos found that are processed and marked: 3,069 videos 
+  * Information Collection: 2,283 videos
   * Non-Giftcard Robux Giveaways: 658 videos
   * Other: 94 videos
   * Phishing: 34 videos
@@ -5205,10 +5205,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO LOOK RICH WITH 0 ROBUX ON ROBLOX! (FREE) -ROBLOX
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=3wDV5N536Nk
-    * TOP 5 BEST JAILBREAK GLITCHES YOU SHOULD KNOW! (Roblox)
-      * Description references the data collection website oprewards.com.
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=gaZd8oi5ouA
     * Get ANY COLOR Motorcycle Shirt! FOR FREE! (NO ROBUX)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=LzPNjfvFx40
