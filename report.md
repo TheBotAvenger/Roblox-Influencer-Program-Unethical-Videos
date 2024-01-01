@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 31, 2023<br>
+Generated January 1, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -475,7 +475,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Magicbus (MagicbusYT)
 * Mahadinoor Playz (MahadiNr)
 * Maislie (Maislie)
-* Makoto Uchiha (MakotoYoutube)
+* MakotoUchiha (MakotoYoutube)
 * MamyBlox (xMamys)
 * Mandinha Game (iii_Amandinha)
 * Manucraft (ManucraftYT)
@@ -752,7 +752,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * "If you WIN I'll Give You 10,000 ROBUX" (ROBLOX Arsenal)
       * Uses group funds to give away Robux for a competition.
       * URL: https://www.youtube.com/watch?v=MMnpUXv_rsI
-* Baxtrix (DefinitelyNotBaxtrix)
+* Bax (DefinitelyNotBaxtrix)
   * Other
     * Infecting 99999 ALIENS in Sneezing Simulator! // Roblox
       * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
@@ -830,11 +830,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SORTEO DE ROBUX PARA ROBLOX GRATIS | Cerso Roblox en español
       * Uses a Roblox Group with group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=V5Y3MNZv4K8
-* Chillz (ChillzSubZero)
-  * Non-Giftcard Robux Giveaways
-    * I Surprised A FAN With 10,000 FREE ROBUX… \#roblox \#shorts
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=XUjFXIFvqJY
 * ComfySunday (ComfySunday)
   * Phishing
     * SURPRISING A FAN WITH 1,000 ROBUXS!! SHE SAID THIS...
@@ -7563,6 +7558,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * EASIEST WAY TO EARN ROBUX FROM ME!!! \*FREE ROBUX GIVEAWAYS\*
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=WZ7dbUBOePA
+* MM2 Chillz (ChillzSubZero)
+  * Non-Giftcard Robux Giveaways
+    * I Surprised A FAN With 10,000 FREE ROBUX… \#roblox \#shorts
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=XUjFXIFvqJY
 * MuneebParwazMP (ItsMuneeeb)
   * Phishing
     * (GONE WRONG) HACKING A FAN AND GIVING THEM FREE ROBUX!!! | Roblox
