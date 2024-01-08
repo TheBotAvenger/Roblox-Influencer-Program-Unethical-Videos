@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 7, 2024<br>
+Generated January 8, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -376,7 +376,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HeyDavi (DAVIPLAY_14)
 * heyhana (iheyhana)
 * HeyRosalina (HeyRosalina)
-* HiCoco (VURIIN)
 * Hoops The Bee (hoopsthebee)
 * HW5567 (HW5567)
 * Hyper (DylanTheHyper)
@@ -598,6 +597,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Shylow (okgamerman)
 * Signicial (Signicial)
 * Silent (RandomYoutuber0202)
+* SimplyCoco (VURIIN)
 * Sircheko (Sircheko_yt)
 * SkippyPlays (skipsk0p)
 * SlEGHART (SlEGHART)
