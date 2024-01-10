@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 9, 2024<br>
+Generated January 10, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 822,026 videos
 * Total videos found that match keywords: 53,326 videos
-  * Total unprocessed videos: 7,233 videos
-* Total videos found that are processed and marked: 3,069 videos 
-  * Information Collection: 2,283 videos
+  * Total unprocessed videos: 7,234 videos
+* Total videos found that are processed and marked: 3,068 videos 
+  * Information Collection: 2,282 videos
   * Non-Giftcard Robux Giveaways: 658 videos
   * Other: 94 videos
   * Phishing: 34 videos
@@ -5380,9 +5380,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * LIFE IN JAILBREAK BETWEEN A NOOB AND A PRO
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=VlEWzDnXXTE
-    * HOW TO ROB THE JEWELRY STORE AS A COP GLITCH \*\* NO HACK\*\*
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=Im4tLbg3za0
 * Hxyila (hayiIaaa)
   * Information Collection
     * Things that you probably didn't notice in Brookhaven 🏡RP \[Town Hall UPDATE\] ROBLOX
