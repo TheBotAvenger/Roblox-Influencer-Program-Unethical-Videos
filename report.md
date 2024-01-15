@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 14, 2024<br>
+Generated January 15, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -230,9 +230,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BeeBlox (ThePapaBee, imgabibee, MrBeeWasTaken, and LaMamaBee)
 * Benx (Bensonheimer and ebruulein)
 * BETO GAMER (betogamer_01)
-* Bia Gamer (BiaGameerzinha)
+* Bia Gamer (BiiiaGamerYT)
 * Bianca Nayi (bianqui_nayi123)
-* Biano Betero (BianoBetero)
 * Bibi e Lud (BibibloxYTB and LudBloxYTB)
 * Bidinho (bidinh0)
 * BigB (BigBst4tz22)
@@ -353,7 +352,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FusionZGamer (NotFusionZGamer)
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
-* Gamer Hoops (SnickerHoops)
 * Gamer Kawaii (iiGamerKawaiiYT)
 * Gamer Robot (Zioles)
 * GamerHexapod (Hexapod_xD)
@@ -603,6 +601,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SlEGHART (SlEGHART)
 * Sleigher (Gsleigh)
 * Slykage (Sly_Kage)
+* Sniffycat (SnickerHoops)
 * Sofia Tube (sofiatube7)
 * Solem Archive (iJackeryz)
 * Sons Of Fun (SonsofFun_YT)
@@ -696,6 +695,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ZON (zOnwley)
 * ZULY (ItsZulyYT)
 * Zurielini (Zurix_500)
+* ̶P̶R̶O̶P̶O̶L̶I̶S̶ ̶B̶E̶T̶E̶R̶O̶ (BianoBetero)
 * •Lavenderblossom• (OMG4LAV)
 * 🔥 OurFire Plays (ourfire and ChrisOurFire)
 
