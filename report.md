@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 15, 2024<br>
+Generated January 16, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 822,026 videos
-* Total videos found that match keywords: 53,326 videos
-  * Total unprocessed videos: 7,234 videos
-* Total videos found that are processed and marked: 3,068 videos 
+* Total videos: 824,229 videos
+* Total videos found that match keywords: 53,407 videos
+  * Total unprocessed videos: 7,314 videos
+* Total videos found that are processed and marked: 3,069 videos 
   * Information Collection: 2,282 videos
   * Non-Giftcard Robux Giveaways: 658 videos
-  * Other: 94 videos
+  * Other: 95 videos
   * Phishing: 34 videos
 
 ### No Videos Found
@@ -7296,6 +7296,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=92tgyLn5_kQ
   * Other
+    * 🤑 ME DIERON ESTO POR T-REX PERMANENTE EN BLOXFRUITS
+      * Description references the data collection website ezrewards.today.
+      * URL: https://www.youtube.com/watch?v=_yaVJyho9AU
     * 😍 ME DIERON ESTO POR LOVE PERMANENTE EN BLOX FRUITS | LEGOLAZ
       * Description references the data collection website ezrewards.today.
       * URL: https://www.youtube.com/watch?v=I4ZB9_hmZnw
