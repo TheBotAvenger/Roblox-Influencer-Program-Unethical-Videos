@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 21, 2024<br>
+Generated January 22, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -650,7 +650,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ThyEdgar (THYEDGAR_YT)
 * Tikida (Sanaaa8ans)
 * TinenQa (TinenQa1)
-* Toxic Berry (berryiie)
+* Toxic Berry (NotToxicBerry)
 * ToxicJim (supersonshadow17)
 * TrafTheOpest (TrafTheOpest)
 * Trap Roblox (SUB_toTRAP)
