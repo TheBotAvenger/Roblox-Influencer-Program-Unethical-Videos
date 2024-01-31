@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 30, 2024<br>
+Generated January 31, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,11 +184,11 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 828,784 videos
 * Total videos found that match keywords: 53,577 videos
-  * Total unprocessed videos: 7,484 videos
-* Total videos found that are processed and marked: 3,069 videos 
+  * Total unprocessed videos: 7,487 videos
+* Total videos found that are processed and marked: 3,066 videos 
   * Information Collection: 2,282 videos
   * Non-Giftcard Robux Giveaways: 658 videos
-  * Other: 95 videos
+  * Other: 92 videos
   * Phishing: 34 videos
 
 ### No Videos Found
@@ -4721,24 +4721,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * fui do LEVEL 0 AO MÁXIMO NO KING PIECE EM APENAS UM VÍDEO
       * Contains an ad for "black market" Robux and Limiteds ro.place.
       * URL: https://www.youtube.com/watch?v=9FXK8iKEFP4
-    * testando a sorte dos meus amigos no blox fruits dnv kkkkkkkjjj
-      * Contains an ad for "black market" Robux and Limiteds ro.place.
-      * URL: https://www.youtube.com/watch?v=MH4xtr1zp5E
     * o grand piece ficou de graça e talvez eu seja banido por fazer isso
       * Contains an ad for "black market" Robux and Limiteds ro.place.
       * URL: https://www.youtube.com/watch?v=Lic9xHX-dd8
     * o luffy gear 5 biruta chegou e eu gastei meu dinheiro atoa kkkkkkkkjj
       * Contains an ad for "black market" Robux and Limiteds ro.place.
       * URL: https://www.youtube.com/watch?v=sXgQNxocjN0
-    * cada boss é uma fruta aleatória no king piece porem se a gente morrer o vídeo acaba kkkkkkjj
-      * Contains an ad for "black market" Robux and Limiteds ro.place.
-      * URL: https://www.youtube.com/watch?v=fx2nKOPc09o
     * minha namorada comeu minha bundha no blox fruits
       * Contains an ad for "black market" Robux and Limiteds ro.place.
       * URL: https://www.youtube.com/watch?v=D0zZm46shxE
-    * testando a sorte dos meus amigos no blox fruits kkkkkkkkjj
-      * Contains an ad for "black market" Robux and Limiteds ro.place.
-      * URL: https://www.youtube.com/watch?v=7RVCH9uQhjg
     * dei essa fruta pra minha namorada no blox fruits 😳
       * Contains an ad for "black market" Robux and Limiteds ro.place.
       * URL: https://www.youtube.com/watch?v=Avbna2vudMk
