@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 11, 2024<br>
+Generated February 12, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -232,6 +232,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BETO GAMER (betogamer_01)
 * Bia Gamer (BiiiaGamerYT)
 * Bianca Nayi (bianqui_nayi123)
+* Biano Betero (BianoBetero)
 * Bibi e Lud (BibibloxYTB and LudBloxYTB)
 * Bidinho (bidinh0)
 * BigB (BigBst4tz22)
@@ -313,7 +314,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ElemperadormaxiYT (EmperadorMaxiOFICIAL)
 * Elite (E1ite_E)
 * Elitelupus (elitelupus)
-* elOrioN (elOrioNYT)
 * ErnieC3 (ErnieC3_YouTube)
 * Estela (Estelacoutin)
 * EthanGamer (EthanGamerTV)
@@ -426,6 +426,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * KelseyAnna (KelseyAnna)
 * Kelvingts (Kelvingts)
 * Kepu The Cat (KepuTheCat)
+* Khanh Huyen DIY (St4Tick)
 * KHORTEX (StarCodeKTX)
 * Kindly Keyin (KindlyKeyin)
 * King Luffy (KingLuffy_YTsub2me)
@@ -519,6 +520,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OMB Gaming (OMBcreates)
 * Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
+* ORION (elOrioNYT)
 * Oscar (VanillaOreoCat)
 * PaanDuh (PPaanDuh)
 * PaintingRainbows (RainbowsYT)
@@ -615,7 +617,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Squid Magic (Foolzy)
 * SrJuancho (JuanchoAcostado)
 * Stanjee (Stanjeeplayz)
-* StaTick (St4Tick)
 * Stevebloxian (steven111234)
 * stream CA Roblox (stream\_CA and Dominus\_CA)
 * Striker180x (strikerl80x)
@@ -695,7 +696,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ZON (zOnwley)
 * ZULY (ItsZulyYT)
 * Zurielini (Zurix_500)
-* ̶P̶R̶O̶P̶O̶L̶I̶S̶ ̶B̶E̶T̶E̶R̶O̶ (BianoBetero)
 * •Lavenderblossom• (OMG4LAV)
 * 🔥 OurFire Plays (ourfire and ChrisOurFire)
 
