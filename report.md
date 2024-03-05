@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 4, 2024<br>
+Generated March 5, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 837,429 videos
-* Total videos found that match keywords: 53,840 videos
-  * Total unprocessed videos: 7,750 videos
-* Total videos found that are processed and marked: 3,065 videos 
+* Total videos: 839,663 videos
+* Total videos found that match keywords: 53,905 videos
+  * Total unprocessed videos: 7,814 videos
+* Total videos found that are processed and marked: 3,066 videos 
   * Information Collection: 2,282 videos
   * Non-Giftcard Robux Giveaways: 657 videos
-  * Other: 92 videos
+  * Other: 93 videos
   * Phishing: 34 videos
 
 ### No Videos Found
@@ -9404,6 +9404,9 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=gekomtzuIoE
 * Tigre TV (StarCode_TigreTVyt)
   * Other
+    * ENTREI NAS CONTAS DE BLOX FRUITS DOS INSCRITOS POR 24 HORAS..
+      * Description references the data collection website ezrewards.today.
+      * URL: https://www.youtube.com/watch?v=qJS6UISCdIs
     * ENTREI NA CONTA MAIS RARA E FORTE DO BLOX FRUITS!! \*ELE USA HACKER??\*
       * Description references the data collection website ezrewards.today.
       * URL: https://www.youtube.com/watch?v=aNLV71nZum4
