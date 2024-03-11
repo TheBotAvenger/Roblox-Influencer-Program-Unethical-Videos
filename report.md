@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 10, 2024<br>
+Generated March 11, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -292,7 +292,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
 * DeeterPlays (DeeterPlays)
 * DeGoBooM (BumiReal)
-* DernD (Sub2DerndYT)
+* DernD (StarCode_dernd)
 * Devo (Devovorya)
 * Devoun (DevounTV)
 * Dexter Playz (D3XT3R_PLAYZ)
