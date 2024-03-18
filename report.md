@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 17, 2024<br>
+Generated March 18, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -308,7 +308,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * dragonplatinum (dragonplatinum)
 * DrakeTacos (Brianvid19)
 * Drei Diego (AndreiEon124)
-* DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
+* DUDU Betero (Pao_Paodequeij0, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
 * El Magnum (MagnumStormus)
 * ElemperadormaxiYT (EmperadorMaxiOFICIAL)
@@ -352,7 +352,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FusionZGamer (NotFusionZGamer)
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
-* Gamer Kawaii (iiGamerKawaiiYT)
+* Gamer Kawaii (oCauanBrigido)
 * Gamer Robot (Zioles)
 * GamerHexapod (Hexapod_xD)
 * GamerNom (MaybeItsMyFault)
@@ -463,6 +463,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * LordMetalizer (MetalizerRBX)
 * Lovely Ela (LovelyEla98)
 * Lowni ROBLOX (lownione)
+* Lowuis (Sircheko_yt)
 * Luky (LukyBloxYT)
 * LunaPorDos (LunaPorDos00)
 * Lunar Eclipse (Lunar3clispe)
@@ -497,7 +498,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mr\_Booshot (Mr\_Booshot)
 * MrLokazo86 (Lokazo86)
 * MrPankeyk (MrPankeyk)
-* Mud Playz (DunkinMud)
+* Mud (DunkinMud)
 * Mxddsie (mxddsie)
 * MxghtyJxstin (MxghtyJxstin)
 * Myster0y (Myster0y)
@@ -599,7 +600,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Signicial (Signicial)
 * Silent (RandomYoutuber0202)
 * SimplyCoco (VURIIN)
-* Sircheko (Sircheko_yt)
 * SkippyPlays (skipsk0p)
 * SlEGHART (SlEGHART)
 * Sleigher (Gsleigh)
