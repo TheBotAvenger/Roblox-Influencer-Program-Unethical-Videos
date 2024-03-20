@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 19, 2024<br>
+Generated March 20, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,11 +184,11 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 844,393 videos
 * Total videos found that match keywords: 54,075 videos
-  * Total unprocessed videos: 7,984 videos
-* Total videos found that are processed and marked: 3,066 videos 
+  * Total unprocessed videos: 7,987 videos
+* Total videos found that are processed and marked: 3,063 videos 
   * Information Collection: 2,282 videos
-  * Non-Giftcard Robux Giveaways: 657 videos
-  * Other: 93 videos
+  * Non-Giftcard Robux Giveaways: 656 videos
+  * Other: 91 videos
   * Phishing: 34 videos
 
 ### No Videos Found
@@ -8021,17 +8021,7 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=O8HFg9Mnzbo
 * Seniac (MrSeniac)
-  * Other
-    * ROBLOX SNEEZING SIMULATOR
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=dtQF432tcyM
-    * HOW TO GET FREE ROBUX!
-      * Description references the "black market for limiteds" and information collection website rbx.place.
-      * URL: https://www.youtube.com/watch?v=EakQDIc9ZLM
   * Non-Giftcard Robux Giveaways
-    * $10,000 ROBUX GIVEAWAY
-      * Robux giveaway uses a Roblox group using group funds.
-      * URL: https://www.youtube.com/watch?v=76Sg5bVi1Jo
     * $6000 ROBUX GIVEAWAY
       * Robux giveaway uses a Roblox group using group funds.
       * URL: https://www.youtube.com/watch?v=EmAlMrw6e8A
