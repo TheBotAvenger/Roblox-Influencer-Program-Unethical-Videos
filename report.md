@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 24, 2024<br>
+Generated March 25, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -352,7 +352,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FusionZGamer (NotFusionZGamer)
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
-* Gamer Kawaii (oCauanBrigido)
 * Gamer Robot (Zioles)
 * GamerHexapod (Hexapod_xD)
 * GamerNom (MaybeItsMyFault)
@@ -488,6 +487,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MIANNN (MIANNNGAMER)
 * MICHI RØBLØX (michineyley)
 * MicroGuardian (MicroGuardian)
+* MicroStrategy US (oCauanBrigido)
 * Mila FunPlayer (trxmila)
 * MiniBloxia (SubToMiniBloxia)
 * Model8197 (Modeldog8197)
@@ -568,7 +568,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RiusPlay (RiusPlayYTYTYT)
 * Robin Hood Gamer (RobinHoodGamer10)
 * roblox az (robloxazytt)
-* ROBLOXMuff (Muffinzs)
+* ROBLOXMuff (UseCode_ROBLOXMuff)
 * Robotz (R_obotz)
 * Robrox (IchBinBrox)
 * Robstix (Robstix)
