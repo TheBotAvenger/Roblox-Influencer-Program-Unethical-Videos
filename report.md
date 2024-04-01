@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 31, 2024<br>
+Generated April 1, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -487,7 +487,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MIANNN (MIANNNGAMER)
 * MICHI RØBLØX (michineyley)
 * MicroGuardian (MicroGuardian)
-* MicroStrategy US (oCauanBrigido)
 * Mila FunPlayer (trxmila)
 * MiniBloxia (SubToMiniBloxia)
 * Model8197 (Modeldog8197)
@@ -515,6 +514,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * notive (notive)
 * O1G (TotallyNotO1G)
 * ObliviousHD (ObliviousHD)
+* oCauanBrigido (oCauanBrigido)
 * officialnoobie (oofficialnoobie)
 * oGVexx (LouDaREALGamer)
 * OKEH SQUAD (Rbellomello)
