@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 2, 2024<br>
+Generated April 3, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,8 @@ to the report if this happens.
 * Total videos: 848,893 videos
 * Total videos found that match keywords: 54,229 videos
   * Total unprocessed videos: 8,141 videos
-* Total videos found that are processed and marked: 3,063 videos 
-  * Information Collection: 2,282 videos
+* Total videos found that are processed and marked: 3,048 videos 
+  * Information Collection: 2,267 videos
   * Non-Giftcard Robux Giveaways: 656 videos
   * Other: 91 videos
   * Phishing: 34 videos
@@ -562,6 +562,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RazorFishGaming (UseCodeRAZORFISH and RazorFishPengi)
 * Rebootedpoppy (CryptedPoppy)
 * Red Ninja (STARC0DE_RedNinja)
+* Red Weeb (RedWEBE3)
 * REDKILL (RED_YTBE)
 * RELLGames (RELLvex)
 * Remainings (Remainings)
@@ -7878,53 +7879,6 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * 10,000 ROBUX GIVEAWAY CONTEST! WATCH TO FIND OUT HOW TO WIN! Robux Giveaway In Roblox
       * URL: https://www.youtube.com/watch?v=HqTKlVCJDFs
-* Red Weeb (RedWEBE3)
-  * Information Collection
-    * CODE] ALL NEW 5 \*SECRETCODES\* SECRET CODES in SHINDO LIFE (Shindo Life Codes)ROBLOX Shindo life
-      * Description references the data collection website collectrobux.com.
-      * URL: https://www.youtube.com/watch?v=PYsDP-_TVAA
-    * \[CODE\] I BECAME \*MOMOSHIKI OTSUTSUKI\* IN SHINDO LIFE! | Roblox Shindo Life |Shindo Life Codes
-      * Description references the data collection website collectrobux.com.
-      * URL: https://www.youtube.com/watch?v=_1kYytRJTeI
-    * \[CODE\] ALL NEW 4 \*SECRET CODES\* FREE SPINS in SHINDO LIFE (Shindo Life Codes) Shindo life Rellgames
-      * Description references the data collection website collectrobux.com.
-      * URL: https://www.youtube.com/watch?v=lHU6WCPuGrs
-    * \[820k CODE\] All New Codes For \*NEW SPINS\* Working Codes In Shindo Life | Shindo Life Codes
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=3Ml57L-II44
-    * \[CODE\] AKUMA MASSIVE BUFF + REMASTERED | Shindo Life Update 40.0 Showcase | Shindo Life Codes
-      * Description references the data collection website collectrobux.com.
-      * URL: https://www.youtube.com/watch?v=3v6ahsNd140
-    * \[CODE\] All New Codes For \*UPDATE\* Working Codes In Shindo Life Rellgames | Shindo Life Codes
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=O_6e2xOkaIo
-    * How To Level Up Tailed Spirits In (10 MINS) Shindo life New Glitch Before It Gets PATCHED! Rellgames
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=u4nLxKqH0YM
-    * NEW \[BLOODLINE\] TIER LIST | RANKING EVERY GENKAI | Shindo Life Roblox | Shindo Life Codes
-      * Description references the data collection website collectrobux.com.
-      * URL: https://www.youtube.com/watch?v=gc2SUNRsp3g
-    * \[CODE\] HOW TO GET CUSTOM EYES IN SHINDO LIFE!!! | Roblox Shindo Life Shindo Life | Shindo Life Codes
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=lXBEWg9mNPI
-    * \[CODE\] I BECAME \*NARUTO UZUMAKI\* IN SHINDO LIFE! | Roblox Shindo Life Shindo Life|Shindo Life Codes
-      * Description references the data collection website collectrobux.com.
-      * URL: https://www.youtube.com/watch?v=an2HSdAhx8I
-    * SPINNING WITH RELLGAMES 1 MILLION SPIN CODE(HOW TO GET ANY RARE BLOODLINE)IN SHINDO LIFE ROBLOX CODE
-      * Description references the data collection website collectrobux.com.
-      * URL: https://www.youtube.com/watch?v=dF6UmHp9W_E
-    * \[CODE\] I BECAME SAGE OF SIX PATH IN SHINDO LIFE! | Roblox Shindo Life Shindo Life| Shindo Life Codes
-      * Description references the data collection website collectrobux.com.
-      * URL: https://www.youtube.com/watch?v=Wf73_j8O2dg
-    * \[CODE\] KURAMA IS BACK NEW LEAK AND UPDATE RELEASE DATE! | Roblox Shindo Life| Shindo Life
-      * Description references the data collection website collectrobux.com.
-      * URL: https://www.youtube.com/watch?v=xNUE3dlkSZo
-    * \[CODE\] I BECAME OBITO IN SHINDO LIFE! | Roblox Shindo Life ! Shindo Life| Shindo Life Codes
-      * Description references the data collection website collectrobux.com.
-      * URL: https://www.youtube.com/watch?v=jDm6msouNGQ
-    * How To Get \*RARE BLOODLINES\* By Using These TRICKS In Shindo Life Roblox
-      * Description references the data collection website collectrobux.com.
-      * URL: https://www.youtube.com/watch?v=YEB7IRr4lCQ
 * Rektway (Rektway)
   * Non-Giftcard Robux Giveaways
     * 1000 ROBUX GIVEAWAY WINNERS!
