@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 9, 2024<br>
+Generated April 10, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 850,967 videos
 * Total videos found that match keywords: 54,287 videos
-  * Total unprocessed videos: 8,199 videos
-* Total videos found that are processed and marked: 3,048 videos 
-  * Information Collection: 2,267 videos
-  * Non-Giftcard Robux Giveaways: 656 videos
+  * Total unprocessed videos: 8,202 videos
+* Total videos found that are processed and marked: 3,047 videos 
+  * Information Collection: 2,269 videos
+  * Non-Giftcard Robux Giveaways: 653 videos
   * Other: 91 videos
   * Phishing: 34 videos
 
@@ -562,7 +562,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RazorFishGaming (UseCodeRAZORFISH and RazorFishPengi)
 * Rebootedpoppy (CryptedPoppy)
 * Red Ninja (STARC0DE_RedNinja)
-* Red Weeb (RedWEBE3)
 * REDKILL (RED_YTBE)
 * RELLGames (RELLvex)
 * Remainings (Remainings)
@@ -590,6 +589,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ScriptedMatt (ScriptedMatt)
 * SDMittens (SDMittens)
 * sebee (23Sebee)
+* Seniac (MrSeniac)
 * seqshell (seqshell)
 * shadow network (realshadownetwork)
 * ShanePlays (SGC_Shane)
@@ -7879,6 +7879,14 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Non-Giftcard Robux Giveaways
     * 10,000 ROBUX GIVEAWAY CONTEST! WATCH TO FIND OUT HOW TO WIN! Robux Giveaway In Roblox
       * URL: https://www.youtube.com/watch?v=HqTKlVCJDFs
+* Red Weeb (RedWEBE3)
+  * Information Collection
+    * \[CODE\] I BECAME \*MOMOSHIKI OTSUTSUKI\* IN SHINDO LIFE! | Roblox Shindo Life |Shindo Life Codes
+      * Description references the data collection website collectrobux.com.
+      * URL: https://www.youtube.com/watch?v=_1kYytRJTeI
+    * \[CODE\] I BECAME \*NARUTO UZUMAKI\* IN SHINDO LIFE! | Roblox Shindo Life Shindo Life|Shindo Life Codes
+      * Description references the data collection website collectrobux.com.
+      * URL: https://www.youtube.com/watch?v=an2HSdAhx8I
 * Rektway (Rektway)
   * Non-Giftcard Robux Giveaways
     * 1000 ROBUX GIVEAWAY WINNERS!
@@ -7974,17 +7982,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL NEW SECRET CODES in VEHICLE SIMULATOR! - Vehicle Simulator💵 2020 (Roblox)
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=O8HFg9Mnzbo
-* Seniac (MrSeniac)
-  * Non-Giftcard Robux Giveaways
-    * $6000 ROBUX GIVEAWAY
-      * Robux giveaway uses a Roblox group using group funds.
-      * URL: https://www.youtube.com/watch?v=EmAlMrw6e8A
-    * $3000 ROBUX GIVEAWAY
-      * Robux giveaway uses a Roblox group using group funds.
-      * URL: https://www.youtube.com/watch?v=L7EcvzuKjJw
-    * $1500 ROBUX GIVEAWAY
-      * Robux giveaway uses a Roblox group using group funds.
-      * URL: https://www.youtube.com/watch?v=AGj4BbtDy6k
 * SiimplyBubliie (SiimplyBubliie_YT)
   * Phishing
     * 3,000 ROBUX MAKEOVER!! (Surprising a FAN!) Limited Item!
