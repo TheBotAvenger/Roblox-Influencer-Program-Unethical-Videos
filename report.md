@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 14, 2024<br>
+Generated April 15, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -317,7 +317,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ErnieC3 (ErnieC3_YouTube)
 * Estela (Estelacoutin)
 * EthanGamer (EthanGamerTV)
-* ethanolodj (Ana_BeFiftyFive)
+* ethanolodj (ZapPlayerALT)
 * Euri Wings (EuriWings)
 * Evanbear1 (Evanbear1)
 * EYYCHEEV (EYYCHEEV)
@@ -702,7 +702,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * 🔥 OurFire Plays (ourfire and ChrisOurFire)
 
 ### Videos Found
-* Aati Plays (AatikahKashif)
+* Aati Plays (AatiPlays_Official)
   * Non-Giftcard Robux Giveaways
     * 15K ROBUX GIVEAWAY!! ✨🤑🎉 \#roblox \#shorts \#fyp
       * Uses group funds to give away Robux.
