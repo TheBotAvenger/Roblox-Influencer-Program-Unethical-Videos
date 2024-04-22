@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 21, 2024<br>
+Generated April 22, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -317,7 +317,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ErnieC3 (ErnieC3_YouTube)
 * Estela (Estelacoutin)
 * EthanGamer (EthanGamerTV)
-* ethanolodj (ZapPlayerALT)
+* ethanolodj (ethanolodj)
 * Euri Wings (EuriWings)
 * Evanbear1 (Evanbear1)
 * EYYCHEEV (EYYCHEEV)
@@ -681,7 +681,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Woozlo (Woozlo)
 * XdarzethX - Roblox & More! (xdarzethx)
 * xEnesR (xEnesR)
-* XericPlayz (XericPlayz)
+* Xeric (XericPlayz)
 * xiaoleung (xiaoleung)
 * Xpie (Xpie101gamer)
 * Yammy (yammyxox)
@@ -7551,7 +7551,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * I Surprised A FAN With 10,000 FREE ROBUX… \#roblox \#shorts
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=XUjFXIFvqJY
-* MuneebParwazMP (ItsMuneeeb)
+* Muneeb (ItsMuneeeb)
   * Phishing
     * (GONE WRONG) HACKING A FAN AND GIVING THEM FREE ROBUX!!! | Roblox
       * URL: https://www.youtube.com/watch?v=NJzfMDUMmMw
