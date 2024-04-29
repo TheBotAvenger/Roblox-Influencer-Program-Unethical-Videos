@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 28, 2024<br>
+Generated April 29, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -568,7 +568,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RiusPlay (RiusPlayYTYTYT)
 * Robin Hood Gamer (RobinHoodGamer10)
 * roblox az (robloxazytt)
-* ROBLOXMuff (UseCode_ROBLOXMuff)
+* ROBLOXMuff (Muffinzs)
 * Robotz (R_obotz)
 * Robrox (IchBinBrox)
 * Robstix (Robstix)
@@ -7264,7 +7264,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * This Mobile Wins $10,000 ROBUX If He Gets 1 KILL... (Roblox Arsenal)
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=sEBKoeC_Pxs&pp=sAQA
-* Kaden (jokerkid5898)
+* Kaden Fumblebottom (jokerkid5898)
   * Phishing
     * A fan gave me their PASSWORD… So I made them RICH
       * Logs into a fan's account after being given the username and password over email. Also exposes the email of the user.
