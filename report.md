@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 30, 2024<br>
+Generated May 1, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 857,264 videos
 * Total videos found that match keywords: 54,476 videos
-  * Total unprocessed videos: 8,391 videos
-* Total videos found that are processed and marked: 3,047 videos 
-  * Information Collection: 2,269 videos
+  * Total unprocessed videos: 8,505 videos
+* Total videos found that are processed and marked: 2,933 videos 
+  * Information Collection: 2,155 videos
   * Non-Giftcard Robux Giveaways: 653 videos
   * Other: 91 videos
   * Phishing: 34 videos
@@ -4899,57 +4899,21 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=YB0Urzcgw9I
 * HelloItsVG (HelloItsVinh)
   * Information Collection
-    * JAILBREAK ROBLOX FIRE TRUCK UPDATE, ALL WORKING CODES IN JAILBREAK, GUN, (FULL REVIEW)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=65POSK3UKA0
-    * JAILBREAK ROBLOX NEW FIRE TRUCK \*LEAKS\* (ROBLOX) ROBLOX JAILBREAK GLITCH! NEW UZI GUN!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=kiImvAiHBmo
     * PLAY ROBLOX JAILBREAK ON MY DAD IPAD FOR THE FIRST TIME! \*MOBILE\* (ROBLOX)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=Cq41fX5_eOU
     * TOP 3 SECRETS FOUND IN JAILBREAK ROBLOX BANK UPDATE (ROBLOX)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=3NygyFECZ_0
-    * SECRET ROOM FOUND IN JAILBREAK JEWELRY STORE| ROBLOX JAILBREAK GLITCHES| BANK GLITCH| (ROBLOX)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=zYSlVk8SEL0
     * HOW TO GET THE PHARAOH OF THE SUN HAT FOR FREE! (MARCH ROBLOX PROMO CODE)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=S_hkSZ4gy0k
     * JAILBREAK ROBLOX NO CLIP GLITCH| BANK GLITCH, JEWELRY STORE GLITCH, MUSEUM GLITCH IN JAILBREAK!
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=YLXL7aN2q-g
-    * EVERYTHING YOU NEED TO KNOW ABOUT THE NEW GUN STORE JAILBREAK UPDATE! (ROBLOX)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=7cIqvsz-a_I
     * \*MARCH\* ALL WORKING PROMO CODES ON ROBLOX 2019| ROBLOX PROMO CODES BLOXY POPCORN HAT CODE (WORKING)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=MFTw4V7K8Bo
-    * ARRESTING ALL CRIMINAL IN  A HACKED SERVER IN JAILBREAK ROBLOX (GONE WELL)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=3y9WPxr4t9k
-    * ALL \*NEWEST\* EASTER EGG IN JAILBREAK BANK ROBBERY UPDATE! (ROBLOX)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=1FrUbMCiUwk
-    * JAILBREAK SECRET EASTER EGG| FULL BANK AND JEWELRY STORE ROBBERY REVIEW! JAILBREAK BANK EASTER EGG!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=1dHNNz3yQeU
-    * JAILBREAK ROBLOX NEW JEWELRY STORE AND BANK UPDATE COMING SOON! (ROBLOX)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=Wdam9iRUdus
-    * JAILBREAK ROBLOX NO CLIP GLITCH! BANK GLITCH, JEWELRY STORE GLITCH
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=zU1DAZDlLQE
-    * \*NEW\* JAILBREAK INSTANT ROB TRAIN GLITCH IS BACK?? (ROBLOX JAILBREAK TRAIN GLITCH)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=N6YZk4TsPms
-    * ROBLOX JAILBREAK GLITCH| HOW TO WIN BATTLE ROYALE IN JAILBREAK EVERY TIME! (MUST WATCH)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=74CIwoYotP4
-    * ROBLOX JAILBREAK TRAIN UPDATES| ALL WORKING NEW CODE IN JAILBREAK! JERRY THE ZOMBIE! DROOLING ZOMBIE
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=HUpEASpBdCU
     * 🔴ROBLOX JAILBREAK UPDATE RELEASE?! SERVER CONTROL, NEW TRAIN UPDATE, HelloItsVG hit 100k!
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=N2x2Q9KDX_4
@@ -4959,15 +4923,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*FEBRUARY\* ALL WORKING PROMO CODES ON ROBLOX 2019| ROBLOX PROMO CODE FIRESTRIPE FEDORA (NOT EXPIRED)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=X_jOri70iF0
-    * SERVER CONTROL IN ROBLOX JAILBREAK| NEW CODE BATTLE ROYALE + NEW TRAIN ROBBERY! (ROBLOX)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=h0xJZalDcUM
-    * JAILBREAK ROBLOX NEW TRAIN ROBBERY| NEW MAP + TORPEDO SPEED CHANGED! NEW CODE AND GLITCH COMING!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=xbdBzoJAXPM
-    * MAD CITY ROBLOX GLITCH| HOW TO SPEED GLITCH IN MAD CITY (ROBLOX)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=GJksuQB103U
     * TOP 5 BEST JAILBREAK GLITCHES YOU SHOULD KNOW! (Roblox)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=GKfGqPYTEu8
@@ -4992,27 +4947,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ROBLOX JAILBREAK GLIDER GLITCH! UNLIMITED GLIDER BY CLICKING "J" (ROBLOX)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=v7FNeDumZ_w
-    * ROBLOX JAILBREAK EXPOSED!!  EVERY THING WRONG IN JAILBREAK! \*FUNNY\*
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=fw8u0iVwEzY
-    * JAILBREAK ROBLOX TUNNEL GLITCH! JAILBREAK ROBLOX BATTLE BUS UPDATE SOON! JAILBREAK ROBLOX GLITCHES
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=yntD7-7-SBo
-    * HOW TO GET $500,000 IN 1 HOUR! Roblox Jailbreak Best Grinding Method New Update LEVEL and Money!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=zicB_151gjw
-    * JAILBREAK ROBLOX FLYING CAR GLITCH \*EASY\* (ROBLOX JAILBREAK GLITCH)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=N4AObpSZ6HM
     * HOW TO GET A FREE DOMINUS PET FOR FREE IN BUBBLE GUM SIMULATOR (ROBLOX)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=Abk6vgmKHgA
-    * I TRIED TO GET BANNED IN JAILBREAK ROBLOX BY USING GLITCH! (ROBLOX BANK GLITCH)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=TwROUI5CPw8
-    * \*NEW\* HOW TO NO CLIP IN JAILBREAK ROBLOX (ROBLOX JAILBREAK GLITCH)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=8OVhN6qGkbo
     * (\*NEW\*) JANUARY  ALL WORKING PROMO CODES ON ROBLOX 2019| ROBLOX PROMO CODE (NOT EXPIRED)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=yghSOqrZ3OY
@@ -5022,156 +4959,33 @@ The following channels had nothing appear with manual searching. Videos may exis
     * JAILBREAK UNDERWATER| Asimo3089 HACKED ROBLOX VIP SERVER | FLOODED JAILBREAK!
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=YqQbKkugMNA
-    * BATMOBILE IS FASTER THAN MONSTER TRUCK?!  | Roblox Jailbreak Vehicle Speed Test
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=39nil90bOBU
-    * \*AUGUST\* WORKING PROMO CODE IN ROBLOX 2019| HOW TO GET THE AQUACAP (NOT EXPIRED)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=7RGUAgKisp4
-    * HOW TO NO CLIP AND SEE THROUGH IN JAILBREAK! (ROBLOX JAILBREAK GLITCH)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=YuV70KUOGE8
-    * ALL EASTER EGGS FOUND IN JAILBREAK WINTER UPDATE!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=we6immojtCM
-    * JAILBREAK ROBLOX CAGE DRAMA| HOW TO GET IN THE JAILBREAK CAGE GLITCH!!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=sUBKdxPfWTM
-    * THIS MUSEUM GLITCH WILL GET ME BAN FROM JAILBREAK.. (ROBLOX) ROBLOX JAILBREAK GLITCHES
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=DjsYsLQFYNc
     * JAILBREAK ROBLOX WINTER UPDATE FULL REVIEW 2018 + ALL PROMO CODES IN JAILBREAK ROBLOX WINTER UPDATE
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=oGv1JKrb_Ic
-    * HOW TO GET TORPEDO AND BATMOBILE FOR FREE IN JAILBREAK| HOW TO DRIVE TORPEDO AND BAT MOBILE FOR FREE
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=2DZvmShSehs
     * ALL NEW CODES IN ROBLOX JAILBREAK (JAILBREAK WINTER UPDATE) ALL PROMO CODES IN JAILBREAK ROBLOX
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=mU9NsHirV88
-    * ROBLOX JAILBREAK WINTER UPDATE FULL REVIEW! (ROBLOX JAILBREAK UPDATE REVIEW 2018)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=SGrGPiGnQnI
-    * JAILBREAK ROBLOX WINTER UPDATE SECRETS (UPDATE THIS WEEKEND!)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=IzV_NbCdDvg
-    * ROBLOX JAILBREAK WINTER UPDATE FULL REVIEW! (HOW TO GET LEVEL FAST IN JAILBREAK)(Update coming soon)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=-wFKPwo8i24
-    * \*MUST SEE\* TOP 5 BEST JAILBREAK GLITCHES YOU SHOULD KNOW IN WINTER UPDATE!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=eDrqOrGBU5Y
-    * ROBLOX JAILBREAK WINTER UPDATE FULL REVIEW! (ROBLOX JAILBREAK UPDATE REVIEW)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=ch5BxgpQtkE
-    * BEST ROBLOX JAILBREAK GLITCH| SPEED GLITCH IN JAILBREAK| SNOW MAN GLITCH IS BACK!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=KOoNo48n-jI
-    * Bubble Gum Simulator: HOW TO AUTOMATIC FARM BUBBLES GLITCH AND COINS! (ROBLOX)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=Eakzya75vRU
-    * PLAYING THE JAILBREAK WINTER UPDATE MAP (Roblox Jailbreak) JAILBREAK WINTER UPDATE MAP!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=jMCuJbaD_DI
     * ROBLOX JAILBREAK HOW TO USE GUNS IN MUSEUM! \*NEW GLITCH!\*
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=1eDey4QYS-8
-    * HOW TO GET FREE FACES ON ROBLOX! \*WORKING\* (2019)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=77oGA009P94
-    * ROBLOX JAILBREAK GLITCHES! BEST HIDE AND SEEK GLITCH!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=r3iPRo-BbSE
-    * \*MUST SEE\* TOP 3 JAILBREAK GLITCHES YOU SHOULD KNOW!! (Roblox)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=aP3V7ChU17k
-    * Noob With DARK MATTER RAINBOW DOMINUS Unlocked All Areas In 5 Mins!! Best Pet In Game!-Pet Simulator
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=b8vMjD7O1HY
-    * ROBLOX JAILBREAK GLITCHES HOW TO USE GUNS IN MUSEUM! \*NEW GLITCH!\*
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=tHNUlUKWIlI
-    * \[ROBLOX PROMO CODE\] HOW TO GET THE NEON BLUE TIE \*WORKING\* Neon Blue Tie CODE!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=G3NpyoiDxj0
-    * HOW TO GET THE AQUAMAN WATER DRAGON HEAD!(Roblox AQUAMAN EVENT 2018-Bandit Simulator)Roblox Free HAT
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=deQpWIJ1rXM
-    * INSANE HACKER FOUND IN JAILBREAK! (Roblox Jailbreak) 2018
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=LFsgGKraE-c
-    * JAILBREAK ROBLOX GLITCHES! BANK GLITCH, JEWELRY STORE GLITCH, MUSEUM GLITCH IN JAILBREAK!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=Hd4d3TIQBSo
-    * ROBLOX JAILBREAK GLITCH! CAMPING COP IS EVERYWHERE IN JAILBREAK!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=0SdMb8NXStk
-    * \*NEW\* INVISIBLE GLITCH IN JAILBREAK ROBLOX! (2018) JAILBREAK ROBLOX GLITCHES!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=meuVgClVwfA
-    * \[ROBLOX JAILBREAK EDITION\] NOOB vs PRO vs GLITCHER! (2018)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=pCFfuh-2Oo4
-    * ROBLOX JAILBREAK: MAX AMBULANCE AND MAX TESLA SPEED TEST (VEHICLE SPEED TEST)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=Z1VcINrGid0
-    * TOP 5 SECRETS FOUND IN JAILBREAK VOLCANO UPDATE! (2018)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=nrHPgl_GcT4
-    * \*NEW\* ROBLOX JAILBREAK 2 BILLION UPDATE! (JAILBREAK ROBLOX UPDATE REVIEW!)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=5bxzZjgYjss
     * JAILBREAK AMBULANCE  UPDATE! DRIVING THE AMBULANCE IN JAILBREAK (ROBLOX) \*LEAKS\*!
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=vzROLVrBW38
     * \*WORKING\* ROBLOX JAILBREAK BANK GLITCH IS BACK!? (ROBLOX)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=_LZfyoWyP4o
-    * ROBLOX JAILBREAK CRAWL PARACHUTE FLYING GLITCH! (WORKING)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=Xr_0cMHjutg
-    * \*NEW\* HOW TO TELEPORT IN JAILBREAK! \*TELEPORT GLITCH\* (Roblox)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=BUbnqUlv9qM
-    * \*WORKING\* TOP 5 BEST JAILBREAK GLITCHES YOU SHOULD KNOW! (Roblox)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=Vj7nZe71WhQ
     * \*NEW\* WORKING  HALLOWEEN CODES IN MINING SIMULATOR | Roblox
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=7MXVGD0MLl4
-    * \*NEW\* INSANE JEWELRY STORE GLITCH! (Roblox Jailbreak New Update)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=WldHXtQ4noA
-    * HOW TO GET FREE HEADLESS HEAD WITH ANTHRO! \*WORKING!\* (2018)- Roblox
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=fx9BuQ_CfxY
     * \*NEW\* CODES IN WEIGHT LIFTING SIMULATOR 3 Roblox
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=mUqDi5YWJGg
-    * \*NEW\* JAILBREAK ANTHRO GLITCH! BEST ANTHRO GLITCHES IN JAILBREAK (ROBLOX)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=1F1b8GU1J6E
-    * \*NEW\* HEALTH GLITCH! Roblox Jailbreak NEW GLITCH | Roblox Jailbreak BEST Glitches
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=TzOT-aXBBLU
     * ALL \*NEW\* CODES IN ICE CREAM SIMULATOR! (Roblox)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=TdZy4K8BN3k
-    * TOP 5 THINGS YOU DIDN'T KNOW ABOUT JAILBREAK! Roblox 2018
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=j6Px1GzzW74
-    * HOW TO GET ANTHRO IN ROBLOX (Rthro)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=ojBZn1JOQ5Y
-    * ANTHRO (RTHRO) is HERE!  PLAYING AS ANTHRO IN FORTNITE ROBLOX!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=7JoeQ6ObYqQ
     * BEST GLITCH IN  JAILBREAK (HIDING GLITCH!) - ROBLOX
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=TqcpMJzdSAQ
-    * NEW JAILBREAK GLITCHES \*WORKING\* (GLIDER GLITCH) - ROBLOX
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=f9XQpwL5Vz8
     * FIGHTING WITH Ved_Dev \*1v1 CHALLENGE\* IN JAILBREAK ROBLOX
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=QLgvJkuiUQ8
@@ -5181,42 +4995,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW! How To Get The Full Metal TopHat! (Secret Promo Code)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=TannrVoKZNA
-    * ROBLOX JAILBREAK NOOB vs PRO
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=0pUDa1dGNKg
-    * ROBLOX JAILBREAK HOW TO ROB A BANK WITHOUT A KEY CARD!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=VkgR8q-1LZM
-    * HOW TO GET BIGGEST BOUNTY IN JAILBREAK (ROBLOX JAILBREAK GLITCH)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=TJXsOAxN5-w
-    * HOW TO LOOK RICH WITH 0 ROBUX ON ROBLOX! (FREE) -ROBLOX
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=3wDV5N536Nk
     * Get ANY COLOR Motorcycle Shirt! FOR FREE! (NO ROBUX)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=LzPNjfvFx40
-    * THE DAY I HAVE OFFICIALY BECOME MYUSERNAMESTHIS - Roblox Jailbreak
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=-WlO21qVAOM
-    * HOW TO SPEED GLITCH IN JAILBREAK ROBLOX (FASTER THAN CAR!) 2018!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=nQ2_B4Iy5qk
-    * ROBLOX JAILBREAK - I BECAME INVISIBLE IN JAILBREAK+ TROLL (GONE RAGE QUIT)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=_8zo7dO0e6I
-    * ROBLOX JAILBREAK - WHAT INSIDE THE SECRET TUNNEL IN JAILBREAK ( FALL UPDATE) TSOEPC
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=9A2hQgj-TeI
-    * ROBLOX JAILBREAK- SECRET STOPE CONFIRMED 100% NEW FALL UPDATE( TSOEPC)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=iEA9lgVP7yo
-    * ROBLOX JAILBREAK- HOW TO GET MONEY FAST IN JAILBREAK+ TIPS + TRICKS!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=zCLsr1LoFA0
-    * HOW TO NEVER DIE IN ROBLOX JAILBREAK! \*NEW GLITCH\* UNLIMITED DONUT GLITCH!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=B7EL0z38Bfg
     * NEW JAILBREAK UPDATE IS COMING! \*NEW SPOILERS\* AND COLOR SKIN
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=sSzpSLlZsL0
@@ -5235,138 +5016,15 @@ The following channels had nothing appear with manual searching. Videos may exis
     * NEW ALL CODES IN DESTRUCTION SIMULATOR! (Roblox)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=Atuul-Jf9Ho
-    * \[EVENT\] How To Get Rainbow Wings - Roblox Imagination Event 2018 - Make A Cake Back for Seconds
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=2cQfL1p5rg8
     * KREEKCRAFT AMAZON ECHO RAGE QUIT VERSION! (TROLLING ROBLOX)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=jddXeJJA35s
-    * BUYING THE WORKCLOCK HEADPHONES! MEMORIAL 2018 ROBLOX'S SALE
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=xlub_c5azww
-    * ARREST ME for FREE BOSS GAMEPASS!!! | JAILBREAK UPDATE | Roblox Jailbreak
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=2H0oJW3qIOo
-    * ROBLOX JAILBREAK NEW TELEPORT GLITCH| JAILBREAK GLITCHES (ROBLOX)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=l9oY9eDypfY
-    * BACON HAIRS ARE INVADING JAILBREAK! (ROBLOX Jailbreak) I SAW A SPEED HACK IN JAILBREAK
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=GH9dLqGqiy4
-    * \[PROMO CODE\] HOW TO GET 12TH BIRTHDAY CAKE HAT IN ROBLOX - HAPPY 12th BIRTHDAY ROBLOX! - CODE
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=UDRWDLH1KTQ
-    * KREEKCRAFT RAGE| TROLLING ROBLOX LIVESTREAMER| (RAGE QUIT) EP.5
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=36G3snuomtU
-    * MAKE ZephPlayZ RAGE! TROLLING ROBLOX LIVESTREAMER| KREEKCRAFT RAGE QUIT! (GONE WRONG!) NO JOKE!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=4FFMDkNsvJc
-    * ROBLOX JAILBREAK NEW CAR RELEASE DAY AND INFORMATION! ROLL ROYCE WRAITH AND WIND TURBIND!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=PawVcivfPMI
-    * MAKE KREEKCRAFT STOPPED TALKING!PRANK DONATION| TROLLING ROBLOX LIVESTREAMER!(RAGE QUIT+GONE WRONG)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=Xq5-s-SMYp4
-    * ROBLOX JAILBREAK GLITCH|DOUBLE JUMP TO FLY IN JAILBREAK ?| ROBLOX JAILBREAK MYTH| EP.2 (ROBLOX)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=DoH0q61kAhE
-    * ROBLOX JAILBREAK GLITCH! ROBBING MUSEUM FROM THE OUTSIDE? |MYTH BUSTER WITH HELLOTSVG| EP.1
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=nOMUOYyrJNU
-    * ALL NEW GLITCHES IN JAILBREAK MUSEUM 2018 (ROBLOX)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=w22TPirpR_I
-    * JAILBREAK ROBLOX GLITCH\[HOW TO ROB MUSEUM FROM OUTSIDE\](ROBLOX)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=YVhkZEKcalc
-    * PLAYING WITH VED_DEV ON MY VIP SERVER \[STREAM HIGHLIGHT\](Roblox Jailbreak)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=fd-p96qCfn8
-    * ROBLOX JAILBREAK FUNNY CHARACTER GLITCH/ MORPH CHARACTER (Roblox)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=S1gr_-zTebU
-    * \[WORKING\] COP GLITCH INSIDE MUSEUM ROBBERY!!! (Roblox Jailbreak)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=vMXQ1QpfDE8
-    * HOW TO USE GUN IN MUSEUM WHILE ROBBING JAILBREAK MUSEUM! (ROBLOX JAILBREAK)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=KHs2Ow8tOB8
-    * DO NOT PLAY JAILBREAK AT 3AM/PM (FRIDAY 13TH) THIS HAPPENS...
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=t0ekkUPtzZk
-    * 10 Ways to Die in Roblox Jailbreak (Must see)!....
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=mHr6obyXRc8
-    * Roblox Jailbreak HOW TO GET UNLIMITED FREE ROCKET FUEL IN JAILBREAK! (Roblox)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=bWRb3iYygJo
-    * \[Fast Method\] HOW TO GET THE FLAGS SPOILER EASY! Roblox Jailbreak NEW UPDATE MINIGAME!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=47MoayytYqA
-    * Roblox Jailbreak| SOME SECRET YOU MAY NOT KNOW| ROBBING JAILBREAK MUSEUM!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=6geO4CwEDK8
-    * HOW TO NEVER GET ARRESTED IN ROBLOX JAILBREAK• Never die in Jailbreak!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=XtBH42WP8S8
-    * Jailbreak Museum Update FULL REVIEW! (New Update) Jailbreak Update!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=UaCAIdK0nVQ
-    * How to WIN in Baldi's Basic as Baldi| Fun Game Play Roblox| First time WIN as Baldi
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=cDJcyVlHUl0
-    * BALDI INSASION IN JAILBREAK (Roblox)| and THIS happned.... !
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=MShi1_LMsgY
-    * Roblox Jailbreak HOW TO GET A FREE VIP SERVER!! \*Roblox+\* Extention !
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=KnBGf97EDVs
-    * JAILBREAK UPDATE| NEW DINOSAUR MUSEUM ROBBERY COMING TO JAILBREAK
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=iu_i3uKRuto
-    * ROBLOX JAILBREAK HOW TO GET A KEYCARD BY YOURSELF! \*NEW METHOD\*
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=K_fvJzmTCrY
     * \[PROMO CODE\] How To Get Jurassic World Shades - Free Roblox Promo Code for Creator Challenge Event
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=shxjti72b7g
-    * First time playing BALDI'S BASICS in ROBLOX| Roblox Horror Game Play|
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=fiTjn6QgY3g
-    * Roblox Jailbreak| High Bounty Glitch| Robbing Train Glitch
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=_m5QsnMAptU
-    * Roblox Jailbreak| RAGE QUIT ~ Trolling youtube livestreamer in GOD MOD |Speed Ep. 4
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=7p2_AUVwSXw
-    * Roblox Jailbreak INSANE BILL NYE THE SCIENCE GUYS TROLL ~ RAGE QUIT MODE EP.2
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=QnkGIbvsSVY
-    * Roblox Jailbreak | I was giving people "W" ! and this happen.....
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=ddllYxgIq24
-    * How to get a MILLION Cash on Jailbreak // ARREST GLITCH // SPEEDING Glitch TO ARREST
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=I1oDv9xu0HE
     * BEST WAY TO TROLL IN APRIL FOOLS!
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=3AQYy6XdNpI
-    * How to get the Crystal Key \*EASIEST\* WALK THROUGH// READY PLAYER ONE
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=-5ZmRpvXGbg
-    * INSANE PROMOTE CODES IN ROBLOX 2018(WORKING)//Roblox Promote Code FREE// Free CODE FOR I0I HELMET
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=_TbxFxxOhzc
-    * Roblox Copper Key Roblox Found/HINTS Copper key, Jade key, Gold Dominus// Ready Player One MOVIE! !!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=LNWiDDEUkHg
-    * Roblox Jailbreak Flying Glitch// Parachute Flying Glitch// How to Fly in Jailbreak
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=8RT3VNpAai4
-    * How to get Free VIP server on Jailbreak/ FREE VIP SERVER !
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=Zp9Lpv_Au80
     * 1000 Subscriber Special !!! // VG Gang// Jailbreak Roblox// Roblox Special!
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=de2PnVznoC0
