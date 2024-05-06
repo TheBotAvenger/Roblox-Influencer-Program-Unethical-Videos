@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 5, 2024<br>
+Generated May 6, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -7623,7 +7623,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
       * Logs into the account of a fan. Mentions a lot of other people sent their username and passwords.
       * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
-* SeerRblx (ReaISeer)
+* Seer (ReaISeer)
   * Information Collection
     * NEW ROBLOX PROMO CODES ITEMS! ALL ROBLOX 2020 PROMO CODES - (2020)
       * Description references the data collection website gamehag.com using a link shortener.
