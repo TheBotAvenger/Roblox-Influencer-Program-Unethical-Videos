@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 26, 2024<br>
+Generated May 27, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -339,7 +339,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Flxral (xoFlxral)
 * FlyBorg (KaykBlox)
 * Fminus (fminusmic)
-* FoamyBubbles (FoamyBubbIes)
 * Folix (Mrpresident1302)
 * Foltyn (TheRealFoltyn)
 * Foncri (Foncri)
@@ -448,6 +447,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lawlieet 20 (XLAWLIEETX)
 * LcLc (LcLcO1)
 * Leah Ashe (NotLeah)
+* LegendLeo (FoamyBubbIes)
 * Lenay (lenay_ROBLOX)
 * Leshero Morrazo (MoroSamy)
 * LiaBlossoms (LiaBlossoms)
