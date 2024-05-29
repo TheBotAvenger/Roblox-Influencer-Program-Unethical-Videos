@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 28, 2024<br>
+Generated May 29, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,11 +184,11 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 865,804 videos
 * Total videos found that match keywords: 54,822 videos
-  * Total unprocessed videos: 8,850 videos
-* Total videos found that are processed and marked: 2,934 videos 
+  * Total unprocessed videos: 8,851 videos
+* Total videos found that are processed and marked: 2,933 videos 
   * Information Collection: 2,155 videos
   * Non-Giftcard Robux Giveaways: 653 videos
-  * Other: 92 videos
+  * Other: 91 videos
   * Phishing: 34 videos
 
 ### No Videos Found
@@ -280,6 +280,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Crainer (MrCrainer1422)
 * CrazyErzy (CrazyErzy7u7)
 * Cristi Suki (CristiSukiYT)
+* CrystalSims (CrystalSims)
 * CubeINC (RealCubeINC)
 * Curtified (CurtifiedYT)
 * Cute Cookie Gaming (CuteCookieGaming05)
@@ -862,11 +863,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FREE ROBUX GIVEAWAY-?!
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=SGQHBpt-GeM
-* CrystalSims (CrystalSims)
-  * Other
-    * TENGO UN VIRUS CONTAGIOSO Y ENVÍO A TODOS AL HOSPITAL | SNEEZING SIMULATOR ROBLOX | CRYSTALSIMS
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=sqs1zbSOK1Q
 * DanteField (etnad34)
   * Information Collection
     * NO ENTRES A ESTE JUEGO DE ROBLOX (Crooswoods)
