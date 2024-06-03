@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 2, 2024<br>
+Generated June 3, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,7 +182,7 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 865,804 videos
+* Total videos: 865,807 videos
 * Total videos found that match keywords: 54,822 videos
   * Total unprocessed videos: 8,851 videos
 * Total videos found that are processed and marked: 2,933 videos 
@@ -232,7 +232,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BETO GAMER (betogamer_01)
 * Bia Gamer (BiiiaGamerYT)
 * Bianca Nayi (bianqui_nayi123)
-* Biano Betero (BianoBetero)
 * Bibi e Lud (BibibloxYTB and LudBloxYTB)
 * Bidinho (bidinh0)
 * BigB (BigBst4tz22)
@@ -473,6 +472,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mackenzie Turner Roblox (MackenzieTurnerYT)
 * Magicbus (MagicbusYT)
 * Mahadinoor Playz (MahadiNr)
+* Mahdi (RealMahadi)
 * Maislie (Maislie)
 * MakotoUchiha (MakotoYoutube)
 * MamyBlox (xMamys)
@@ -653,6 +653,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ThyEdgar (THYEDGAR_YT)
 * Tikida (Sanaaa8ans)
 * TinenQa (TinenQa1)
+* TOP 10 Família Betero (BianoBetero)
 * Toxic Berry (NotToxicBerry)
 * ToxicJim (supersonshadow17)
 * TrafTheOpest (TrafTheOpest)
