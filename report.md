@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 11, 2024<br>
+Generated June 12, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 869,863 videos
 * Total videos found that match keywords: 54,945 videos
-  * Total unprocessed videos: 8,974 videos
-* Total videos found that are processed and marked: 2,933 videos 
-  * Information Collection: 2,155 videos
+  * Total unprocessed videos: 8,975 videos
+* Total videos found that are processed and marked: 2,932 videos 
+  * Information Collection: 2,154 videos
   * Non-Giftcard Robux Giveaways: 653 videos
   * Other: 91 videos
   * Phishing: 34 videos
@@ -4915,9 +4915,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*MARCH\* ALL WORKING PROMO CODES ON ROBLOX 2019| ROBLOX PROMO CODES BLOXY POPCORN HAT CODE (WORKING)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=MFTw4V7K8Bo
-    * 🔴ROBLOX JAILBREAK UPDATE RELEASE?! SERVER CONTROL, NEW TRAIN UPDATE, HelloItsVG hit 100k!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=N2x2Q9KDX_4
     * JAILBREAK ROBLOX TRAIN \*LEAKS\* NEW JAILBREAK UPDATE| SERVER CONTROL AND BATTLE ROYALE! CODES!
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=7AsvAAcHyIE
