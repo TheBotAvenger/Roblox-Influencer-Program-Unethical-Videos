@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 7, 2024<br>
+Generated July 8, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -244,7 +244,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bonnie Builds (BONNlEBUILDS)
 * BramP (BramPeeee)
 * Brancoala Games (brancoalado, marcossmm, lauroala, and claudiacraudete)
-* BREN0RJ (BREN0RJ7)
+* BREN0RJ (KarmaBloxerYt)
 * Brincando com a Keke (Keke_KerenYT)
 * BrittanyPlays (Britt_Blox)
 * Bubbles (bubblestoxic)
