@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 14, 2024<br>
+Generated July 15, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -220,13 +220,13 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Avocado Playz (AvocadoPlayzOfficial)
 * Awhxliv (TheRealAwhxliv)
 * Ayzria (Ayzria)
-* b3eleyy (b3e_leyy)
 * BaconHair Originals (BaconHairGGOP)
 * BaixaMemoria (CaueBM)
 * BALETKA07 (BALETKA07)
 * Bandi (BandiRue)
 * BeaPlays (notBeaPlays)
 * Bebe Milo (BebeMiloAmiwito)
+* bee lay (b3e_leyy)
 * BeeBlox (ThePapaBee, imgabibee, MrBeeWasTaken, and LaMamaBee)
 * Benx (Bensonheimer and ebruulein)
 * BETO GAMER (betogamer_01)
@@ -244,7 +244,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bonnie Builds (BONNlEBUILDS)
 * BramP (BramPeeee)
 * Brancoala Games (brancoalado, marcossmm, lauroala, and claudiacraudete)
-* BREN0RJ (KarmaBloxerYt)
+* BREN0RJ (BREN0RJ7)
 * Brincando com a Keke (Keke_KerenYT)
 * BrittanyPlays (Britt_Blox)
 * Bubbles (bubblestoxic)
