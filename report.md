@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 4, 2024<br>
+Generated August 5, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -239,6 +239,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BitSquid (BitSquid)
 * Blam Spot (Alopek)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
+* BloxHub (PandaLemonTart)
 * Bluxxy Gaming (BluxxyGaming)
 * BolzarX (xxBolzxx)
 * Bonnie Builds (BONNlEBUILDS)
@@ -318,7 +319,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * EthanGamer (EthanGamerTV)
 * ethanolodj (ethanolodj)
 * Euri Wings (EuriWings)
-* Evanbear1 (Evanbear1)
+* Evan Zirschky (Evanbear1)
 * EYYCHEEV (EYYCHEEV)
 * FadedPlayz (YTFadedPlayz)
 * faeglow (faeglow)
@@ -526,7 +527,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Oscar (VanillaOreoCat)
 * PaanDuh (PPaanDuh)
 * PaintingRainbows (RainbowsYT)
-* PandaLemonTart (BloxHub) (PandaLemonTart)
 * PandazPlay (ComplexConniee and ComplexJason)
 * PandinhaGame (PandinhaGame)
 * Papile (jupapile)
@@ -671,7 +671,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Valen Latina (Valen_Latina)
 * VarietyJay (VarietyJay_Real)
 * Veyar (VeyarYT)
-* View (ViewYT)
+* ViewSIM (ViewYT)
 * VikingPrincessJazmin (VikingPrincessJazmin)
 * Vitamine (VitamineRoblox)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
