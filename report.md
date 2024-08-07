@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 6, 2024<br>
+Generated August 7, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 887,107 videos
 * Total videos found that match keywords: 55,483 videos
   * Total unprocessed videos: 9,514 videos
-* Total videos found that are processed and marked: 2,931 videos 
+* Total videos found that are processed and marked: 2,930 videos 
   * Information Collection: 2,153 videos
-  * Non-Giftcard Robux Giveaways: 653 videos
+  * Non-Giftcard Robux Giveaways: 652 videos
   * Other: 91 videos
   * Phishing: 34 videos
 
@@ -7520,10 +7520,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HOW TO GET FREE ROBUX in 2018! APP THAT GIVES YOU ROBUX FOR PLAYING GAMES! FREE ROBUX 2018
       * Description references a download for a data collection mobile app.
       * URL: https://www.youtube.com/watch?v=ESjjCV9WXW8
-  * Non-Giftcard Robux Giveaways
-    * Playing Roblox live with subscribers! (Robux giveaway) ROBLOX MEME PACK MADNESS \#ad
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=vX1D7dNBwgM
 * realrosesarered (realroses)
   * Phishing
     * I "HACKED" A FAN'S ACCOUNT ON ROBLOX AND TROLLED HER FRIENDS! | Roblox Funny Moments
