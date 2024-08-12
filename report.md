@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 11, 2024<br>
+Generated August 12, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -194,7 +194,7 @@ to the report if this happens.
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 39jeshi (39jeshi)
-* 3SB Games (cakemiix and ododahs)
+* 3SB Games (cakemiix and lcespicebabyyy)
 * Abbaok (Abbaok_YT)
 * AbsintoJ (AbsintoJYT)
 * Acenix (AcenixElMejorYoutube)
@@ -434,7 +434,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Kitt Gaming (StarCode_kitt)
 * Kodak (KodakOF)
 * KraoESP (KraoESP)
-* KreekCraft (StarCode_RealKreek)
+* KreekCraft (RealKreek)
 * Krystin Plays (KrystinPlays)
 * KTG Gaming (lifetimeobcman123)
 * KunicornCraft (kawaii_kunicorn)
@@ -599,7 +599,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Shenty Gaming (IM_Celestial)
 * ShisuiXI (Sh1suiXI)
 * Shylow (okgamerman)
-* Signicial (Signicial)
+* signupredir111 (Signicial)
 * Silent (RandomYoutuber0202)
 * SimplyCoco (VURIIN)
 * SkippyPlays (skipsk0p)
