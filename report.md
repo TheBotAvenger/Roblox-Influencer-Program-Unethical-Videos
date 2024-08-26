@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 25, 2024<br>
+Generated August 26, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 891,511 videos
-* Total videos found that match keywords: 55,547 videos
-  * Total unprocessed videos: 9,578 videos
+* Total videos found that match keywords: 55,563 videos
+  * Total unprocessed videos: 9,594 videos
 * Total videos found that are processed and marked: 497 videos 
   * Information Collection: 455 videos
   * Non-Giftcard Robux Giveaways: 34 videos
@@ -666,8 +666,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
 * Shenty Gaming (IM_Celestial)
+* Shiloh (okgamerman)
 * ShisuiXI (Sh1suiXI)
-* Shylow (okgamerman)
 * signupredir111 (Signicial)
 * SiimplyBubliie (SiimplyBubliie_YT)
 * Silent (RandomYoutuber0202)
