@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 3, 2024<br>
+Generated September 4, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,11 +185,10 @@ to the report if this happens.
 * Total videos: 895,766 videos
 * Total videos found that match keywords: 55,618 videos
   * Total unprocessed videos: 9,649 videos
-* Total videos found that are processed and marked: 39 videos 
+* Total videos found that are processed and marked: 36 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 3 videos
   * Phishing: 1 video
-  * Other: 1 video
+  * Information Collection: 1 video
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -222,6 +221,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Auratix (Auratix)
 * Avocado Playz (AvocadoPlayzOfficial)
 * Awhxliv (TheRealAwhxliv)
+* Axiore (Axiore)
 * Ayzria (Ayzria)
 * b3eleyy (b3e_leyy)
 * BaconHair Originals (BaconHairGGOP)
@@ -233,6 +233,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BeaPlays (notBeaPlays)
 * Bebe Milo (BebeMiloAmiwito)
 * BeeBlox (ThePapaBee, imgabibee, MrBeeWasTaken, and LaMamaBee)
+* Benni (ImBenni)
 * Benx (Bensonheimer and ebruulein)
 * BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
 * BETO GAMER (betogamer_01)
@@ -776,6 +777,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Yammy (yammyxox)
 * Yayixd Changuito 🐵 (YAYIXDCHANGU)
 * Yode Plays (yode1)
+* YoSoyLoki (YoSoyLokiYT)
 * yTowak (yTowakGb)
 * ZacharyZaxor (ZacharyZaxor)
 * ZaiLetsPlay (YT_ZaiLetsPlay)
@@ -793,17 +795,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * 🔥 OurFire Plays (ourfire and ChrisOurFire)
 
 ### Videos Found
-* Axiore (Axiore)
-  * Information Collection
-    * \[A NEW CODE!\] FREE ROBUX + EVERY WORKING CODES IN BLOX NO ROBLOX:REMASTERED \[SPONSORED VIDEO\]
-      * Description references the data collection website robloxwin.com.
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=2oXe2807bDM
-* Benni (ImBenni)
-  * Information Collection
-    * EARN FREE ROBUX AND FREE GAMES! | GAMEHAG
-      * Description references the data collection website gamehag.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=hEoLz4DPuxQ
 * Betroner y Noangy (Betroner and Noangy)
   * Non-Giftcard Robux Giveaways
     * Robux para ti! Mejor que los eventos de Roblox!
@@ -830,11 +821,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* YoSoyLoki (YoSoyLokiYT)
-  * Other
-    * MAMA CLAUS LOCA SE ENAMORA DE MI en BROOKHAVEN - Roblox YoSoyLoki
-      * Description references the "black market for limiteds and Robux" ro.place.
-      * URL: https://www.youtube.com/watch?v=FxWczYI9BTI
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
