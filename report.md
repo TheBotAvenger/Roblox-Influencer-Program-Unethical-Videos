@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 8, 2024<br>
+Generated September 9, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 895,766 videos
-* Total videos found that match keywords: 55,618 videos
-  * Total unprocessed videos: 9,649 videos
+* Total videos found that match keywords: 55,651 videos
+  * Total unprocessed videos: 9,682 videos
 * Total videos found that are processed and marked: 36 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
   * Phishing: 1 video
@@ -343,7 +343,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * EthanGamer (EthanGamerTV)
 * ethanolodj (ethanolodj)
 * Euri Wings (EuriWings)
-* Evan Zirschky (Evanbear1)
+* Evanbear1 (Evanbear1)
 * EYYCHEEV (EYYCHEEV)
 * FadedPlayz (YTFadedPlayz)
 * faeglow (faeglow)
