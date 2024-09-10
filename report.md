@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 9, 2024<br>
+Generated September 10, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,13 +182,13 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 895,766 videos
-* Total videos found that match keywords: 55,651 videos
-  * Total unprocessed videos: 9,682 videos
-* Total videos found that are processed and marked: 36 videos 
+* Total videos: 897,846 videos
+* Total videos found that match keywords: 55,718 videos
+  * Total unprocessed videos: 9,748 videos
+* Total videos found that are processed and marked: 37 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
+  * Information Collection: 2 videos
   * Phishing: 1 video
-  * Information Collection: 1 video
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -768,7 +768,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XdarzethX - Roblox & More! (xdarzethx)
 * Xegothasgot (Xegot)
 * xEnesR (xEnesR)
-* XenoTy (xXenoTy)
 * Xeric (XericPlayz)
 * xiaoleung (xiaoleung)
 * xMarcelo (xMarcelo)
@@ -821,6 +820,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
+* XenoTy (xXenoTy)
+  * Information Collection
+    * I Survived as 0.1% Mangekyo OBITO in NEW Roblox Naruto Game! (The Time Of Ninja)
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=WxNvYELGMgk
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
