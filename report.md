@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 16, 2024<br>
+Generated September 17, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,12 +182,12 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 897,846 videos
-* Total videos found that match keywords: 55,747 videos
-  * Total unprocessed videos: 9,777 videos
-* Total videos found that are processed and marked: 43 videos 
+* Total videos: 899,989 videos
+* Total videos found that match keywords: 55,764 videos
+  * Total unprocessed videos: 9,793 videos
+* Total videos found that are processed and marked: 44 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 8 videos
+  * Information Collection: 9 videos
   * Phishing: 1 video
 
 ### No Videos Found
@@ -763,7 +763,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XdarzethX - Roblox & More! (xdarzethx)
 * Xegothasgot (Xegot)
 * xEnesR (xEnesR)
-* XenoTy (xXenoTy)
 * Xeric (XericPlayz)
 * xiaoleung (xiaoleung)
 * xMarcelo (xMarcelo)
@@ -848,6 +847,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
+* XenoTy (xXenoTy)
+  * Information Collection
+    * Spending 10,000 Robux To Get 0.1% Limitless & Becoming Gojou Satoru In Jujutsu Piece...
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=8uivtso9wqI
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
