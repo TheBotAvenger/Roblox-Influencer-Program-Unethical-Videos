@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 17, 2024<br>
+Generated September 18, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 899,989 videos
 * Total videos found that match keywords: 55,764 videos
   * Total unprocessed videos: 9,793 videos
-* Total videos found that are processed and marked: 44 videos 
+* Total videos found that are processed and marked: 40 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 9 videos
+  * Information Collection: 5 videos
   * Phishing: 1 video
 
 ### No Videos Found
@@ -307,6 +307,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
 * DeeterPlays (DeeterPlays)
+* DefildPlays (DefildPlays)
 * DeGoBooM (BumiReal)
 * Denis (DenisDaily)
 * DernD (StarCode_dernd)
@@ -396,6 +397,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HandN (xHandNx)
 * hannnahlovescows (hannnahlovescows)
 * HappyBlack (HappyThreePro)
+* HelloItsVG (HelloItsVinh)
 * Heorua (Heorua)
 * HeyDavi (DAVIPLAY_14)
 * heyhana (iheyhana)
@@ -591,6 +593,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PeetahBread (PeetahBread)
 * Peter Toys (PeterToys)
 * PghLFilms (PGHLego1945)
+* PHMittens (PHMittensSTARCreator)
 * Phoeberry (Phoeberry)
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
@@ -763,6 +766,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XdarzethX - Roblox & More! (xdarzethx)
 * Xegothasgot (Xegot)
 * xEnesR (xEnesR)
+* XenoTy (xXenoTy)
 * Xeric (XericPlayz)
 * xiaoleung (xiaoleung)
 * xMarcelo (xMarcelo)
@@ -803,26 +807,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
-* DefildPlays (DefildPlays)
-  * Information Collection
-    * BUYING THE GOLDEN NUKE AND EXPLODING THE WHOLE PRIVATE ISLAND In Roblox Treasure Hunt Simulator!
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=aHf1K-gDi_Q
-* HelloItsVG (HelloItsVinh)
-  * Information Collection
-    * ROBLOX FAME SIMULATOR \*NEW GAME\* TRADING AND FULL CODES?! FAME SIMULATOR GLITCH?!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=azFTZkapJpw
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
-* PHMittens (PHMittensSTARCreator)
-  * Information Collection
-    * Pet Simulator X \#30 - ROBLOX - FACE REVEAL SA BILLIONAIRE HOUSE NILA @VonOrdonaVlogs NA SCAM AKO!
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=aJnQ9D7NaSo
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
@@ -847,11 +836,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* XenoTy (xXenoTy)
-  * Information Collection
-    * Spending 10,000 Robux To Get 0.1% Limitless & Becoming Gojou Satoru In Jujutsu Piece...
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=8uivtso9wqI
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
