@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 22, 2024<br>
+Generated September 23, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 899,989 videos
-* Total videos found that match keywords: 55,764 videos
-  * Total unprocessed videos: 9,793 videos
+* Total videos found that match keywords: 55,787 videos
+  * Total unprocessed videos: 9,816 videos
 * Total videos found that are processed and marked: 40 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 5 videos
@@ -255,6 +255,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BramP (BramPeeee)
 * Brancoala Games (brancoalado, marcossmm, lauroala, and claudiacraudete)
 * BREN0RJ (BREN0RJ7)
+* Brigido (oCauanBrigido)
 * Brincando com a Keke (Keke_KerenYT)
 * BrittanyPlays (Britt_Blox)
 * BRYAN MCQUEEN (IamBryanMcqueen)
@@ -572,7 +573,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * notive (notive)
 * O1G (TotallyNotO1G)
 * ObliviousHD (ObliviousHD)
-* oCauanBrigido (oCauanBrigido)
 * officialnoobie (oofficialnoobie)
 * oGVexx (LouDaREALGamer)
 * OKEH SQUAD (Rbellomello)
