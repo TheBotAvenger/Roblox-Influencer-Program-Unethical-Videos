@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 8, 2024<br>
+Generated October 9, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 906,311 videos
 * Total videos found that match keywords: 55,906 videos
   * Total unprocessed videos: 9,935 videos
-* Total videos found that are processed and marked: 40 videos 
+* Total videos found that are processed and marked: 61 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 5 videos
+  * Information Collection: 26 videos
   * Phishing: 1 video
 
 ### No Videos Found
@@ -303,7 +303,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Daffa super (Daffa_super2)
 * DandanPH (DandanPH)
 * Danny Jesden (DannyJesdenYT)
-* DanteField (etnad34)
 * DaPandaGirl (Da_PandaGirl)
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
@@ -807,6 +806,71 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
+* DanteField (etnad34)
+  * Information Collection
+    * NO ENTRES A ESTE JUEGO DE ROBLOX (Crooswoods)
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=cCFWGhx0ZpQ
+    * ¡ROBLOX ESTO ES IMPOSIBLE! 😢
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=Gz2_CKuHuI0
+    * Sueño del Robux...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=BNp3GH_Y5S8
+    * Roblox visita LATAM...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=SZSTkYJh0Ow
+    * Robux en 2045...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=X3nR0t_H7dg
+    * Si yo fuera admin de Roblox...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=u0NKiEaOnSE
+    * Así me hackearon...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=38FR_0JzHCI
+    * Si tu fueras dueño de Roblox...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=GkZGAhjB3ss
+    * Mato a un noob por 1M...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=FLW6CIjihSI
+    * No tuve elección...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=ZF3LJ1L3IY8
+    * Si eliminarán slenders...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=VNOJSMZvYZY
+    * Si no existieran robux....
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=krpCRl0wXjs
+    * Toxicidad de Roblox...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=-64mZ7ifTNo
+    * Roblox compra NFT...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=OEG53q-XbUg
+    * Minecraft invade Roblox 2...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=7UWGLxMK9a0
+    * Roleplayers serios en Roblox...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=697Lcb09apY
+    * Emos de Roblox...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=QeRCtBLN94k
+    * Roblox sin tóxicos...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=yGtFJ-vPRQA
+    * Minecraft invade Roblox...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=QEvhRLXL06k
+    * Roblox llega a su fin...
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=KSZge1Cnxg4
+    * 订阅
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=iP2AmSx_Lxs
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
