@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 13, 2024<br>
+Generated October 14, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 906,311 videos
-* Total videos found that match keywords: 55,906 videos
-  * Total unprocessed videos: 9,935 videos
+* Total videos found that match keywords: 55,918 videos
+  * Total unprocessed videos: 9,947 videos
 * Total videos found that are processed and marked: 61 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 26 videos
@@ -414,7 +414,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * iBugou (iBugouzinho)
 * iDatchy (iDatchy)
 * iKotori (iKotori)
-* ImaGamerGirl (lmaGamerGirI)
+* ImaGamerGirl (REALImaGamerGirl)
 * InceptionTime (InceptionTime)
 * Inemafoo (Inemajohn)
 * InquisitorMaster (inquisitormaster)
@@ -668,7 +668,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Shenty Gaming (IM_Celestial)
 * Shiloh (okgamerman)
 * ShisuiXI (Sh1suiXI)
-* signupredir111 (Signicial)
+* Signicial (Signicial)
 * SiimplyBubliie (SiimplyBubliie_YT)
 * Silent (RandomYoutuber0202)
 * SimplyCoco (VURIIN)
