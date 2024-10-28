@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 27, 2024<br>
+Generated October 28, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -255,7 +255,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BramP (BramPeeee)
 * Brancoala Games (brancoalado, marcossmm, lauroala, and claudiacraudete)
 * BREN0RJ (BREN0RJ7)
-* Brigido (oCauanBrigido)
 * Brincando com a Keke (Keke_KerenYT)
 * BrittanyPlays (Britt_Blox)
 * BRYAN MCQUEEN (IamBryanMcqueen)
@@ -274,6 +273,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Carol TV (caaroltv)
 * CatFer (SoyCatFer)
 * CATYPINK PLAY (catypink15)
+* Cauan Brigido (oCauanBrigido)
 * cazum8 (cazum8)
 * Cee\_berry (Cee\_berry)
 * Cerso (Cerso93)
