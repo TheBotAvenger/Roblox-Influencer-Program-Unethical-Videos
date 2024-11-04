@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 3, 2024<br>
+Generated November 4, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 912,726 videos
-* Total videos found that match keywords: 56,008 videos
-  * Total unprocessed videos: 10,037 videos
+* Total videos found that match keywords: 56,021 videos
+  * Total unprocessed videos: 10,050 videos
 * Total videos found that are processed and marked: 50 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 13 videos
@@ -209,6 +209,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Andre Nicholas (andrhevn21)
 * Angelazz (Angelazz)
 * AnielicA (ANIELICA01)
+* Anime Revolt (RedWEBE3)
 * Ant (Cringley)
 * Ant Antixx (Ant_Antixx)
 * ApplyingTM (ApplyingTM)
@@ -255,6 +256,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BramP (BramPeeee)
 * Brancoala Games (brancoalado, marcossmm, lauroala, and claudiacraudete)
 * BREN0RJ (BREN0RJ7)
+* Brigido (oCauanBrigido)
 * Brincando com a Keke (Keke_KerenYT)
 * BrittanyPlays (Britt_Blox)
 * BRYAN MCQUEEN (IamBryanMcqueen)
@@ -273,7 +275,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Carol TV (caaroltv)
 * CatFer (SoyCatFer)
 * CATYPINK PLAY (catypink15)
-* Cauan Brigido (oCauanBrigido)
 * cazum8 (cazum8)
 * Cee\_berry (Cee\_berry)
 * Cerso (Cerso93)
@@ -625,7 +626,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * realrosesarered (realroses)
 * Rebootedpoppy (CryptedPoppy)
 * Red Ninja (STARC0DE_RedNinja)
-* Red Weeb (RedWEBE3)
 * REDKILL (RED_YTBE)
 * Rektway (Rektway)
 * RELLGames (RELLvex)
