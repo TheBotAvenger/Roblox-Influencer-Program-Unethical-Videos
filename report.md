@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 12, 2024<br>
+Generated November 13, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 916,693 videos
 * Total videos found that match keywords: 56,082 videos
   * Total unprocessed videos: 10,111 videos
-* Total videos found that are processed and marked: 40 videos 
+* Total videos found that are processed and marked: 43 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 5 videos
+  * Information Collection: 8 videos
   * Phishing: 1 video
 
 ### No Videos Found
@@ -309,7 +309,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
 * DeeterPlays (DeeterPlays)
-* DefildPlays (DefildPlays)
 * DeGoBooM (BumiReal)
 * Denis (DenisDaily)
 * DernD (StarCode_dernd)
@@ -441,7 +440,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * javie12 (javie12)
 * JD (Thexz)
 * Jeancof (Jeancof)
-* JeffBlox (JeeffBlox)
 * JehxTp (JehxTp)
 * Jello Queen (JelloQueenYT)
 * Jenstine (jenstine and jenstinex)
@@ -807,6 +805,19 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
+* DefildPlays (DefildPlays)
+  * Information Collection
+    * HOW TO INFINITE AFK SNOW SHOVELING GLITCH! - Roblox Snow Shoveling Simulator
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=mxlhDpjZim0
+    * \*OMG\* NEW Alien CHROMASTONE And Ben 10 GAME? (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=NPHXyhgDbDk
+* JeffBlox (JeeffBlox)
+  * Information Collection
+    * TENTANDO ARRANCAR O TREM DOS TRILHOS NO JAILBREAK ☃️ - ROBLOX
+      * Description references a video about the data collection website bloxawards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=qm2MZrbx_ys
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
