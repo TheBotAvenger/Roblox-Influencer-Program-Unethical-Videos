@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 16, 2024<br>
+Generated November 17, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 916,693 videos
-* Total videos found that match keywords: 56,082 videos
-  * Total unprocessed videos: 10,111 videos
+* Total videos found that match keywords: 56,115 videos
+  * Total unprocessed videos: 10,144 videos
 * Total videos found that are processed and marked: 43 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 8 videos
@@ -472,12 +472,12 @@ The following channels had nothing appear with manual searching. Videos may exis
 * KHORTEX (StarCodeKTX)
 * Kindly Keyin (KindlyKeyin)
 * King Luffy (KingLuffy_YTsub2me)
-* KingOfYouTube (uKingzaum)
+* KingOfYouTube (WELIX)
 * kitsubee (KlTSUBEE)
 * Kitt Gaming (StarCode_kitt)
 * Kodak (KodakOF)
 * KraoESP (KraoESP)
-* KreekCraft (RealKreek)
+* KreekCraft (KreekCraft)
 * Krystin Plays (KrystinPlays)
 * KTG Gaming (lifetimeobcman123)
 * KunicornCraft (kawaii_kunicorn)
@@ -664,9 +664,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShanePlays (SGC_Shane)
 * SharkBlox (SharkBL0X)
 * Shaylo (YTshaylo)
-* Shenty Gaming (IM_Celestial)
 * Shiloh (okgamerman)
 * ShisuiXI (Sh1suiXI)
+* ShowBlox (IM_Celestial)
 * Signicial (Signicial)
 * SiimplyBubliie (SiimplyBubliie_YT)
 * Silent (RandomYoutuber0202)
