@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 19, 2024<br>
+Generated November 20, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 918,698 videos
 * Total videos found that match keywords: 56,138 videos
   * Total unprocessed videos: 10,167 videos
-* Total videos found that are processed and marked: 43 videos 
-  * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 8 videos
+* Total videos found that are processed and marked: 42 videos 
+  * Non-Giftcard Robux Giveaways: 35 videos
+  * Information Collection: 6 videos
   * Phishing: 1 video
 
 ### No Videos Found
@@ -309,6 +309,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
 * DeeterPlays (DeeterPlays)
+* DefildPlays (DefildPlays)
 * DeGoBooM (BumiReal)
 * Denis (DenisDaily)
 * DernD (StarCode_dernd)
@@ -440,6 +441,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * javie12 (javie12)
 * JD (Thexz)
 * Jeancof (Jeancof)
+* JeffBlox (JeeffBlox)
 * JehxTp (JehxTp)
 * Jello Queen (JelloQueenYT)
 * Jenstine (jenstine and jenstinex)
@@ -542,7 +544,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MIKEYDOOD (IMMIKEYDOOD)
 * Mila FunPlayer (trxmila)
 * MiniBloxia (SubToMiniBloxia)
-* MM2 Chillz (ChillzSubZero)
 * Model8197 (Modeldog8197)
 * MoFlare (MoFlare)
 * Moody Unicorn Twin - Roblox (moodyunicorntwin)
@@ -768,7 +769,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Xeric (XericPlayz)
 * xiaoleung (xiaoleung)
 * xMarcelo (xMarcelo)
-* Xou (xouzin7)
 * Xpie (Xpie101gamer)
 * Yammy (yammyxox)
 * Yayixd Changuito 🐵 (YAYIXDCHANGU)
@@ -805,24 +805,16 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
-* DefildPlays (DefildPlays)
-  * Information Collection
-    * HOW TO INFINITE AFK SNOW SHOVELING GLITCH! - Roblox Snow Shoveling Simulator
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=mxlhDpjZim0
-    * \*OMG\* NEW Alien CHROMASTONE And Ben 10 GAME? (Ben 10 Arrival Of Aliens)
-      * Description references the data collection website oprewards.com.
-      * URL: https://www.youtube.com/watch?v=NPHXyhgDbDk
-* JeffBlox (JeeffBlox)
-  * Information Collection
-    * TENTANDO ARRANCAR O TREM DOS TRILHOS NO JAILBREAK ☃️ - ROBLOX
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=qm2MZrbx_ys
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
+* MM2 Chillz (ChillzSubZero)
+  * Non-Giftcard Robux Giveaways
+    * I Surprised A FAN With 10,000 FREE ROBUX… \#roblox \#shorts
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=XUjFXIFvqJY
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
@@ -847,6 +839,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
+* Xou (xouzin7)
+  * Information Collection
+    * TESTEI os PERSONAGENS 2 ESTRELAS e FIQUEI SURPRESO COM O QUE ACONTECEU no ALL STAR TOWER DEFENSE !!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=wiFE9lwpRYE
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
