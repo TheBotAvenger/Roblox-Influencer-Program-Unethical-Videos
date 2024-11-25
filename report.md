@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 24, 2024<br>
+Generated November 25, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 918,698 videos
-* Total videos found that match keywords: 56,138 videos
-  * Total unprocessed videos: 10,167 videos
+* Total videos found that match keywords: 56,148 videos
+  * Total unprocessed videos: 10,177 videos
 * Total videos found that are processed and marked: 42 videos 
   * Non-Giftcard Robux Giveaways: 35 videos
   * Information Collection: 6 videos
@@ -558,7 +558,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MxghtyJxstin (MxghtyJxstin)
 * Myster0y (Myster0y)
 * MyUsernamesThis (MyUsernamesThis)
-* Nanndo (nanndoyt)
+* Nanndo (Nanndo)
 * NanoProdigy (NanoProdigy)
 * Natasha Panda (NatashaPandaaYT)
 * Nathy Super Gamer (Nathy_SuperGamer)
