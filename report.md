@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 26, 2024<br>
+Generated November 27, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 920,704 videos
 * Total videos found that match keywords: 56,167 videos
   * Total unprocessed videos: 10,196 videos
-* Total videos found that are processed and marked: 42 videos 
-  * Non-Giftcard Robux Giveaways: 35 videos
-  * Information Collection: 6 videos
+* Total videos found that are processed and marked: 40 videos 
+  * Non-Giftcard Robux Giveaways: 34 videos
+  * Information Collection: 5 videos
   * Phishing: 1 video
 
 ### No Videos Found
@@ -544,6 +544,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MIKEYDOOD (IMMIKEYDOOD)
 * Mila FunPlayer (trxmila)
 * MiniBloxia (SubToMiniBloxia)
+* MM2 Chillz (ChillzSubZero)
 * Model8197 (Modeldog8197)
 * MoFlare (MoFlare)
 * Moody Unicorn Twin - Roblox (moodyunicorntwin)
@@ -769,6 +770,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Xeric (XericPlayz)
 * xiaoleung (xiaoleung)
 * xMarcelo (xMarcelo)
+* Xou (xouzin7)
 * Xpie (Xpie101gamer)
 * Yammy (yammyxox)
 * Yayixd Changuito 🐵 (YAYIXDCHANGU)
@@ -810,11 +812,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
-* MM2 Chillz (ChillzSubZero)
-  * Non-Giftcard Robux Giveaways
-    * I Surprised A FAN With 10,000 FREE ROBUX… \#roblox \#shorts
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=XUjFXIFvqJY
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
@@ -839,11 +836,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* Xou (xouzin7)
-  * Information Collection
-    * TESTEI os PERSONAGENS 2 ESTRELAS e FIQUEI SURPRESO COM O QUE ACONTECEU no ALL STAR TOWER DEFENSE !!
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=wiFE9lwpRYE
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
