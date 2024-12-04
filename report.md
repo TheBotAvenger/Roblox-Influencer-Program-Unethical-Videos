@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 3, 2024<br>
+Generated December 4, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 922,739 videos
 * Total videos found that match keywords: 56,208 videos
   * Total unprocessed videos: 10,237 videos
-* Total videos found that are processed and marked: 40 videos 
+* Total videos found that are processed and marked: 42 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 5 videos
+  * Information Collection: 7 videos
   * Phishing: 1 video
 
 ### No Videos Found
@@ -309,7 +309,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
 * DeeterPlays (DeeterPlays)
-* DefildPlays (DefildPlays)
 * DeGoBooM (BumiReal)
 * Denis (DenisDaily)
 * DernD (StarCode_dernd)
@@ -420,7 +419,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * InceptionTime (InceptionTime)
 * Inemafoo (Inemajohn)
 * InquisitorMaster (inquisitormaster)
-* IntelPlayz (IamRoBuilder)
 * Irmãs Gamers (iiPietra_GamesYT)
 * It's Akeila (itsakeila)
 * It's Siena (ItsNotSiena3)
@@ -807,6 +805,16 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
+* DefildPlays (DefildPlays)
+  * Information Collection
+    * I Got New OMEGA Pizza Pets In Tapping Simulator! 600QI Taps! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=0Exl1rNKBUU
+* IntelPlayz (IamRoBuilder)
+  * Information Collection
+    * SHINY PETS AND GEM GENIE  UPDATE!!  | Bubble Gum Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=8EoDCx1TVos
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
