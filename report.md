@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 15, 2024<br>
+Generated December 16, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 949,344 videos
-* Total videos found that match keywords: 56,229 videos
-  * Total unprocessed videos: 10,258 videos
+* Total videos found that match keywords: 56,262 videos
+  * Total unprocessed videos: 10,291 videos
 * Total videos found that are processed and marked: 457 videos 
   * Information Collection: 414 videos
   * Non-Giftcard Robux Giveaways: 34 videos
@@ -254,7 +254,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BitSquid (BitSquid)
 * Blam Spot (Alopek)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
-* BloxHub (PandaLemonTart)
 * BlueBug (TheBugBlue)
 * Bluxxy Gaming (BluxxyGaming)
 * BolzarX (xxBolzxx)
@@ -596,6 +595,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Oscar (VanillaOreoCat)
 * PaanDuh (PPaanDuh)
 * PaintingRainbows (RainbowsYT)
+* PandaLemonTart (PandaLemonTart)
 * PandazPlay (ComplexConniee and ComplexJason)
 * PandinhaGame (PandinhaGame)
 * Papile (jupapile)
