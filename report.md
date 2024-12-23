@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 22, 2024<br>
+Generated December 23, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 951,769 videos
-* Total videos found that match keywords: 56,390 videos
-  * Total unprocessed videos: 10,419 videos
+* Total videos: 952,258 videos
+* Total videos found that match keywords: 56,396 videos
+  * Total unprocessed videos: 10,425 videos
 * Total videos found that are processed and marked: 40 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 5 videos
@@ -702,6 +702,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sopo Squad Gaming (mikedrop937, CammyxBoba, and soposhadow)
 * Soy Blue (SoyBluee)
 * Soy Mandy Games (SoyMandy2020)
+* SoyBlecus (Blecusito)
 * SoyLuz (LuzCute24)
 * Spekツ (ONESIEHOARDER308)
 * Spok (spokchris)
@@ -715,6 +716,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Striker180x (strikerl80x)
 * Stron (StronbolDev)
 * STUD (s7ud)
+* Sugar (ourfire and ChrisOurFire)
 * SulyMazing (iamtheonepoundfish)
 * SunnyxMisty (xSunnyxMistyx)
 * Sunset Safari (HeySunsetSafari)
@@ -818,7 +820,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ZULY (ItsZulyYT)
 * Zurielini (Zurix_500)
 * •Lavenderblossom• (OMG4LAV)
-* 🔥 OurFire Plays (ourfire and ChrisOurFire)
 
 ### Videos Found
 * Axiore (Axiore)
