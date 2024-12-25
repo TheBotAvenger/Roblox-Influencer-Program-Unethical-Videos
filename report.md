@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 24, 2024<br>
+Generated December 25, 2024<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,8 @@ to the report if this happens.
 * Total videos: 954,821 videos
 * Total videos found that match keywords: 56,419 videos
   * Total unprocessed videos: 10,448 videos
-* Total videos found that are processed and marked: 40 videos 
-  * Non-Giftcard Robux Giveaways: 34 videos
+* Total videos found that are processed and marked: 41 videos 
+  * Non-Giftcard Robux Giveaways: 35 videos
   * Information Collection: 5 videos
   * Phishing: 1 video
 
@@ -316,7 +316,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
 * DeeterPlays (DeeterPlays)
-* DefildPlays (DefildPlays)
 * DeGoBooM (BumiReal)
 * Denis (DenisDaily)
 * DernD (StarCode_dernd)
@@ -836,6 +835,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
+* DefildPlays (DefildPlays)
+  * Non-Giftcard Robux Giveaways
+    * 2 SECRET LEGENDARY OWNER CODES IN SABER SIMULATOR! \*INSANE CROWNS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=pvj_pm7_CR8
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
