@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 31, 2024<br>
+Generated January 1, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 956,861 videos
 * Total videos found that match keywords: 56,514 videos
   * Total unprocessed videos: 10,543 videos
-* Total videos found that are processed and marked: 41 videos 
-  * Non-Giftcard Robux Giveaways: 35 videos
-  * Information Collection: 5 videos
+* Total videos found that are processed and marked: 153 videos 
+  * Information Collection: 118 videos
+  * Non-Giftcard Robux Giveaways: 34 videos
   * Phishing: 1 video
 
 ### No Videos Found
@@ -316,6 +316,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
 * DeeterPlays (DeeterPlays)
+* DefildPlays (DefildPlays)
 * DeGoBooM (BumiReal)
 * Denis (DenisDaily)
 * DernD (StarCode_dernd)
@@ -835,11 +836,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
-* DefildPlays (DefildPlays)
-  * Non-Giftcard Robux Giveaways
-    * 2 SECRET LEGENDARY OWNER CODES IN SABER SIMULATOR! \*INSANE CROWNS\* Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=pvj_pm7_CR8
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
@@ -852,12 +848,370 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=9qOAqB6E-z8
 * Smurfzin (Smurfzineo_YT)
   * Information Collection
+    * O Fim da Black Friday no ROBLOX..😔❌
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=T3_-itX5bZo
+    * 😡O DONO DO CORRIDOR OF HELL ME BANlU?? (Desafiei Ele)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=W2Et7HKrgTI
+    * COMO FAZER UM DOMINUS DE POBRE no ROBLOX KKKK😂
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=BOjUJ1jbqes
+    * SOFRI R4ClSM0 NO ROBLOX..😔
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=8nSTEw92zv0
+    * AVATAR DO AMONG US, SÓ QUE DE POBRE KKKKK 😂
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=SXGypXk_Sak
+    * Meu ROBLOX virou uma LOLI.. '-'
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=vj1DhfrndlY
+    * 5 Jogos que FALIRAM do Roblox..😢
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=qML0FYauuVM
+    * Esse foi o PIOR Evento do ROBLOX??..😔🚫
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=95xzYtGUxcQ
+    * AVATAR DE GRAÇA!! DO LIL NAS X do ROBLOX (COMO??)🤠💰
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=IRnm4G7uoAc
+    * O Triste FIM do OOF...😔
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=O8-tqmKoO88
+    * 😨A HISTÓRIA DA DEATH DOLLIE A ''BONECA ESTRANHA'' do ROBLOX..
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=ySmw-oU0BGY
+    * 🎅VAZOU!! ITENS GRÁTIS de NATAL do EVENTO LIL NAS X 🔥
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=nJMH_tb4nPM
+    * 🤠TUDO SOBRE o NOVO EVENTO do LIL NAS X no ROBLOX!!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=udQkylRRjUQ
+    * 5 Rostos que foram BANlD0S do ROBLOX...😨
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=eeJ1uAJrvuY
+    * DOMINUS, só que na Vida Real..🤔
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=iblP6zPfNxI
+    * o Roblox está querendo ficar ''REALISTA''...🤔
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=V7S4eSzfbwI
+    * Você realmente conhece o ROBLOX?? 🤔
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=3SrhamYvuA4
+    * 😂AS PIORES CÓPIAS DE SHINOBI LIFE 2 KKKKKKKK
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=fEOjP9fSRIg
+    * EU MOSTREI O ''ROSTO'' no Corridor of Hell...🤔
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=1MMPNemV6xI
+    * 🔥CORRA!! LANÇOU a CAUDA de PAVÃO \*Item Grátis\* (Wintery Peacock Tail)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=U_BvcWsukvo
+    * 5 Contas muito ESTRANHAS do Roblox..
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=YP8dojzOXQE
+    * ❄️NOVO ITEM de PROMOCODE EM BREVE no ROBLOX!! (Wintery Peacock Tail)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=taCVdwxkERg
+    * ITENS do ROBLOX, só que na Vida Real..🤔
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=xgVomppyw-M
+    * 😂AS PIORES CÓPIAS de Tower Of Hell KKKKKKK
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=cgLoSaCM0_4
+    * 😷5 Melhores Jogos do ROBLOX para Jogar na QUARENTENA🦠🎮
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=Kg9NgEmiWiU
+    * 🤔O Que fazer com APENAS 10 ROBUX no ROBLOX?? 💰💸
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=vtN0V9Sf0D8
+    * 👧APENAS GAROTAS PODEM ENTRAR NESSE MAPA...
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=lY7xR3wqx6U
+    * 🎃10 Itens de HALLOWEEN do ROBLOX que foram BANID0S...
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=cAxkIyZiCpY
+    * 🦊🔥CORRA!! COMO CONSEGUIR o PROMOCODE GRÁTIS \*Flaming fox shoulder companion\* 🔥
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=H54KAolf8dg
+    * 🔥COMO CONSEGUIR A NOVA ASA GRÁTIS ROBLOX!! (Topaz hummingbird wings)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=wNi7SYNWmyY
+    * 😡ESSE JOGO FOI BANID0 POR COPIAR O ADOPT ME!! ❌
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=mwwZC4hdCpA
+    * 🐋🔥CORRA!! COMO CONSEGUIR O NOVO PROMOCODE GRÁTIS \*Dapper Narwhal\* 🔥
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=FQ1BPyLjUS0
+    * ESTÃO TENTANDO REMOVER O ADOPT ME DO ROBLOX..
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=E6A6gIeGRGQ
+    * É sério isso ROBLOX??...
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=i-57wjKoJ3I
+    * 😡ELA ME AMEAÇ0U E TENTOU R0UBAR MEUS ITENS CAROS do ROBLOX!!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=ed_HbbXZBMQ
+    * 🔥COMO PEGAR O NOVO ITEM GRÁTIS do DIA ESPIRITUAL 2020 (Shoulder bag of Spirit Day 2020)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=j41iNr5rams
+    * 😲COMO FAZER O AVATAR do AMONG US no ROBLOX!!
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=XNUG5psYuKk
+    * 🔥CORRA!! NOVO PROMO CODE GRÁTIS do ROBLOX ACABA de SAIR!! (Socialsaurus Flex)
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=0mXYtNwdwlc
+    * 😲VAZOU!! NOVO PROMOCODE de 2 MILHÕES de SEGUIDORES (Socialsaurus Rex)
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=v3zQ2YpOhXc
+    * 👻NOVA ASA GRÁTIS!! de PROMO CODE CHEGANDO NO ROBLOX!!
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=9gdlwuFok7c
+    * 🎃VAZOU!! NOVOS POSSÍVEIS ITENS GRÁTIS de HALLOWEEN 2020
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=XEJuXpa5OWc
+    * A HISTÓRIA DOS BACON HAIRS...(2014-2020) 🕊️
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=hvXnwip6m_4
+    * AINDA VALE A PENA COMPRAR O CARRO VOADOR DEPOIS DE 2 MESES??🤔
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=kUqZfE5ySGw
+    * 5 Itens do ROBLOX que NINGUÉM CONHECE!! ❌
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=DM2087RDP-Y
+    * 🎃FAZENDO AVATARES RICOS DE HALLOWEEN no ROBLOX!!
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=pvijg0dIDgI
+    * 🎃ITENS GRÁTIS de HALLOWEEN COM CARTÕES DO ROBLOX??
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=wGok2GL_WCI
+    * PAREM!! de JOGAR ESSES MAPAS do ROBLOX❌ (VÃO SER BANID0S)
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Fbs7st-yExA
+    * 🔥NOVO ITEM de CÓDIGO GRÁTIS!! EM BREVE no Roblox (Dapper Narwhal)
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=OcbcAC1yHsc
+    * 😲VAI TER EVENTO DA AVA MAX DENOVO!! (VÃO DAR OS ITENS GRÁTIS??)
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=p0uR4g2Wwvc
+    * O NOVO AMONG US EM 3D DO ROBLOX!!! 🔪😲
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=m_m2KC63Rmo
+    * O ROBLOX ENGANOU TODO MUNDO?😞 (CADE OS ITENS AVA MAX??)
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=OE-zdU4qgTE
+    * 🔥COMO CONSEGUIR TODOS OS ITENS GRÁTIS DO AVA MAX!!😍
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Mh-VwqMPQGQ
+    * 🔥TESTANDO O PRÓXIMO ITEM GRÁTIS do ROBLOX!! 🐱(Kitten Wizard)
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=lYUnrLp480k
+    * QUEM QUE PODE TER ESSA NOVA CARTOLA??🤔🎩(Approved Top Hat)
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=ht73WR5mKb8
+    * O FUNERAL DOS BACON HAIRS (sentimos sua falta)😔💔
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=0YDcphJAafQ
+    * O GODENOT É MEU AMIGO NO ROBLOX??😲💖
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=12gxStPl7Ck
+    * ELE FOI BANID0 POR FAZER RITUAIS NO ROBLOX..😨🚫
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=S-5jZD53v8A
+    * OS BACON HAIRS FORAM EXCLUÍDOS DO ROBLOX..😞🚫
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=NDU0OQI0vaQ
+    * COMPRANDO UM HOTEL DE LUXO!! \*Ficamos Ricos?\* 😍💰
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=QP3EwWCXVRM
+    * OQUE FAZER COM APENAS 1 ROBUX No ROBLOX?? 💰🤔
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=BoNexsTUdcQ
+    * O SIREN HEAD INVADIU A PIGGY?? \*inacreditável\* 🚫
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=bdadn6qpneU
+    * COMO QUE ESSE CARA FICOU SEM ROSTO??..❓🚫
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=EPupOJy6Mvk
+    * AS PIORES CÓPIAS DO SIREN HEAD!!..(ROBLOX) 📢🚫
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=ZOYK1pAHcVk
+    * EU JÁ FUI AMIGO DA JULIA MINEGIRL...😲❌
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=CgYyrXYM6c4
+    * 5 YOUTUBERS que o Roblox BANIU PRA SEMPRE...🚫🎥
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=iVSV_FWK-Rk
+    * A HISTÓRIA DOS BIGHEADS \*FORAM PROIBIDOS?\* 🚫
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=taGXjCwZfw8
     * COMO CONSEGUIR SEGUIDORES INFINITOS NO ROBLOX!! ✔️
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=1VXEKlaIdgM
+    * SOFRI PREC0NCEIT0 POR SER DEFICIENTE NO ROBLOX..😪♿
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=GFWwrU3UkuY
+    * VAI TER CHAT DE VOZ NO FALL GUYS?? 🌈🎤
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=txGqapnKqIg
+    * 5 Itens que o Roblox BANIU PRA SEMPRE...🚫
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=ASc1eGRl2cw
+    * É PR0IBID0 GAROTAS NESSE MAPA!! ♂ 🚹
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=F_u4kej8UIM
+    * PAREM!! DE COMPRAR CAMISETAS NO ROBLOX 💸🚫
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=vXzrt2wayxE
+    * EU VIREI UMA E-GIRL NO ROBLOX...
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=vleWgt29lV0
+    * AS PIORES CÓPIAS DE VALORANT!! (ROBLOX)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=UrZKk-KVvU0
+    * AS PIORES CÓPIAS DE PIGGY DO ROBLOX 🐷🔪
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=mHJvELEb9ek
+    * SE A PIGGY ME MATAR O VÍDEO ACABA.. (ROBLOX)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=o8_qOzk6chU
+    * NÃO SENTE nessa cadeira no roblox...🚫🪑
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=1XEeRfWrRoU
+    * nunca coma esse hamburguer do roblox...🍔🚫
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=z3yzQ0E4cLI
+    * JAMAIS CLIQUE NO BIG HEAD.... 🚫⚠️
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=3qNw_xC6s2c
+    * JOGANDO ROBLOX NOS GRÁFICOS NO ULTRA!!!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=v8RB7TBog_w
+    * ANO NOVO NO ROBLOX!! FELIZ 2020 🎉 🎉🎇
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=4D5fgCI5xIk
+    * O ROBLOX DESTRUIU O NATAL...🎅🚫
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=ThuzIZKRltw
+    * CASA ASSOMBRADA DO PAPAI NOEL DO ROBLOX 🎅🚫
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=vnxwV8TQejA
+    * JAMAIS ENTRE NESSE ESGOTO DO ROBLOX...
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=ogeqdkoy3wI
     * TROLLANDO COM HACK NO AMONG US
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=FzNVCDLvyGg
+    * JOGANDO JAILBREAK PELA PRIMEIRA VEZ
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=LM5Gz52mECI
+    * AMONG US DENTRO DO ROBLOX? 🤫🚫
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=Yd8rmhHJCAo
+    * O IMPOSTOR ESTRATÉGICO 🤫 - Among us
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=T1pbDeEoRdw
+    * AGORA SÃO 3 IMPOSTORES - Among Us 😱🔪
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=I-Z7zONdgjk
+    * O IMPOSTOR SE DEU MAL!! - Among Us 😱
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=j2OIMd8Dw2k
+    * HERÓI OU CRIMINOSO?? - Mad City Roblox 🕵
+      * Description references the data collection website bloxawards.com.
+      * Description references the data collection website bloxpoints.com.
+      * URL: https://www.youtube.com/watch?v=9qysuoDwmRw
+    * Como NÃO Sobreviver Em uma Pizzaria🐻
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=CPh9TwKtaVc
+    * O JAILBREAK ESTÁ EM VERSÃO NATALINA!!?? 🎅
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=938cwxGp44Y
+    * TODOS OS ITENS DA BLACK FRIDAY NO ROBLOX 😲
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=wHGhi-BfJ4Y
+    * A INTERNET DE TODOS CAIU!! - MURDER MISTERY (Roblox)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=P4K3h8-V2tg
+    * NUNCA PESQUISE ESSES NUMEROS NO ROBLOX!!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=4k0RppuoevU
+    * O EPISÓDIO MAIS ENGRAÇADO (Flee The Facility Roblox)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=brbtWcuQIFM
+    * O ANTHRO R30 ESTÁ CHEGANDO NO JAILBREAK!!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=0wiiB1HJesk
+    * VAI TER NOVA ARMA NO JAILBREAK (CONFIRMADO)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=XpSnOeqSTQg
+    * TESTANDO ARMAS COM O R11!!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=CzAxp6ogzrA
+    * COMO FICAR COM A CABEÇA INVISÍVEL NO ROBLOX (BUG)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=MX0ziPohjYQ
+    * A VELHA ASSUSTADORA DO ROBLOX.....
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=L6MUlR6mdoM
+    * O PRISON LIFE VAI SER EXCLUIDO? 😲
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=HKIeopW9hrA
+    * VIDA DE YOUTUBER NO ROBLOX!!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=uRwttmdyAmY
+    * NOVOS CARROS REALISTAS DO ROBLOX?
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=CHMLjLeZNaI
+    * ASSISTA ISSO OU PERDERÁ SUA CONTA...
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=dTJFmedqtIU
+    * ROBLOX VS VIDA REAL
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=19y9Nd6XMr4
+    * O FUNERAL DOS GUESTS NO ROBLOX....😢
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=QEgfrb0hd7E
+    * O NOVO R11 DO ROBLOX!! (NOVA ANIMAÇÃO)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=LGwyUKURV9M
+    * NUNCA ENTREM NESSE MAPA DO ROBLOX...\#2
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=yq_kskLLTG8
+    * O NOVO ASA-DELTA DO JAILBREAK (ATUALIZAÇÃO)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=IVxMqs8TCBg
+    * O ROBLOX PRECISA DE AJUDA...
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=ZN6LKmY98NA
+    * JOGANDO A PRIMEIRA PRISÃO DO ROBLOX? 🤔
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=cQAek1vGIo8
+    * NUNCA ENTRE NO MAPA DO LIL PUMP... (É SERIO)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=qY5S6_TmEgQ
+    * O ITEM MAIS CARO DO ROBLOX 🎃
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=8SIf0551gx4
     * FAZENDO O AVATAR DO LIL PUMP NO ROBLOX!!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=FoNBJep7oSE
