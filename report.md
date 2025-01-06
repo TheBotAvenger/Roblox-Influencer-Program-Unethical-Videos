@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 5, 2025<br>
+Generated January 6, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,12 +183,13 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 956,861 videos
-* Total videos found that match keywords: 56,514 videos
-  * Total unprocessed videos: 10,543 videos
-* Total videos found that are processed and marked: 153 videos 
+* Total videos found that match keywords: 56,516 videos
+  * Total unprocessed videos: 10,544 videos
+* Total videos found that are processed and marked: 154 videos 
   * Information Collection: 118 videos
   * Non-Giftcard Robux Giveaways: 34 videos
   * Phishing: 1 video
+  * Other: 1 video
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -383,7 +384,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FunkySquadHD (UseCode_Funky)
 * FunnyBunny (Jxssivca)
 * FunPiggy (CelestialPiggy)
-* Furious Jumper (furi0us_jumper)
 * FusionZGamer (NotFusionZGamer)
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
@@ -836,6 +836,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
+* Furious Jumper (furi0us_jumper)
+  * Other
+    * Tout le monde EST INFECTÉ par le VIRUS de Roblox..
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=LrLLRtSp3tY
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
