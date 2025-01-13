@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 12, 2025<br>
+Generated January 13, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 958,816 videos
-* Total videos found that match keywords: 56,547 videos
-  * Total unprocessed videos: 10,575 videos
+* Total videos found that match keywords: 56,576 videos
+  * Total unprocessed videos: 10,604 videos
 * Total videos found that are processed and marked: 40 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 5 videos
@@ -195,7 +195,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * 39jeshi (39jeshi)
 * 3SB Games (cakemiix and 3SBMiichael)
 * Aati Plays (AatiPlays_Official)
-* Abbaok (Abbaok_YT)
+* Abbaok (Abbaok)
 * AbsintoJ (AbsintoJYT)
 * Acenix (AcenixElMejorYoutube)
 * AEREN (AaronDRonin)
@@ -357,6 +357,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FadedPlayz (YTFadedPlayz)
 * faeglow (faeglow)
 * FakerUp (NotFakerUp)
+* Família Betero TV (BianoBetero)
 * Fanaticalight (Fanaticalight)
 * FancySmash (RealFancySmash)
 * faulty (Faulltyy)
@@ -754,7 +755,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Tigre TV (StarCode_TigreTVyt)
 * Tikida (Sanaaa8ans)
 * TinenQa (TinenQa1)
-* TOP 10 Família Betero (BianoBetero)
 * Toxic Berry (NotToxicBerry)
 * ToxicJim (supersonshadow17)
 * TrafTheOpest (TrafTheOpest)
@@ -784,7 +784,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Volt (v0_1t)
 * WaffleTrades (WaffleTrades)
 * Waike (JJ_Waike)
-* WeirdBlox (WeirdBloxOfficial)
+* WeirdBlox (WeirdBlox)
 * WhiteArrow (YTWhiteArrow)
 * WhoseTrade (WhoseTrade)
 * WikiaColors (WikiaColor_s)
@@ -815,7 +815,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Zerophyx (Zerophyx)
 * Zilgon (Zilgon)
 * ZoeTheNoob (z1oee)
-* ZOMG (PandaBoss3_0)
+* ZOMG (ZOMG)
 * ZON (zOnwley)
 * ZULY (ItsZulyYT)
 * Zurielini (Zurix_500)
