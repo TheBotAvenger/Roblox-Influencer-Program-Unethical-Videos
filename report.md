@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 19, 2025<br>
+Generated January 20, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 960,943 videos
-* Total videos found that match keywords: 56,629 videos
-  * Total unprocessed videos: 10,657 videos
+* Total videos: 961,831 videos
+* Total videos found that match keywords: 56,642 videos
+  * Total unprocessed videos: 10,670 videos
 * Total videos found that are processed and marked: 41 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 6 videos
@@ -281,7 +281,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * CatFer (SoyCatFer)
 * CATYPINK PLAY (catypink15)
 * cazum8 (cazum8)
-* Ceddy (CeddyCrew)
+* Ceddy (Ceddy)
 * Cee\_berry (Cee\_berry)
 * Cerso (Cerso93)
 * Chekecheto (Chekelete1)
@@ -360,7 +360,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Família Betero TV (BianoBetero)
 * Fanaticalight (Fanaticalight)
 * FancySmash (RealFancySmash)
-* faulty (Faulltyy)
+* faulty (faulty)
 * febatista (febatistaYT)
 * fer999 (StarCode_fer)
 * Fera (Fera0ficial)
@@ -379,7 +379,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Foltyn (TheRealFoltyn)
 * Foncri (Foncri)
 * Fraser2TheMax (Fraser2TheMax)
-* frenchrxses (french_rxses)
+* frenchrxses (frenchrxses)
 * FUDZ (fudsim)
 * FunkySquadHD (UseCode_Funky)
 * FunnyBunny (Jxssivca)
@@ -422,7 +422,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * iamSanna (notiamsanna)
 * IBella (Cinderbelle)
 * iBeMaine (ibemaine)
-* iBugou (iBugouzinho)
+* iBugou (iBugou)
 * iDatchy (iDatchy)
 * iKotori (iKotori)
 * ImaGamerGirl (REALImaGamerGirl)
@@ -461,7 +461,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Joao joao (Joao_joaooficial)
 * Joe Albanese (Joey_Albanese)
 * JoeyDaPrayer (mrjojoman131)
-* JoJocraftHP (JoJocraftHP)
+* JoJocraftHP (JoJo)
 * JonesGotGame (JonesGotGame)
 * Juaumzinho (JUAUMZONES)
 * Judo Unicorn (judounicorn11)
@@ -565,8 +565,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mr\_Booshot (Mr\_Booshot)
 * MrLokazo86 (Lokazo86)
 * MrPankeyk (MrPankeyk)
-* Mud (DunkinMud)
-* Muneeb (ItsMuneeeb)
+* Mud (Mud)
+* Muneeb (Muneeb)
 * Mxddsie (mxddsie)
 * MxghtyJxstin (MxghtyJxstin)
 * Myster0y (Myster0y)
@@ -580,7 +580,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Nicole Kimmi (Nicole_Kimmi)
 * Nicole Maffi (NicoleMaffi and vanessamaffi)
 * NightFoxx (Night_foxx)
-* Ninjagaming (NinjagamingRBYT)
+* Ninjagaming (Ninjagaming)
 * NO\_DATA (NO\_DATA)
 * Noob Master (N00B_Mast3rXD)
 * NotAmberRoblox (NotAmberRoblox)
@@ -654,7 +654,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Robotz (R_obotz)
 * Robrox (IchBinBrox)
 * Robstix (Robstix)
-* Robuilds (Rxbuilds)
+* Robuilds (Robuilds)
 * Rod Velloso (viddrox)
 * RODNY (RODNY_ROBLOX)
 * Rovi23 (byRovi23 and MelLovesBunnys)
@@ -778,7 +778,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Veyar (VeyarYT)
 * ViewSIM (ViewYT)
 * VikingPrincessJazmin (VikingPrincessJazmin)
-* Viktor (Hihi2234xd2)
+* Viktor (Viktor)
+* Vindooly (vindooly)
 * Vitamine (VitamineRoblox)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
 * Volt (v0_1t)
