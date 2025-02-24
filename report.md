@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 23, 2025<br>
+Generated February 24, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 973,803 videos
-* Total videos found that match keywords: 56,852 videos
-  * Total unprocessed videos: 10,880 videos
+* Total videos found that match keywords: 56,856 videos
+  * Total unprocessed videos: 10,884 videos
 * Total videos found that are processed and marked: 40 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 5 videos
@@ -337,6 +337,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DraconiteDragon (ItsDraconiteDragon)
 * dragonplatinum (dragonplatinum)
 * DrakeTacos (Brianvid19)
+* DREAM DRAKE (PRIME FURIOUS) (Prime_Furious)
 * Drei Diego (AndreiEon124)
 * DUDU Betero (Pao_Paodequeij0, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
@@ -622,7 +623,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Premiumsalad (premiumsalad)
 * PrestonGamez (PrestonPlayz)
 * PREZLEY (PrezleyOfficial)
-* PRIME FURIOUS (Prime_Furious)
 * Princess Royale (IAmPrincessRoyale)
 * Princess Tori (ItsToriTimeYT)
 * ProbIems (Meelxicano)
