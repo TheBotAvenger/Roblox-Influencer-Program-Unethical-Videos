@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 2, 2025<br>
+Generated March 4, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 975,936 videos
-* Total videos found that match keywords: 56,874 videos
-  * Total unprocessed videos: 10,902 videos
+* Total videos: 979,327 videos
+* Total videos found that match keywords: 56,899 videos
+  * Total unprocessed videos: 10,927 videos
 * Total videos found that are processed and marked: 40 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 5 videos
@@ -204,7 +204,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Alaska Violet (alaskaviolett)
 * Alex Crafted (HeyCrafted)
 * Aline Games (AliineGamesYT)
-* Allan (FoamyBubbIes)
 * AlphaGG (RealYouTube_AlphaGG)
 * AlvinBlox (Alvin_Blox)
 * Aly1263 (aly1263)
@@ -278,6 +277,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Captainly (UseStar_CodeCAP)
 * Carbon Meister Plays (CarbonMeister)
 * Cari - Roblox (Carihyper)
+* Carmi Games (carmiYTgames)
 * Carol TV (caaroltv)
 * CatFer (SoyCatFer)
 * CATYPINK PLAY (catypink15)
@@ -506,6 +506,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lawlieet 20 (XLAWLIEETX)
 * LcLc (LcLcO1)
 * Leah Ashe (NotLeah)
+* LegendLeo (FoamyBubbIes)
 * Legolaz (LegolazYoutube)
 * Lenay (lenay_ROBLOX)
 * Leshero Morrazo (MoroSamy)
