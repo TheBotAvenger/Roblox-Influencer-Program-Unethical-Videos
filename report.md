@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 4, 2025<br>
+Generated March 5, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 979,327 videos
 * Total videos found that match keywords: 56,899 videos
   * Total unprocessed videos: 10,927 videos
-* Total videos found that are processed and marked: 40 videos 
-  * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 5 videos
+* Total videos found that are processed and marked: 728 videos 
+  * Information Collection: 481 videos
+  * Non-Giftcard Robux Giveaways: 246 videos
   * Phishing: 1 video
 
 ### No Videos Found
@@ -317,7 +317,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
 * DeeterPlays (DeeterPlays)
-* DefildPlays (DefildPlays)
 * DeGoBooM (BumiReal)
 * Denis (DenisDaily)
 * DernD (StarCode_dernd)
@@ -721,6 +720,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Stron (StronbolDev)
 * STUD (s7ud)
 * Sugar (ourfire and ChrisOurFire)
+* Suliin18YT (Suliin18YTT)
 * SulyMazing (iamtheonepoundfish)
 * SunnyxMisty (xSunnyxMistyx)
 * Sunset Safari (HeySunsetSafari)
@@ -739,7 +739,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Tesla Motors (PatooLocooYT)
 * Tex HS (TexWillerHS)
 * th3c0nnman (th3c0nnman)
-* ThatGuy (ThatGuyTG)
 * The Crystalline Gamerz (Crystalaco and Emeraldoft)
 * THE KAPOLAR (Kapolar1)
 * The Meg and Mo Show (MegaSquadMo)
@@ -840,6 +839,2138 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
+* DefildPlays (DefildPlays)
+  * Information Collection
+    * MEGA FREE 60 GAMEPASSES SALE CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=iM_XrtQO_QU
+    * NOOB INSTANTLY GETS ALL DEVIL FRUITS IN ANIME FIGHTING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=0YtP4iPRWSc
+    * All Free GENKAI SHISUI SHARINGAN Spin CODES! - Shinobi Life 2 Roblox \*FREE 1200 SPINS\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=WnZU04TXzbU
+    * The MOST OP NOOB In Anime Fighting Simulator HISTORY! Roblox \#1
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=PDxv2eZ9bAA
+    * ADMIN GAVE A SECRET CHAMPION LUCK CHIKARA CODE IN ANIME FIGHTING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=cvQqnk_KmDY
+    * ALL 21 YOUTUBER 100,000 CHIKARA CODES IN ANIME FIGHTING SIMULATOR
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=05bOC8qbEUk
+    * ALL SECRET COSMETIC REWARD CODES IN ROBLOX IMPOSTOR!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=LhOX9AtZ-jQ
+    * So I Opened 5,000,000 Eggs In Bubble Gum Simulator And Got This..
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Mv_J2efmKRw
+    * 4 NEW SHINY ADMIN STREAM PET CODES IN Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=FesjCx3ecLY
+    * HOW TO GET \*Free\* OWNER SWORD + SHADOW CLONE Skill In Anime Fighting Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=dF2Ixxhpxb4
+    * SECRET FREE ADMIN Bubble Pass 15 CODES In Bubble Gum Simulator!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=hAwbWzPpgRs
+    * I Hatched ALL SPLIT Pets And FREE 2000 Pet Gamepass In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=6WwH8ob2hVM
+    * ALL NEW 2020 CHRISTMAS UPDATE PETS IN BUBBLE GUM SIMULATOR! \*SUPER COOL\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=dqh9E6rIBGU
+    * NEW 650,000 CHIKARA TWITTER CODES IN ANIME FIGHTING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=viWRjLOVhzk
+    * NEW SHADOW EGG, LEVEL 60 POTION AND MORE IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=gEHveLSVCrw
+    * FREE MAX ANNIVERSARY FIGHTING PASS 2 CODES In Anime Fighting Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=wwAZI9p9dJI
+    * ALL NEW ARMAMENTS, MAXED FIGHTING PASS IN ANIME FIGHTING SIMULATOR UPDATE! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=xsDAP4dzJ7M
+    * All SECRET Roblox Promo Item Codes! \*Free Roblox Avatar Items\* - November 2020
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=UcQ5ciNvJzQ
+    * All 17 TWITTER ADMIN Chikara CODES In ANIME FIGHTING SIMULATOR Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=PSoX83PA7zg
+    * HIDDEN OWNER HALLOWEEN OP PET CODES IN BUBBLE GUM SIMULATOR!
+      * URL: https://www.youtube.com/watch?v=IWlYqN93igQ
+    * SECRET 666,666 CHIKARA HALLOWEEN BATTLE IN ANIME FIGHTING SIMULATOR
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=WR2QVj307y0
+    * ALL MEGA SECRET 900M EGG PETS IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=KWMpSVRcmJI
+    * INSTANT FREE 900M EGG SECRET PETS IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=rXuhthEZGdM
+    * I HATCHED 750,000 EGGS 900M SECRET PETS IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vj7YGub31DQ
+    * FREE SHINY 900M Cartoon Pet CODES In BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=UiuWtaGQ9sA
+    * I HATCHED ALL 900M EGG PETS IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=XA8iffWlaWw
+    * ALL NEW 900M EGG LEGENDARY PETS IN BUBBLE GUM SIMULATOR! Roblox \*LEAKS\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=oRn-S4EJejY
+    * FREE 100,000 Chikara Champions In ANIME FIGHTING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=wR7gXNXz9iQ
+    * How Op Can I Get In 1 Hour As A NOOB In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=w_swNiqnjuk
+    * Trick or Treating BUT I Give OP Pets In Bubble Gum Simulator Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=XAko1zBfsBs
+    * Suprising NOOBS With OP Halloween Pets In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=P3DCSZkIH-c
+    * 10X Secret Luck Event Challenge In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=gbM57o0ZjCQ
+    * FREE 1 MILLION CHIKARA BLOODLINE BATTLE In Anime Fighting Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=c3dkA8aNfC0
+    * FREE MEGA SHINY HALLOWEEN PETS AND SECRET OPENING IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=1Rmi1S1VGXA
+    * FREE HALLOWEEN PETS AND SECRET OPENING IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=GCYT14fBtbc
+    * All MAX SPEED Pet Codes In SPEED RUN SIMULATOR - Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=w06hybXnqDM
+    * ALL October Free Roblox Promo Codes 2020 \*Free Cosmetic items\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=R-UadbXWU5I
+    * All Secret FREE 666 Spins Codes In Roblox Shinobi Life 2
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=02-GMN3HU88
+    * FREE HALLOWED SPIRIT Pet Update Codes In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=3ljfmzXAVd4
+    * Free PREMIUM Halloween Bubble Pass Pets In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=iUzJFMAZ9lU
+    * Spending 1,000,000 CHIKARA For New CHAMPIONS IN Anime Fighting Simulator! \*SUPER OP\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Ihyz9ub4X7c
+    * Noob With HALLOWEEN SECRET To PRO In Bubble Gum Simulator! \*SUPER BROKEN\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ULDAa8WQ56o
+    * New Secret Steampunk Pet Update Codes In Tapping Simulator! \*SUPER OP\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VpIbFNwrgto
+    * 15 FREE Bloodlines Halloween Update Codes In Anime Fighting Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ZVdbb6PpvYw
+    * All MAXED Halloween Event Pets In Bubble Gum Simulator!! \*Giveaway\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=lew8Ylg-R2c
+    * FREE Halloween Moon Pet & Candy Codes In Saber Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=b3b2o25FVjY
+    * I Got ALL HALLOWEEN Pet Codes In Bubble Gum Simulator!! \*Max Reward Pet\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ADSvWmmVGaI
+    * FREE Tormentor Pet, 2X Treats In Bubble Gum Simulator Halloween Update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=slJ9ywLc_pE
+    * Secret UNDEAD CRYPT Boost Codes In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=7Ci7pI_A7vI
+    * GOLDEN Crown Codes, Vent BUFFS And MINIGAMES In Impostor Update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=YE8cuGOQYQc
+    * Insane 700 IQ Door Sabotage Plays In Roblox Impostor!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Entw4tLKhfg
+    * All 135 Free Gamepass Codes In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VUV6IvntsOA
+    * I Pulled Off A 600 IQ Impostor Play In Roblox Impostor!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=eeKtYa1aDLo
+    * Roblox Impostor Hide And Seek! \*New Gamemode\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=oVNG6j_aUyg
+    * Winning With 500 IQ Vent Plays in Roblox Impostor...! - Roblox Among Us
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=SMXPAJAzRu4
+    * Everytime I KILL, I Can BREATHE In Roblox Impostor! \*Mr Beast Challenge!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vC6yqVcoLiA
+    * SECRET \*INSTANT WIN\* Hat CODES In Roblox Impostor! (Roblox Among Us)
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ZA-IWmWXtVg
+    * INSANE 100% Winrate SECRETS In Roblox Impostor! (Roblox Among Us)
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=e3AQV-z9s2o
+    * AMONG US But Its In ROBLOX! Roblox Impostor
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=h7DgqM-CUSw
+    * 3 Secret FREE GOLDEN HAMMER Codes! Mining Champions Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=d89QtsECjgQ
+    * How To Get \*NEW\* COPPER And STEEL In Roblox Islands! \*FACTORY UPDATE\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=jRp-bhYr15k
+    * RANK 1 MAX DMG IN NEW BOSS DUNGEON UPDATE!! Roblox Tapping Simulator
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=i5ufKb_I_mk
+    * NEW "LEAKED" Industrial Update In Roblox Islands! \*New Machines, Drills And more!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=SD6o27h62vE
+    * ALL 8 Roblox Mining Champions Codes! \*FREE AUTO MINE/SELL!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=7bz8w9exbPM
+    * EVERY Fall Event Egg Pets In Bubble Gum Simulator! \*SUPER OP\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=kVVCG3gQfZU
+    * 35 OWNER 1 YEAR VOID CHARM CODES IN SABER SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=qAUxn_x46rA
+    * FREE Maxed FALL EVENT Rewards & Secret Hat In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=tjxn7gI2Ufk
+    * MAXED Fall Event PREMIUM Bubble Pass Codes In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vEEOE3x3Ej4
+    * I Went From NOOB To MASTER In Roblox Cosmic Heroes \*DEFEATED OWNER\* W/ @MrWoofless
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=C1ma5g7wtMU
+    * ALL Secret DESERT PET Gem Codes In Tapping Simulator Update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=8TJZxq7t4W0
+    * How To Get EVERY Secret SKIN In Arsenal! \*Beelzebub, Manic, Bigfoot and more!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=V_XzUKz8t9A
+    * ALL 10 WORKING ROBLOX PROMO ITEM CODES! \*Free Cosmetics!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=FS-nAPwyzOo
+    * RAINBOW FIREFLIES IN ROBLOX ISLANDS SKYBLOCK! \*Best Way To Get Them\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=-jmTjn9TBqA
+    * New Secret Obby World GLITCH \*Instant Finish\* In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=oWQ3nNiliu0
+    * Secret SHINY PREMIUM Pet Codes In Pet Battle Simulator! \*Instant Best Player!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=tsDPf7BhJxA
+    * 21 SECRET OP EGG UPDATE CODES IN TAPPING LEGENDS! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=oIDqlIofPt0
+    * All MEGA BOOST 60M Codes In Tapping Simulator \*FREE 10X BOOSTS!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=WvpcW62zX-M
+    * INFINITE \*AFK\* Crystallized Iron Farm \*9M $$$ A HOUR\* In Roblox Islands Skyblock
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VMkJObVTiM0
+    * MAXED Premium Fighting Pass Codes In Anime Fighting Simulator!! \*GET IT FREE\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=lsNZUNQ307c
+    * ALL BEE Update SECRETS You MUST Know In Roblox Islands Skyblock \*SUPER OP\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=XQ3FvYOrtCI
+    * All NEW CITRUS OVERLORD Pet Update Codes In BUBBLE GUM SIMULATOR! Roblox \*GET FREE!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=dM-5wb4VpXw
+    * FREE Diamond Play Button, YouTubers And More In MY RESTAURANT UPDATE! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Gqy259B4UUQ
+    * Roblox Pet Simulator The Best Forgotten Game.. Codes + More!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=pERWNSbgAdU
+    * Rainbow ROBUX Gear & Pets BREAK Tapping Simulator Forever... \*NOT GOOD\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=5yjQ0uWsHv0
+    * NOOB To MAX WAR GENERAL In War Simulator! Roblox \*30 MINUTES ONLY!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=8O2RW5jWlRA
+    * 25M VIP BOOST Update Codes In Tapping Legends! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=wGgw3L97Dq8
+    * How To Get 3 MILLION Coins In Roblox Skyblock Islands FAST! (NOOB FRIENDLY) \*IN 1 HOUR\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=YDVHEDBAV0Y
+    * Infinite POWER Chest Item Glitch In Tapping Simulator! Roblox \*FREE RAINBOW GEAR\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=OFsloxTqwo8
+    * FREE INSTANT BILLIONS, Pirate Customers & Limiteds In My Restaurant Roblox!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=CcdeEOtMI3M
+    * All 50M PHOENIX UPDATE Codes In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=nuY55l0kbsk
+    * Owner Added MY Update In Roblox Islands Skyblock!? \*BEST UPDATE!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=LXNGrl4NGgc
+    * Hatched The \*BEST\* 1/15,000,000 Pet In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=wqBen6TAX20
+    * Roblox Arsenal BUT If You WIN You Get $10,000 Robux
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Oyr9Ww8erRY
+    * ALL 27 SECRET 1 BILLION CODES In Bee Swarm Simulator!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=gZzBLRBR7S0
+    * SHINY Season 12 Bubble Pass Codes In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=kJObC0GhxdI
+    * 5 BILLION $$$ Limited GLOBAL Trading Update In MY RESTAURANT Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=p1tz6exps6o
+    * Epic $10,000 Robux Anime Fighting Simulator Challenge! (Roblox)
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=qJ6ytSPToCw
+    * SECRET Lost World SUPER GEMS CODES In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=RWn7ZaXEy4Q
+    * Unlimited SUPER REBIRTH TOKEN PETS World In Tapping Simulator Update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=FmAiR6uoyGU
+    * Roblox Skyblock But The Best Island Wins $10,000 Robux
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=v2fAt7MfHLQ
+    * BEST WAY To Get A FREE Secret VAMP BOW In Skyblock Islands - Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=9tdH7jCt0MQ
+    * ARTIFACT BOW, POTIONS, SCORPIONS In Skyblock Islands Update - Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=6McHbtJuJCw
+    * Roblox Skyblock But This Item Is Worth $10,000 Robux
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=e_gmhpz4U7k
+    * FREE 2X CLICK SUPERNOVA PETS UPDATE In Tapping Legends! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=n7fgw2DuITg
+    * All 23 SECRET FREE 10M PET CODES In Tapping Legends! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=h3VKtSIQKws
+    * SECRET GEAR 40M UPDATE CODES In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=m3atU6vFpF0
+    * BACK 2 BACK SECRET PETS IN Bubble Gum Simulator!? \*FREE OVERLORD PLUSHIE\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=2OiZDR4j01s
+    * NEW POPULAR FREE JUKEBOX ISLANDS UPDATE! Roblox Islands / Skyblock
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=NqvHYALcClM
+    * SECRET ELEMENT PETS AND FREE POWER BOOST IN TAPPING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=mBPXLDDN0Sw
+    * MAXED CARNIVAL CHALLENGE CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vt1_sO224r4
+    * SECRET PET OPENING + BASILISK PET GIVEAWAY In Roblox Bubble Gum Simulator!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=00WWVt98Z5o
+    * ALL 57 FREE Secret Basilisk Pet Codes In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ObVb8rPhH-g
+    * 11 SECRET WILD WEST Super Gem Codes In Tapping Simulator! \*BEST PET\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=86abQKWkjn8
+    * Free KING CRIMSON Stand & MAGMA FRUIT Chikara Codes In Anime Fighting Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=OY94K_PNSjo
+    * BUYING THE 1,000,000,000,000 CARNIVAL LOL PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=HBIzfqagfl4
+    * EASY WAY To get a FREE SECRET BLUEPRINT WEAPON In Roblox Skyblock / Islands Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=CiTMvJclqNY
+    * Free SHINY Carnival PET Codes In Bubble Gum Simulator! \*SHINY SHADOW HUNTER\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=GVzoUl0b2IQ
+    * 9 SECRET Permanent HELL WORLD PET Codes In Tapping Simulator! \*NEW SECRET PETS\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=CnkKjYgvGvU
+    * How To Get INSTANT FREE Spellbooks In Roblox Skyblock / Islands
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=KQpnyXyvl1g
+    * Getting All Secret Pets In The HEAVEN EGG In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=TgTbGiK9uiI
+    * SECRET 30 Million Secret Pet Codes In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=NrY39GQ5CQE
+    * Mega 2X Event Opening For 24 Hours And Got THIS SECRET😱😱!! Bubbble Gum Simulator
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=5_VMNhWIpEY
+    * FREE MAX RANK And SHADOWSTORM Pets In Ninja Legends! \*SUPER BROKEN\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=1XTIZRZ5HD0
+    * FREE New Slot Machine + 3X Money GOLD Food In My Restaurant Update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=PRW9bRVwaRc
+    * 2X POWER Codes And BEST WORLD Unlocked In Tapping Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=LzzqZ03dLok
+    * Free BEST SECRET Mystic Gem Pet In Clicking Legends! \*SUPER BROKEN\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=zH4xq_LIHJE
+    * New FREE SKYBLADE LEGENDS PACK CODES In Ninja Legends! \*SECRET PET CRYSTAL\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VyGbKPmQ5EY
+    * ALL 10 Secret GOD PET Codes in Clicking Legends! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=I7oJVdVc4vQ
+    * My Restaurant Makes 750 MILLION $$$ A Day!! \*My Restaurant Best Setup!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=EC6HW6IMi8Q
+    * Super Rebirth SECRET PET Update CODES In Tapping Simulator! \*SUPER OP\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ZbcjXEEfoeE
+    * MEGA BOOST And FREE Season 11 Bubble Pass Codes In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=jVxBKIt4PD4
+    * NEW STARFRUIT SEEDS, BAMBOO, SWORDS In Roblox Skyblock! Skyblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ApfD7qykuF4
+    * FREE RESTAURANT THEMES, BOOST WISHING WELLS In My Restaurant Update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=JpbvSBDSeG4
+    * How To Super Rebirth Every 10 Seconds In Tapping Simulator! \*BUYING MAX EVERYTHING\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=yDyqpLJCqJw
+    * SECRET PETS + NEW Spawn UPDATE In Tapping Simulator!! \*SUPER BROKEN 😱\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=NpmIYEeLPL8
+    * All Hidden SECRET TIPS You SHOULD Know in Roblox Skyblock / Skyblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=wljQzTYd-g4
+    * SECRET 24 Hour Life Hack Boost Codes In Clicking Legends! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VWr5ypqBhn8
+    * 2X SUPER REBIRTH Tokens Codes + MASTER PETS In Tapping Simulator!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=AmagYuPOx2E
+    * 96X SECRET PET Hatch Chance CODES In Bubble Gum Simulator! \*SUPER BROKEN\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=pAQ09lIp3u8
+    * FREE Firework Gamepass + MORE Blocks Update In Roblox Skyblock / Skyblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=mD4LvEFkAUE
+    * UNLIMITED RICH Celebrities And Luxury Furniture In My Restaurant! \*ULTRA FAST MONEY!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=a0b6z9UIwgA
+    * SECRET 8Bit OMEGA Pet Gem Codes In TAPPING SIMULATOR! \*130 QA Gems\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=aOq9UPXYiQ4
+    * INFINITE VIP CUSTOMERS With FREE Royal Bundle In My Restaurant! \*NEW ??? SPAWN SHRINE\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=tOhyP9bnbj0
+    * All 5 SUPER REBIRTH Codes in Tapping Simulator! \*Super Fast Rebirths!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=-YaKrRVL_1Y
+    * I Maxed EVERYTHING In My Restaurant + Secret ??? BADGE In My Restaurant! \*MILLIONS OF $$$\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=NQUx1s2jG_o
+    * Hatched 800m Egg For 24 Hours And I Got These Pets! - Bubble Gum Simulator
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Vz_73XjwI00
+    * Easy Way For AFK CRYSTALIZED GOLD in Roblox Skyblock! Skyblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Yfgxfe_mWAE
+    * I Got RANK 1 In My Restaurant Simulator + FREE MONEY TREES! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vOqc9H1I9uk
+    * 100 SECRET PET EGG CHALLENGE IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=hWOIvgCR1tU
+    * I Got New OMEGA Pizza Pets In Tapping Simulator! 600QI Taps! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=0Exl1rNKBUU
+    * Secret 10,000 ROBUX FRUIT In Anime Fighting Simulator! - Challenge
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=c7Tfyv27Zn8
+    * I Had 1 hour To Trade A Kitty In Bubble Gum Simulator.. AND GOT THESE PETS!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=LgU12BtFlPw
+    * HOW TO GET EVERY SECRET PET IN BUBBLE GUM SIMULATOR 2020! \*SUPER OP\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=KgBZ7tkOf60
+    * NEW OMEGA SPACE PET TAPPING SIMULATOR CODES! \*3.31 SP TAPS!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=da2BGKwLqGo
+    * All 25 ULTIMATE SECRET HAT Codes In Bomb Simulator!! \*FREE 45X COIN/GEMS\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=z70EIGC-XPI
+    * ALL 9 FREE SWORD STYLE CHIKARA CODES IN ANIME FIGHTING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VyT2flz8xcw
+    * NEW DOMINUS QUEST EVENT CODES IN BOMB SIMULATOR! Roblox \*LIVE\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=PtLHOpcNs9o
+    * NEW Washing Station CHANGED AUTOFARMS FOREVER.. In Roblox Skyblock \*NEW BEST FARM\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=KnrBUI8UEb8
+    * ALL 20 MYTHICAL GEM PET CODES IN FISHING SIMULATOR! \*MAGIC MYTHICAL PETS\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=hyC1oU5QVYg
+    * Hatched SHINY LEVEL 50 Galaxium! + FREE Season 10 Pass - Bubble Gum Simulator
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=cgP96KvAUrs
+    * SECRET SHADOW REALM POTION CODES IN BUBBLE GUM SIMULATOR UPDATE! \*How To Enter\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=65sfVBUJ5Mw
+    * BUYING 192T CYBER SWORD AND 3T GEM CODES IN BOMB SIMULATOR! ROBLOX
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=5XuQPy3xpCo
+    * 25 FREE MYTHIC Jumbo June Pack CODES IN BEE SWARM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VA0sHpm4eCQ
+    * NOOB To MASTER In Slamming Simulator \*SECRET OP TRAINING\* + CODES Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vYdSNDWhoIc
+    * New $10,000,000 Lottery Vending Machine In Roblox Skyblock! \*INSANE MONEY\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=d4Rk-f8rFGg
+    * I Completed The SHINY Mythic Forest Index In Bubble Gum Simulator And THIS HAPPENED!?
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=BM9t4a3tYKk
+    * NOOB To MASTER IN BOMB SIMULATOR With OWNER COIN CODES! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=S8O3PsEAtXo
+    * This Update Could END Bubble Gum Simulator 😭 \*GIANT METEOR\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=xgpinLX9xr8
+    * 😔Noob VS 😎Pro VS 😈HACKERS In ROBLOX SKYBLOCK! \*Funny\*✨
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=sFXytKCo3l0
+    * ALL 14 SECRET CHIKARA CHAMPION CODES IN ANIME FIGHTING SIMULATOR! \*INSTANT BEST KAGUNE!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=FvTTfKn8NeU
+    * SECRET ADMIN ITEM SPAWN TOTEM In Roblox Skyblock! \*HOW TO GET ONE\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=wGjqcmA6F0Q
+    * I Made INFINITE VENDING MACHINES But EVERYTHING Is FREE IN Roblox Skyblock!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=umx_A5biOww
+    * Bought The HIDDEN SECRET PET For 750 BILLION Flowers!! 2X Flower Event In Bubble Gum Simulator!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=-3bNIwyN1-0
+    * SECRET 500,000 CARROT CHALLENGE IN ROBLOX SKYBLOCK \*FREE 12 MILLION $$$\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=wrXBODitim8
+    * Went From Noob To LEGEND In Clicking Simulator 2.0! Earned 10 BILLION Rebirths!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vSEiWryBdlg
+    * I Hired YOUTUBERS Builders For $5,000,000 And THIS Happened In Sky Block Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=W5oD0tj4hZs
+    * NEW POTATOES, BUILD BLOCKS AND MORE IN ROBLOX SKYBLOCK UPDATE! \*NEW MEGAFARMS\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vm-hMkCZB7s
+    * TRADING, NEW TOTEMS AND SLIMES IN SKYBLOCK UPDATE SOON?! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Blsv1XGpqSA
+    * How To Get FREE MAXED MYTHIC SPRING PETS In Bubble Gum Simulator!! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=YIXOfzOmgFc
+    * How To Get EVERY Vine Egg Pet For FREE!! In Bubble Gum Simulator Roblox \*SUPER OP\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=GJYHHsMH7mo
+    * All \*FREE\* SPRING DRAGON REWARD PET Codes In Bubble gum simulator update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=UneGbjznEM4
+    * I Let Fans Do ANYTHING To My Roblox Skyblock Island... \*BAD IDEA!?\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=9uzCeNtysGM
+    * Making A \*GLITCHED\* Glass Onion Farm In Roblox Skyblock \*MASSIVE BUG\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Am1IDZ7i3tg
+    * ALL 37 \*FINAL\* Update Codes in Ninja Legends \*RIP\* Roblox Ninja Legends
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=2hhNqMcQGGE
+    * HOW TO GET \*FREE\* GILDED GOD TOOLS IN ROBLOX SKYBLOCK!!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=XU_46hHluL8
+    * Opening 100,000 Blossom Eggs And Got SECRET PET In Bubble Gum Simulator!!! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=JKEtDrhhssk
+    * NEW GOLD \*GOD\* TOOLS AND BLOCKS IN ROBLOX SKYBLOCK UPDATE \*SUPER EXPENSIVE!!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=NOZsZi7szNM
+    * How To Get A FREE SHINY THE KEEPER In Bubble Gum Simulator Spring Update! \*Giveaway\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=1xs1AVkCjGw
+    * FREE SEASON 9 SHINY BUBBLE PASS PET CODES IN BUBBLE GUM SIMULATOR! \*FREE SPRING PETS\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=xaw1PeEFD2s
+    * SECRET WAY To Get 1000 FREE Berry Seeds In Roblox Skyblock! \*INSANE METHOD!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=nqX0ErySgn4
+    * SECRET 1 MILLION $$$ BUILD QUEST IN SKYBLOCK!? Roblox Skyblock
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Yc2_DE7Bt98
+    * I Made MAX HIGHT \*BROKEN\* AUTOFARM In Roblox Skyblock (Free MILLIONS Daily!)
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=_gwkqWuz-W4
+    * I Made A MULTI MILLION $$ SKYBLOCK ISLAND \*INSTANT RICH\* Roblox SkyBlock
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=IDmKXijJL2Q
+    * 7 FREE Shiny MYTHICAL Pet Codes In Bubble Gum Simulator Update! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=3cazQpaRjrs
+    * The RICHEST ADOPT ME ACCOUNT! \*BUYING 1,000,000 BUCKS!\* | Roblox Adopt Me Gameplay
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=_Xs__xxpYks
+    * The RICHEST ADOPT ME ACCOUNT! \*Buying 1,000,000 BUCKS!\* Roblox Adopt Me Gameplay
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=v92Ce1CAeoM
+    * Trading This SECRET LEGENDARY ITEM Got me NEW LEGENDARY PETS! Adopt Me Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=fnS2tNkCyCw
+    * We Found A HIDDEN EXTRA Scoob! QUEST in Adopt Me! \*FREE MEGA NEON?!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=EY8WZcMirvo
+    * Pet REWORK & RIP Twitter Codes In Adopt Me!? Roblox Adopt Me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Egsd0Aj7d8U
+    * Completing The New SCOOB! Quest In Adopt Me Update! Roblox Adopt Me!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=D0WoOb03a8M
+    * ALL Adopt me "HACKS" and Secrets In Adopt Me! Roblox Adopt Me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=zAvtjbmQAyA
+    * SECRET Challenge Gives Free MEGA NEON PANDA In Adopt Me! Roblox Adopt Me!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=kDyYCJoT4Ww
+    * Adopt me CANCELLED Weekly Updates Forever..!? Roblox Adopt Me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=sbwV4m9dtDk
+    * LIMITED EGGS Are BACK In ADOPT ME!? Safari Egg, Jungle Egg and MORE! Roblox Adopt Me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=3mXUfabSirU
+    * New BUCKS Trading & Doctor Role in Adopt me!? Roblox Adopt Me Ideas
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=qIrTIbJV5vg
+    * We Found a SECRET MONKEY PET Treasure Map IN ADOPT ME! Roblox Adopt Me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=nlFEWE2X9mk
+    * I Sold HOTDOGS In Adopt Me For 24 HOURS And THIS HAPPENED! Roblox Adopt Me How To Make MONEY
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=DKlRxvzYcEc
+    * TRADING PIRATE ACCESSORIES PACKS ONLY In ADOPT ME! Roblox Adopt Me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Op9blZplSfE
+    * HOW TO GET A FREE PIRATE HOUSE AND PIRATE ACCESSORIES IN ADOPT ME UPDATE! Roblox Adopt me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=12aa-BU6SiA
+    * WE BOUGHT THE NEW PIRATE HOUSE IN ADOPT ME! Roblox Adopt Me
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=67rwsroy4II
+    * I GOT A MEGA NEON TURTLE AND NEW MONKEY IN ADOPT ME! \*BEST LEGENDARY PET\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=cfkN0lPIkAo
+    * 6 SECRET Ways To Make MILLIONS Of MONEY In ADOPT ME!! \*How To Make MONEY in Adopt Me Roblox\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=BcANtmNa5hc
+    * New CIRCUS PETS And MORE In Adopt Me UPDATE?! \*LEGENDARY Monkey pet\* Roblox Adopt Me!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=DH1JVS87FUI
+    * Trading UNLIMITED Robux Items For MEGA NEONS In Adopt Me Update!  \*25,000 Robux\* (Roblox)
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=dXTYWtbftQU
+    * SPENDING 25,000 ROBUX ON MEGA NEON PETS + ACCESSORIES IN ADOPT ME?! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=3vPSmbwhacE
+    * \*NEW\* FREE MEGA NEON PETS IN ADOPT ME UPDATE!! \*MAX UPGRADE\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ni30s-d-CjE
+    * This PRESENT Gives A FREE RAINBOW NEON Pet In Adopt! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=u8z7KbAqRjg
+    * How To Get A FREE Legendary GOLDEN RAT In Adopt Me!! \*LIMITED PET\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=1SUjtehwUrU
+    * Hidden LIMITED \*NEON\* PET ACCESSORIES In Adopt Me UPDATE! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=UbVCnNIaJJQ
+    * ADOPT ME SECRET \*RAINBOW\* NEON PETS UPDATE!? \*LEAKED\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=CVoWm1JpKDY
+    * Adopt Me \*HIDDEN\* Free PET ACCESSORY Challenge!! \*CRAZY\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=yB11IzxUdjQ
+    * ADOPT ME FREE New PET ACCESSORIES Event! NEW Adopt Me Update (Roblox)
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ZRDgSOzpxzg
+    * HOW TO GET \*FREE\* PET ACCESSORIES IN ADOPT ME UPDATE!! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ybQu5D51v2E
+    * NEW Secret \*FREE\* GOLDEN BUNNY PET Codes In SPEED CHAMPIONS! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=_fiZk5lszvI
+    * Bubble Gum Simulator BUT Every Trade Is A Random Legendary!? \*FREE Secret Pet?!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vn4LMIT4sf4
+    * ALL 49 EGGHUNT 2020 LOCATIONS!! FabergEgg, Eggveloper EGG, X Y Z EGG! \*How To Get\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=XHHUovaz0YY
+    * FREE STAR CREATOR EGG + GETTING ALL 2020 EGGHUNT EGGS IN ROBLOX EGGHUNT 2020!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=pjJkuYwTVsI
+    * ALL 6 SECRET OWNER BANHAMMER CODES IN SIZZLING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=qVUGahY260I
+    * I Used 40X LUCK To Get ALL SHINY MUSHROOM PETS In ROBLOX BUBBLE GUM SIMULATOR! \*BROKEN\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ydx2psrYJyo
+    * BLIND TRADING Fans DARK ELEMENT PACK Pets In Roblox Ninja Legends!! \*MOST OP\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Ej_FSiGIfu0
+    * UNLIMITED MAXED DARK ELEMENT PETS IN NINJA LEGENDS \*Giveaway!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=0VaLEwqgc6Y
+    * 🍄 MYTHICAL MUSHROOM Pet CODES In Bubble Gum Simulator!! \*AMAZING PETS\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=rpDXE-WOGGY
+    * FREE DARK ELEMENT PET PACK CODES IN NINJA LEGENDS! \*SECRET CRYSTAL\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Rs7ZqPXA0ro
+    * How To Get UNLIMITED "SECRET PETS" In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=ogI88kRe0y0
+    * 14 GLITCHED Free OWNER Pet Codes In Blade Throwing Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=IzwNhktxQJM
+    * Opening Mythical Egg For All SECRET PETS For 24 Hours In Bubble Gum Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=IolPVTW2qds
+    * Why Roblox Ninja Legends Is NOT updating...
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=7pXid9SD7Q4
+    * I GOT EVERY NEW MYTHIC PET IN BUBBLE GUM SIMULATOR!! \*MAX REWARDS PETS\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=qkYIUDoSQ9k
+    * MYTHICAL DEMONCORE PET Update Codes In BUBBLE GUM SIMULATOR!! \*GIANT UPDATE!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=1P0dUx8zjm0
+    * SECRET MYTHICAL PET Codes In Roblox SODA SIMULATOR! \*INSTANT MAX RANK!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=tTJxxrkU18w
+    * 🙈 BLIND TRADING My SECRET FROST SENTINEL Pet In ROBLOX BUBBLE GUM SIMULATOR!
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=YZcqa6l1Xow
+    * ⚔️ Defeating NEW LAVA GOLEM For \*BROKEN\* ANCIENT PETS In BLADE THROWING SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=Q0ccUh86noQ
+    * 🙊 This NOOB Has $1,000,000,000,000 RAINBOWS In Roblox Bubble Gum Simulator! \*RICHEST NOOB!\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=eB6JCYgFtKA
+    * ❄️ I Got NEW Secret SHINY FROST SENTINEL Pet In Roblox Bubble Gum Simulator! \*Best Pet\*
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=nSRnEdj7bgw
+    * BOUGHT The $250.000.000.000 TOXIC DEMON And Then THIS HAPPENED In BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=uHJxnnSMmIs
+    * I HATCHED THE SECRET CLOVER EGG PET IN BUBBLE GUM SIMULATOR! \*1 IN 8 MILLION\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=BilC3fYHyZ8
+    * NEW SEASON 7 FREE PREMIUM BUBBLE PASS CODES IN BUBBLE GUM SIMULATOR! \*Giveaway!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=dmRKtbcStI8
+    * 👉 INFINITE FREE ZXLEGENDS PETS AND PACK IN NINJA LEGENDS! \*GIVEAWAY\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=DX8gN0UH6yU
+    * ALL 34 ZX LEGEND PET PACK CODES IN NINJA LEGENDS! \*SUPER OP\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=rXh-9PSirWo
+    * 14 SECRET FREE ANGELIC PET CODES IN BLADE THROWING SIMULATOR! \*SUPER OP\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=erWIgMRxqvk
+    * 💰 INFINITE FREE ZX LEGENDS PETS IN NINJA LEGENDS! \*FREE MOST OP PETS\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=BgxRPv62lRk
+    * FREE 0.001% ZX LEGEND PET PACK CODES IN NINJA LEGENDS! \*SUPER OP\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=yqiVEeFPEi0
+    * 😱 NEW FREE GALACTIC SHOCK PET CODES IN BUBBLE GUM SIMULATOR UPDATE! \*SUPER OP PETS\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=905KTXjZVy8
+    * ✨FREE HYBRID MOON PET UPDATE CODES IN SPEED CHAMPIONS! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=UCzkG6F1Vdc
+    * 🍀 TRADING A LUCKY VIEWER A MAX ENCHANT LUCKY TOPHAT IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=2ARjjibuE9o
+    * 😲 I TRADED FREE CHAOS TITAN PACKS PETS IN NINJA LEGENDS! \*Giveaway\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=maLi-UoRg0A
+    * ALL 10 MAXIMUM GEM PET CODES IN BLADE THROWING SIMULATOR! \*2T GEMS FREE!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=EUQWqO7F_vQ
+    * 💰 23 SECRET SHIPWRECK GEMS UPDATE CODES IN FISHING SIMULATOR! \*FREE GEMS\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=vRA00Lip8o8
+    * 🍀 OPENING SECRET PORTAL UPDATE PETS FOR 24 HOURS IN BUBBLE GUM SIMULATOR! \*AND I GOT THIS\*Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=H9eAgOCDVNQ
+    * 😱 NEW SECRET CHAOS LEGENDS PET CODES IN NINJA LEGENDS UPDATE! \*BEST SWORDS AND RANK!\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=PMxt7D4fFno
+    * 😲 ALL LEGENDARY PORTAL PET CODES IN BUBBLE GUM SIMULATOR UPDATE! \*OP INSTANTLY\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=AaRgEMtBodc
+    * 💰 6 SECRET HYBRID LAVA PET CODES IN SPEED CHAMPIONS! \*BEST PETS\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=x3k_ErTp91Q
+    * 😲 TRADING FREE SECRET INDEX PETS IN BUBBLE GUM SIMULATOR! \*Giveaway\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=lvwoQ0bZXFg
+    * UNLIMITED FREE CHAOS TITAN PETS IN NINJA LEGENDS!! \*Roblox\* (Giveaway)
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=j_N7QNxMhLo
+    * 2 FREE MYTHICAL SCYTHES AND SECRETS IN ROBLOX MINING SIMULATOR!
+      * Description references the data collection website rbxfree.com.
+      * URL: https://www.youtube.com/watch?v=5aQW3cJdNT8
+    * NEW ROBLOX BEACH SIMULATOR RAINBOW CRAB! ! + SHADOW SCYTHE GIVEAWAY WINNER!
+      * Description references the data collection website rbxfree.com.
+      * URL: https://www.youtube.com/watch?v=8c8B8qNVHHg
+    * ROBLOX TOYS SERIES 3 BLIND BOXES OPENING AND FREE TOYS CODES!
+      * Description references the data collection website rbxfree.com.
+      * URL: https://www.youtube.com/watch?v=7CxkZXK3qDE
+    * WHY POKEMON BRICK BRONZE IS DELETED ON ROBLOX BY NINTENDO! \*Sad\*
+      * Description references the data collection website rbxfree.com.
+      * URL: https://www.youtube.com/watch?v=zYk8r-A9NXc
+    * (Code) NEW SWAMP REALM, LEGENDARY QUESTS AND ULTIMATE RAYGUN TOOL In Roblox Mining Simulator!
+      * Description references the data collection website rbxfree.com.
+      * URL: https://www.youtube.com/watch?v=EWwvD903Y4g
+    * \*Omg\* NEW RORIA LEAGUE AND LEGENDARY POKEMON UPDATE SOON IN Pokemon Brick Bronze!?
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=k3L-0FA8rjk
+    * SOLVING THE FINAL DOMINUS VENARI CLUE!! WHO WILL GET IT!? - Roblox Ready Player One
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=Y9YYYbSRRR0
+    * GETTING THE GOLDEN DOMINUS CUBES! FINAL CLUE FOR THE DOMINUS! - Roblox Ready Player One
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=83a8rScHf88
+    * HOW TO GET THE 6TH FESTIVAL DOMINUS CUBE! \#6/8 - Roblox Ready Player One
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=udV9_v_DQf8
+    * WE FOUND THE GOLDEN DOMINUS ENTRANCE?! HELP US CRACK THE CODE!- Roblox Ready Player One
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=vdmPFTkBDnQ
+    * HOW TO GET THE GOLDEN DOMINUS GATE CUBES FOR THE FINAL CLUE!? - ROBLOX READY PLAYER ONE EVENT!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=xwshl1QO3IU
+    * GETTING EVERY EGG IN ROBLOX EGG HUNT 2018 - 100.000 SUBSCRIBER SPECIAL!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=h66wWSwc7_c
+    * \*Omg\* THIS BEAR OUTFIT GIVES SO MUCH HONEY! INSANE BEAR BEE In Roblox Bee Swarm Simulator!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=GAW7EA3Sugo
+    * WE SOLVED THE CLUE LETS GO! GETTING THE GOLDEN DOMINUS! | Roblox Ready Player One Event
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=QRmYh_KkYB8
+    * HOW TO GET THE TEST BADGE AND THE SECRET PORTAL TO THE GOLDEN DOMINUS CLUE! Roblox Ready Player One
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=boT80L28OSw
+    * WE FOUND THE DOMINUS GAME! GETTING THE GOLDEN DOMINUS! | Roblox Copper, Jade, and Crystal Key
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=gggdvItTZZY
+    * WE FOUND A NEW CLUE!!! GETTING THE GOLDEN DOMINUS! | Roblox Copper, Jade, and Crystal Key
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=Aw4_-n74cAE
+    * THE GOLDEN DOMINUS IS 100% IN THIS GAME! (New Clues!) - Roblox Ready Player One Event!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=QNUB1h5qjN0
+    * (Codes) ALL UP TO DATE TWITTER MONEY CODES In Roblox Mining Simulator! \*SO MANY FREE ITEMS!?\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=E9vn1PCJXfs
+    * I GOT THIS FOR ONLY 100 ROBUX?! - Roblox Legendary Hat Opening In Roblox Mining Simulator!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=kPegxinrC2g
+    * NEW LEGENDARY HATS UPDATE, PRIVATE MINING AREA AND NEW ORES In Roblox Mining Simulator!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=BkADs-KTLsA
+    * \[NEW CLUE!!\] SEARCHING THE GOLDEN DOMINUS! (HOW TO GET EVERY KEY) - Roblox Ready Player One
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=qFR7OzR4T4Y
+    * \[NEW CLUE!!\] SEARCHING THE GOLDEN DOMINUS! (HOW TO GET EVERY KEY) - Roblox Ready Player One
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=0-jnWBP2SJs
+    * HOW TO GET THE CRYSTAL KEY AND CROWN! \*Full Tutorial+Solver!\*  (Roblox Ready Player One Event)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=XgfKR4RDf5g
+    * GETTING \#1 REBIRTHS IN ROBLOX TREASURE HUNT SIMULATOR!? \*1 Rebirth Every 10 Seconds\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=skyyhW2xCOQ
+    * \*Omg\* HOW TO REBIRTH EVERY 10 SECONDS IN ROBLOX TREASURE HUNT SIMULATOR! \*Elite Pack Gamepass OP\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=kmCzF_l93nw
+    * HOW TO GET THE JADE KEY LIVE! COME JOIN TO GET IT! - Roblox Ready Player One Event!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=q0-bxxTv9pA
+    * HOW TO GET THE JADE KEY IN ROBLOX! \*Puzzle Solver Included!\* - Ready Player One Event!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=jibjt0Q4VPc
+    * \*Easy\* HOW TO GET THE COPPER KEY IN LESS THEN 10 MINUTES! - Roblox Ready Player One Event!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=KnIcz3p8yNw
+    * I'M GETTING THE COPPER KEY! \*JOIN TO KNOW HOW!\* - Roblox Ready Player One
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=I0TBUI72lWQ
+    * HOW TO GET THE COPPER KEY QUICK AND EASY! \*Full Tutorial\* - Roblox Ready Player One Event!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=wXTZzYi4F9w
+    * BIG NEW CLUE FOR GETTING THE COPPER KEY! - Ready Player One - ROBLOX EVENT
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=n-xq4KGmh4k
+    * NEW CLUE FOR GETTING THE BRONZE KEY! - Ready Player One - ROBLOX EVENT \*Trying Every Clue\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=scxpvZB6DQM
+    * \*New Clue!\* THE BRONZE KEY IS LOCATED IN THIS GAME?! - (Roblox Ready Player One EVENT)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=tT7tBLXH6ZA
+    * SEARCHING THE GOLDEN DOMINUS! - Ready Player One ROBLOX EVENT
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=ry5V1A1lB-k
+    * MOST OP SECRET SPOT IN ROBLOX FORTNITE ISLAND ROYALE! \*You Have To Try This!!\* /W Rexex
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=5YkHehUrQEw
+    * BUYING THE GOLDEN NUKE AND EXPLODING THE WHOLE PRIVATE ISLAND In Roblox Treasure Hunt Simulator!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=aHf1K-gDi_Q
+    * (Codes) NEW REALMS, LEGENDARY PETS, MYTHICAL SCYTHE IN Roblox Mining Simulator \*THIS IS INSANE\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=5iPRaEubjBQ
+    * \*NEW\* SNIPER ONLY CHALLENGE VICTORY in Roblox Fortnite: Battle Royale! - Island Royale
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=a-tS2VgnTLs
+    * Buying PEGASUS Pet and Making $166.000 EACH SECOND In Treasure Hunt Simulator! \*BEST MONEY MAKER\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=V9AY9LIq1gw
+    * NEW EARTHERN REALM AND LEGENDARY PETS! \*Make MILLIONS EACH MINUTE!?\* Roblox Treasure Hunt Simulator
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=RGY6qz4g0x0
+    * SEARCHING THE BIGGEST GOLDMINE IN Roblox Booga Booga! \*Epic\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=0jYWSozXQhg
+    * FINDING THE SECRET SPIRIT LAIR IN Roblox Booga Booga! \*Insane Exp\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=3kzlhKGQ6YA
+    * (Omg) HOW OP IS THE LEGENDARY ZUES STAFF IN ROBLOX MINING SIMULATOR!? \*4800$ EACH SECOND\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=iaNHGkBIYm8
+    * GLITCHING TO 8000+ BLOCKS, LEGENDARY TREASURE CHESTS IN ROBLOX MINING SIMULATOR! \*Making Millions!\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=Qg78fHRUork
+    * (Code) OWNER GAVE ME ALL THESE SECRET MONEY CODES FOR ROBLOX MINING SIMULATOR! (Free $10.000's )
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=Y92OHq3djQs
+    * EXPLORING TOMBS FULL OF TREASURE IN ROBLOX EXPLORER SIMULATOR!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=fQSCbMGrDBo
+    * (WUT?) THE WEIRDEST SIMULATOR IN ROBLOX!? \*My Viewers Suggested This!\* - Roblox Lawn Mower Simulator
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=qFQ7YbCKTY8
+    * (Code) ALL NEW POSSIBLE TOOL SKINS AND PETS UPDATE IN TREASURE HUNT SIMULATOR!? \*What Do You Want?\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=l6SXdBPDGeY
+    * (Code) NEW TOOLS SKINS, PETS, NEW ISLAND In Roblox Treasure Hunt Simulator? \*Decide The Update!\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=mArPrp_4u6w
+    * REMOVING ALL THE SAND IN TREASURE HUNT SIMULATOR \*1000's Treasure Chests!\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=7nf6BDhNUAE
+    * LUVDISK VALENTINE EVENT IN POKEMON BRICK BRONZE!? \*Come Spread The Love!\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=dzlCJd29AJo
+    * HOW TO REBIRTH EVERY 17 MINUTES \*Alone\* In Roblox Treasure Hunt Simulator!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=beXRGEriT2c
+    * (2 Codes) NEW PETS, NEW ISLAND AND NEW CHAINSAW UPDATE IN ROBLOX EXPLORER SIMULATOR!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=K9PkzWS1-lc
+    * THE BEST TOOLS TO USE IN TREASURE HUNT SIMULATOR?! \*WORST TO BEST\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=YhmT0yZ2wnY
+    * HOW OP IS THE LEGENDARY ☢ NUKE ☢ !?  \*BLOWING UP THE WHOLE MAP!?\* - Roblox Treasure Hunt Simulator
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=sFXjDY3U7RI
+    * (Code) NEW MYTHICAL REALM, NUKE, AND LEGENDARY CHESTS IN ROBLOX TREASURE HUNT SIMULATOR!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=ZxAtBX-SHgI
+    * HOW OP IS THE LEGENDARY DRILL AND SCOOPS!? \*6500$+ EACH SECOND!!\* - Roblox treasure hunt simulator
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=zE9pOAmeewE
+    * (3 Codes) NEW INSANE MONEY GOLD MINE AND NEW BOSSES \*SUPER FUN\* IN ROBLOX EXPLORER SIMULATOR!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=BU1z4wu5aSU
+    * DIGGING TO THE BOTTOM OF TREASURE HUNT SIMULATOR! \*WHATS THAT?\* - Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=EHhDUsSKaXk
+    * HOW OP IS THE LEGENDARY INFINITE BACKPACK!? \*$100.000.000 IN 1 GO!\* - Roblox Treasure Hunt Simulator
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=fXhBAYW7GJg
+    * NEW BINOCULARS, MCLAREN SUPER SPEED AND BOX GLITCH UPDATE! - Roblox Jailbreak
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=JFFSz2gX7yw
+    * (Code) ALL UP TO DATE 2018 CODES IN ROBLOX TREASURE HUNT SIMULATOR!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=QXeVLJBn4eo
+    * (Code) NEW UNDERWORLD, GOLDEN SPOON AND PRIVATE TREASURE ISLANDS UPDATE IN TREASURE HUNT SIMULATOR!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=nFWmIJ3d9Iw
+    * (Code) \*RAGE\* BACON HAIR STEALS MY SPECIAL LEGENDARY TREASURE CHEST IN TREASURE HUNT SIMULATOR!!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=xJenMD8aSnM
+    * (Code) GETTING THE INSANE LEGENDARY TOOL IN ROBLOX TREASURE HUNTER SIMULATOR!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=jbgIIXTw2Ns
+    * ALL SECRET 8TH GYM UPDATE EASTER EGGS YOU MISSED In Pokemon Brick Bronze!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=634Ude_w7cQ
+    * HOW TO GET SANDYGAST / PALOSSAND In Pokemon Brick Bronze! \*Beach Ghost Mystery\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=cRTz8qHLusE
+    * SEARCHING FOR KYOGRE CLUES IN POKEMON BRICK BRONZE! - Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=beLMXYEP_hA
+    * (Live) PLAYING THE NEW COUNTER BLOX REMASTERED?! - Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=jON4XGrHG0w
+    * \*OMG\* INSANE Ben 10 VS VILGAX (Ben 10 Arrival Of Aliens) - Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=RNL3FtuwsJY
+    * (New) HOW TO TRY ON ANY CATALOG ITEM ON ROBLOX! \*Try Before You Buy\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=XCx2dMtP9WY
+    * LEGENDARY GIVEAWAY AND GETTING SHINY GOODRA! - POKEMON BRICK BRONZE - Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=rx-7CRLL8u0
+    * HOW TO GET BOUND (MINI) HOOPA In Pokemon Brick Bronze!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=wWJKbrx4Yqw
+    * New INFINITE ICE BACKPACK, ICE SPEAR And 2 NEW PETS In Roblox Snow Shoveling Simulator!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=bgqZBitqXrM
+    * Getting The NEW GOLDEN HAMMER And SILVER FIRST In Roblox Mining Simulator!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=cpHnMgG5awI
+    * HOW TO GET GENESECT IN POKEMON BRICK BRONZE! \*8th Gym Update\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=1MXHMctgUgs
+    * HOW TO GET HOOPA IN POKEMON BRICK BRONZE! \*8th Gym Update\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=Q2pJ8jpExFk
+    * (Update) NEW INSANE ALIEN VILGAX ADDED! \*Super Strong!\* (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=UDnuc_MmFX0
+    * 8TH GYM RELEASED! SOLVING ALL SECRETS LIVE! - POKEMON BRICK BRONZE - Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=WAzog27nswA
+    * MY CHARACTER IS IN THE GAME!? \*Stealing From Myself\* - Roblox CashGrab Simulator
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=_n6bLZ32w7o
+    * PREPARING FOR THE 8TH GYM UPDATE SOON! - POKEMON BRICK BRONZE - Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=adk1WXaRsAI
+    * (Code) NEW ICE KING SPEAR And FASTEST WAY FOR ICE KING BACKPACK In Roblox Snow Shoveling Simulator!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=5EcOtndYRa0
+    * HOW TO SELL GAMES ON ROBLOX! \*Insane Money\* - Roblox Cashgrab Simulator
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=MYjIDOt1hnw
+    * \*Professional editor!\* GETTING The OP MEGATON SWORD In Roblox Mining Simulator!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=gO2e7lVhxzs
+    * ROBLOX Bans FREE ROBUX And Youtuber Pokediger1! - \#RobloxWatch - BIG Roblox Terms Of Service Change!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=lp9-EveEdfQ
+    * (Update) NEW TOOL!  IT'S BETTER THAN LIGHTSABER - Roblox Snow Shoveling Simulator
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=54GJlLofx0w
+    * PREPARING FOR THE 8TH STEEL GYM AND MAGEARNA UPDATE! - POKEMON BRICK BRONZE - Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=n3mlQk9aq5I
+    * Roblox PERM BANNED LandonRB! \#RobloxWatch MEME NOT ALLOWED And Tacticles Reaches 100K!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=-8f3_HGkun8
+    * (Code) FASTEST WAY HOW TO GET ICE IN THE NEW SNOW SHOVELING SIMULATOR UPDATE!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=iAFtFREfKEw
+    * (NEW) ICE MOUNTAIN EXPANSION AND LIGHTSABER?! - Snow Shoveling Simulator - Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=PjedKC2tDcQ
+    * (NEW UPDATE) HOW TO SPAWN THE ICE KING IN SNOW SHOVELING SIMULATOR - ROBLOX
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=f2iQhZBxzuY
+    * PREPARING FOR THE NEW 8TH GYM AND NEW POKEMON UPDATE! - Pokemon Brick Bronze
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=ZBV6ZupkSKM
+    * NEW 8TH GYM AND NEW POKEMON UPDATE LEAKS! - Pokemon Brick Bronze
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=50E0rqWBXwU
+    * \#DUCKSQUAD PERMANENTLY BANNED \#RobloxAlert FREE ROBUX IS FORBIDDEN?, NEW ROBLOX DEVELOPER LOGO!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=BVxJSyVqe1s
+    * INVISIBLE SNOW COP TROLLING IN JAILBREAK! \*THEY CAN'T SEE ME\* - Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=l3lGoPtHotA
+    * SHINY LEGENDARY GIVEAWAY AND PREPARING FOR 8TH GYM UPDATE IN POKEMON BRICK BRONZE!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=QJDXvgL36bo
+    * \*NEW\* OMNI ENCHANCED CANNONBOLT VS OMNI ENHANCED GREY MATTER! - Roblox Ben 10 Fighting Game
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=pq_afTSN2co
+    * \*UPDATE\* NEW OMNITRIX, MOBILE VERSION AND ALIEN MENU IN BEN 10 ARRIVAL OF ALIENS!?
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=tMZraqLbu0I
+    * \*NEW UPDATE\* BLACK HOLE PET AND FREE DIAMOND SNOW PETS ON SNOW SHOVELING SIMULATOR!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=LQV3xk_2BKo
+    * PREPARING FOR THE NEW 8TH GYM AND HOOPA UPDATE! - Roblox Pokemon Brick Bronze
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=qB8OcBQIXDw
+    * BEN 10 OMNI ENCHANCED HEATBLAST VS OMNI ENCHANCED XLR8 (Ben 10 Fighting Game)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=E-qmudUSHDo
+    * PREPARING FOR THE 8TH GYM AND HOOPA UPDATE! - Roblox Pokemon Brick Bronze
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=v6ugg4fPtSg
+    * HOW TO INFINITE AFK SNOW SHOVELING GLITCH! - Roblox Snow Shoveling Simulator
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=mxlhDpjZim0
+    * HOW TO GET INTO THE BEN 10 NULL VOID! - Roblox Ben 10 Fighting Game
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=-YlMnXlj1bY
+    * HOOPA, 8TH GYM AND CRESENT ISLAND UPDATE INFO AND MORE! - Pokemon Brick Bronze!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=NKOfNAOqufk
+    * \*NEW\* ALL OMNI ENCHANCED ALIENS UPDATE IN BEN 10 - Roblox Ben 10 Fighting Game
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=Gf0pD8qMbFo
+    * \*INSANE\* WAY BIG EVOLUTION Of Aliens REMATCH! (Ben 10 Arrival Of Aliens) /w ItsBear
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=BrmU4Em3emM
+    * My 2017 RECAP + PLANS FOR 2018! \#PinkArmy / DefildPlays
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=9Q4bC4y0eMk
+    * BACON HAIR FINDS SECRET CHRISTMAS LEGENDARY In Pokemon Brick Bronze!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=HXMzG0M1fKw
+    * BEN 10 GETS A SHINY CHRISTMAS SCEPTILE!? - Roblox Pokemon Brick Bronze
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=YQOJf3c_gOo
+    * \*OMG\* How to FLYING TRAIN GLITCH in ROBLOX JAILBREAK!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=mHiGkaqWlmQ
+    * \*OMG\* We Get A NEW OMNITRIX? BIGGEST MYSTERY In Ben 10 Arrival Of Aliens!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=un73qyVMCJ0
+    * \*FREE\* NEW BEN 10 ALIEN SANTA GIVES FREE ROBUX PRESENTS!? (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=9-SQCoknrLY
+    * \*New Alien\* HOW TO BE SANTA On Ben 10 Arrival Of Aliens On ROBLOX! \*Super Strong\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=xE2wKQPuNGY
+    * \*OMG\* BEN 10 SAVES CHRISTMAS IN ROBLOX! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=76bVXBvVZ0s
+    * \*WINTER UPDATE\* TRAIN ROBBING / NEW BANK HEIST / 1 MILLION BIKE AND MORE! (Roblox Jailbreak)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=eAmz6Vf0K8U
+    * GETTING MEGA CHRISTMAS SCEPTILE!? \*WINTER EVENT UPDATE\* (Pokemon Brick Bronze)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=-9i6PHeh968
+    * \*OMG\* THESE Aliens DEFEAT Ben 10!? INSANE ULTRA Aliens! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=RI6akNRZ6u8
+    * \*NEW\* HOW TO GET THE CHRISTMAS SCEPTILE C MEGA STONE In Pokemon Brick Bronze! \*Christmas event\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=fwHJ-QHidKQ
+    * \*EPIC\* NEW BEN 10 ULTIMATRIX UPDATE + NEW PLAYER MODELS?! (Ben 10 Arrival Of Aliens
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=RMKpZv7QUP4
+    * \*OMG\* NEW Jailbreak TRAIN ROBBERY And TRAIN UPDATE!? (ROBLOX Jailbreak)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=et_5K8A5dqI
+    * \*OMG\* 1 YOUTUBER VS 5 OMEGA ALIENS IN BEN 10?! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=6kTPfLmJY48
+    * BIRTHDAY ULTRA BEN 10 VS YOU! (Roblox Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=Hz2P3wx7JAc
+    * BIRTHDAY LEGENDARY HUNTING STREAM! - Roblox Pokemon Brick Bronze
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=qyUoFFWp3sg
+    * \*NEW\* BEN 10 ALIEN ABILITY CARDS! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=kPSr1VZY2rs
+    * \*Omg\* INSANE Ben 10 WAY BIG Vs HUMUNGOUSAUR! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=ZL2QpKlb4jA
+    * \*IMPORTANT\* We Need To Talk.... (Click This Video If You Are Subscribed)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=jrHr2CnPwqw
+    * \*Insane\* STRONGEST Alien In BEN 10? (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=Es19-QZ5QHg
+    * \*FREE\* HOW TO GET THIS INSANE FREE WINTER PRESENT From ROBLOX!? (Dominus, Robux or More?!)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=mc0Q2Rq5GPE
+    * \*OMG\* Kevin 11.000 VS ULTIMATE ALIENS IN Ben 10! (Ben 10 Roblox)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=ym91p_gLGrk
+    * \*New\* All BEN 10 ULTIMATE Aliens VS ULTIMATE Aliens! (Roblox Ben 10) - Charity \#11
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=BRcro4nSmyM
+    * BEN 10 VS MAD BEN 10 IN ROBLOX! \*REMATCH\* (Ben 10 Arrival Of Aliens)  - Ben 10 For Charity \#10
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=nET6bRDRKuI
+    * \*EPIC\* New ALIENS RATH VS CHROMASTONE In Ben 10!? (Roblox Ben 10)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=HQfFgXJgFgA
+    * \*MOST INSANE COMBACK\* 26 VS 10 VICTORY ROYALE?! - Fortnite 50 VS 50
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=ReEzJvBWieE
+    * \*Omg\* INSANE ULTRA Alien TRANSFORMATIONS!? (Ben 10 Arrival Of Aliens) - Ben 10 For Charity \#9
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=thsIDHvqqq8
+    * SO MANY VICTORY ROYALES!? \*MY WORLD RECORD\* 50 VS 50 UPDATE! - Fortnite Battle Royale
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=5Dj6hijO9d0
+    * \*OMG\* BEN 10 Vs FANS! \[SO MANY EPIC BATTLES\] (Ben 10 Arrival Of Aliens) 31 Days Of Ben 10 \#7
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=iJVs0Z38PPQ
+    * \[NEW SERIES\] OMG THAT SCARED ME SO MUCH! | Underrated Roblox Games \#1 \[Roblox Alone\]
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=-SRX9H6KclE
+    * \*INSANE\* The MOST OP ALIENS In Ben 10 Challenge! (Ben 10 Arrival Of Aliens) - Ben 10 For Month \#6
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=eEgcTz9yoPQ
+    * \*Omg\* Insane GOOP ULTRA EVOLUTION! (Ben 10 Arrival Of Aliens) - Ben 10 For Charity \#5
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=jMdG1TCpdqk
+    * \*EPIC\* INSANE NEW Random Alien ULTRA OMNITRIX!? (Ben 10 Arrival Of Aliens) Ben 10 For Charity \#4
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=eQJKoIU2z9w
+    * \*EPIC\* INSANE ULTRA CANNONBOLT BATTLE! (Ben 10 Arrival Of Aliens) - 31 Days Of Ben 10 For Charity \#3
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=3hHMVEj5NjY
+    * GETTING EPIC AURA POKEMON IN POKEMON BRICK BRONZE! \*ROBUX GIVEAWAY EVERY AURA\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=bBaXUr8Q4CY
+    * \*Update\* NEW Insane AURA POKEMON And The SAFARI ZONE In Pokemon Brick Bronze!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=GHf9rchZZfw
+    * \*OMG\* If You Find THESE ALIENS You GET 20.000 ROBUX!? (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=R46I9bIO9bI
+    * \*EPIC\* ULTRA ALIEN BATTLE VS BEN 10! (Ben 10 Arrival Of Aliens) - 31 Days Of Ben 10 For Charity \#2
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=xQhGWlrvWg8
+    * \*EPIC\* Getting A BLIND VICTORY!? MMX Released In ROBLOX! (Roblox MMX)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=3nfDXWeWSW8
+    * \*NEW\* INSANE Ben 10 ULTRA BATTLES! (Ben 10 Arrival Of Aliens) - 31 Days Of Ben 10 For Charity \#1
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=oAOz4Yxcj1Q
+    * \*UPDATE\* New Alien RATH And FUTURE UPDATES! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=zQpLikkS1qc
+    * \*Insane\* EPIC ALIEN TRANSFORM EVOLUTIONS! (Ben 10 Arrival Of Aliens) /w ItsBear
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=_vwUojM-Tow
+    * \*WHAT\* If YOU GUESS THEM, Get $100,000 ROBUX! (Roblox)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=koaJTSANT4E
+    * \*UPDATE\* NEW BEN 10 WINTER MAP AND ALIENS! (Ben 10 Arrival Of Aliens) - Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=TA9DMdwUd1E
+    * MY CRAZY GRANDMA TRIED TO EAT ME IN ROBLOX! - Roblox Roleplay
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=79s4NTNZk2k
+    * \*Ultimate\* EVOLUTION of ALIENS TRANSFORMATION! \*Challenge\* (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=HiiDmJH_XY0
+    * \*OMG\* THe MOST Epic BEN 10 VS Random EVOLUTION Aliens! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=HFeEHj7XTyY
+    * \*NEW\* Insane MULTIPLE Mode! 2 ALIENS At Once! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=5hPg8ogmMCQ
+    * INSANE LEGENDARIES! Randomizer NUZLOCKE! (Pokemon Brick Bronze) \#5
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=d68UiUa-KIk
+    * \*INSANE\* WAY BIG Vs GREY MATTER!! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=QR4wZQCgWnw
+    * \*Epic\* New OMNITRIX Random Alien GLITCH!? (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=3D6eJU9VPfw
+    * WE BOUGHT OUR NEW HOUSE!! BUT THEN THIS HAPPENED! (Roblox Roleplay)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=IdR3wAHULRc
+    * \*Epic\* Insane WAY BIG vs XLR8 Alien Battle! (Ben 10 Arrival Of Aliens) /w ItsBear
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=YCXaq04Yp0M
+    * \*OMG\* These EPIC Aliens! VS Ben 10?! (Ben 10 Arrival Of Aliens) /w ItsBear
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=Iabc1OBa8Js
+    * \*New\* Insane Superhero JUSTICE LEAGUE in ROBLOX! \*Get Superpowers!\* (Injustice Online Adventure)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=fyt0Szi87Jc
+    * \*Omg\* NEW Epic Ben 10 CLONING machine VS ALBEDO! (Ben 10 Movie Special)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=hRjDmD68l9M
+    * \*Omg\* NEW Random OMNITRIX Transforms In These ALIENS!? (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=jlLr5NMfEwM
+    * \*INSANE\* NEW Aliens In Ben 10! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=PeueHloQDKY
+    * \*INSANE\* CANNONBOLT EVOLUTION Of Aliens! (Ben 10 Arrival Of Aliens) /w ItsBear
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=nBX4bfNb4UI
+    * LEGENDARY STARTER!? Randomizer NUZLOCKE Challenge! (Pokemon Brick Bronze) \#1
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=1cyI_em_a7A
+    * \*Insane\* New Aliens RATH And ATOMIX And Future UPDATES!? (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=ZobGnN2d3nw
+    * \*Omg\* How to be INVISIBLE / Go THROUGH Walls EVERY ALIEN!? (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=mrAI2IB3Q0k
+    * \*Epic\* GWEN 10 Vs ALBEDO In ROBLOX (Ben 10 Arrival Of Aliens) /w ItsBear
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=KOdSd5s6QHk
+    * BEN 10 Arrival Of Aliens THE MOVIE!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=PZqnQ5ITWQs
+    * \*This Is Insane\* I get THOUSANDS Of Robux... FOR FREE!? (Roblox Robux Simulator)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=f0qNmfYvy4c
+    * \*Epic\* 10 INSANE SECRETS and Places In BEN 10! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=4iJfP-LTOIg
+    * The 8th GYM, Ultra Beast NECROZMA And SAFARI Zone In Pokemon Brick Bronze!?
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=XL9JPEBEe9E
+    * \*Insane\* HUMUNGOUSAUR EVOLUTION Of Aliens BATTLE! (Ben 10 Arrival Of Aliens) /w ItsBear
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=EVApOF07dPY
+    * \*Epic\* INSANE Skateboard / Skatepark UPDATE With BEN 10 In Roblox! (Robloxian Highschool)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=wDZyUubouvo
+    * \*Insane Update\* New BIG ALIEN REVAMPS! ( Xlr8 And More ) (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=RrG9dldaM8k
+    * \*New UPDATE\* How To Get KEVIN 11 In Roblox! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=EneXA9h37uY
+    * NEW ALIENS!! Battle VS Ben 10! (Kevin 11, Way Big) (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=ojH2UlBvFzc
+    * Bacon Hair Finds HIDDEN SECRET LEGENDARY Teleport In Pokemon Brick Bronze!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=z-t5EJ321YY
+    * \*NEW\* ALIENS And Abilities Revamp UPDATE! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=2XlDuRz0WZs
+    * \*Epic\* NEW Ben 10 REVAMP ALIEN Battles! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=7D2_hGWN2UI
+    * \*Live\* Getting SHINY Lugia in Pokemon Brick Bronze!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=OYJf_JkbDyE
+    * \*New\* Alien Big Chill And Epic New Player Attacks! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=CBidHFd5_5I
+    * BEN 10 vs ZOMBIE BEN 10 in ROBLOX 👻 (Ben 10 Arrival Of Aliens) /w ItsBear
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=tw4y14SH9J8
+    * Halloween Evolution of Aliens! 👻 (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=zvVLen9fRXw
+    * NEW ALIENS and ABILITY UPDATES! \[Kevin 11, HeatBlast, Anubis\] (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=Ohr2_viIScs
+    * \*NEW\* ALIENS and EPIC NEW ABILITIES \[Big Chill, Anubis, Feedback\] (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=Q2JFZM2J-jA
+    * BEN 10 uses ADMIN COMMANDS to TROLL IN ROBLOX!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=3BvQzIG2NcY
+    * WARZONE BOSSES, EPIC CRATES AND MORE! | MINECRAFT SKYBLOCK X \#4 | (ArcadianMc)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=fUWqXkyx23o
+    * BEN 10 VS BEN 23 IN ROBLOX!! (Ben 10 Arrival Of Aliens) /w ItsBear
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=3Tw9UXQKnCc
+    * SECRET NEVER SEEN HALLOWEEN ALIEN ADDED!! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=frqqDImcYFk
+    * INSANE WARZONE BOSS BATTLE | MINECRAFT SKYBLOCK X \#3 | (ArcadianMc)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=2CK7NXPrtGE
+    * NEW HALLOWEEN EVENT ZOMBIE MODE IN POKEMON BRICK BRONZE!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=7aN-5jvtICk
+    * SHINY HALLOWEEN LEGENDARY HUNTING IN POKEMON BRICK BRONZE!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=TFk9nINnlt8
+    * THIS ITEM MAKES ME PRO!? | MINECRAFT SKYBLOCK X \#2 | (ArcadianMc)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=_elXtYSFdkU
+    * HOW TO GET A FREE SHINY MIMIKYU IN POKEMON BRICK BRONZE!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=LJDnkRQr5Ok
+    * THE FLASH VS ZOOM IN ROBLOX (Roblox The Flash)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=uFBDKnf7hCA
+    * WE GOT A SHINY MIMIKYU IN POKEMON BRICK BRONZE!? \*Halloween Event\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=jA9MczFlsA4
+    * HOW TO GET MIMIKYU IN POKEMON BRICK BRONZE!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=2YuFF7sFp8I
+    * HOW TO GET MARSHADOW IN POKEMON BRICK BRONZE! \*Halloween Event\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=7vkK6heAf1w
+    * THE MOST EPIC SCAVENGER HUNT IN ROBLOX!? \*Must Watch\* / Find The Domos \#1
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=qCh2LjxCBfI
+    * BEN 10 AND GWEN 10 VS CHARMCASTER IN ROBLOX \[INSANE\] (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=HibBUczgG4o
+    * BEN 10 VS NEGA BEN 10 IN ROBLOX! (Ben 10 Arrival Of Aliens)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=qOmRO4u6s-M
+    * INSANE KILLSTREAKS - ROBLOX MOVIE - Stream Highlights \#1
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=gmgDzLWxZuQ
+    * NEW FURNITURE UPDATE IN POKEMON BRICK BRONZE!! \*KITCHEN , SWIMMING POOLS AND MORE\* / Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=T8h0p0SwyVc
+    * NEW LEGENDARY 2 MILLION DOLLAR APARTMENT IN POKEMON BRICK BRONZE!?
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=cizRK96NvIs
+    * HE GOT THIS FOR FREE?! BACON HAIR HAS THESE LEGENDARIES IN POKEMON BRICK BRONZE! / Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=Rjcor6n2kYE
+    * THE BEST ROBLOX GAME TO PLAY WITH FRIENDS!! \*Must Watch\*
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=cgfC1YW3Xxc
+    * BACON HAIR FINDS THIS LEGENDARY IN POKEMON BRICK BRONZE!!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=KTNKdtuqWsg
+    * 👉 FREE MAXED REWARD EVENT PETS IN BUBBLE GUM SIMULATOR! \*SUPER OP\* Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=8Ae1_HILUaY
+  * Non-Giftcard Robux Giveaways
+    * MAX UNLOCKED VALENTINE EVENT PET CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=7nYXOVHOZPo
+    * SECRET 20X ANCIENT ULTRA BEAST PET CODES IN NINJA LEGENDS! \*FREE AUTO SWING\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=E6_-S-i23hY
+    * SECRET FREE REBIRTH PET TOKEN CODES IN LAWN MOWING SIMULATOR! \*INSANE PETS!\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Du7rTAGeM_w
+    * SECRET GODLIKE FREE PET CODES IN VIKING SIMULATOR! \*MAX SWORD AND ISLAND\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=zrTsKM4wsQE
+    * SECRET INFINITE ZEN ISLAND PET CODES IN CHAMPION SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=mH7cIaN9EqU
+    * NOOB GETS SECRET ULTRA BEAST PRO CODES AND BREAKS NINJA LEGENDS! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=5K-y_WQR9Eg
+    * SECRET UNLIMITED MAX LEVEL ULTRA BEAST PETS IN NINJA LEGENDS!! \*Roblox\* (Giveaway)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=wC_z4mYTvGk
+    * SECRET MAX LEVEL MYTHICAL PET CODES IN VIKING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=QgvWKDCHnL8
+    * SECRET MAX ELEMENT ULTRA BEAST PET CODES BREAK NINJA LEGENDS! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=1da-iNAih9Y
+    * ALL 26 SECRET MYTHIC CUB BEE CODES IN BEE SWARM SIMULATOR! \*SUPER OP\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=VwF-yzDfvPk
+    * NEW MAX DRAGON LEGEND SWORD CODES IN NINJA LEGENDS!! \*MAX SWORDS INSTANTLY\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=m1YOlnIF_xU
+    * SECRET 500 FREE MAX LEVEL Z MASTER PETS NINJA LEGENDS!! \*Roblox\* (Giveaway)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=zYiRWgej9N8
+    * 25 SECRET ELEMENT Z-MASTER PET CODES IN NINJA LEGENDS! \*MAX PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=vZErczSQfuY
+    * NOOB UNLOCKS ALL SECRET ELEMENTS CODES IN NINJA LEGENDS!? \*INSTANTLY PRO\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=DEYqjGpufVE
+    * ALL 16 SECRET CRYSTAL PET CODES IN BOSS FIGHTING SIMULATOR!! \*INSTANT OP\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=1_ot9L3MIr4
+    * FREE MAX PREMIUM BUBBLE PASS 5 CODES IN BUBBLE GUM SIMULATOR! \*CIRCUS PASS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=0VXRuD6bVF8
+    * MAX ELEMENT MASTER ALTAR CODES IN NINJA LEGENDS!! \*INSTANT MAX RANK\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=XjujG-94zu8
+    * UNLIMITED MAX STAR EVOLUTION PET CODES IN LAWN MOWING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=YpsymQy1Oas
+    * SECRET UNLIMITED MAX LEVEL Z MASTER PETS NINJA LEGENDS!! \*Roblox\* (Giveaway)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=CDG2TgBwCNw
+    * INFINITE RAINBOW PETS, MAX RANK AND MONEY IN PET SIMULATOR 2!!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Nxzgb43vi4s
+    * NEW INFINITE Z MASTER DARKSTAR PET CODES IN NINJA LEGENDS! \*MAX RANK INSTANTLY\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=kRLKwLgpsBQ
+    * I GOT THE 30,000,000,000 TICKETS DRAGON PLUSHY IN BUBBLE GUM SIMULATOR! \*ALL SECRET PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=C8zmNKPmYQ8
+    * Noob With Full Team of Z-LEGENDS Pets! x4.68B Boost! MAX RANK INSTANTLY! - Roblox Ninja Legends
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=5bxbyByPHiY
+    * SECRET CIRCUS EVENT PET UPDATE CODES IN BUBBLE GUM SIMULATOR! \*INSANE PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=6s7rHCRJ_IM
+    * SECRET INFINITE FREE Z-MASTER PET CODES BREAK NINJA LEGENDS! Roblox \*INFINITE MONEY\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=fTF6WckLJlg
+    * INFINITE FLOWER CURRENCY 50X PET CODES IN LAWN MOWING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=4CLdShxdM4c
+    * FREE 3X SECRET ETERNAL HORIZON PACK CODES IN NINJA LEGENDS! \*MUST USE\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=5Dwh9iPU6YE
+    * SECRET YOUTUBER PET CODES IN HEROES OF SPEED SIMULATOR! Roblox \*MAX SPEED\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Iuzp9VDxeBs
+    * FREE UNLIMITED MAX LEVEL X GENESIS PETS  NINJA LEGENDS!! \*Roblox\* (Giveaway)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=4B7wjsySi_g
+    * FREE MOUNT VIP PET CODES IN LAWN MOWING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=VopEOTr8OV4
+    * SECRET INFINITE PETS GAMEPASS CODES IN CHAMPION SIMULATOR! \*FREE\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=UNNAdczOn9M
+    * 3 SECRET VOID MOON PET CODES IN SABER SIMULATOR!! Roblox \*BEST PET\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=U3yKr15x-wE
+    * I Opened The \*GIANT COIN CHEST\* And It \*BROKE\* Pet Simulator 2!! \*INFINITE COINS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Jid6dDWIGao
+    * I Found A SECRET QUEST In Ninja Legends For FREE X-GENESIS PETS!? Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=vnRPC9CuBsY
+    * SECRET UNLIMITED X GENESIS PETS DUPE NINJA LEGENDS!! \*Roblox\* (Giveaway)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ifg7MdfLL5o
+    * 10 HIDDEN \*HACKS\* IN NINJA LEGENDS YOU NEED TO KNOW!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=C2p-Bg8Luhw
+    * I Bought A $12 MILLION DOLLAR GAMEPASS In This Roblox Simulator!? \*999,999,999 ROBUX\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ei0c0DvTiqY
+    * I GOT UNLIMITED FREE X-GENESIS PETS IN NINJA LEGENDS!? \*Roblox\* (Giveaway)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=TV062MN4rrA
+    * SECRET INFINITE FREE X-GENESIS PET CODES IN NINJA LEGENDS! Roblox \*SUPER BROKEN\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=l9WASkeAqco
+    * SPAWNING FREE UNLIMITED ELEMENTAL PETS IN NINJA LEGENDS! Roblox \*GIVEAWAY!!\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=aiqtgIXtfnQ
+    * WE FOUND 10 SECRET DOUBLE MONEY CODES IN MAGNET SIMULATOR! \*SUPER OP\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=TJ__YD2On5w
+    * I Became The \*TOP RANK\* PLAYER In OP NINJA SIMULATOR!! \*SUPER OP\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=EKrMl48WS0E
+    * ALL 77 NOOB TO PRO 2020 PET CODES IN BUBBLE GUM SIMULATOR! \*SUPER BROKEN\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=aBBmo_xIpmA
+    * NEW BEST RUMBLE QUEST FROST LEGENDARY UPDATE CODES!! \*MUST USE!\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=zLtfjqRC6F4
+    * UNLIMITED ELEMENTAL PETS ALTAR GIVEAWAY IN NINJA LEGENDS! Roblox \*SUPER BROKEN\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=7Vcc0hFkp78
+    * ALL 20 SECRET 2020 PET CODES IN NINJA LEGENDS!! \*FREE MAX PETS!\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=lZH1-ysD1OE
+    * NOOB To LIFTING GOD!! MAX POWER, MAX SIZE IN LIFTING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=OrCwFy9GTQ8
+    * I GOT BEST LEGENDARY SCYTHE AND GODRAY SPELL IN WIZARD SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=QTlJEh0FWrc
+    * NOOB TO MASTER! BEST MAGNETS AND EVERYTHING UNLOCKED! MAGNET SIMULATOR! \*NO ROBUX\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=uRofZQx8Yow
+    * NEW BEST HATS AND SEALAND REBIRTH ZONE IN MAGNET SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=YN8Nm54kO1g
+    * FREE SHINY LAVA PETS AND BEST DUAL MAGNET IN MAGNET SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=jt_qQaNGmWQ
+    * Roblox CAMPING With KIRABERRY! (The Hotel) \*GONE WRONG\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=y3FPGYEbqm8
+    * PLAYING BOTTED ROBLOX SIMULATOR GONE WRONG... \*BAD IDEA\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=dy9m4DLh_-w
+    * ALL SECRET FAIRY UPDATE MONEY CODES IN UNBOXING SIMULATOR! (Roblox)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=sdOMl1zdVGo
+    * GETTING SECRET SHINY PETS IN WIZARD SIMULATOR! \*BEST PETS\* (Roblox)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Rgke3pElAUo
+    * REVIVE UPDATE CODES! Unboxing Simulator \*UPDATES ARE BACK!\* (Roblox)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Pnxhi7OI9-o
+    * How To Get FREE GAMEPASSES In WIZARD SIMULATOR! Roblox \*Giveaway\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=FZDn1Z0PejE
+    * NOOB VS PRO VS HACKER IN ROBLOX WIZARD SIMULATOR! (Funny)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Nf_7T9ymLe8
+    * ALL SPELLS, MAX LEVEL GEAR AND CODES IN WIZARD SIMULATOR! (Roblox)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=MsVOp3K7OOs
+    * I GOT BEST DRAGON PET AND CODES IN WIZARD SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=8NckbcJUiPg
+    * I Went UNDERCOVER As A GIRL And THIS HAPPEND!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Ko3xSPznbpw
+    * How To Get A FREE PREMIUM BUBBLE PASS In BUBBLE GUM SIMULATOR! (Roblox)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=m-m56JsSQNw
+    * LEVEL 0 VS MAX LEVEL DRAGON IN DRAGON ADVENTURES! Roblox \*SUPER HUGE!\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=_afZljGIe_0
+    * 👏 CODE REVIEW 👏 ALL 21 MONEY CODES In RO GHOUL! Roblox \#CODEWEEK
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=FwAHKPp_0mg
+    * 👏 CODE REVIEW 👏 ALL 9 FROST CODES In TOWER DEFENCE SIMULATOR! Roblox \#CODEWEEK
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ee1Uoy8v_gA
+    * 👏 CODE REVIEW 👏 ALL 9 HIDDEN CODES In Mad City! Roblox \#CODEWEEK
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Qd2BjyFFPoQ
+    * 👏 CODE REVIEW 👏 ALL 26 CODES IN POWER SIMULATOR! Roblox \#CODEWEEK
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=biUusTjl72k
+    * 4 STORM EVENT CODES, ALL METEOR SHARD LOCATIONS IN POWER SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=PCJx09sTijs
+    * USER MADE CATALOG ITEMS, PREMIUM AND MORE IN ROBLOX!! RDC 2019 NEWS
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=3ADL9YQSlxg
+    * Roblox Song ♪ "I Unbox Alone" Roblox Parody (Roblox Animation)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=p5motL0fp0c
+    * ALL SECRET AREA 51 CODES IN ROBLOX TOWER DEFENCE SIMULATOR!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=S3w7ifJtED0
+    * ALL SECRET METEOR Training Areas In POWER SIMULATOR! (Roblox)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=51pn57UhDw8
+    * NINJA TEMPLE UPDATE MONEY CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=By58x5wuo_I
+    * GODLY NINJA HAT, 200SP+ DMG AND X1000 EXP IN UNBOXING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=-JSuT0TEGWw
+    * I DEFEATED THANOS AND GOT INFINITY SUIT IN SUPERHERO SIMULATOR UPDATE! Roblox \*code\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=KjWnZlBSlVM
+    * I GOT SECRET PETS AND MYTHICAL CONE HAT IN UNBOXING SIMULATOR! Roblox \*INSANE LEVELS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=WccVpULAEmo
+    * QUEST GEMS AND EGG GAMEPASS UPDATE CODES IN UNBOXING SIMULATOR! ROBLOX
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ANYwugz6m80
+    * GETTING MY SECRET LEGENDARY PET 🦄 IN ADOPT ME PETS UPDATE!! Roblox \*SO CUTE\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=PZ0BLimNNOY
+    * FULL TEAM OF THE BEST MYTHICAL PETS IN OM NOM SIMULATOR! Roblox \*RIP 6000 ROBUX\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=lNky7NdzfSY
+    * 12 MYTHICAL PET UPDATE CODES IN OM NOM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ow9IqEewN80
+    * SECRET CONSTRUCTION UPDATE COIN CODES IN UNBOXING SIMULATOR! Roblox \*21 OC COINS!\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=zxttJfqRqxU
+    * MYTHICAL NINJA PET, GIANT PRESENT AND TRADING?! IN UNBOXING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=t4rUVwyEXNs
+    * ALL 20 SECRET UPDATE BOOST CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=YVWY4HqC5C0
+    * NEW CONSTRUCTION UPDATE SOON! Roblox Unboxing Simulator
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=EyiHT5uMKXE
+    * 3 SECRET RAINFOREST BOOST CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=AiuoKrtkd2s
+    * ALL SECRET SPEED CODES IN LEGENDS OF SPEED SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=F6cFwF-uXqs
+    * RAINFOREST UPDATE CODES AND PET EGGS LEAKED IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=hThBfbyq2TQ
+    * RAINFOREST MISC CHEST AND OP GODLY HAT IN UNBOXING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Qo0Frzw5JXE
+    * 400M OVERLOAD UPDATE CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=dzIbFa0KaFs
+    * RAINFOREST UPDATE LEAK AND MYTHICAL DUCK HAT IN UNBOXING SIMULATOR! Roblox \*2.5 SP DMG!\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=CNmx-9meXAE
+    * SECRET HAT DROP POTION CODE AND BEST TOOL IN UNBOXING SIMULTOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=kDMqs_lnzAU
+    * SECRET BATHTUB CODES AND X32 BILLION DMG TOOL IN UNBOXING SIMULATOR! \*300SX+ DMG\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=YC3e8Sx-bsI
+    * BATHTUB DUNGEON, POTIONS AND LEVEL 1 MILLION HATS IN UNBOXING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=6tkDPgabDZk
+    * SECRET LEVEL 10.000+ MYTHICAL PET IN UNBOXING SIMULATOR!? Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=9BpS594j0UQ
+    * x100 ENCHANTING, F2P IS NOW OP IN UNBOXING SIMULATOR UPDATE!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=X5Pl7Hb8OqY
+    * 11 DESERT UPDATE LEVEL CODES IN TREASURE QUEST SIMULATOR!? Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=XRy0cYITazE
+    * BATHTUB DUNGEON UPDATE AND CODE LEAKED IN UNBOXING SIMULATOR!!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=bRo4badaoig
+    * NEW MINECRAFT SURVIVAL ADVENTURE! - Minecraft 1.14 NostalgiaSMP \#1
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ASpJdS-RwJs
+    * ALL CODES AND HIDDEN LAVA BLADE LOCATION IN TREASURE QUEST SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=H151aUfHipM
+    * ALL 24 OWNER CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=zxACdW7AMww
+    * NEW MYTHICAL PETS AND 3 PYRAMID PARADISE UPDATE CODES IN UNBOXING SIMULATOR!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=c5tT5PBvo1U
+    * PYRAMID PARADISE LEAKS AND 3 CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=jT5jbZS2IgM
+    * 3 CODES, MAKING ALL BOXES PRESENTS AND THIS HAPPENED.. IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=8hEN0q1bTFU
+    * BEST 4X EXP LEVELING GUIDE AND 2 CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=K2AqeYMhSY8
+    * 6 SECRET MATRIX BOOST CODES IN UNBOXING SIMULATOR!? Roblox \*150% DMG BOOST\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=CJ2LhG1Mr_g
+    * MATRIX LAND BOOST CODE AND 4X EXP IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=BhtNBpM7k38
+    * SUMMER SECRET PET EGG UPDATE CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=jGfrt6pJav8
+    * BUYING 8000 ROBUX MYTHICAL SWORD IN UNBOXING SIMULATOR!? Roblox \*100QA DMG\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=tyMPtSsHZ9g
+    * SECRET TOY BOOST CODES IN UNBOXING SIMULATOR! Roblox \*30 SX COINS!?\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=hyIsIxg9tXc
+    * TOY LAND UPDATE CODE AND TOOLS IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=IjEqGAPszuQ
+    * ALL 12 SECRET OWNER CODES IN VACUUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=o9fvDTNWzeM
+    * ROBLOX NOOB VS PRO VS OWNER - UNBOXING SIMULATOR \*FUNNY\*!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=AOIl51OBHqQ
+    * ALL POTIONS CRAFTING RECIPES AND CODES IN UNBOXIN SIMULATOR UPDATE! \*600T DMG\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=yuhKA0N8HEY
+    * CRAFTING UPDATE LEAKED, 100T DMG AND MORE IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=GtoRyEY-27Q
+    * ALL 20 YOUTUBER CODES AND CRAFTING UPDATE SOON IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=1RwJRR-JCXI
+    * I SPEND 1 BILLION GEMS AND GOT THIS... IN UNBOXING SIMULATOR Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Pf4VUT57ro4
+    * ALL 36 SECRET OWNER CODES IN UNBOXING SIMULATOR! Roblox \*INSANE BOOSTS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=W1q8TVRDjiM
+    * SECRET ICE KINGDOM CODES AND GIANT FROST EGG IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=VR6ZpkGCjZw
+    * 8 BEST MYTHICAL HATS MADE ME THE \#1 PLAYER IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=7xzV9DaWwxw
+    * 25 PRO PLAYERS VS DUNGEON IN UNBOXING SIMULATOR! \*330 TRILLION DMG\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Kc5VTL4x-oQ
+    * 3 SECRET FOODLAND CODES AND 12 TRILLION DAMAGE IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=MwUAz_dEe9g
+    * 6 OWNER CODES AND SECRET GRYPHON PET IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=0YDpROZm2oU
+    * CLEARING NEW DUNGEON + CODES IN UNBOXING SIMULATOR! Roblox \*THIS IS INSANE\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=n468HhayBvw
+    * SECRET DUNGEON UPDATE CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=1Z8W_lJIuKI
+    * SECRET PET CODE AND MAGMORAUG BOSS IN GHOST SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ma1rnqA_V5M
+    * OWNER GAVE ME INFINITE PETS IN UNBOXING SIMULATOR! \*500+ PETS\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=3BtteIHyndc
+    * PHOENIX BOSS, 450.000 GEMS OPENING IN GHOST SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=dAPSbZrHM10
+    * LEVEL 6000+ MYTHICAL HATS AND PETS IN UNBOXING SIMULATOR! Roblox \*INSANE\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=2BEQfqLJwtY
+    * ALL 20 SUPER CODES IN UNBOXING SIMULATOR! Roblox \*SUPER OP\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=VsVTjt2fLEE
+    * ALL 7 SECRET HIDDEN MAP CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=hjEEJ_5DpAc
+    * I GOT THE BEST GODLY VACUUM AND ALL PETS IN GHOST SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=zlJCO9ldwDI
+    * OP OWNER 35,000 TRILLION COINS CODE IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=4qSTZKJ-RGY
+    * SECRET FREE MYTHICAL PET IN GHOST SIMULATOR!? Roblox \*SUPER OP\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=fsD7NrGZ8yo
+    * I GOT THE BEST MYTHICAL PETS AND HATS IN UNBOXING SIMULATOR!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=DjrHyRe-bJw
+    * SECRET OWNER PET CODE AND OP GODLY PETS IN GHOST SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=i1Jc2u3zXuw
+    * I GOT A SECRET "Roblox" EGG HUNT 2019 ROBLOX EGG!? \*INSANE\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=b8U3UBelKZI
+    * SECRET BEST WAY TO LEVEL PETS FAST IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=sZ8A77W48No
+    * SECRET 1500 TRILLION COINS CODE IN UNBOXING SIMULATOR!? Roblox \*THIS IS CRAZY\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=XgAXwYppL9o
+    * BEST WAY TO GET MYTHICAL HATS AND PETS FAST IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Tjjvon0DEMA
+    * OWNER GAVE ME SECRET YOUTUBER CODES IN UNBOXING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=8fTlm6nFY4A
+    * ALL UNBOXING SIMULATOR CODES AND LEVEL 1000 GODLY HAT! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=OvjP13HYkK4
+    * NEW CANDY LAND PETS AND 500M CHALLENGE IN UNBOXING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ZZGQ3i7knwI
+    * 10 SECRET UPDATE CODES AND GIANT PEARL PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=GHyxgaZwZqU
+    * NEW SEA PHOENIX, SECRET PET AND NEW ATLANTIS HATS IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ur-258CjJ4E
+    * BUYING FULL TEAM OF BEST PETS IN UNBOXING SIMULATOR! Roblox \*10K ROBUX\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=oO22DRex1xY
+    * We Played ROBLOX MINING SIMULATOR AFTER 1 YEAR! \*NOSTALGIA\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ixBvb0aTjsA
+    * TURNING NOOBS TO PRO IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=yh8eoJk3vYY
+    * I GOT SECRET SHINY EASTER BASKET PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=bgoFTtDeegc
+    * SECRET EASTER PET TREATS IN ROBLOX BUBBLE GUM SIMULATOR!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=CCmj2CbtG_k
+    * ALL EASTER EVENT EGG LOCATIONS IN ROBLOX BUBBLE GUM SIMULATOR! \*QUICK GUIDE\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=HnoLR4fYTCc
+    * SHINY EASTER BUNNY CODES IN ROBLOX BUBBLE GUM SIMULATOR UPDATE!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Lx8NXcL-lf8
+    * NEW EASTER BASKET SECRET PET IN ROBLOX BUBBLE GUM SIMULATOR UPDATE!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=l1Jiw1yyPU4
+    * HOW TO GET AVENGER EGGS + THANOS EGG IN 10 MINUTES! - Roblox Egg Hunt 2019
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=U9jkP_Nk9E8
+    * GIVING THE VIDEO STAR EGG + ALL EGG LOCATIONS IN ROBLOX EGG HUNT 2019!!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=6Bk-2LnlDLc
+    * ALL 23 BEE SWARM SIMULATOR CODES! Roblox \*MICRO CONVERTERS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=MXBK7OwUTRM
+    * ALL SECRET DRILLING SIMULATOR CODES! Roblox \*FREE PETS!\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=U4nbCuVZNUc
+    * 3 SECRET BUBBLE GUM SIMULATOR ATLANTIS PET CODES! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=F56rLn98YK0
+    * I GOT BEST ATLANTIS GUARDIAN PET IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Ux5-77M_RS0
+    * BUBBLE GUM SIMULATOR SECRET BINGO PET EGG CHALLENGE! Roblox  /w KIRABERRY
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=GTM929EqN0M
+    * FREE BEST LEGENDARY PETS GIVEAWAY IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=T2m0kHHPYs0
+    * FREE SECRET OBSCURE ENTITY PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=vat_twGjpho
+    * ALL PET RANCH SIMULATOR CODES! Roblox \*SECRET SHINY PETS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=nyWb1suDO80
+    * NOOB TROLLS PRO WITH 9 \*RAREST\* SHINY KING CRABS IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=NcaQYWHlfDM
+    * ALL BUILDING SIMULATOR SECRET CODES! Roblox \*GIANT TOOLS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=skGrahFetk4
+    * ROBLOX WORLD // ZERO!! ALL CHEST LOCATIONS + ALPHA ACCESS GIVEAWAY! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Cht8YyawUbY
+    * 10 BUBBLE GUM SIMULATOR SECRETS YOU DIDN'T KNOW!! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=XIraflv-dGw
+    * MIDORIYA (DEKU) VS TOKOYAMI IN ROBLOX! - Boku No Roblox Remasted / My Hero Academia
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=lHW0zS-Ub2M
+    * ALL 48 BUBBLE GUM SIMULATOR SECRET PET CODES! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=rREXp2kYRZM
+    * ALL BOKU NO ROBLOX REMASTERED CODES! \*FREE\* SECRET QUIRKS!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=CBjQRdr3P6o
+    * OWNER GAVE ME LEGENDARY PET SPAWNERS IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=8h9kxYOYBd8
+    * SECRET SHINY KING CRAB CODES!! | Roblox Bubble Gum Simulator
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=i9CIz02H8uY
+    * SECRET ObscureEntity PET HAT IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=23GyPQX1pSY
+    * PET SIMULATOR + POKEMON = PET TRAINER SIMULATOR!? Roblox \*INSANE\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=QuE7pYEZ5kU
+    * I GOT BEST LEGENDARY KING CRAB IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=WHpYGseXBBs
+    * I GOT THE BEST GODLY PETS IN PET DIGGING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=uLE1JKm4YNA
+    * GETTING SECRET PETS + LEGENDARY PET GIVEAWAYS IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=8NxVSHaEfFQ
+    * SECRET OWNER PET CODES IN GOD SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=_mkT0zD_VyA
+    * 6 SHINY QUEEN OVERLORD CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=psC3-tgqo80
+    * SHINY 300M TROPHY PET (MAX LEVEL) IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=gKztxFXGcEw
+    * PET SIMULATOR 2 RELEASE!? NEW PETS AND MORE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=onwJsx7Xal0
+    * I GOT THE SECRET 300M PET IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=7aOcQA0xY94
+    * GETTING THE MOST REBIRTHS POSSIBLE ON COOKIE SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=OoRzQenPMxY
+    * DUNGEON QUEST!! FREE SPELLS + WEAPONS GIVEAWAY! - Roblox /w KiraBerry
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=j-apoWKl2cs
+    * ROBLOX PIZZA PARTY EVENT! FREE EXCLUSIVE CREATOR PURPLE PARTY AFRO!!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=b_Dz89TbXzw
+    * SECRET CODES MADE ME THE BIGGEST BABY ON BABY SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=WbSd2oblbII
+    * THESE SECRET CODES MADE ME OP IN RPG WORLD SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=HpBYlT1QO4A
+    * BEST WAY TO GET POT O' GOLD PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=3qKBIuZc4tU
+    * SHINY POT O' GOLD, LUCKY OVERLORD PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=sp8ojY529WY
+    * LEGENDARY LUCKY DOMINUS CODES IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Pbe-9D2x47U
+    * NOOB TROLLS PRO WITH 9 SHINY JELLY FISH PETS! BUBBLE GUM SIMULATOR! Roblox \*FUNNY\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=RWNrMBfNXXU
+    * THESE BUBBLE GUM SIMULATOR PETS GIVE 10,000 ROBUX! Roblox Battles
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=cNCR2PD2cLc
+    * 16 PLAYERS VS HARDCORE WINTER OUTPOST IN DUNGEON QUEST! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=4tci4pLmRLs
+    * HOW TO GET ALL SECRET PETS IN ROBLOX BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=PjZsNGMZbsI
+    * I GOT THE BEST SPELLS IN ROBLOX DUNGEON QUEST! \#1
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=R5bN4fX_2jk
+    * I OPENED 10.000 WATER EGGS GOT THESE PETS IN BUBBLE GUM SIMULATOR!? Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=E-CA98I1FAY
+    * RAREST JELLY FISH PET CODES IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=-HIdcAk7WV8
+    * GET FREE SEA URCHIN PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=IdkkW_7inhc
+    * BEST ROBUX DOMINUS PET IN BALLOON SIMULATOR! \*BREAKS GAME\* Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Cw2HIH4vCBk
+    * RAREST SHINY CLASSIC TRIO PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=dpqLLPLQx9U
+    * SECRET GODLY SPARKLER CODES IN FIREWORK SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=97uuDPPfWoQ
+    * LEGENDARY TREASURE CHEST CODES IN PET RANCH SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Bw1_Fa4dpJs
+    * LEGENDARY SEA URCHIN BEACH CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=fy5b8YNVNVg
+    * LEGENDARY LIGHT SERPENT PET CODES IN PET RANCH SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=B9ZAb_dyAFA
+    * LEGENDARY SEA URCHIN AND BEACH HYDRA IN BUBBLE GUM SIMULATOR BEACH UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=rZgGUAb8_ss
+    * BEST LEGENDARY PET IN DASHING SIMULATOR MOON UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=pz-41v22Fl4
+    * 10 SECRET OWNER BOOST CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=jT0YqgQXnnM
+    * RAREST SYLENTLY PET IN BUBBLE GUM SIMULATOR! Roblox \*2.5 MILLION STATS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=O6wGRmAdoU0
+    * DOMINUS PET CODES IN SLAYING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=s3_sCGhwsnw
+    * ALL SECRET PET CODES IN DASHING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ffA7He_JcCk
+    * FREE QUEEN BEE PET IN BUBBLE GUM SIMULATOR! Roblox \*GamePass Giveaway\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=X8L8fUwggjM
+    * 5 ENCHANT BOOST CODES IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=38uzCzRC6xM
+    * SECRET LAVA PET CODES IN SLAYING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=p-wrAkQqQIA
+    * LEGENDARY CHAOS SWORD IN NINJA WIZARD SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=GX16EHMItDs
+    * PET ENCHANT UPDATE IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=vCxniIw_eLQ
+    * GODMODE AND PRESTIGE PETS IN SLAYING SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=dPolwOt4JWQ
+    * SECRET 4M PET UPDATE CODES IN SLAYING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=gCAZFidqRk8
+    * RAREST SHINY VALENTIUM PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=hfsRyf8jUmY
+    * SECRET LEGENDARY PET CODES IN SLAYING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=QvyvFgWpdOU
+    * RAREST SHINY SOUL HEART PET IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=eGhDBuWWmvQ
+    * ALL CODES + 100 GOLDEN CHESTS IN HOT SAUCE SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=nfzlmBr9n20
+    * VALENTINE UPDATE CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=aVyFzgaYLXk
+    * GETTING THE BEST RANDOM SHINY PETS IN BLOB SIMULATOR 2! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=evZERi3yenI
+    * 6 SECRET LEGENDARY BOOST CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=nw5-EouVhAw
+    * SECRET QUIZ GIVES FREE LEGENDARY PETS IN BUBBLE GUM SIMULATOR!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=C-nFgeoRdy0
+    * TEAM OF DIAMOND OVERLORDS BREAK BUBBLE GUM SIMULATOR!! Roblox \*INFINITE BLOCKS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=mgAzRbU1EE4
+    * FREE SHINY LEGENDARY PET BOOSTERS IN BUBBLE GUM SIMULATOR! Roblox \*Gamepass Giveaways\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=ChqBl_-mcUY
+    * FREE LEGENDARY BOOST CODES IN ROBLOX BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=kiYZGxNQH3k
+    * DIAMOND OVERLORD AND FREE LEGENDARY BOOSTS IN BUBBLE GUM SIMULATOR UPDATE! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=uCy6llGvHbc
+    * OPEN THIS EGG To Win FREE GAMEPASSES In BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Sy4yX76ki_E
+    * R.I.P HELICOPTER + CODES IN ROBLOX MAD CITY! \*GAMEPASS GIVEAWAYS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Qq-MsU0Mqfc
+    * BUYING THE $1.000.000 ROADSTER IN ROBLOX MAD CITY! \*GAMEPASS GIVEAWAYS\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=rL5abc9XrG4
+    * FREE ELECTRIC HYDRA DOMINUS IN BUBBLE GUM SIMULATOR!? Roblox \*GamePass Giveaways\*
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=AijCwOhOH4I
+    * UNLIMITED FREE NEW ULTRA BEAST PETS IN NINJA LEGENDS!! \*Roblox\* (Giveaway)
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=Z93A9lAF90E
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
@@ -861,14 +2992,20 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FAZENDO O AVATAR DO LIL PUMP NO ROBLOX!!!
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=FoNBJep7oSE
-* Suliin18YT (Suliin18YTT)
+* ThatGuy (ThatGuyTG)
   * Non-Giftcard Robux Giveaways
-    * MI PRIMER MASCOTA Y COMPRO LA CASA DE HADAS - ADOPT ME ROBLOX
-      * Mentions Robux giveaways through nimo.tv.
-      * URL: https://www.youtube.com/watch?v=M5lLteKfC8Y
-    * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
-      * Mentions Robux giveaways through nimo.tv.
-      * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
+    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#8
+      * URL: https://www.youtube.com/watch?v=10WGqnb_Nq0
+    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#5
+      * Gives away Robux for being arrested in Jailbreak.
+      * URL: https://www.youtube.com/watch?v=TogY_-vafSA
+    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#3
+      * URL: https://www.youtube.com/watch?v=zsYDcHOBOeg
+    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#2
+      * URL: https://www.youtube.com/watch?v=o-gB8UlqGHY
+    * \*FREE ROBUX\* ARREST ME FOR FREE ROBUX! (Roblox Jailbreak)
+      * Gives away Robux for being arrested in Jailbreak.
+      * URL: https://www.youtube.com/watch?v=gekomtzuIoE
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
