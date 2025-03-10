@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 9, 2025<br>
+Generated March 10, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 979,327 videos
-* Total videos found that match keywords: 56,899 videos
-  * Total unprocessed videos: 10,927 videos
+* Total videos found that match keywords: 56,904 videos
+  * Total unprocessed videos: 10,932 videos
 * Total videos found that are processed and marked: 728 videos 
   * Information Collection: 481 videos
   * Non-Giftcard Robux Giveaways: 246 videos
@@ -431,7 +431,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Inemafoo (Inemajohn)
 * InquisitorMaster (inquisitormaster)
 * IntelPlayz (IamRoBuilder)
-* Irmãs Gamers (iiPietra_GamesYT)
 * It's Akeila (itsakeila)
 * It's Siena (ItsNotSiena3)
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
@@ -693,6 +692,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Silent (RandomYoutuber0202)
 * SimplyCoco (VURIIN)
 * SkippyPlays (skipsk0p)
+* Skyrain (iiPietra_GamesYT)
 * SlEGHART (SlEGHART)
 * Sleigher (Gsleigh)
 * Slykage (Sly_Kage)
