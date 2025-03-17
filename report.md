@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 16, 2025<br>
+Generated March 17, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 981,510 videos
-* Total videos found that match keywords: 56,904 videos
-  * Total unprocessed videos: 10,932 videos
+* Total videos found that match keywords: 57,082 videos
+  * Total unprocessed videos: 11,110 videos
 * Total videos found that are processed and marked: 40 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 5 videos
@@ -410,6 +410,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HandN (xHandNx)
 * hannnahlovescows (hannnahlovescows)
 * HappyBlack (HappyThreePro)
+* hatedquis (VURIIN)
 * HelloItsVG (HelloItsVG)
 * Heorua (Heorua)
 * HeyDavi (DAVIPLAY_14)
@@ -691,7 +692,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Signicial (Signicial)
 * SiimplyBubliie (SiimplyBubliie_YT)
 * Silent (RandomYoutuber0202)
-* SimplyCoco (VURIIN)
 * SkippyPlays (skipsk0p)
 * Skyrain (iiPietra_GamesYT)
 * SlEGHART (SlEGHART)
