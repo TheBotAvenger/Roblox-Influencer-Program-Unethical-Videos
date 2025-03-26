@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 25, 2025<br>
+Generated March 26, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,7 @@ to the report if this happens.
 * Total videos: 986,327 videos
 * Total videos found that match keywords: 57,179 videos
   * Total unprocessed videos: 11,159 videos
-* Total videos found that are processed and marked: 88 videos 
-  * Other: 48 videos
+* Total videos found that are processed and marked: 40 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 5 videos
   * Phishing: 1 video
@@ -508,6 +507,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * LcLc (LcLcO1)
 * Leah Ashe (NotLeah)
 * LegendLeo (FoamyBubbIes)
+* Legolaz (LegolazYoutube)
 * Lenay (lenay_ROBLOX)
 * Leshero Morrazo (MoroSamy)
 * LiaBlossoms (LiaBlossoms)
@@ -799,6 +799,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XdarzethX - Roblox & More! (xdarzethx)
 * Xegothasgot (Xegot)
 * xEnesR (xEnesR)
+* XenoTy (xXenoTy)
 * Xeric (XericPlayz)
 * xiaoleung (xiaoleung)
 * xMarcelo (xMarcelo)
@@ -839,14 +840,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
-* Legolaz (LegolazYoutube)
-  * Other
-    * ⚠️ ESTE JUGADOR SE HACE PASAR POR LEGOLAZ PARA OBTENER FRUTAS GRATIS \*ESTAFADOR\*
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=54BZi5J7TZc
-    * 🤑 ME DIERON ESTO POR PORTAL PERMANENTE EN BLOX FRUITS | LEGOLAZ
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=mJdfw1Ftk3w
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
@@ -876,146 +869,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* XenoTy (xXenoTy)
-  * Other
-    * I MASTERED & UNLOCKED God Human Fighting Style In Roblox Blox Fruits
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=5qTmXGaaU1Q
-    * NEW SEA EVENT EXPOSED? SEA 1 REWORK? Dragon Rework Update | Blox Fruits Holiday Update Part 2
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=CwLdVdWuBZA
-    * (MUST PLAY) This NEW Roblox Anime Game Is The BEST In 2023..!
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=FsJb0cs-QtA
-    * This NEW Roblox One Piece Game HAS The BEST DRAGON FRUIT..? (2023)
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=k8Rs8Vjl1og
-    * Fully Awakening Ice in One video (Blox Fruits)
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=5ZBLD8onFNU
-    * NEW VEGETA MOVESET In Z BATTLEGROUNDS Is INSANE..! Z Battlegrounds Update
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=SpzdS8ItX4c
-    * Spent 100 days Going From Noob To MADARA UCHIHA In Shindo Life! Rellgames
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=67cFSByL4ik
-    * The Strongest Battlegrounds UPDATE Is FINALLY Here! Metal Bat ULTIMATE Release Date Confirmed Roblox
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=qAfpYqDkQpA
-    * This NEW ROBLOX My Hero Academia Game Is On The Rise...
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=KzDQFA7Nsvg
-    * Finally Unlocked This SECRET Form In Roblox Dragon Soul | Great Ape Showcase Dragon Soul
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=2DKgJJ9AAkQ
-    * Getting RANDOM Devil Fruits From BLOX FRUITS GACHA For 24 Hours & Got THIS..?!
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=9Qhel1lYSIY
-    * Going From NOOB to True Triple Katana in One Video! \[Blox Fruits\]
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=qUHTV0RMi1U
-    * \[CODE\] Finally Unlocked This NEW 1% Form In Roblox Dragon Soul | Ekari Technique Full Showcase
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=z5trHVp1VgA
-    * Project Slayers DAKI Blood Demon Art Is FIRE..? Obi Manipulation Showcase Reaction Project Slayers
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=5wxkp9WrQ1w
-    * FASTEST Way To Get GREAT APE FORM In NEW Roblox Dragon Soul Update
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=pf5pQOPhlqU
-    * \[CODE\] HURRY! Do This In NEW Roblox Dragon Soul UPDATE!
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=D4DrxcgO8hg
-    * UPDATE 20 NEW FRUIT | MAMMOTH Fruit Full SHOWCASE On Blox Fruits (Concept)
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=ovHiupz7YpU
-    * How To Unlock KAIOKEN FOR FORMS In NEW Roblox Dragon Soul Update!
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=ayKV8RzXxTo
-    * How To Unlock KAIOKEN In NEW Roblox Dragon Soul Update!
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=P8eaHP0TRCE
-    * UPDATE 20  | Control Awakening Full SHOWCASE On Blox Fruits (Concept)
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=mUe3i_BEp-o
-    * This ROBLOX One Piece Game JUST REWORKED Gear 4th BOUNCEMAN (Must Try)
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=Dl2-udaA3Iw
-    * Logging On To MY SUBSCRIBERS Blox Fruits ACCOUNTS! WHOS HAS THE BEST ACCOUNT?
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=v77t2LUs7nc
-    * You NEED To Check This Out!
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=PNar5efhvs0
-    * I FINALLY Unlocked This 0.3% FORM In The BEST DBZ Game On Roblox! (Dragon Soul)
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=Em495Y-jOLs
-    * You HAVE To Get ULTRA INSTINCT In This ROBLOX Anime Game!
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=gwMkKirEWYs
-    * NO WAY! This Is Getting REWORKED In NEW BLOX FRUITS UPDATE 20?!
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=QSncb96BXOE
-    * This NEW Roblox NARUTO Game Has The BEST SHARINGAN KG..? Shinobi Battlegrounds Reaction
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=6Iux_hsdpz0
-    * This NEW Roblox Naruto Game Has The BEST RINNEGAN KG..?! Shinobi Battlegrounds Reaction
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=kKyctglaWws
-    * This NEW Roblox Naruto Game Has The BEST OBITO KG..?! Shinobi Battlegrounds Reaction
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=Hwpev6TutvM
-    * \[CODE\] Rell Bloodline Full Showcase | Shindo Life | Shinobi Life 2 | Rellgames
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=2c4R8Z7mU9U
-    * This NEW Roblox Naruto Game Has The BEST ITACHI MANGEKYOU KG..?! Shinobi Battlegrounds Reaction
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=8DhoxrF8r_k
-    * Can We Get The NEW RELL BLOODLINE With 1000 Spins...?
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=IofYkYP5nx0
-    * The NEW RELL BLOODLINE Is UNBELIEVABLE... | Shinobi Life 2
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=NxkXRkkoRs4
-    * \[CODE\] Rykan Shizen Rework Full Showcase | Shindo Life | Shinobi Life 2 | Rellgames
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=v8-tpa8hYCs
-    * This NEW Roblox Naruto Game Has The BEST MADARA KG..?! Shinobi Battlegrounds Reaction
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=2NP6wsOdoqQ
-    * HURRY! Do This Before Project Slayers UPDATE 2 DROPS!
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=CtLIDO7snX4
-    * Spending 100 Days As TENGEN UZUI In PROJECT SLAYERS...
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=IkgljG6MeTY
-    * This NEW One Piece Roblox Game RELEASES SOON...!
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=cgN0SQbXV2Q
-    * Shinobi life 2 Update Release Date | Rell Bloodline Pre Showcase | NEW EVENT | Rellgames Shindo life
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=PXwou60gVO0
-    * Spending 100 Days As ZENITSU In PROJECT SLAYERS...
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=p09ov8war0U
-    * (CODE) Light Fruit Full Showcase | Pixel piece
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=5LFfpYIaXdA
-    * You NEED To Try This NEW Roblox Chainsaw Man BATTLEGROUNDS GAME!
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=fOlw6yVJm_A
-    * The Story Of RELLGAMES Is INSANE...
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=hUmRgH3PgOU
-    * Becoming AKAZA in 24 Hours (Project Slayers)
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=iXos_EIzlys
-    * Spending 100 Days As MUCHIRO Tokito In PROJECT SLAYERS...
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=3DdqUzm3IfM
-    * (CODE) FISHMAN KARATE Full Showcase Pixel Piece
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=WY2nINj2uF4
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
