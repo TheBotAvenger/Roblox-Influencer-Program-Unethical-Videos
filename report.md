@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 8, 2025<br>
+Generated April 9, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 990,711 videos
 * Total videos found that match keywords: 57,226 videos
   * Total unprocessed videos: 11,206 videos
-* Total videos found that are processed and marked: 40 videos 
-  * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 5 videos
+* Total videos found that are processed and marked: 48 videos 
+  * Non-Giftcard Robux Giveaways: 40 videos
+  * Information Collection: 7 videos
   * Phishing: 1 video
 
 ### No Videos Found
@@ -284,7 +284,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * cazum8 (cazum8)
 * Ceddy (Ceddy)
 * Cee\_berry (Cee\_berry)
-* Cerso (Cerso93)
 * Chekecheto (Chekelete1)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
@@ -317,7 +316,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
 * DeeterPlays (DeeterPlays)
-* DefildPlays (DefildPlays)
 * DeGoBooM (BumiReal)
 * Denis (DenisDaily)
 * DernD (StarCode_dernd)
@@ -452,7 +450,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * javie12 (javie12)
 * JD (Thexz)
 * Jeancof (Jeancof)
-* JeffBlox (JeeffBlox)
 * JehxTp (JehxTp)
 * Jello Queen (JelloQueenYT)
 * Jenstine (jenstine and jenstinex)
@@ -739,7 +736,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Tesla Motors (PatooLocooYT)
 * Tex HS (TexWillerHS)
 * th3c0nnman (th3c0nnman)
-* ThatGuy (ThatGuyTG)
 * The Crystalline Gamerz (Crystalaco and Emeraldoft)
 * THE KAPOLAR (Kapolar1)
 * The Meg and Mo Show (MegaSquadMo)
@@ -840,6 +836,21 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
+* Cerso (Cerso93)
+  * Non-Giftcard Robux Giveaways
+    * SORTEO DE ROBUX PARA ROBLOX GRATIS | Cerso Roblox en español
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=V5Y3MNZv4K8
+* DefildPlays (DefildPlays)
+  * Information Collection
+    * The MOST OP NOOB In Anime Fighting Simulator HISTORY! Roblox \#1
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=PDxv2eZ9bAA
+* JeffBlox (JeeffBlox)
+  * Information Collection
+    * ROBLOX - QUEM TEM MAIS ROBUX E O MAIS FORTE NO ROBUX SIMULATOR(NOVO JOGO)
+      * Description references a video about the data collection website bloxawards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=iTZmeN1mO3A
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
@@ -869,6 +880,20 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
+* ThatGuy (ThatGuyTG)
+  * Non-Giftcard Robux Giveaways
+    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#8
+      * URL: https://www.youtube.com/watch?v=10WGqnb_Nq0
+    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#5
+      * Gives away Robux for being arrested in Jailbreak.
+      * URL: https://www.youtube.com/watch?v=TogY_-vafSA
+    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#3
+      * URL: https://www.youtube.com/watch?v=zsYDcHOBOeg
+    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#2
+      * URL: https://www.youtube.com/watch?v=o-gB8UlqGHY
+    * \*FREE ROBUX\* ARREST ME FOR FREE ROBUX! (Roblox Jailbreak)
+      * Gives away Robux for being arrested in Jailbreak.
+      * URL: https://www.youtube.com/watch?v=gekomtzuIoE
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
