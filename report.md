@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 13, 2025<br>
+Generated April 14, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 990,711 videos
-* Total videos found that match keywords: 57,226 videos
-  * Total unprocessed videos: 11,206 videos
+* Total videos found that match keywords: 57,244 videos
+  * Total unprocessed videos: 11,224 videos
 * Total videos found that are processed and marked: 48 videos 
   * Non-Giftcard Robux Giveaways: 40 videos
   * Information Collection: 7 videos
@@ -204,7 +204,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Alaska Violet (alaskaviolett)
 * Alex Crafted (HeyCrafted)
 * Aline Games (AliineGamesYT)
-* AlphaGG (RealYouTube_AlphaGG)
+* AlphaGG (0StarCode_AlphaGG)
 * AlvinBlox (Alvin_Blox)
 * Aly1263 (aly1263)
 * Amberry (Amberrry)
@@ -213,7 +213,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Angelazz (Angelazz)
 * Angeltanked (angelchopped)
 * AnielicA (ANIELICA01)
-* Anime Revolt (RedWEBE3)
+* Anime Revolt (Hashir4553)
 * Ant (Cringley)
 * Ant Antixx (Ant_Antixx)
 * ApplyingTM (ApplyingTM)
@@ -305,7 +305,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * CrazyErzy (CrazyErzy7u7)
 * Cristi Suki (CristiSukiYT)
 * CrystalSims (CrystalSims)
-* CubeINC (Cube)
+* CubeINC (RealCubeINC)
 * Curtified (CurtifiedYT)
 * Cute Cookie Gaming (CuteCookieGaming05)
 * Daffa super (Daffa_super2)
@@ -484,7 +484,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * King Luffy (KingLuffy_YTsub2me)
 * KingOfYouTube (WELIX)
 * kitsubee (KlTSUBEE)
-* Kitt Gaming (kitt)
+* Kitt Gaming (starcode_kitt)
 * Kodak (KodakOF)
 * KraoESP (KraoESP)
 * Kreative Kyle (Kreative_Kyle)
@@ -615,7 +615,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Play with me - Apps and Games (da\_dania and kaan\_xy2)
 * Plech (PlechitoYT)
 * Plique Games (PliqueYT)
-* Poke (Poke)
+* Poke (Pokediger1)
 * PolarCub (PolarCub)
 * Premiumsalad (premiumsalad)
 * PrestonGamez (PrestonPlayz)
@@ -697,7 +697,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sniffycat (SnickerHoops)
 * Snug Life (YT_SnugLife)
 * Sofia Tube (sofiatube7)
-* Solem Archive (Jack)
+* Solem Archive (iJackeryz)
 * Sons Of Fun (SonsofFun_YT)
 * Sonti (Sonti)
 * Sopo Squad Gaming (mikedrop937, CammyxBoba, and soposhadow)
@@ -711,7 +711,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SrJuancho (JuanchoAcostado)
 * SrtaLuly (SrtaLuly03)
 * Stanjee (Stanjeeplayz)
-* steak (steak)
+* steak (steakwad)
 * Stevebloxian (steven111234)
 * stream CA Roblox (stream\_CA and Dominus\_CA)
 * Striker180x (strikerl80x)
@@ -777,7 +777,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Veyar (VeyarYT)
 * ViewSIM (ViewYT)
 * VikingPrincessJazmin (VikingPrincessJazmin)
-* Viktor (Viktor)
+* Viktor (Hihi2234xd2)
 * Vindooly (vindooly)
 * Vitamine (VitamineRoblox)
 * Vitória MineBlox (vitoriamineblox11, anamineblox11, and JackieMineBlox11)
