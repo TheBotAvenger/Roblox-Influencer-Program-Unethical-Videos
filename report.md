@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 26, 2025<br>
+Generated April 28, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 995,283 videos
-* Total videos found that match keywords: 57,265 videos
-  * Total unprocessed videos: 11,245 videos
+* Total videos found that match keywords: 57,291 videos
+  * Total unprocessed videos: 11,271 videos
 * Total videos found that are processed and marked: 49 videos 
   * Non-Giftcard Robux Giveaways: 42 videos
   * Information Collection: 6 videos
@@ -290,7 +290,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Chizeled (Chizeled_YT)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
-* Christocream (Christocream)
+* Christocream Roblox (Christocream)
 * Chrisu (ChristsuYT)
 * cKev (cKev)
 * Claus (ClausOFC)
@@ -767,7 +767,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TwiistedPandora (TwistedPandora)
 * Tyler & Snowi (snowi_fox)
 * Unlimited (Unlimited_Resources)
-* Uzoth (Nick)
+* Uzoth (Uzoth)
 * V2 Plays (MinniiHxpe and toreject)
 * Valen Latina (Valen_Latina)
 * vanilbean (VanilBean)
