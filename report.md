@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 4, 2025<br>
+Generated May 5, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 997,530 videos
-* Total videos found that match keywords: 57,291 videos
-  * Total unprocessed videos: 11,271 videos
+* Total videos found that match keywords: 57,315 videos
+  * Total unprocessed videos: 11,295 videos
 * Total videos found that are processed and marked: 570 videos 
   * Information Collection: 482 videos
   * Non-Giftcard Robux Giveaways: 87 videos
@@ -405,6 +405,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Gravycatman (GrumpyGravy)
 * GroovyDominoes52 (GroovyDominoes52)
 * Gunslaya (iGunslaya)
+* Hakobe (PHMittensSTARCreator)
 * HandN (xHandNx)
 * hannnahlovescows (hannnahlovescows)
 * HappyBlack (HappyThreePro)
@@ -609,7 +610,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PeetahBread (PeetahBread)
 * Peter Toys (PeterToys)
 * PghLFilms (PGHLego1945)
-* PHMittens (PHMittensSTARCreator)
 * Phoeberry (Phoeberry)
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
