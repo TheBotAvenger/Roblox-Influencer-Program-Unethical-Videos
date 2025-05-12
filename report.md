@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 11, 2025<br>
+Generated May 12, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 999,714 videos
-* Total videos found that match keywords: 57,315 videos
-  * Total unprocessed videos: 11,295 videos
+* Total videos found that match keywords: 57,337 videos
+  * Total unprocessed videos: 11,317 videos
 * Total videos found that are processed and marked: 41 videos 
   * Non-Giftcard Robux Giveaways: 35 videos
   * Information Collection: 5 videos
@@ -337,7 +337,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * dragonplatinum (dragonplatinum)
 * DrakeTacos (Brianvid19)
 * Drei Diego (AndreiEon124)
-* DuckXander (FoamyBubbIes)
 * DUDU Betero (Pao_Paodequeij0, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
 * El Magnum (MagnumStormus)
@@ -470,7 +469,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Juega y Diviertete con Vicky (Vickycasti_laPro)
 * Juicy John (Majojocl)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
-* Julianbank 2 (blvckbank)
+* Julianbank (blvckbank)
 * Junell Dominic (Junewuuu)
 * JunRoots (cheeseandcakejuice)
 * JustHarrison (JustHarrisonYT)
@@ -506,6 +505,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lawlieet 20 (XLAWLIEETX)
 * LcLc (LcLcO1)
 * Leah Ashe (NotLeah)
+* LegendLeo (FoamyBubbIes)
 * Legolaz (LegolazYoutube)
 * Lenay (lenay_ROBLOX)
 * Leshero Morrazo (MoroSamy)
