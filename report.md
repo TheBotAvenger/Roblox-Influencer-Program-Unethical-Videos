@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 27, 2025<br>
+Generated May 28, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,10 +185,10 @@ to the report if this happens.
 * Total videos: 1,006,431 videos
 * Total videos found that match keywords: 57,386 videos
   * Total unprocessed videos: 11,366 videos
-* Total videos found that are processed and marked: 41 videos 
+* Total videos found that are processed and marked: 49 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 6 videos
-  * Phishing: 1 video
+  * Information Collection: 12 videos
+  * Phishing: 3 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -431,6 +431,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * InceptionTime (InceptionTime)
 * Inemafoo (Inemajohn)
 * InquisitorMaster (inquisitormaster)
+* IntelPlayz (IamRoBuilder)
 * It's Akeila (itsakeila)
 * It's Siena (ItsNotSiena3)
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
@@ -796,7 +797,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Wittyyb (Wittyyb)
 * Woozlo (Woozlo)
 * XdarzethX - Roblox & More! (xdarzethx)
-* Xegothasgot (Xegot)
 * xEnesR (xEnesR)
 * XenoTy (xXenoTy)
 * Xeric (XericPlayz)
@@ -839,11 +839,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
-* IntelPlayz (IamRoBuilder)
-  * Information Collection
-    * MY NEW BEST PET (Super Good) | Pet Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=umYGQjZfOP4
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
@@ -873,6 +868,36 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
+* Xegothasgot (Xegot)
+  * Information Collection
+    * HOW TO GET FREE ROBUX IN LESS THAN 1 MINUTE! \*\*Not Clickbait\*\*
+      * Description references the data collection website earnrobux.gg/online/zone/com.
+      * URL: https://www.youtube.com/watch?v=qmcgx0wJurc
+    * ATV BUGGY & DONUT SHOP! (ROBLOX Jailbreak) \[NEW UPDATE\]
+      * Description references a video offering Robux for downloading apps. Apps sometimes require signups which requires asking for personal information.
+      * URL: https://www.youtube.com/watch?v=lruqN9n_PTE
+    * ROBLOX | GOLD DIGGER PRANK! \[\#3\] | Roblox Social Experiment - (Gold Digger EXPOSED!!!)
+      * Description references a video offering Robux for downloading apps. Apps sometimes require signups which requires asking for personal information.
+      * URL: https://www.youtube.com/watch?v=MzN2bci0AEE
+    * Play ROBLOX On June 28th! \*ROBLOX WON'T BE HACKED\* (w/ Proof)
+      * Description references a video offering Robux for downloading apps. Apps sometimes require signups which requires asking for personal information.
+      * URL: https://www.youtube.com/watch?v=BcrTfmhJR0s
+    * ROBLOX | GOLD DIGGER PRANK! | Roblox Social Experiment
+      * Description references a video offering Robux for downloading apps. Apps sometimes require signups which requires asking for personal information.
+      * URL: https://www.youtube.com/watch?v=5Kf2jvrUUOU
+    * ROBLOX Jaibreak: How to Rob Jewelry Store Without Dying! - EARN $500k IN ROBBERY?!?
+      * Description references a video offering Robux for downloading apps. Apps sometimes require signups which requires asking for personal information.
+      * URL: https://www.youtube.com/watch?v=aTER3ODKzEY
+    * How to Get FREE ROBUX on Roblox! (NOT CLICKBAIT) \[MAY 2017\]
+      * Vidoe is about offering Robux for downloading apps. Apps sometimes require signups which requires asking for personal information.
+      * URL: https://www.youtube.com/watch?v=cSS12WVEBoI
+  * Phishing
+    * HACKING MY FANS ROBLOX ACCOUNTS! (Part 2) - Surprised Them With Robux!!!
+      * Offers to give Robux in exchange for a username and password via direct messages on Instagram.
+      * URL: https://www.youtube.com/watch?v=uqNPcqXwaJo
+    * HACKING A FANS ROBLOX ACCOUNT! (Free Robux & Builders Club)
+      * Offers to give Robux in exchange for a username and password via direct messages on Instagram.
+      * URL: https://www.youtube.com/watch?v=2odplgBeGh8
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
