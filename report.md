@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 1, 2025<br>
+Generated June 2, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,11 +183,11 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,006,431 videos
-* Total videos found that match keywords: 57,386 videos
-  * Total unprocessed videos: 11,366 videos
-* Total videos found that are processed and marked: 49 videos 
+* Total videos found that match keywords: 57,524 videos
+  * Total unprocessed videos: 11,500 videos
+* Total videos found that are processed and marked: 53 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 12 videos
+  * Information Collection: 16 videos
   * Phishing: 3 videos
 
 ### No Videos Found
@@ -670,7 +670,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * S\_Viper (S\_Viper)
 * SamHandling (Digito)
 * Sant (heysant2018)
-* Santino Tossi (SantinoTossi03)
 * Saoli (saoli11)
 * SATSHA JUEGA (yt_SATSHAJUEGA)
 * ScooterSmash0 (ScooterSmasher0)
@@ -844,6 +843,20 @@ The following channels had nothing appear with manual searching. Videos may exis
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
+* Santino Tossi (SantinoTossi03)
+  * Information Collection
+    * 🤑 40 CÓDIGOS DE BLOX FRUITS CODES ROBLOX \*FEBRERO 2025\*
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=7_YyLibVF2I
+    * 🤑 28 CÓDIGOS DE BLOX FRUITS CODES ROBLOX \*ENERO 2025\*
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=iPYYOaFzxJc
+    * 🤑 35 CÓDIGOS DE BLOX FRUITS CODES ROBLOX \*DICIEMBRE 2024\*
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=kkiwhng7W_k
+    * 🤑 34 CÓDIGOS DE BLOX FRUITS CODES ROBLOX \*NOVIEMBRE 2024\*
+      * Description references the data collection website rbxgum.com.
+      * URL: https://www.youtube.com/watch?v=ehfi3MNZXg0
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
