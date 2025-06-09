@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 8, 2025<br>
+Generated June 9, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,008,651 videos
-* Total videos found that match keywords: 57,524 videos
-  * Total unprocessed videos: 11,500 videos
+* Total videos found that match keywords: 57,551 videos
+  * Total unprocessed videos: 11,527 videos
 * Total videos found that are processed and marked: 41 videos 
   * Non-Giftcard Robux Giveaways: 35 videos
   * Information Collection: 5 videos
@@ -366,7 +366,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Fera (Fera)
 * FGTeeV (FGTeeV and DrizzMcNizz)
 * Fini Juega (FiniJuega)
-* FishyBlox (FishyBloxYT)
+* FishyBlox (roblox\_user\_1272625300)
 * FlameRBX (SnowRBX_Youtube)
 * Flamingo (mrflimflam)
 * flashii (flashiilindo)
