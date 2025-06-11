@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 10, 2025<br>
+Generated June 11, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,8 @@ to the report if this happens.
 * Total videos: 1,010,929 videos
 * Total videos found that match keywords: 57,551 videos
   * Total unprocessed videos: 11,527 videos
-* Total videos found that are processed and marked: 41 videos 
-  * Non-Giftcard Robux Giveaways: 35 videos
+* Total videos found that are processed and marked: 40 videos 
+  * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 5 videos
   * Phishing: 1 video
 
@@ -636,6 +636,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Rainster (RainsterYT)
 * Rainway (UseCode_Rainway)
 * Rajo END (Rajo_END)
+* RAMBLING RAMUL (RamblingRamul)
 * Rax (RaxBLX)
 * Razor (mprazor)
 * RazorFishGaming (UseCodeRAZORFISH and RazorFishPengi)
@@ -844,11 +845,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
-* RAMBLING RAMUL (RamblingRamul)
-  * Non-Giftcard Robux Giveaways
-    * 50 ROBUX GIVEAWAY EVERY 10 MIN IN JAILBREAK ROBLOX
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=vlYsD5-kLSs
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
