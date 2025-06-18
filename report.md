@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 17, 2025<br>
+Generated June 18, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 1,014,799 videos
 * Total videos found that match keywords: 57,657 videos
   * Total unprocessed videos: 11,633 videos
-* Total videos found that are processed and marked: 40 videos 
+* Total videos found that are processed and marked: 41 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 5 videos
+  * Information Collection: 6 videos
   * Phishing: 1 video
 
 ### No Videos Found
@@ -431,7 +431,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * InceptionTime (InceptionTime)
 * Inemafoo (Inemajohn)
 * InquisitorMaster (inquisitormaster)
-* IntelPlayz (IamRoBuilder)
 * It's Akeila (itsakeila)
 * It's Siena (ItsNotSiena3)
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
@@ -841,6 +840,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
+* IntelPlayz (IamRoBuilder)
+  * Information Collection
+    * WE MADE A PENGUIN ARMY (Unlimited Money) | Beach Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=XmhbSQNeglY
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
