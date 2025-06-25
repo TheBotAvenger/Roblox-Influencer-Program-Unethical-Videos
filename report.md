@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 24, 2025<br>
+Generated June 25, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 1,017,119 videos
 * Total videos found that match keywords: 57,684 videos
   * Total unprocessed videos: 11,660 videos
-* Total videos found that are processed and marked: 41 videos 
-  * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 6 videos
+* Total videos found that are processed and marked: 43 videos 
+  * Non-Giftcard Robux Giveaways: 37 videos
+  * Information Collection: 5 videos
   * Phishing: 1 video
 
 ### No Videos Found
@@ -431,6 +431,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * InceptionTime (InceptionTime)
 * Inemafoo (Inemajohn)
 * InquisitorMaster (inquisitormaster)
+* IntelPlayz (IamRoBuilder)
 * It's Akeila (itsakeila)
 * It's Siena (ItsNotSiena3)
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
@@ -471,7 +472,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Julianbank (blvckbank)
 * Junell Dominic (Junewuuu)
 * JunRoots (cheeseandcakejuice)
-* JustHarrison (JustHarrisonYT)
 * jvnq (jvnqYT)
 * JymbowSlice (JymbowSliceYT)
 * Kaden Fumblebottom (jokerkid5898)
@@ -840,11 +840,17 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
-* IntelPlayz (IamRoBuilder)
-  * Information Collection
-    * WE MADE A PENGUIN ARMY (Unlimited Money) | Beach Simulator
-      * Description references the data collection website irobux.com.
-      * URL: https://www.youtube.com/watch?v=XmhbSQNeglY
+* JustHarrison (JustHarrisonYT)
+  * Non-Giftcard Robux Giveaways
+    * 🔴 DOING THE 20,000 ROBUX GIVEAWAY LIVE!!!
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=F6SpRGVTviE
+    * (ENDED) 5 PEOPLE WILL WIN 4,000 ROBUX EACH!!! (Tower Defense Simulator - ROBLOX)
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=U8HJSDkPabY
+    * (OVER) 2,500 ROBUX GIVEAWAY!!! LAST CHANCE TO GET TOXIC GUNNER (Tower Defense Simulator - ROBLOX)
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=Qnq6AuArpdM
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
