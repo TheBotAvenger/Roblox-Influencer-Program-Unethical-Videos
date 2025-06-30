@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 29, 2025<br>
+Generated June 30, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,017,119 videos
-* Total videos found that match keywords: 57,684 videos
-  * Total unprocessed videos: 11,660 videos
+* Total videos found that match keywords: 57,708 videos
+  * Total unprocessed videos: 11,684 videos
 * Total videos found that are processed and marked: 43 videos 
   * Non-Giftcard Robux Giveaways: 37 videos
   * Information Collection: 5 videos
@@ -354,6 +354,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Euri Wings (EuriWings)
 * Evanbear1 (Evanbear1)
 * EYYCHEEV (EYYCHEEV)
+* F (fminusmic)
 * FadedPlayz (YTFadedPlayz)
 * faeglow (faeglow)
 * FakerUp (NotFakerUp)
@@ -374,7 +375,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FloatyZone (FloatyZone)
 * Flxral (xoFlxral)
 * FlyBorg (KaykBlox)
-* Fminus (fminusmic)
 * Folix (Mrpresident1302)
 * Foltyn (TheRealFoltyn)
 * Foncri (Foncri)
