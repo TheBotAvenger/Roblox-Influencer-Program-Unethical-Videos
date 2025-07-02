@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 1, 2025<br>
+Generated July 2, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 1,019,481 videos
 * Total videos found that match keywords: 57,708 videos
   * Total unprocessed videos: 11,684 videos
-* Total videos found that are processed and marked: 43 videos 
-  * Non-Giftcard Robux Giveaways: 37 videos
-  * Information Collection: 5 videos
+* Total videos found that are processed and marked: 45 videos 
+  * Non-Giftcard Robux Giveaways: 35 videos
+  * Information Collection: 9 videos
   * Phishing: 1 video
 
 ### No Videos Found
@@ -316,7 +316,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
 * DeeterPlays (DeeterPlays)
-* DefildPlays (DefildPlays)
 * DeGoBooM (BumiReal)
 * Denis (DenisDaily)
 * DernD (StarCode_dernd)
@@ -472,6 +471,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Julianbank (blvckbank)
 * Junell Dominic (Junewuuu)
 * JunRoots (cheeseandcakejuice)
+* JustHarrison (JustHarrisonYT)
 * jvnq (jvnqYT)
 * JymbowSlice (JymbowSliceYT)
 * Kaden Fumblebottom (jokerkid5898)
@@ -558,7 +558,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MIKEYDOOD (IMMIKEYDOOD)
 * Mila FunPlayer (trxmila)
 * MiniBloxia (SubToMiniBloxia)
-* MM2 Chillz (ChillzSubZero)
 * Model8197 (Modeldog8197)
 * MoFlare (MoFlare)
 * Moody Unicorn Twin - Roblox (moodyunicorntwin)
@@ -803,7 +802,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Xeric (XericPlayz)
 * xiaoleung (xiaoleung)
 * xMarcelo (xMarcelo)
-* Xou (xouzin7)
 * Xpie (Xpie)
 * Yammy (yammyxox)
 * Yayixd Changuito 🐵 (YAYIXDCHANGU)
@@ -840,22 +838,24 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
-* JustHarrison (JustHarrisonYT)
-  * Non-Giftcard Robux Giveaways
-    * 🔴 DOING THE 20,000 ROBUX GIVEAWAY LIVE!!!
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=F6SpRGVTviE
-    * (ENDED) 5 PEOPLE WILL WIN 4,000 ROBUX EACH!!! (Tower Defense Simulator - ROBLOX)
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=U8HJSDkPabY
-    * (OVER) 2,500 ROBUX GIVEAWAY!!! LAST CHANCE TO GET TOXIC GUNNER (Tower Defense Simulator - ROBLOX)
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=Qnq6AuArpdM
+* DefildPlays (DefildPlays)
+  * Information Collection
+    * FREE Halloween Moon Pet & Candy Codes In Saber Simulator! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=b3b2o25FVjY
+    * 😔Noob VS 😎Pro VS 😈HACKERS In ROBLOX SKYBLOCK! \*Funny\*✨
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=sFXytKCo3l0
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
+* MM2 Chillz (ChillzSubZero)
+  * Non-Giftcard Robux Giveaways
+    * I Surprised A FAN With 10,000 FREE ROBUX… \#roblox \#shorts
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=XUjFXIFvqJY
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
@@ -880,6 +880,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
+* Xou (xouzin7)
+  * Information Collection
+    * TESTEI os PERSONAGENS 2 ESTRELAS e FIQUEI SURPRESO COM O QUE ACONTECEU no ALL STAR TOWER DEFENSE !!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=wiFE9lwpRYE
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
