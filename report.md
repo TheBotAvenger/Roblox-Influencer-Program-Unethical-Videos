@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 8, 2025<br>
+Generated July 9, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 1,021,962 videos
 * Total videos found that match keywords: 57,741 videos
   * Total unprocessed videos: 11,717 videos
-* Total videos found that are processed and marked: 45 videos 
-  * Non-Giftcard Robux Giveaways: 35 videos
-  * Information Collection: 9 videos
+* Total videos found that are processed and marked: 70 videos 
+  * Information Collection: 35 videos
+  * Non-Giftcard Robux Giveaways: 34 videos
   * Phishing: 1 video
 
 ### No Videos Found
@@ -316,6 +316,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
 * DeeterPlays (DeeterPlays)
+* DefildPlays (DefildPlays)
 * DeGoBooM (BumiReal)
 * Denis (DenisDaily)
 * DernD (StarCode_dernd)
@@ -440,7 +441,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ItsFunneh (Funnehcake)
 * ItsMatrix (MatrixPlaysRB)
 * ItzSweaking (ItzSweaking)
-* ItzVexo (ItzVexo_STARCODE)
 * J-Bug (J_Buggo)
 * Jake Globox (JakeGlobox)
 * Jake Pudding (JakeZPudding)
@@ -509,7 +509,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lenay (lenay_ROBLOX)
 * Leshero Morrazo (MoroSamy)
 * LiaBlossoms (LiaBlossoms)
-* Liege North (LiegeNorth)
 * LilahBloxy (3lilahbloxy)
 * Lilly BloxTV (Lilly_TVs)
 * LimaMosca (LimaMosca)
@@ -558,6 +557,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MIKEYDOOD (IMMIKEYDOOD)
 * Mila FunPlayer (trxmila)
 * MiniBloxia (SubToMiniBloxia)
+* MM2 Chillz (ChillzSubZero)
 * Model8197 (Modeldog8197)
 * MoFlare (MoFlare)
 * Moody Unicorn Twin - Roblox (moodyunicorntwin)
@@ -802,6 +802,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Xeric (XericPlayz)
 * xiaoleung (xiaoleung)
 * xMarcelo (xMarcelo)
+* Xou (xouzin7)
 * Xpie (Xpie)
 * Yammy (yammyxox)
 * Yayixd Changuito 🐵 (YAYIXDCHANGU)
@@ -838,24 +839,112 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
-* DefildPlays (DefildPlays)
+* ItzVexo (ItzVexo_STARCODE)
   * Information Collection
-    * FREE Halloween Moon Pet & Candy Codes In Saber Simulator! Roblox
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=b3b2o25FVjY
-    * 😔Noob VS 😎Pro VS 😈HACKERS In ROBLOX SKYBLOCK! \*Funny\*✨
-      * Description references the data collection website p4f.gg.
-      * URL: https://www.youtube.com/watch?v=sFXytKCo3l0
+    * The SECRET HAT CRATE IN ROBLOX BUBBLE GUM SIMULATOR! (Glitch?)
+      * Description references the data collection website gainblox.com.
+      * URL: https://www.youtube.com/watch?v=Oil38_6fVWo
+* Liege North (LiegeNorth)
+  * Information Collection
+    * MAKE INVISIBLE AND CUSTOM PORTALS!!! - Build a Boat For Treasure PORTAL UPDATE! ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=ViFPBvSMzE4
+    * How to Get TELEPORTERS in the NEW PORTAL UPDATE!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=a6wd3DsJwF4
+    * ALL NEW CHEST LOCATIONS!!!!! - Build a Boat For Treasure PORTAL UPDATE! ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=lm5j7NJmHqs
+    * BASKETBALL in Build a Boat For Treasure ROBLOX!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=dTG362U12R0
+    * BASEBALL in Build a Boat For Treasure ROBLOX!
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=eYU9Te-uYgk
+    * GOD WALK GLITCH!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=9WamaYaQRw8
+    * TELEPORTING CAR GLITCH!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=gdfd2LJJb3Q
+    * Disappearing Blocks Glitch?! (Very Strange 🤔) - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=txyE_nnH3XU
+    * TREADMILL GLITCH!!! (Run in Place!) - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=xGQ2QGEHcbQ
+    * BACK FLIP GLITCH!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=g3Yh4QQrEbg
+    * INVISIBLE GAP FLOATING GLITCH!!! - Build a Boat For Treasure NEW Update! Boss, Chests & MORE! ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=nYYTuvbpSQ0
+    * Throw Objects with POTIONS!!! (Potion Glitch + TP Glitch!!) - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=PwVI90pXNBI
+    * HOW TO GET IN THE SECRET BOSS PLACE!!! - Build a Boat For Treasure ROBLOX (Read pinned comment)
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=4J0A2x6G7Jk
+    * NEW UPDATE!!! BOSS, HIDDEN CHESTS, POTIONS & MORE!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=sM9lKIo-3IY
+    * SECRETLY CONTROL OTHERS'  CAR PARTS!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=2fdy3_u19QE
+    * NUKE BLOCKS!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=Cg9rpZBE1Bo
+    * SPIDER SPIRAL MECH!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website bloxawards.com.
+      * URL: https://www.youtube.com/watch?v=8RJiLw8DpGU
+    * BLACK HOLE GLITCH!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=RJksBVBcmQo
+    * Ballerina Glitch!!! - Build a Boat For Treasure ROBLOX
+      * Description references the data collection website earnrobux.gg/online/zone/com.
+      * URL: https://www.youtube.com/watch?v=bh5zrdpBihA
+    * 3 Life Hacks in Build a Boat For Treasure ROBLOX!
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=sLLtI-zfodo
+    * Infinitely Extend Springs!!! - Build a Boat 4th of July Update! 🎆 ROBLOX
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=driBWNIOPoM
+    * Floating Blocks Glitch!! - Build a Boat NEW Hinge Block! ROBLOX
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=mSizNYUw6c8
+    * ALL WORKING CODES!!! (Until July 7th 2019) - Build a Boat ROBLOX
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=AZv8nP6e6wg
+    * Orbit Hinge Glitch!!! ☄️ - Build a Boat 4th of July Update! 🎆 ROBLOX
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=flGYaymhGDA
+    * NEW 4th of July Build a Boat UPDATE!!! - ROBLOX
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=VO3oj9gfQ1w
+    * EPIC UFO Hinge Glitch!!! - Build a Boat ROBLOX
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=2rYHyiPEt4U
+    * Make Zig Zags Using Hearts! ♥️ - Build a Boat ROBLOX
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=b12wu7Nqb18
+    * NEW OP Lockable Door & Dynamite Grinding Glitch!!! - Build a Boat HATCHING EGGS UPDATE! 🐣 ROBLOX
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=vuAuC237bgQ
+    * FASTEST Piston Speed/Grinding Glitch!!! 🤑 - Build a Boat EGGS HATCHING UPDATE! 🐣 ROBLOX
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=-FMDsrgLb-Q
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
-* MM2 Chillz (ChillzSubZero)
-  * Non-Giftcard Robux Giveaways
-    * I Surprised A FAN With 10,000 FREE ROBUX… \#roblox \#shorts
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=XUjFXIFvqJY
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
@@ -880,11 +969,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* Xou (xouzin7)
-  * Information Collection
-    * TESTEI os PERSONAGENS 2 ESTRELAS e FIQUEI SURPRESO COM O QUE ACONTECEU no ALL STAR TOWER DEFENSE !!
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=wiFE9lwpRYE
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
