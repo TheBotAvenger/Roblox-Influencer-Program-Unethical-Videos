@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 22, 2025<br>
+Generated July 23, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,11 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 1,026,643 videos
 * Total videos found that match keywords: 57,795 videos
-  * Total unprocessed videos: 11,771 videos
-* Total videos found that are processed and marked: 42 videos 
-  * Non-Giftcard Robux Giveaways: 35 videos
-  * Information Collection: 6 videos
+  * Total unprocessed videos: 11,773 videos
+* Total videos found that are processed and marked: 122 videos 
+  * Non-Giftcard Robux Giveaways: 42 videos
+  * Information Collection: 40 videos
+  * Other: 39 videos
   * Phishing: 1 video
 
 ### No Videos Found
@@ -296,7 +297,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Claus (ClausOFC)
 * Cleanse Beam (CleanseBeam)
 * ComfySunday (ComfySunday)
-* Complex Roblox (IamComplexRoblox)
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutter)
 * corny (co_rny)
@@ -316,7 +316,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
 * DeeterPlays (DeeterPlays)
-* DefildPlays (DefildPlays)
 * DeGoBooM (BumiReal)
 * Denis (DenisDaily)
 * DernD (StarCode_dernd)
@@ -346,6 +345,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Elitelupus (elitelupus)
 * Ella (ellasparis)
 * EmpireBlox (EmpireBloxOficial)
+* Erik Carr (ErikCarrKZ)
 * ErnieC3 (ErnieC3_YouTube)
 * Estela (Estelacoutin)
 * EthanGamer (EthanGamerTV)
@@ -430,7 +430,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * InceptionTime (InceptionTime)
 * Inemafoo (Inemajohn)
 * InquisitorMaster (inquisitormaster)
-* IntelPlayz (IamRoBuilder)
 * It's Akeila (itsakeila)
 * It's Siena (ItsNotSiena3)
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
@@ -471,7 +470,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Julianbank (blvckbank)
 * Junell Dominic (Junewuuu)
 * JunRoots (cheeseandcakejuice)
-* JustHarrison (JustHarrisonYT)
 * jvnq (jvnqYT)
 * JymbowSlice (JymbowSliceYT)
 * Kaden Fumblebottom (jokerkid5898)
@@ -582,6 +580,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * NavyXFlame (NavyXFlame)
 * Nicole Kimmi (Nicole_Kimmi)
 * Nicole Maffi (NicoleMaffi and vanessamaffi)
+* NightFoxx (NightFoxx)
 * Ninjagaming (Ninjagaming)
 * NO\_DATA (NO\_DATA)
 * Noob Master (N00B_Mast3rXD)
@@ -798,7 +797,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XdarzethX - Roblox & More! (xdarzethx)
 * Xegothasgot (Xegot)
 * xEnesR (xEnesR)
-* XenoTy (xXenoTy)
 * Xeric (XericPlayz)
 * xiaoleung (xiaoleung)
 * xMarcelo (xMarcelo)
@@ -839,21 +837,53 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
-* Erik Carr (ErikCarrKZ)
+* Complex Roblox (IamComplexRoblox)
+  * Non-Giftcard Robux Giveaways
+    * 10k robux giveaway?!!!
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=C-LnZh8016o
+    * 15k Robux Giveaway 🤩👏
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=wYWTj1BzwHY
+    * 10k ROBUX GIVEAWAY!? 🤩😍✨
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=hLU4V3Q_MR0
+    * FREE ROBUX GIVEAWAY..🤩🤗 \#roblox \#shorts
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=HpaPH0FsG-c
+    * FREE ROBUX GIVEAWAY-?!
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=SGQHBpt-GeM
+* DefildPlays (DefildPlays)
   * Information Collection
-    * NOVO CAPÍTULO PIGGY? (Zoológico) - Roblox
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=XYLMDSgAqS4
+    * SECRET 24 Hour Life Hack Boost Codes In Clicking Legends! Roblox
+      * Description references the data collection website p4f.gg.
+      * URL: https://www.youtube.com/watch?v=VWr5ypqBhn8
+    * HOW OP IS THE LEGENDARY DRILL AND SCOOPS!? \*6500$+ EACH SECOND!!\* - Roblox treasure hunt simulator
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=zE9pOAmeewE
+  * Non-Giftcard Robux Giveaways
+    * SECRET OWNER TURKEY PET CODES IN SABER SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=l3WmiGs8MmQ
+* IntelPlayz (IamRoBuilder)
+  * Information Collection
+    * HE MADE A DISSTRACK ON ME (Reaction)
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=ZwR0ub0qmJo
+    * CREATING A GIANT PENGUIN! | Pet Simulator
+      * Description references the data collection website irobux.com.
+      * URL: https://www.youtube.com/watch?v=JA8rR5LLRYg
+* JustHarrison (JustHarrisonYT)
+  * Non-Giftcard Robux Giveaways
+    * (OVER) 2,500 ROBUX GIVEAWAY!!! LAST CHANCE TO GET TOXIC GUNNER (Tower Defense Simulator - ROBLOX)
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=Qnq6AuArpdM
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
-* NightFoxx (NightFoxx)
-  * Non-Giftcard Robux Giveaways
-    * Help Me Beat This OBBY... WIN $100,000
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=zF73iRJCN7M
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
@@ -878,6 +908,219 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
+* XenoTy (xXenoTy)
+  * Information Collection
+    * Spending 10,000 Robux To Get 0.1% Limitless & Becoming Gojou Satoru In Jujutsu Piece...
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=8uivtso9wqI
+    * I Survived as 0.1% Mangekyo OBITO in NEW Roblox Naruto Game! (The Time Of Ninja)
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=WxNvYELGMgk
+    * Rellgames Secretly BUFFED The STRONGEST Akuma In Shindo Life! \*Broken\*
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Yh_XBSC6RaY
+    * NO WAY! Rellgames Made EVERY Limited Bloodline Spinnable & Rellcoin code REVEALED In Shindo Life
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=88WJx0DQ7wc
+    * Rellgames Secretly Added The BEST Feature & You Didnt Know In Shindo life
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=SkdSV7wQJ88
+    * \[CODE\] Kamaki 3rd Stage Vs Jinshiki | Which Is Better? Shindo Life
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=P3xUWgIMvqk
+    * Shindo Life’s 2 Year Anniversary & 250k Rellcoin Challenge | Shindo Life Rellgames
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=YfszXV8h5L0
+    * \[CODE\] Flame Element REWORK Full Showcase Shindo Life Rellgames
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=yulhSQZTbXo
+    * GEN 3 BATTLE! Apol Vs Maru Vs Sparky! |  Shindo Life Rellgames
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=DPWh_rl98ps
+    * SnakeMan Platinum Bloodline Full Showcase | Shindo Life Rellgames
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=RuYHZNaAozQ
+    * This NEW Naruto Game On Roblox HAS EVERYTHING YOU WANT!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=0zYzvn_SgvA
+    * \[CODE\] The Shisui Uchiha Experience In This New Roblox Anime Game (AU REBORN)
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=uJhvPBDRh7c
+    * This NEW Roblox Anime GAME JUST RELEASED!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=YfMoDALRIoQ
+    * \[CODE\] The Deva Rengoku Rengoku Rework Will Make One Piece Fans SALTY In Shindo Life!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=7cipNtmdbxE
+    * \[CODE\] Rellgames Just Made This The Strongest Bloodline....Or Did They? | Shindo Life
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=f9ucXoIKEaA
+    * GET This God Bloodline Before It Gets REWORKED This Upcoming Update On Shindo Life!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=YCaPk2vc6-A
+    * Top 5 Strongest Bloodline's In Shindo Life! | Shindo Life Bloodline Tierlist
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Fqxb6Hypp0I
+    * Get This FREE BLOODLINE BAG Feature In This NEW Shindo Life Update!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=fUNIixJRC9I
+    * \[Shindo\] The 24 Hour Momoshiki Experience In Shindo Life | Rellgames
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Si8whY0x1pw
+    * Bruce Kenichi Vs Ryuji Kenichi! Which Is Better? Shindo Life
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=gNJbNR5m9Ck
+    * I Became A GOD In 2022 NEWEST Roblox Anime Game!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=z7y1UYxavC0
+    * \*MAX\* Raion Gaiden Sengoku Bloodline FULL SHOWCASE! Shindo Life | Rellgames
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=8xQiI7FEnjc
+    * \[CODE\] These 2 TOXIC & OP GOD BLOODLINES DESTROY NOOBS In 2v2 COMP! | Shindo Life |Shindo Life Codes
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=GVvcokTFLNQ
+    * \[CODE\] EASTWOOD KORASHI VS GHOST KORASHI! Which Is Better? | Shindo Life | Shindo Life Codes Roblox
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=k1JcYZO7cnc
+    * \[CODE\] RYUJI PLATINUM VS RYUJI KENICHI! Which Is Better? Shindo Life | Shindo Life Codes
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=UxzpK6s_vs8
+    * \[CODE\] 1250 SPIN CODES To Unlock THE ULTIMATE TENTACION MODE! | Shindo Life | Shindo Life Codes
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=g38nG0jjORg
+    * \[CODE\] USE These CODES To Unlock THE ULTIMATE TENTACION MODE! | Shindo Life | Shindo Life Codes
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Wwz4tAKNEdg
+    * \[730K CODE\] ALL NEW 6 \*FREE SPINS\* SECRET CODES in SHINDO LIFE (Shindo Life Codes)ROBLOX Shindo life
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=Mk2Kcj27WDI
+    * \[CODE\] SIX PATHS TS VS FULL SUSANOO AKUMA! Which is Better? | Roblox Shindo Life | Shindo Life
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=pg1iYIHrkE0
+    * \[CODE\] ALL NEW 5 \*FREE SPINS\* SECRET CODES in SHINDO LIFE (Shindo Life Codes)ROBLOX Shindo life
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=CFEcoRWh-d8
+    * Zoro & Luffy | ABA Ranked 2v2’s | Ft Sensei Maui | Anime Battle Arena | Roblox
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=ETuqF6n3ce4
+  * Other
+    * (MUST PLAY) This NEW Roblox Anime Game Is The BEST In 2023..!
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=FsJb0cs-QtA
+    * This NEW Roblox One Piece Game HAS The BEST DRAGON FRUIT..? (2023)
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=k8Rs8Vjl1og
+    * NEW VEGETA MOVESET In Z BATTLEGROUNDS Is INSANE..! Z Battlegrounds Update
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=SpzdS8ItX4c
+    * Spent 100 days Going From Noob To MADARA UCHIHA In Shindo Life! Rellgames
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=67cFSByL4ik
+    * The Strongest Battlegrounds UPDATE Is FINALLY Here! Metal Bat ULTIMATE Release Date Confirmed Roblox
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=qAfpYqDkQpA
+    * This NEW ROBLOX My Hero Academia Game Is On The Rise...
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=KzDQFA7Nsvg
+    * Finally Unlocked This SECRET Form In Roblox Dragon Soul | Great Ape Showcase Dragon Soul
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=2DKgJJ9AAkQ
+    * Going From NOOB to True Triple Katana in One Video! \[Blox Fruits\]
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=qUHTV0RMi1U
+    * \[CODE\] Finally Unlocked This NEW 1% Form In Roblox Dragon Soul | Ekari Technique Full Showcase
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=z5trHVp1VgA
+    * Project Slayers DAKI Blood Demon Art Is FIRE..? Obi Manipulation Showcase Reaction Project Slayers
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=5wxkp9WrQ1w
+    * FASTEST Way To Get GREAT APE FORM In NEW Roblox Dragon Soul Update
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=pf5pQOPhlqU
+    * \[CODE\] HURRY! Do This In NEW Roblox Dragon Soul UPDATE!
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=D4DrxcgO8hg
+    * UPDATE 20 NEW FRUIT | MAMMOTH Fruit Full SHOWCASE On Blox Fruits (Concept)
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=ovHiupz7YpU
+    * How To Unlock KAIOKEN FOR FORMS In NEW Roblox Dragon Soul Update!
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=ayKV8RzXxTo
+    * How To Unlock KAIOKEN In NEW Roblox Dragon Soul Update!
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=P8eaHP0TRCE
+    * UPDATE 20  | Control Awakening Full SHOWCASE On Blox Fruits (Concept)
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=mUe3i_BEp-o
+    * This ROBLOX One Piece Game JUST REWORKED Gear 4th BOUNCEMAN (Must Try)
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=Dl2-udaA3Iw
+    * I FINALLY Unlocked This 0.3% FORM In The BEST DBZ Game On Roblox! (Dragon Soul)
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=Em495Y-jOLs
+    * You HAVE To Get ULTRA INSTINCT In This ROBLOX Anime Game!
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=gwMkKirEWYs
+    * NO WAY! This Is Getting REWORKED In NEW BLOX FRUITS UPDATE 20?!
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=QSncb96BXOE
+    * This NEW Roblox NARUTO Game Has The BEST SHARINGAN KG..? Shinobi Battlegrounds Reaction
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=6Iux_hsdpz0
+    * This NEW Roblox Naruto Game Has The BEST RINNEGAN KG..?! Shinobi Battlegrounds Reaction
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=kKyctglaWws
+    * This NEW Roblox Naruto Game Has The BEST OBITO KG..?! Shinobi Battlegrounds Reaction
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=Hwpev6TutvM
+    * This NEW Roblox Naruto Game Has The BEST ITACHI MANGEKYOU KG..?! Shinobi Battlegrounds Reaction
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=8DhoxrF8r_k
+    * Can We Get The NEW RELL BLOODLINE With 1000 Spins...?
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=IofYkYP5nx0
+    * The NEW RELL BLOODLINE Is UNBELIEVABLE... | Shinobi Life 2
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=NxkXRkkoRs4
+    * \[CODE\] Rykan Shizen Rework Full Showcase | Shindo Life | Shinobi Life 2 | Rellgames
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=v8-tpa8hYCs
+    * This NEW Roblox Naruto Game Has The BEST MADARA KG..?! Shinobi Battlegrounds Reaction
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=2NP6wsOdoqQ
+    * HURRY! Do This Before Project Slayers UPDATE 2 DROPS!
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=CtLIDO7snX4
+    * Spending 100 Days As TENGEN UZUI In PROJECT SLAYERS...
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=IkgljG6MeTY
+    * This NEW One Piece Roblox Game RELEASES SOON...!
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=cgN0SQbXV2Q
+    * Shinobi life 2 Update Release Date | Rell Bloodline Pre Showcase | NEW EVENT | Rellgames Shindo life
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=PXwou60gVO0
+    * (CODE) Light Fruit Full Showcase | Pixel piece
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=5LFfpYIaXdA
+    * You NEED To Try This NEW Roblox Chainsaw Man BATTLEGROUNDS GAME!
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=fOlw6yVJm_A
+    * The Story Of RELLGAMES Is INSANE...
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=hUmRgH3PgOU
+    * Becoming AKAZA in 24 Hours (Project Slayers)
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=iXos_EIzlys
+    * Spending 100 Days As MUCHIRO Tokito In PROJECT SLAYERS...
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=3DdqUzm3IfM
+    * (CODE) FISHMAN KARATE Full Showcase Pixel Piece
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=WY2nINj2uF4
+    * (CODE) Daki's BDA Is CONFIRMED Coming To Project Slayers UPDATE 2!
+      * Description references the "black market for limiteds and Robux" ro.place.
+      * URL: https://www.youtube.com/watch?v=ti_3hA7bHcg
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
