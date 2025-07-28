@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 27, 2025<br>
+Generated July 28, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,11 +183,11 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,026,643 videos
-* Total videos found that match keywords: 57,795 videos
-  * Total unprocessed videos: 11,773 videos
-* Total videos found that are processed and marked: 122 videos 
+* Total videos found that match keywords: 57,819 videos
+  * Total unprocessed videos: 11,796 videos
+* Total videos found that are processed and marked: 123 videos 
   * Non-Giftcard Robux Giveaways: 42 videos
-  * Information Collection: 40 videos
+  * Information Collection: 41 videos
   * Other: 39 videos
   * Phishing: 1 video
 
@@ -197,7 +197,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * 3SB Games (cakemiix and 3SBMiichael)
 * Aati Plays (AatiPlays_Official)
 * AbsintoJ (AbsintoJYT)
-* Acenix (roblox\_user\_908886998)
+* Acenix (AcenixGatoo)
 * AEREN (AaronDRonin)
 * AidanGamerHD (AidanGamerHDXD)
 * AL3XEY (AL3XEEY)
@@ -452,7 +452,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Jeancof (Jeancof)
 * JeffBlox (JeeffBlox)
 * JehxTp (JehxTp)
-* Jello Queen (JelloQueenYT)
 * Jenstine (jenstine and jenstinex)
 * Jeny\_Punker (Jeny\_Punker)
 * JesuaCunnigham (Jesua_Cunnigham)
@@ -464,6 +463,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JonesGotGame (JonesGotGame)
 * Juaumzinho (JUAUMZONES)
 * Judo Unicorn (judounicorn11)
+* Judy Abouwafia (JelloQueenYT)
 * Juega y Diviertete con Vicky (Vickycasti_laPro)
 * Juicy John (Majojocl)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
@@ -613,11 +613,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
 * Play with me - Apps and Games (da\_dania and kaan\_xy2)
-* Plech (PlechitoYT)
+* Plech (roblox\_user\_411966297)
 * Plique Games (PliqueYT)
 * Poke (Pokediger1)
 * PolarCub (PolarCub)
-* Premiumsalad (premiumsalad)
+* PremiumSalad (premiumsalad)
 * PrestonGamez (PrestonPlayz)
 * PREZLEY (PrezleyOfficial)
 * PRIME FURIOUS (Prime_Furious)
@@ -787,7 +787,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * WaffleTrades (WaffleTrades)
 * Waike (JJ_Waike)
 * WeirdBlox (WeirdBlox)
-* WhiteArrow (YTWhiteArrow)
 * WhoseTrade (WhoseTrade)
 * WikiaColors (WikiaColor_s)
 * WILCO (EsElWilco)
@@ -908,6 +907,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
+* WhiteArrow (YTWhiteArrow)
+  * Information Collection
+    * SE BURLAN POR SER POBRE @customuse3D \#Customuse \#RobloxUGC \#robloxoutfits \#HowtomakeRobux \#shorts
+      * Description references the data collection website makerobux.co.
+      * URL: https://www.youtube.com/watch?v=a0Xh8MyEFWo
 * XenoTy (xXenoTy)
   * Information Collection
     * Spending 10,000 Robux To Get 0.1% Limitless & Becoming Gojou Satoru In Jujutsu Piece...
