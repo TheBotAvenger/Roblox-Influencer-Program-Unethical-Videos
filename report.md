@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 3, 2025<br>
+Generated August 4, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,028,956 videos
-* Total videos found that match keywords: 57,819 videos
-  * Total unprocessed videos: 11,796 videos
+* Total videos found that match keywords: 57,846 videos
+  * Total unprocessed videos: 11,823 videos
 * Total videos found that are processed and marked: 564 videos 
   * Information Collection: 482 videos
   * Non-Giftcard Robux Giveaways: 81 videos
@@ -259,7 +259,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BramP (BramPeeee)
 * Brancoala Games (brancoalado, marcossmm, lauroala, and claudiacraudete)
 * BREN0RJ (BREN0RJ7)
-* Brigido (oCauanBrigido)
 * Brincando com a Keke (Keke_KerenYT)
 * BrittanyPlays (Britt_Blox)
 * BRYAN MCQUEEN (IamBryanMcqueen)
@@ -387,6 +386,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FusionZGamer (NotFusionZGamer)
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
+* Gamer Kawaii (lGamerKawaiiYT)
 * Gamer Robot (Zioles)
 * GamerHexapod (Hexapod_xD)
 * GamerNom (MaybeItsMyFault)
@@ -615,7 +615,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
 * Play with me - Apps and Games (da\_dania and kaan\_xy2)
-* Plech (roblox\_user\_411966297)
+* Plech (SoyPlechango)
 * Plique Games (PliqueYT)
 * Poke (Pokediger1)
 * PolarCub (PolarCub)
