@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 12, 2025<br>
+Generated August 13, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,8 @@ to the report if this happens.
 * Total videos: 1,033,619 videos
 * Total videos found that match keywords: 57,872 videos
   * Total unprocessed videos: 11,849 videos
-* Total videos found that are processed and marked: 48 videos 
-  * Non-Giftcard Robux Giveaways: 42 videos
+* Total videos found that are processed and marked: 46 videos 
+  * Non-Giftcard Robux Giveaways: 40 videos
   * Information Collection: 5 videos
   * Phishing: 1 video
 
@@ -530,6 +530,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * LunaPorDos (LunaPorDos00)
 * Lunar Eclipse (Lunar3clispe)
 * Luuy (iiLuuy)
+* luvsunny (sunshrxxm)
 * luvxshine (luvxsh1ne3)
 * Luzablxx (Lzablxx)
 * M4DARA TR (MADARATRTRTR)
@@ -843,14 +844,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * SORTEO DE ROBUX PARA ROBLOX GRATIS | Cerso Roblox en español
       * Uses a Roblox Group with group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=V5Y3MNZv4K8
-* luvsunny (sunshrxxm)
-  * Non-Giftcard Robux Giveaways
-    * ROBUX GIVEAWAY WINNERS \*SO MUCH ROBUX😱\*
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=slDo42OGX3Y
-    * HOW TO GET FREE ROBUX😳 \*2023 METHOD\*
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=IUThFHBAlYU
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
