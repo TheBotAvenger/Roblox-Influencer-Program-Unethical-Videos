@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 19, 2025<br>
+Generated August 20, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,10 +185,11 @@ to the report if this happens.
 * Total videos: 1,035,974 videos
 * Total videos found that match keywords: 57,889 videos
   * Total unprocessed videos: 11,866 videos
-* Total videos found that are processed and marked: 46 videos 
-  * Non-Giftcard Robux Giveaways: 40 videos
+* Total videos found that are processed and marked: 41 videos 
+  * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 5 videos
   * Phishing: 1 video
+  * Other: 1 video
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -282,6 +283,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * cazum8 (cazum8)
 * Ceddy (Ceddy)
 * Cee\_berry (Cee\_berry)
+* Cerso (Cerso93)
 * Chekecheto (Chekelete1)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
@@ -324,7 +326,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DfieldMark (OfficialDfield)
 * DigitizedPixels (DigitizedPixels)
 * Digopollo (DigoPollos)
-* DimerDillon (TheDimer)
 * Divine (vrcia)
 * Diário do Casal Gamer (VictorNuclear and FernandaTreta)
 * Dogbon62 (Dogbon62)
@@ -739,6 +740,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Tesla Motors (PatooLocooYT)
 * Tex HS (TexWillerHS)
 * th3c0nnman (th3c0nnman)
+* ThatGuy (ThatGuyTG)
 * The Crystalline Gamerz (Crystalaco and Emeraldoft)
 * THE KAPOLAR (Kapolar1)
 * The Meg and Mo Show (MegaSquadMo)
@@ -839,11 +841,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
-* Cerso (Cerso93)
-  * Non-Giftcard Robux Giveaways
-    * SORTEO DE ROBUX PARA ROBLOX GRATIS | Cerso Roblox en español
-      * Uses a Roblox Group with group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=V5Y3MNZv4K8
+* DimerDillon (TheDimer)
+  * Other
+    * Teleporting Simulator! (FUCK FUCK FUCK)
+      * Video, title, and description contain the "F word" 8 times.
+      * URL: https://www.youtube.com/watch?v=rh_sr6rEWWI
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
@@ -873,20 +875,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* ThatGuy (ThatGuyTG)
-  * Non-Giftcard Robux Giveaways
-    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#8
-      * URL: https://www.youtube.com/watch?v=10WGqnb_Nq0
-    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#5
-      * Gives away Robux for being arrested in Jailbreak.
-      * URL: https://www.youtube.com/watch?v=TogY_-vafSA
-    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#3
-      * URL: https://www.youtube.com/watch?v=zsYDcHOBOeg
-    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#2
-      * URL: https://www.youtube.com/watch?v=o-gB8UlqGHY
-    * \*FREE ROBUX\* ARREST ME FOR FREE ROBUX! (Roblox Jailbreak)
-      * Gives away Robux for being arrested in Jailbreak.
-      * URL: https://www.youtube.com/watch?v=gekomtzuIoE
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
