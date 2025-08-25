@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 24, 2025<br>
+Generated August 25, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,035,974 videos
-* Total videos found that match keywords: 57,889 videos
-  * Total unprocessed videos: 11,866 videos
+* Total videos found that match keywords: 57,911 videos
+  * Total unprocessed videos: 11,888 videos
 * Total videos found that are processed and marked: 41 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 5 videos
@@ -336,7 +336,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * dragonplatinum (dragonplatinum)
 * DrakeTacos (Brianvid19)
 * Drei Diego (AndreiEon124)
-* DUDU Betero (Pao_Paodequeij0, DuduBetero, SimoneBetero, and RafaBetero)
+* DUDU Betero (DUDUBetero_ofcYT, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
 * El Magnum (MagnumStormus)
 * elDanielGT (DanielGTReal)
