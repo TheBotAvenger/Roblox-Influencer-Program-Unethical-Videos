@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 31, 2025<br>
+Generated September 1, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,038,165 videos
-* Total videos found that match keywords: 57,911 videos
-  * Total unprocessed videos: 11,888 videos
+* Total videos found that match keywords: 57,931 videos
+  * Total unprocessed videos: 11,908 videos
 * Total videos found that are processed and marked: 60 videos 
   * Non-Giftcard Robux Giveaways: 48 videos
   * Information Collection: 10 videos
@@ -660,7 +660,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RODNY (RODNY_ROBLOX)
 * Rovi23 (byRovi23 and MelLovesBunnys)
 * roxhi roblox (12345roxyhi12345)
-* RoxiCake Gamer (roblox\_user\_1308519438)
+* RoxiCake Gamer (RoxiiiCakeee)
 * Royale Dior (RoyaleDior)
 * Ruby Games (ruby_rubeYT)
 * RufflesOfficial (RufflesPlaysMC)
