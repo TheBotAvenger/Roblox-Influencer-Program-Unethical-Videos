@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 14, 2025<br>
+Generated September 15, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,042,277 videos
-* Total videos found that match keywords: 57,950 videos
-  * Total unprocessed videos: 11,927 videos
+* Total videos found that match keywords: 57,966 videos
+  * Total unprocessed videos: 11,943 videos
 * Total videos found that are processed and marked: 47 videos 
   * Non-Giftcard Robux Giveaways: 37 videos
   * Information Collection: 7 videos
@@ -294,7 +294,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Chrisu (ChristsuYT)
 * cKev (cKev)
 * Claus (ClausOFC)
-* Cleanse Beam (CleanseBeam)
+* Cleansey (CleanseyFamily)
 * ComfySunday (ComfySunday)
 * Complex Roblox (IamComplexRoblox)
 * Conor3D (Conor3D)
@@ -464,7 +464,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JonesGotGame (JonesGotGame)
 * Juaumzinho (JUAUMZONES)
 * Judo Unicorn (judounicorn11)
-* Judy Abouwafia (JelloQueenYT)
 * Juega y Diviertete con Vicky (Vickycasti_laPro)
 * Juicy John (Majojocl)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
@@ -509,6 +508,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Leshero Morrazo (MoroSamy)
 * LiaBlossoms (LiaBlossoms)
 * Liege North (LiegeNorth)
+* lil juju (JelloQueenYT)
 * LilahBloxy (3lilahbloxy)
 * Lilly BloxTV (Lilly_TVs)
 * LimaMosca (LimaMosca)
