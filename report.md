@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 16, 2025<br>
+Generated September 17, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,11 +185,11 @@ to the report if this happens.
 * Total videos: 1,044,497 videos
 * Total videos found that match keywords: 57,966 videos
   * Total unprocessed videos: 11,943 videos
-* Total videos found that are processed and marked: 47 videos 
-  * Non-Giftcard Robux Giveaways: 37 videos
-  * Information Collection: 7 videos
-  * Other: 2 videos
+* Total videos found that are processed and marked: 42 videos 
+  * Non-Giftcard Robux Giveaways: 35 videos
+  * Information Collection: 5 videos
   * Phishing: 1 video
+  * Other: 1 video
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -316,7 +316,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
 * DeeterPlays (DeeterPlays)
-* DefildPlays (DefildPlays)
 * DeGoBooM (BumiReal)
 * Denis (DenisDaily)
 * DernD (StarCode_dernd)
@@ -452,6 +451,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * javie12 (javie12)
 * JD (Thexz)
 * Jeancof (Jeancof)
+* JeffBlox (JeeffBlox)
 * JehxTp (JehxTp)
 * Jenstine (jenstine and jenstinex)
 * Jeny\_Punker (Jeny\_Punker)
@@ -470,6 +470,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Julianbank (blvckbank)
 * Junell Dominic (Junewuuu)
 * JunRoots (cheeseandcakejuice)
+* JustHarrison (JustHarrisonYT)
 * jvnq (jvnqYT)
 * JymbowSlice (JymbowSliceYT)
 * Kaden Fumblebottom (jokerkid5898)
@@ -546,6 +547,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MathFacter360 (MathFacter360)
 * Matsbxb (MATSbxb)
 * mayrushart (mayrushart)
+* MedTw (MedTwYT)
 * MeEnyu (EnyuZee)
 * MeganPlays (TheMeganPlays)
 * MelzinhaMel Games (MelzinhaMelGames, Detona\_Anderson, and Princesa\_Alicinha)
@@ -797,6 +799,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * XdarzethX - Roblox & More! (xdarzethx)
 * Xegothasgot (Xegot)
 * xEnesR (xEnesR)
+* XenoTy (xXenoTy)
 * Xeric (XericPlayz)
 * xiaoleung (xiaoleung)
 * xMarcelo (xMarcelo)
@@ -837,37 +840,21 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
+* DefildPlays (DefildPlays)
+  * Non-Giftcard Robux Giveaways
+    * ROBLOX MEMES That Are BETTER Then Free Robux!
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=iuQnFLiYdwA
 * DimerDillon (TheDimer)
   * Other
     * Teleporting Simulator! (FUCK FUCK FUCK)
       * Video, title, and description contain the "F word" 8 times.
       * URL: https://www.youtube.com/watch?v=rh_sr6rEWWI
-* JeffBlox (JeeffBlox)
-  * Information Collection
-    * O PINGUIN POLICIAL HACKER NO JAILBREAK (ROBLOX)
-      * Description references a video about the data collection website bloxawards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=JNS-EEbFdpY
-* JustHarrison (JustHarrisonYT)
-  * Non-Giftcard Robux Giveaways
-    * 🔴 DOING THE 20,000 ROBUX GIVEAWAY LIVE!!!
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=F6SpRGVTviE
-    * (ENDED) 5 PEOPLE WILL WIN 4,000 ROBUX EACH!!! (Tower Defense Simulator - ROBLOX)
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=U8HJSDkPabY
-    * (OVER) 2,500 ROBUX GIVEAWAY!!! LAST CHANCE TO GET TOXIC GUNNER (Tower Defense Simulator - ROBLOX)
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=Qnq6AuArpdM
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
-* MedTw (MedTwYT)
-  * Information Collection
-    * QUAL É O MELHOR ?? ALL MIGHT VS DEKU 100% NO ALL STAR TOWER DEFENSE !!!
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=bODxx6zpC90
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
@@ -892,11 +879,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* XenoTy (xXenoTy)
-  * Other
-    * This NEW Roblox One Piece Game HAS The BEST DRAGON FRUIT..? (2023)
-      * Description references the Roblox gambling website rbxgold.com.
-      * URL: https://www.youtube.com/watch?v=k8Rs8Vjl1og
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
