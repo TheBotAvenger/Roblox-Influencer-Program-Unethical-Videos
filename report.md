@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 21, 2025<br>
+Generated September 22, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,044,497 videos
-* Total videos found that match keywords: 57,966 videos
-  * Total unprocessed videos: 11,943 videos
+* Total videos: 1,044,536 videos
+* Total videos found that match keywords: 57,985 videos
+  * Total unprocessed videos: 11,962 videos
 * Total videos found that are processed and marked: 42 videos 
   * Non-Giftcard Robux Giveaways: 35 videos
   * Information Collection: 5 videos
@@ -284,6 +284,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ceddy (Ceddy)
 * Cee\_berry (Cee\_berry)
 * Cerso (Cerso93)
+* Chef Rae (blacklowie)
 * Chekecheto (Chekelete1)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
@@ -301,7 +302,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cookie Cutter (CookieCutter)
 * corny (co_rny)
 * Cosmic (bluecosmiic)
-* Crainer (MrCrainer1422)
 * CrazyErzy (CrazyErzy7u7)
 * Cristi Suki (CristiSukiYT)
 * CrystalSims (CrystalSims)
@@ -453,6 +453,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Jeancof (Jeancof)
 * JeffBlox (JeeffBlox)
 * JehxTp (JehxTp)
+* jello queen (JelloQueenYT)
 * Jenstine (jenstine and jenstinex)
 * Jeny\_Punker (Jeny\_Punker)
 * JesuaCunnigham (Jesua_Cunnigham)
@@ -494,6 +495,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * KTG Gaming (lifetimeobcman123)
 * KunicornCraft (kawaii_kunicorn)
 * Kvssidy (kvssidy)
+* KyyBlox (ThatGuyTG)
 * LAMI (Lami_Roblox)
 * Lana's Life (Lanaraee)
 * Lani (LaniiPlayzzz)
@@ -509,7 +511,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Leshero Morrazo (MoroSamy)
 * LiaBlossoms (LiaBlossoms)
 * Liege North (LiegeNorth)
-* lil juju (JelloQueenYT)
 * LilahBloxy (3lilahbloxy)
 * Lilly BloxTV (Lilly_TVs)
 * LimaMosca (LimaMosca)
@@ -565,6 +566,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Moonfallx (moonfallx)
 * Mr. Bunny (AlanConejito_7u7)
 * Mr\_Booshot (Mr\_Booshot)
+* MrCrainer (MrCrainer1422)
 * MrLokazo86 (Lokazo86)
 * MrPankeyk (MrPankeyk)
 * Mud (DunkinMud)
@@ -739,7 +741,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Tesla Motors (PatooLocooYT)
 * Tex HS (TexWillerHS)
 * th3c0nnman (th3c0nnman)
-* ThatGuy (ThatGuyTG)
 * The Crystalline Gamerz (Crystalaco and Emeraldoft)
 * THE KAPOLAR (Kapolar1)
 * The Meg and Mo Show (MegaSquadMo)
