@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 28, 2025<br>
+Generated September 29, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,10 +183,10 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,046,743 videos
-* Total videos found that match keywords: 57,985 videos
-  * Total unprocessed videos: 11,962 videos
-* Total videos found that are processed and marked: 242 videos 
-  * Information Collection: 197 videos
+* Total videos found that match keywords: 58,332 videos
+  * Total unprocessed videos: 12,308 videos
+* Total videos found that are processed and marked: 243 videos 
+  * Information Collection: 198 videos
   * Non-Giftcard Robux Giveaways: 42 videos
   * Phishing: 2 videos
   * Other: 1 video
@@ -287,6 +287,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Chekecheto (Chekelete1)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
+* Chillz (ChillzSubZero)
 * Chizeled (Chizeled_YT)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
@@ -557,7 +558,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MIKEYDOOD (IMMIKEYDOOD)
 * Mila FunPlayer (trxmila)
 * MiniBloxia (SubToMiniBloxia)
-* MM2 Chillz (ChillzSubZero)
 * Model8197 (Modeldog8197)
 * MoFlare (MoFlare)
 * Moody Unicorn Twin - Roblox (moodyunicorntwin)
@@ -786,7 +786,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * WaffleTrades (WaffleTrades)
 * Waike (JJ_Waike)
 * WeirdBlox (WeirdBlox)
-* WhiteArrow (YTWhiteArrow)
 * WhoseTrade (WhoseTrade)
 * WikiaColors (WikiaColor_s)
 * WILCO (EsElWilco)
@@ -1480,6 +1479,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
+* WhiteArrow (YTWhiteArrow)
+  * Information Collection
+    * JAMÁS TENDRÁS NOVIO ​⁠@customuse3D \#customuse \#RobloxUGC \#robloxoutfits \#howtomakeRobux \#shorts
+      * Description references the data collection website makerobux.co.
+      * URL: https://www.youtube.com/watch?v=7yqyWgY7Mvg
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
