@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 7, 2025<br>
+Generated October 8, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 1,051,152 videos
 * Total videos found that match keywords: 58,348 videos
   * Total unprocessed videos: 12,324 videos
-* Total videos found that are processed and marked: 46 videos 
-  * Non-Giftcard Robux Giveaways: 37 videos
-  * Information Collection: 7 videos
+* Total videos found that are processed and marked: 42 videos 
+  * Non-Giftcard Robux Giveaways: 35 videos
+  * Information Collection: 5 videos
   * Phishing: 1 video
   * Other: 1 video
 
@@ -220,6 +220,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Argo Play (YT_Argo)
 * arielle (ariellesyt)
 * Armenti (Armenti)
+* Ashley (codeeunicorn)
 * AshleyBunni (BunniYT)
 * AtlasZero (AtlasBlox7)
 * Auratix (Auratix)
@@ -316,6 +317,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
 * DeeterPlays (DeeterPlays)
+* DefildPlays (DefildPlays)
 * DeGoBooM (BumiReal)
 * Denis (DenisDaily)
 * DernD (StarCode_dernd)
@@ -583,7 +585,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * NavyXFlame (NavyXFlame)
 * Nicole Kimmi (Nicole_Kimmi)
 * Nicole Maffi (NicoleMaffi and vanessamaffi)
-* NightFoxx (NightFoxx)
 * Ninjagaming (Ninjagaming)
 * NO\_DATA (NO\_DATA)
 * Noob Master (N00B_Mast3rXD)
@@ -789,6 +790,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * WaffleTrades (WaffleTrades)
 * Waike (JJ_Waike)
 * WeirdBlox (WeirdBlox)
+* WhiteArrow (YTWhiteArrow)
 * WhoseTrade (WhoseTrade)
 * WikiaColors (WikiaColor_s)
 * WILCO (EsElWilco)
@@ -825,11 +827,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * •Lavenderblossom• (OMG4LAV)
 
 ### Videos Found
-* Ashley (codeeunicorn)
-  * Non-Giftcard Robux Giveaways
-    * Win 10,000 ROBUX In THIS NEW Bloxburg Obby! (Roblox)
-      * Uses group funds to give away Robux for a competition.
-      * URL: https://www.youtube.com/watch?v=ksrEdvk2WrI
 * Axiore (Axiore)
   * Information Collection
     * \[A NEW CODE!\] FREE ROBUX + EVERY WORKING CODES IN BLOX NO ROBLOX:REMASTERED \[SPONSORED VIDEO\]
@@ -844,14 +841,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
-* DefildPlays (DefildPlays)
-  * Non-Giftcard Robux Giveaways
-    * Roblox NOOB vs BULLY vs HERO Story In Saber Simulator! \*Sad\*
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=KZyJGJbznP0
-    * 3 SECRET CLASSIC LAND COIN CODES IN UNBOXING SIMULATOR! Roblox
-      * Description references a Roblox group for Robux giveaways.
-      * URL: https://www.youtube.com/watch?v=TXWbQ5DTMtA
 * DimerDillon (TheDimer)
   * Other
     * Teleporting Simulator! (FUCK FUCK FUCK)
@@ -862,6 +851,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
+* NightFoxx (NightFoxx)
+  * Non-Giftcard Robux Giveaways
+    * Help Me Beat This OBBY... WIN $100,000
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=zF73iRJCN7M
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
@@ -886,14 +880,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* WhiteArrow (YTWhiteArrow)
-  * Information Collection
-    * JAMÁS TENDRÁS NOVIO ​⁠@customuse3D \#customuse \#RobloxUGC \#robloxoutfits \#howtomakeRobux \#shorts
-      * Description references the data collection website makerobux.co.
-      * URL: https://www.youtube.com/watch?v=7yqyWgY7Mvg
-    * SE BURLAN POR SER POBRE @customuse3D \#Customuse \#RobloxUGC \#robloxoutfits \#HowtomakeRobux \#shorts
-      * Description references the data collection website makerobux.co.
-      * URL: https://www.youtube.com/watch?v=a0Xh8MyEFWo
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
