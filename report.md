@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 14, 2025<br>
+Generated October 15, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -186,8 +186,8 @@ to the report if this happens.
 * Total videos found that match keywords: 58,372 videos
   * Total unprocessed videos: 12,348 videos
 * Total videos found that are processed and marked: 42 videos 
-  * Non-Giftcard Robux Giveaways: 35 videos
-  * Information Collection: 5 videos
+  * Non-Giftcard Robux Giveaways: 34 videos
+  * Information Collection: 6 videos
   * Phishing: 1 video
   * Other: 1 video
 
@@ -585,6 +585,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * NavyXFlame (NavyXFlame)
 * Nicole Kimmi (Nicole_Kimmi)
 * Nicole Maffi (NicoleMaffi and vanessamaffi)
+* NightFoxx (NightFoxx)
 * Ninjagaming (Ninjagaming)
 * NO\_DATA (NO\_DATA)
 * Noob Master (N00B_Mast3rXD)
@@ -851,11 +852,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
-* NightFoxx (NightFoxx)
-  * Non-Giftcard Robux Giveaways
-    * Help Me Beat This OBBY... WIN $100,000
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=zF73iRJCN7M
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
