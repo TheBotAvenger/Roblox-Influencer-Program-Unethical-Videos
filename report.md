@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 19, 2025<br>
+Generated October 20, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,053,389 videos
-* Total videos found that match keywords: 58,372 videos
-  * Total unprocessed videos: 12,348 videos
+* Total videos: 1,054,066 videos
+* Total videos found that match keywords: 58,394 videos
+  * Total unprocessed videos: 12,370 videos
 * Total videos found that are processed and marked: 42 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 6 videos
@@ -451,6 +451,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Janet and Kate (KittyJanet and Kate9071)
 * JavaCreates (JavaCreates)
 * javie12 (javie12)
+* JCWK (JCDoesGaming_YT)
 * JD (Thexz)
 * Jeancof (Jeancof)
 * JeffBlox (JeeffBlox)
