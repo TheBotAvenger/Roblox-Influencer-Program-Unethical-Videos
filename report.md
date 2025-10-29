@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 28, 2025<br>
+Generated October 29, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 1,058,538 videos
 * Total videos found that match keywords: 58,413 videos
   * Total unprocessed videos: 12,389 videos
-* Total videos found that are processed and marked: 41 videos 
+* Total videos found that are processed and marked: 42 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 5 videos
+  * Information Collection: 6 videos
   * Phishing: 1 video
   * Other: 1 video
 
@@ -237,7 +237,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BeaPlays (notBeaPlays)
 * Bebe Milo (BebeMiloAmiwito)
 * BeeBlox (ThePapaBee, imgabibee, MrBee, and LaMamaBee)
-* Benni (ImBenni)
 * Benx (Bensonheimer and ebruulein)
 * BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
 * BestrolYT (BestrolYT)
@@ -835,6 +834,11 @@ The following channels had nothing appear with manual searching. Videos may exis
       * Description references the data collection website robloxwin.com.
       * Description references the data collection website bloxwin.com.
       * URL: https://www.youtube.com/watch?v=2oXe2807bDM
+* Benni (ImBenni)
+  * Information Collection
+    * EARN FREE ROBUX AND FREE GAMES! | GAMEHAG
+      * Description references the data collection website gamehag.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=hEoLz4DPuxQ
 * Betroner y Noangy (Betroner and Noangy)
   * Non-Giftcard Robux Giveaways
     * Robux para ti! Mejor que los eventos de Roblox!
