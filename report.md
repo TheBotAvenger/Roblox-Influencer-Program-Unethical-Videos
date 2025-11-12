@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 11, 2025<br>
+Generated November 12, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,11 +185,11 @@ to the report if this happens.
 * Total videos: 1,062,944 videos
 * Total videos found that match keywords: 58,443 videos
   * Total unprocessed videos: 12,419 videos
-* Total videos found that are processed and marked: 41 videos 
-  * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 5 videos
+* Total videos found that are processed and marked: 60 videos 
+  * Non-Giftcard Robux Giveaways: 36 videos
+  * Other: 15 videos
+  * Information Collection: 8 videos
   * Phishing: 1 video
-  * Other: 1 video
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -264,7 +264,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BrittanyPlays (Britt_Blox)
 * BRYAN MCQUEEN (IamBryanMcqueen)
 * Bubbles (bubblestoxic)
-* Builderboy TV (builderboy100009)
 * Buur (BuurmanTenus)
 * ByDerank (ByDerank_YT)
 * Cafazera (CafajesteGOD)
@@ -317,7 +316,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DatBrian (DatBrian)
 * Daylins Funhouse (DaylinsFunhouse, FunHouseDadWasTaken, and Fun_HouseMom)
 * DeeterPlays (DeeterPlays)
-* DefildPlays (DefildPlays)
 * DeGoBooM (BumiReal)
 * Denis (DenisDaily)
 * DernD (StarCode_dernd)
@@ -402,7 +400,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Godstatus (CallMeGodstatus)
 * GoldenGlare (GOLD3NGLARE)
 * grace k (yt_graceek)
-* Graser Roblox (MasterGraser)
 * Gravycatman (GrumpyGravy)
 * GroovyDominoes52 (GroovyDominoes52)
 * Gunslaya (iGunslaya)
@@ -737,7 +734,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
 * Tekk (tekkyoos)
-* Telanthric (Telanthric)
 * Temprist (Temprist)
 * TeraBrite Games (SabrinaBrite and DJMonopoli)
 * Tesla Motors (PatooLocooYT)
@@ -843,11 +839,64 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
+* Builderboy TV (builderboy100009)
+  * Information Collection
+    * \*LEGIT!\* HOW TO GET FREE ROBUX 2019! EARN FREE ROBUX FAST!? | ROBLOX | Builderboy TV
+      * Description references the data collection website claimrbx.com.
+      * URL: https://www.youtube.com/watch?v=t5w5FL33XUc
+    * \*WORKING!\* HOW TO GET ROBUX FOR FREE!? MAY 2019!| ROBLOX | ROBLOXWIN.COM
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=pow2pqipzQI
+    * HOW TO GET FREE ROBUX 2019!? + 1000 ROBUX GIVEAWAY | ROBLOX | ROBLOX.WIN
+      * Description references the data collection website robloxwin.com.
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=CINjWkLYxEQ
+* DefildPlays (DefildPlays)
+  * Non-Giftcard Robux Giveaways
+    * 10 SECRET OWNER BOOST CODES IN BUBBLE GUM SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=jT0YqgQXnnM
+    * SECRET 4M PET UPDATE CODES IN SLAYING SIMULATOR! Roblox
+      * Description references a Roblox group for Robux giveaways.
+      * URL: https://www.youtube.com/watch?v=gCAZFidqRk8
 * DimerDillon (TheDimer)
   * Other
     * Teleporting Simulator! (FUCK FUCK FUCK)
       * Video, title, and description contain the "F word" 8 times.
       * URL: https://www.youtube.com/watch?v=rh_sr6rEWWI
+* Graser Roblox (MasterGraser)
+  * Other
+    * i secretly used hacks against a Roblox Piggy youtuber..
+      * Demonstrates using an autoclicker to exploit going through walls.
+      * URL: https://www.youtube.com/watch?v=a8iNattz-oM
+    * Roblox Piggy but i teach youtubers how to hack..
+      * Demonstrates using an autoclicker to exploit going through walls.
+      * URL: https://www.youtube.com/watch?v=MNkgSgZBzZg
+    * Roblox Piggy but i used hacks against 100 piggys..
+      * Demonstrates using an autoclicker to exploit going through walls.
+      * URL: https://www.youtube.com/watch?v=CzH9xq78lpU
+    * Roblox Piggy map owner caught me hacking..
+      * Demonstrates using an autoclicker to exploit going through walls.
+      * URL: https://www.youtube.com/watch?v=QXlxBN8Fg5U
+    * i used hacks in a Roblox Piggy youtuber lobby..
+      * Demonstrates using an autoclicker to exploit going through walls.
+      * URL: https://www.youtube.com/watch?v=k_qLoaXOVcU
+    * i was caught using hacks by the owner of this Roblox Piggy map..
+      * Demonstrates using an autoclicker to exploit going through walls.
+      * URL: https://www.youtube.com/watch?v=GlCL_MzTJSo
+    * i secretly used hacks on a fan made Roblox Piggy map..
+      * Demonstrates using an autoclicker to exploit going through walls.
+      * URL: https://www.youtube.com/watch?v=ILmjXlydW9c
+    * Roblox Piggy Hide And Seek but i used hacks..
+      * Demonstrates using an autoclicker to exploit going through walls.
+      * URL: https://www.youtube.com/watch?v=2iI9xq9YHSk
+    * Roblox 100 Player Piggy but i used hacks..
+      * Demonstrates using an autoclicker to exploit going through walls.
+      * URL: https://www.youtube.com/watch?v=wqrPmhoSYBY
+    * Roblox Piggy but i used hacks..
+      * Demonstrates using an autoclicker to exploit going through walls.
+      * URL: https://www.youtube.com/watch?v=YB0Urzcgw9I
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
@@ -877,6 +926,21 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
+* Telanthric (Telanthric)
+  * Other
+    * ⚡ I EVOLVED in Sneezing Simulator \*EVOLUTIONS  / UPDATE 3\* \[🎁CODE\]
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=uLIW7DFLVvc
+    * 🌟ALL Sneezing Simulator Codes \*🎁7 CODES\* • 🌵UPDATE 2 • 🎉NEW 2020 April
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=KkIdyLK7rTs
+    * 🌟ALL Sneeze Simulator Codes \*🌆CITY UPDATE\* • 🎉NEW 2020 April
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=fBkoLxH95fw
+    * 🌟ALL Sneeze Simulator Codes \*🎁INFECTION POINTS\* • 🔬NEW Update • 🎉2020 April
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
+      * URL: https://www.youtube.com/watch?v=iFYz7eaNooM
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
