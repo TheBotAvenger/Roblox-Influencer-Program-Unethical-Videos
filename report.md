@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 16, 2025<br>
+Generated November 17, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,062,944 videos
-* Total videos found that match keywords: 58,443 videos
-  * Total unprocessed videos: 12,419 videos
+* Total videos found that match keywords: 58,461 videos
+  * Total unprocessed videos: 12,437 videos
 * Total videos found that are processed and marked: 60 videos 
   * Non-Giftcard Robux Giveaways: 36 videos
   * Other: 15 videos
@@ -234,7 +234,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bandi (BandiRue)
 * Bandites (Bandites)
 * Bax (DefinitelyNotBaxtrix)
-* BeaPlays (notBeaPlays)
 * Bebe Milo (BebeMiloAmiwito)
 * BeeBlox (ThePapaBee, imgabibee, MrBee, and LaMamaBee)
 * Benni (ImBenni)
@@ -310,7 +309,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cute Cookie Gaming (CuteCookieGaming05)
 * Daffa super (Daffa_super2)
 * DandanPH (DandanPH)
-* Danny Jesden (DannyJesdenYT)
+* Daniele Jesden (DannyJesdenYT)
 * DanteField (etnad34)
 * DaPandaGirl (Da_PandaGirl)
 * DatBrian (DatBrian)
@@ -435,7 +434,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
 * Its Matty (YT_ItsMatty)
 * Its Starlight plays YT (Its_starlightplaysYT)
-* Its\_CxldKid (Its\_CxldKid)
+* Its\_CxldKid (Its\_PupBee)
 * ItsFunneh (Funnehcake)
 * ItsMatrix (MatrixPlaysRB)
 * ItzSweaking (ItzSweaking)
@@ -586,6 +585,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ninjagaming (Ninjagaming)
 * NO\_DATA (NO\_DATA)
 * Noob Master (N00B_Mast3rXD)
+* not here anymore (notBeaPlays)
 * NotAmberRoblox (NotAmberRoblox)
 * notive (notive)
 * O1G (TotallyNotO1G)
