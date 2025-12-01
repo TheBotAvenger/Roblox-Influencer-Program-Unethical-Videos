@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 30, 2025<br>
+Generated December 1, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,067,459 videos
-* Total videos found that match keywords: 58,461 videos
-  * Total unprocessed videos: 12,437 videos
+* Total videos found that match keywords: 58,565 videos
+  * Total unprocessed videos: 12,541 videos
 * Total videos found that are processed and marked: 525 videos 
   * Non-Giftcard Robux Giveaways: 356 videos
   * Information Collection: 161 videos
@@ -744,7 +744,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Thiq Betty (ChrisPurKittiess)
 * ThnxCya (NotThnxCya)
 * Throbpenz (tharbakin)
-* Thumbs Up Family (ThumbsUpFamily)
 * ThunberGames (ThunberGames)
 * ThyEdgar (THYEDGAR_YT)
 * Tigre TV (StarCode_TigreTVyt)
@@ -757,6 +756,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TroyanoNanoReturns (TroyanoNanoReturns)
 * TrustlyDragon (TheTrustlyDragon)
 * tsetYT (tsetfed)
+* TUF Mysteries (ThumbsUpFamily)
 * Turtles Wear Raincoats (TurtlesWearRaincoats)
 * TussyGames (TussyGames)
 * TW Dessi Gaming (TW_Dessi)
@@ -781,7 +781,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * WaffleTrades (WaffleTrades)
 * Waike (JJ_Waike)
 * WeirdBlox (WeirdBlox)
-* WhiteArrow (YTWhiteArrow)
+* WhiteArrow (IamWhiteArrow)
 * WhoseTrade (WhoseTrade)
 * WikiaColors (WikiaColor_s)
 * WILCO (EsElWilco)
