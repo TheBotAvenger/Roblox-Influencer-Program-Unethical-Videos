@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 7, 2025<br>
+Generated December 8, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,069,790 videos
-* Total videos found that match keywords: 58,565 videos
-  * Total unprocessed videos: 12,541 videos
+* Total videos found that match keywords: 58,637 videos
+  * Total unprocessed videos: 12,613 videos
 * Total videos found that are processed and marked: 323 videos 
   * Information Collection: 269 videos
   * Non-Giftcard Robux Giveaways: 39 videos
@@ -258,6 +258,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BramP (BramPeeee)
 * Brancoala Games (brancoalado, marcossmm, lauroala, and claudiacraudete)
 * BREN0RJ (BREN0RJ7)
+* Brigido (oCauanBrigido)
 * Brincando com a Keke (Keke_KerenYT)
 * BrittanyPlays (Britt_Blox)
 * BRYAN MCQUEEN (IamBryanMcqueen)
@@ -383,7 +384,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FusionZGamer (NotFusionZGamer)
 * Gaby Gamer (GabyGamerrOficiall)
 * Gallant Gaming (GallantGaming)
-* Gamer Kawaii (lGamerKawaiiYT)
 * Gamer Robot (Zioles)
 * GamerHexapod (Hexapod_xD)
 * GamerNom (MaybeItsMyFault)
@@ -715,7 +715,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Striker180x (strikerl80x)
 * Stron (StronbolDev)
 * STUD (s7ud)
-* Sugar Roblox (ourfire and ChrisOurFire)
+* SugarStar Roblox (ourfire and ChrisOurFire)
 * SulyMazing (iamtheonepoundfish)
 * SunnyxMisty (xSunnyxMistyx)
 * Sunset Safari (HeySunsetSafari)
