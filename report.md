@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 14, 2025<br>
+Generated December 15, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,072,218 videos
-* Total videos found that match keywords: 58,637 videos
-  * Total unprocessed videos: 12,613 videos
+* Total videos found that match keywords: 58,746 videos
+  * Total unprocessed videos: 12,722 videos
 * Total videos found that are processed and marked: 44 videos 
   * Non-Giftcard Robux Giveaways: 37 videos
   * Information Collection: 5 videos
@@ -283,7 +283,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ceddy (Ceddy)
 * Cee\_berry (Cee\_berry)
 * Cerso (Cerso93)
-* Chef Rae (blacklowie)
+* Chef Rae (thechefrae)
 * Chekecheto (Chekelete1)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
@@ -336,7 +336,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * dragonplatinum (dragonplatinum)
 * DrakeTacos (Brianvid19)
 * Drei Diego (AndreiEon124)
-* DUDU Betero (DUDUBetero\_ofcYT, DuduBetero, RafaBetero\_BTR, and RafaBetero)
+* DUDU Betero (BIANOBETER0, DuduBetero, RafaBetero_BTR, and RafaBetero)
 * DV Plays (DVwastaken)
 * El Magnum (MagnumStormus)
 * elDanielGT (DanielGTReal)
