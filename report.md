@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 16, 2025<br>
+Generated December 17, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,10 +184,10 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 1,074,802 videos
 * Total videos found that match keywords: 58,746 videos
-  * Total unprocessed videos: 12,722 videos
-* Total videos found that are processed and marked: 44 videos 
-  * Non-Giftcard Robux Giveaways: 37 videos
-  * Information Collection: 5 videos
+  * Total unprocessed videos: 12,724 videos
+* Total videos found that are processed and marked: 49 videos 
+  * Non-Giftcard Robux Giveaways: 40 videos
+  * Information Collection: 7 videos
   * Phishing: 1 video
   * Other: 1 video
 
@@ -195,6 +195,7 @@ to the report if this happens.
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 39jeshi (39jeshi)
 * 3SB Games (cakemiix and 3SBMiichael)
+* Aati Plays (AatiPlays_Official)
 * AbsintoJ (AbsintoJYT)
 * Acenix (AcenixGatoo)
 * AEREN (AaronDRonin)
@@ -282,7 +283,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * cazum8 (cazum8)
 * Ceddy (Ceddy)
 * Cee\_berry (Cee\_berry)
-* Cerso (Cerso93)
 * Chef Rae (thechefrae)
 * Chekecheto (Chekelete1)
 * Cheo Power (cheopower)
@@ -452,7 +452,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JCWK (JCDoesGaming_YT)
 * JD (Thexz)
 * Jeancof (Jeancof)
-* JeffBlox (JeeffBlox)
 * JehxTp (JehxTp)
 * jello queen (JelloQueenYT)
 * Jenstine (jenstine and jenstinex)
@@ -496,7 +495,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * KTG Gaming (lifetimeobcman123)
 * KunicornCraft (kawaii_kunicorn)
 * Kvssidy (kvssidy)
-* KyyBlox (ThatGuyTG)
 * LAMI (Lami_Roblox)
 * Lana's Life (Lanaraee)
 * Lani (LaniiPlayzzz)
@@ -828,17 +826,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * •Lavenderblossom• (OMG4LAV)
 
 ### Videos Found
-* Aati Plays (AatiPlays_Official)
-  * Non-Giftcard Robux Giveaways
-    * 15K ROBUX GIVEAWAY!! ✨🤑🎉 \#roblox \#shorts \#fyp
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=arClQvkdSSA
-    * 15K ROBUX GIVEAWAY!! ✨🤑🎉
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=sCeXnpFP6bs
-    * Announcing the ROBUX GIVEAWAY WINNERS! 🤩🤑🌷🌿🌼💸 ¦ Aati Plays ☆♡ 💗💕
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=22MyK8w4dZE
 * Axiore (Axiore)
   * Information Collection
     * \[A NEW CODE!\] FREE ROBUX + EVERY WORKING CODES IN BLOX NO ROBLOX:REMASTERED \[SPONSORED VIDEO\]
@@ -853,11 +840,36 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
+* Cerso (Cerso93)
+  * Non-Giftcard Robux Giveaways
+    * SORTEO DE ROBUX PARA ROBLOX GRATIS | Cerso Roblox en español
+      * Uses a Roblox Group with group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=V5Y3MNZv4K8
 * DimerDillon (TheDimer)
   * Other
     * Teleporting Simulator! (FUCK FUCK FUCK)
       * Video, title, and description contain the "F word" 8 times.
       * URL: https://www.youtube.com/watch?v=rh_sr6rEWWI
+* JeffBlox (JeeffBlox)
+  * Information Collection
+    * COMPRANDO O VIP E GANHANDO MUITO DINHEIRO NO JAILBREAK - ROBLOX
+      * Description references a video to a Robux giveaway
+      * Description references a video about the data collection website bloxawards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=3I4_-pGoKcw
+* KyyBlox (ThatGuyTG)
+  * Non-Giftcard Robux Giveaways
+    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#8
+      * URL: https://www.youtube.com/watch?v=10WGqnb_Nq0
+    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#5
+      * Gives away Robux for being arrested in Jailbreak.
+      * URL: https://www.youtube.com/watch?v=TogY_-vafSA
+    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#3
+      * URL: https://www.youtube.com/watch?v=zsYDcHOBOeg
+    * ARREST ME FOR FREE ROBUX! (Roblox Jailbreak) \#2
+      * URL: https://www.youtube.com/watch?v=o-gB8UlqGHY
+    * \*FREE ROBUX\* ARREST ME FOR FREE ROBUX! (Roblox Jailbreak)
+      * Gives away Robux for being arrested in Jailbreak.
+      * URL: https://www.youtube.com/watch?v=gekomtzuIoE
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
