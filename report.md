@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated December 21, 2025<br>
+Generated December 22, 2025<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,074,802 videos
-* Total videos found that match keywords: 58,746 videos
-  * Total unprocessed videos: 12,724 videos
+* Total videos found that match keywords: 58,889 videos
+  * Total unprocessed videos: 12,867 videos
 * Total videos found that are processed and marked: 49 videos 
   * Non-Giftcard Robux Giveaways: 40 videos
   * Information Collection: 7 videos
@@ -344,6 +344,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Elite (E1ite_E)
 * Elitelupus (elitelupus)
 * Ella (ellasparis)
+* elOrioN (elOrioNYT)
 * EmpireBlox (EmpireBloxOficial)
 * Erik Carr (ErikCarrKZ)
 * ErnieC3 (ErnieC3_YouTube)
@@ -597,7 +598,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * OMB Gaming (OMBcreates)
 * Ominous Nebula (StarCode_Ominous)
 * OneSpottedFriend (OneSpottedFriend)
-* ORION (elOrioNYT)
 * Oscar (VanillaOreoCat)
 * PaanDuh (PPaanDuh)
 * PaintingRainbows (RainbowsYT)
