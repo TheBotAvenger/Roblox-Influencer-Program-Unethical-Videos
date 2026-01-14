@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 13, 2026<br>
+Generated January 14, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,8 +185,8 @@ to the report if this happens.
 * Total videos: 1,084,126 videos
 * Total videos found that match keywords: 59,092 videos
   * Total unprocessed videos: 13,070 videos
-* Total videos found that are processed and marked: 44 videos 
-  * Non-Giftcard Robux Giveaways: 37 videos
+* Total videos found that are processed and marked: 41 videos 
+  * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 5 videos
   * Phishing: 1 video
   * Other: 1 video
@@ -476,6 +476,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JunRoots (cheeseandcakejuice)
 * JustHarrison (JustHarrisonYT)
 * jvnq (jvnqYT)
+* JymbowSlice (JymbowSliceYT)
 * Kaden Fumblebottom (jokerkid5898)
 * Karim Juega (karimjuega)
 * Karola20 (karola20YT)
@@ -774,6 +775,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Tyler & Snowi (snowi_fox)
 * Unlimited (Unlimited_Resources)
 * Uzoth (Uzoth)
+* V2 Plays (MinniiHxpe and toreject)
 * Valen Latina (Valen_Latina)
 * vanilbean (VanilBean)
 * VANILLA (UseStarCode_VANILLA)
@@ -846,14 +848,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Teleporting Simulator! (FUCK FUCK FUCK)
       * Video, title, and description contain the "F word" 8 times.
       * URL: https://www.youtube.com/watch?v=rh_sr6rEWWI
-* JymbowSlice (JymbowSliceYT)
-  * Non-Giftcard Robux Giveaways
-    * This Mobile Wins $10,000 ROBUX If He Gets 1 KILL... (Roblox Arsenal)
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=sEBKoeC_Pxs
-    * This Mobile Wins $10,000 ROBUX If He Gets 1 KILL... (Roblox Arsenal)
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=sEBKoeC_Pxs&pp=sAQA
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
@@ -883,11 +877,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* V2 Plays (MinniiHxpe and toreject)
-  * Non-Giftcard Robux Giveaways
-    * Join the 1K ROBUX GIVEAWAY
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=rmE4s7mEmwg
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
