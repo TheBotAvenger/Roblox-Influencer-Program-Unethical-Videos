@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 20, 2026<br>
+Generated January 21, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 1,086,360 videos
 * Total videos found that match keywords: 59,371 videos
   * Total unprocessed videos: 13,349 videos
-* Total videos found that are processed and marked: 41 videos 
-  * Non-Giftcard Robux Giveaways: 34 videos
-  * Information Collection: 5 videos
+* Total videos found that are processed and marked: 51 videos 
+  * Non-Giftcard Robux Giveaways: 36 videos
+  * Information Collection: 13 videos
   * Phishing: 1 video
   * Other: 1 video
 
@@ -245,7 +245,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bianca Nayi (bianqui_nayi123)
 * Bibi e Lud (BibibloxYTB and LudBloxYTB)
 * Bidinho (bidinh0)
-* Biel Henrique (BielHenriikOficial)
 * BigB (BigBst4tz22)
 * BigDadT (biggerdadt)
 * BIGHEAD (Bighead_StarCode)
@@ -394,7 +393,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GamerNom (MaybeItsMyFault)
 * GamingMermaid (Aquaerria)
 * GamingwithVYT (GamingwithVYT)
-* Geko97 - Roblox (Flexer97YT)
 * GH0Ks (GHOKSZIN)
 * GhostInTheCosmos (GhostInTheCosmos)
 * GianBlox (GianBloxStarYT)
@@ -479,7 +477,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JymbowSlice (JymbowSliceYT)
 * Kaden Fumblebottom (jokerkid5898)
 * Karim Juega (karimjuega)
-* Karola20 (karola20YT)
 * KelseyAnna (KelseyAnna)
 * Kelvingts (Kelvingts)
 * Kepu The Cat (KepuTheCat)
@@ -732,7 +729,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Só Por Causa (Est3vA0)
 * Sören Abbaok (Abbaok)
 * Tangochini (Tangochini)
-* TanqR (TanqR)
 * Tapparay (Tapparay)
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
@@ -843,11 +839,41 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
+* Biel Henrique (BielHenriikOficial)
+  * Information Collection
+    * DOIS NOVOS ITEMS GRATIS NO ROBLOX CORRA PARA PEGAR O SEU
+      * Description references the data collection website earnrobux.gg/online/zone/com.
+      * URL: https://www.youtube.com/watch?v=7MyeJoYmXes
+    * COMO FICAR RICO NO ROBLOX
+      * Description references the data collection website earnrobux.gg/online/zone/com.
+      * URL: https://www.youtube.com/watch?v=TPOUmRrXrO0
+    * ESSE ITEM TE DÁ ROBUX GRÁTIS NO ROBLOX
+      * Description references the data collection website earnrobux.gg/online/zone/com.
+      * URL: https://www.youtube.com/watch?v=dPMqEpZWWA0
 * DimerDillon (TheDimer)
   * Other
     * Teleporting Simulator! (FUCK FUCK FUCK)
       * Video, title, and description contain the "F word" 8 times.
       * URL: https://www.youtube.com/watch?v=rh_sr6rEWWI
+* Geko97 - Roblox (Flexer97YT)
+  * Information Collection
+    * Sell roblox via online • Tools for Ecommercee• Affiliate Marketing• Passive Income• Shopify•
+      * Description references the data collection website rbxcash.com.
+      * URL: https://www.youtube.com/watch?v=A_NIUghaUM0
+    * HOW TO CREATE A PASSIVE INCOME GAMING 32 \#passiveincome \#gaming
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=5Lt02hfeNbw
+    * HOW TO CREATE A PASSIVE INCOME GAMING 34 \#passiveincome \#gaming
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=lVRkb90j_go
+    * HOW TO CREATE A PASSIVE INCOME GAMING 35 \#passiveincome \#gaming
+      * Description references the data collection website bloxwin.com.
+      * URL: https://www.youtube.com/watch?v=l3qwVIOIwgc
+* Karola20 (karola20YT)
+  * Information Collection
+    * MEEPCITY BAILE DÍA DEL AMOR CON MIS ALUMNOS💖PROPUESTA DEL PROFESOR😱💖- ROBLOX
+      * Description references the data collection website rbxtrade.com.
+      * URL: https://www.youtube.com/watch?v=ZoDzvJ-dCDc
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
@@ -877,6 +903,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
+* TanqR (TanqR)
+  * Non-Giftcard Robux Giveaways
+    * 1 KILL = $1000 Robux in Roblox Bedwars..
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=COqizjAstxE
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
