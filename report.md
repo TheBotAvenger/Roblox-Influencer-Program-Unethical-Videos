@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 25, 2026<br>
+Generated January 26, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,086,360 videos
-* Total videos found that match keywords: 59,371 videos
-  * Total unprocessed videos: 13,349 videos
+* Total videos found that match keywords: 59,389 videos
+  * Total unprocessed videos: 13,367 videos
 * Total videos found that are processed and marked: 51 videos 
   * Non-Giftcard Robux Giveaways: 36 videos
   * Information Collection: 13 videos
@@ -568,6 +568,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MrCrainer (MrCrainer1422)
 * MrLokazo86 (Lokazo86)
 * Mud (DunkinMud)
+* Muff (Muffinzs)
 * Muneeb (itsMuneeeb)
 * MUÑECOB (MunecooB)
 * Mxddsie (mxddsie)
@@ -653,7 +654,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Robin Hood Gamer (RobinHoodGamer10)
 * roblox az (robloxazytt)
 * Roblox Minigunner (skoonks)
-* ROBLOXMuff (Muffinzs)
 * Robotz (R_obotz)
 * Robrox (IchBinBrox)
 * Robstix (Robstix)
@@ -693,7 +693,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SiimplyBubliie (SiimplyBubliie_YT)
 * Silent (RandomYoutuber0202)
 * SkippyPlays (skipsk0p)
-* Skyrain (iiPietra_GamesYT)
+* Skyrain (roblox\_user\_503003513)
 * SlEGHART (SlEGHART)
 * Sleigher (Gsleigh)
 * Slykage (Sly_Kage)
@@ -812,7 +812,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ZacharyZaxor (ZacharyZaxor)
 * ZaiLetsPlay (YT_ZaiLetsPlay)
 * Zaryee (Zaryee)
-* Zaze Blox (zazebloxx)
+* zaze!! 🌀 (zazebloxx)
 * ZeDarkAlien (ZeDarkAlien)
 * ZephPlayz (Zeph)
 * Zerophyx (Zerophyx)
