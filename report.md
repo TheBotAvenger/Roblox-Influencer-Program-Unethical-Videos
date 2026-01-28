@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated January 27, 2026<br>
+Generated January 28, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,11 +185,11 @@ to the report if this happens.
 * Total videos: 1,088,771 videos
 * Total videos found that match keywords: 59,389 videos
   * Total unprocessed videos: 13,367 videos
-* Total videos found that are processed and marked: 51 videos 
-  * Non-Giftcard Robux Giveaways: 36 videos
-  * Information Collection: 13 videos
-  * Phishing: 1 video
-  * Other: 1 video
+* Total videos found that are processed and marked: 100 videos 
+  * Information Collection: 55 videos
+  * Non-Giftcard Robux Giveaways: 39 videos
+  * Other: 3 videos
+  * Phishing: 3 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
@@ -245,6 +245,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bianca Nayi (bianqui_nayi123)
 * Bibi e Lud (BibibloxYTB and LudBloxYTB)
 * Bidinho (bidinh0)
+* Biel Henrique (BielHenriikOficial)
 * BigB (BigBst4tz22)
 * BigDadT (biggerdadt)
 * BIGHEAD (Bighead_StarCode)
@@ -318,7 +319,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DeeterPlays (DeeterPlays)
 * DefildPlays (DefildPlays)
 * DeGoBooM (BumiReal)
-* Denis (DenisDaily)
 * DernD (StarCode_dernd)
 * Devo (Devovorya)
 * Devoun (DevounTV)
@@ -393,6 +393,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GamerNom (MaybeItsMyFault)
 * GamingMermaid (Aquaerria)
 * GamingwithVYT (GamingwithVYT)
+* Geko97 - Roblox (Flexer97YT)
 * GH0Ks (GHOKSZIN)
 * GhostInTheCosmos (GhostInTheCosmos)
 * GianBlox (GianBloxStarYT)
@@ -477,6 +478,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JymbowSlice (JymbowSliceYT)
 * Kaden Fumblebottom (jokerkid5898)
 * Karim Juega (karimjuega)
+* Karola20 (karola20YT)
 * KelseyAnna (KelseyAnna)
 * Kelvingts (Kelvingts)
 * Kepu The Cat (KepuTheCat)
@@ -531,7 +533,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * LunaPorDos (LunaPorDos00)
 * Lunar Eclipse (Lunar3clispe)
 * Luuy (iiLuuy)
-* luvsunny (sunshrxxm)
 * luvxshine (luvxsh1ne3)
 * Luzablxx (Lzablxx)
 * M4DARA TR (MADARATRTRTR)
@@ -548,7 +549,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MathFacter360 (MathFacter360)
 * Matsbxb (MATSbxb)
 * mayrushart (mayrushart)
-* MedTw (MedTwYT)
 * MeEnyu (EnyuZee)
 * MeganPlays (TheMeganPlays)
 * MelzinhaMel Games (MelzinhaMelGames, Detona\_Anderson, and Princesa\_Alicinha)
@@ -556,7 +556,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MIANNN (MIANNNGAMER)
 * MICHI RØBLØX (michineyley)
 * MicroGuardian (MicroGuardian)
-* MIKEYDOOD (IMMIKEYDOOD)
 * Mila FunPlayer (trxmila)
 * MiniBloxia (SubToMiniBloxia)
 * Model8197 (Modeldog8197)
@@ -729,6 +728,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Só Por Causa (Est3vA0)
 * Sören Abbaok (Abbaok)
 * Tangochini (Tangochini)
+* TanqR (TanqR)
 * Tapparay (Tapparay)
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
@@ -814,7 +814,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Zaryee (Zaryee)
 * zaze!! 🌀 (zazebloxx)
 * ZeDarkAlien (ZeDarkAlien)
-* ZephPlayz (Zeph)
 * Zerophyx (Zerophyx)
 * Zilgon (Zilgon)
 * ZoeTheNoob (z1oee)
@@ -839,46 +838,66 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TRUCO! Consigue DINERO y XP muy rápido en Loomian Legacy Roblox en Español
       * Contains link to a Roblox giftcard giveaway.
       * URL: https://www.youtube.com/watch?v=0m4FxrqvE-A
-* Biel Henrique (BielHenriikOficial)
+* Denis (DenisDaily)
   * Information Collection
-    * DOIS NOVOS ITEMS GRATIS NO ROBLOX CORRA PARA PEGAR O SEU
-      * Description references the data collection website earnrobux.gg/online/zone/com.
-      * URL: https://www.youtube.com/watch?v=7MyeJoYmXes
-    * COMO FICAR RICO NO ROBLOX
-      * Description references the data collection website earnrobux.gg/online/zone/com.
-      * URL: https://www.youtube.com/watch?v=TPOUmRrXrO0
-    * ESSE ITEM TE DÁ ROBUX GRÁTIS NO ROBLOX
-      * Description references the data collection website earnrobux.gg/online/zone/com.
-      * URL: https://www.youtube.com/watch?v=dPMqEpZWWA0
+    * SIR MEOWS A LOT TAKES OVER ROBLOX!
+      * Description references the data collection website growbux.net.
+      * URL: https://www.youtube.com/watch?v=dwbGKuIDfxA
 * DimerDillon (TheDimer)
   * Other
     * Teleporting Simulator! (FUCK FUCK FUCK)
       * Video, title, and description contain the "F word" 8 times.
       * URL: https://www.youtube.com/watch?v=rh_sr6rEWWI
-* Geko97 - Roblox (Flexer97YT)
-  * Information Collection
-    * Sell roblox via online • Tools for Ecommercee• Affiliate Marketing• Passive Income• Shopify•
-      * Description references the data collection website rbxcash.com.
-      * URL: https://www.youtube.com/watch?v=A_NIUghaUM0
-    * HOW TO CREATE A PASSIVE INCOME GAMING 32 \#passiveincome \#gaming
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=5Lt02hfeNbw
-    * HOW TO CREATE A PASSIVE INCOME GAMING 34 \#passiveincome \#gaming
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=lVRkb90j_go
-    * HOW TO CREATE A PASSIVE INCOME GAMING 35 \#passiveincome \#gaming
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=l3qwVIOIwgc
-* Karola20 (karola20YT)
-  * Information Collection
-    * MEEPCITY BAILE DÍA DEL AMOR CON MIS ALUMNOS💖PROPUESTA DEL PROFESOR😱💖- ROBLOX
-      * Description references the data collection website rbxtrade.com.
-      * URL: https://www.youtube.com/watch?v=ZoDzvJ-dCDc
+* luvsunny (sunshrxxm)
+  * Non-Giftcard Robux Giveaways
+    * ROBUX GIVEAWAY WINNERS \*SO MUCH ROBUX😱\*
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=slDo42OGX3Y
+    * HOW TO GET FREE ROBUX😳 \*2023 METHOD\*
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=IUThFHBAlYU
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
+* MedTw (MedTwYT)
+  * Information Collection
+    * QUAL É O MELHOR ?? ALL MIGHT VS DEKU 100% NO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=bODxx6zpC90
+    * \*incrível\* ITACHI UCHIHA NO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=lq3LDIvoeCo
+    * NOVIDADES SOBRE A GRANDE ATUALIZAÇÃO DO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=KgQamhdBf24
+    * SÓ PODE PERSONAGEM DE 2 ESTRELAS NO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=YGazkDeonq4
+    * QUAL É O MELHOR ?? ACE VS BROLY NO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=uwiDa5L1c08
+    * \*bug\* TROPAS NA ZONA VERMELHA NO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=8ZUAFN90a0c
+    * SÓ PODE EXP I, EXP II, EXP III NO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=z-MGoeltfmA
+    * TESTEI UM SUPOSTO BUG PARA GANHAR MEGA RARO NO ALL STAR TOWER DEFENSE !!!
+      * Description references the data collection website gemsloot.com.
+      * URL: https://www.youtube.com/watch?v=oCYOK0XYc2o
+* MIKEYDOOD (IMMIKEYDOOD)
+  * Phishing
+    * HACKING MY VIEWER AND SPENDING ALL OF HIS ROBUX!!!
+      * URL: https://www.youtube.com/watch?v=j3ao8hO0ANI
+  * Non-Giftcard Robux Giveaways
+    * GIVING AWAY 15,000+ ROBUX FOR... (Roblox)
+      * Video announces a Robux giveaway.
+      * URL: https://www.youtube.com/watch?v=df0NiP-SRUQ
+    * EASIEST WAY TO EARN ROBUX FROM ME!!! \*FREE ROBUX GIVEAWAYS\*
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=WZ7dbUBOePA
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
@@ -903,11 +922,146 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* TanqR (TanqR)
+* ZephPlayz (Zeph)
+  * Information Collection
+    * ROBLOX MAKING 6IX9INE AN ACCOUNT
+      * Description references the data collection website flame.gg.
+      * URL: https://www.youtube.com/watch?v=3srXgBKQAO4
+    * ROBLOX MAKING VENOM AN ACCOUNT
+      * Description references the data collection website flame.gg.
+      * URL: https://www.youtube.com/watch?v=eTvOuDtoGHQ
+    * the GHOST took over my POPULAR Roblox game..
+      * Description references the data collection website flame.gg.
+      * URL: https://www.youtube.com/watch?v=0Gcy0TWV4Ew
+    * Easy Way To Get Robux Without Money! (Roblox)
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=dBUnHb_1kFo
+    * MEETING JAILBREAK'S OWNER! OMG! (Roblox)
+      * Description references the data collection website flame.gg.
+      * URL: https://www.youtube.com/watch?v=N-NV4DX7aTI
+    * Get Robux With This App! (Roblox)
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=5GTA5jLNeEM
+    * Robux in Roblox
+      * Description references the data collection website flame.gg.
+      * URL: https://www.youtube.com/watch?v=tUlxmfpDIqk
+    * HOW TO GET THE SPIDERMAN HEAD IN ROBLOX!
+      * Description references the data collection website flame.gg.
+      * URL: https://www.youtube.com/watch?v=2Mgi8LBZEE8
+    * DISTURBING FLAMINGO GAME IN ROBLOX
+      * Description references the data collection website flame.gg.
+      * URL: https://www.youtube.com/watch?v=t6n6GG2meCw
+    * THE GHOST MESSAGED ME 1 YEAR LATER.. (Roblox)
+      * Description references the data collection website flame.gg.
+      * URL: https://www.youtube.com/watch?v=zXEs9fQeFgk
+    * DanTDM Said THIS About Roblox
+      * Description references the data collection website flame.gg.
+      * URL: https://www.youtube.com/watch?v=eb5l7WaM3Jo
+    * Why DanTDM Quit Roblox
+      * Description references the data collection website flame.gg.
+      * URL: https://www.youtube.com/watch?v=H3id5wKBPX4
+    * Get Robux WITHOUT Money (Roblox)
+      * Description references the data collection website oprewards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=7XJCO2JXxyw
+    * OMG NEW JAILBREAK UPDATE IN A MINUTE! | Roblox
+      * Description references a download for a data collection mobile app.
+      * URL: https://www.youtube.com/watch?v=D4gN-HfzNMk
+    * ROBLOX IN ROBLOX 2018!
+      * Description references a download for a data collection mobile app.
+      * URL: https://www.youtube.com/watch?v=Dcit20m1KMk
+    * Need Builders Club On Roblox?
+      * Description references a download for a data collection mobile app.
+      * URL: https://www.youtube.com/watch?v=53F8Wajo8aY
+    * BEST WAY TO GET FREE ROBUX! (Roblox)
+      * Description links to an app that collects user data.
+      * Description references a download for a data collection mobile app.
+      * URL: https://www.youtube.com/watch?v=Fi4v7q42irs
+    * SECRET HIDDEN ROOM FOUND IN PRISON ISLAND! | Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=wEFvc1pWK1U
+    * INVISIBLE ADMIN TROLLING IN PRISON ISLAND! | Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=U1VgdcmoHHA
+    * EVERY WAY TO ESCAPE IN PRISON ISLAND! (Roblox)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=mvkizuZMMN4
+    * ExplodingTNT In Real Life
+      * Description references the information collection website oprewards (link is missing though).
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=t1gm9IQjncM
+    * TRICKING COPS INTO THINKING I'M A COP IN JAILBREAK! | Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=Ngg0jsCffZE
+    * ROBLOX MUSIC VIDEO?
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=dSmkLMIs8IQ
+    * MAKE YOUR OWN JAILBREAK GAME IN ROBLOX! (How To)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=591PGoLd75s
+    * HOW TO MEET DENIS IN ROBLOX
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=XwA5hthMdcM
+    * ROBLOX TOLD ME TO PLAY THIS GAME!
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=eTXXIyAYWsw
+    * (New) GET FAST & EASY MONEY IN JAILBREAK! w/Pink Sheep | Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=sNLVkkGwHpw
+    * ME VS 100 GUESTS IN ROBLOX
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=c727G1QxcYE
+    * ROBLOX MUSIC VIDEO UNDERWATER
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=5msWgUpVjIg
+    * SECRET SELF DRIVING FEATURE IN JAILBREAK! | Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=dn6HndSy_jY
+    * GETTING STRONG IN ROBLOX (Weight Lifting Simulator 2)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=-rOFC9T37Pw
+    * hey can I have free robux? (roblox)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=3MbKE7JlBMc
+    * THIS IS A ROBLOX WORLD RECORD IN JAILBREAK..
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=R1IwG60i5zg
+    * THE SECRET BEHIND THE SATELLITES IN JAILBREAK.. | Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=CCQ-1Bfeq04
+    * ROBLOX MUSIC VIDEO \#5
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=iOvO0bxto2A
+    * WHAT IS THIS IN THE NEW JAILBREAK RELEASE?! | Roblox (Jailbreak Update)
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=RVZ_hakQzZI
+    * THIS NEW BUILDING IN JAILBREAK.. | Roblox
+      * Description references the data collection website oprewards.com.
+      * URL: https://www.youtube.com/watch?v=WNE3EGGS3gY
+    * BEST ROBLOX MUSIC VIDEO
+      * Description references a video about getting Robux for filling out surveys.
+      * URL: https://www.youtube.com/watch?v=EZyqSwepvKQ
+    * ROBLOX MUSIC VIDEO \#4
+      * Description references a video about getting Robux for filling out surveys.
+      * URL: https://www.youtube.com/watch?v=cdaqPMhTdQ0
+    * ROBLOX MUSIC VIDEO \#3
+      * Description references a video about getting Robux for filling out surveys.
+      * URL: https://www.youtube.com/watch?v=-nvRDeFRWAA
+    * ROBLOX MUSIC VIDEO
+      * Description references a video about getting Robux for filling out surveys.
+      * URL: https://www.youtube.com/watch?v=QTbRWUhK3wI
+  * Other
+    * MAKING JAMES CHARLES a ROBLOX ACCOUNT
+      * Includes the words "Sex Tape" at 2:53
+      * URL: https://www.youtube.com/watch?v=3P6LVJBFkGg
+    * I Said \*\*\*\* For The First Time.. (Roblox)
+      * Video includes  "f\*\*\*" (2x), "b\*\*\*\*", and "bulls\*\*\*" included but bleeped out. Middle fingers are also used at the end.
+      * URL: https://www.youtube.com/watch?v=t_W8ReEfuHY
+  * Phishing
+    * I HACKED A FANS ACCOUNT AND GAVE THEM ROBUX! | Roblox
+      * URL: https://www.youtube.com/watch?v=z_a7yQ9oVuk
   * Non-Giftcard Robux Giveaways
-    * 1 KILL = $1000 Robux in Roblox Bedwars..
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=COqizjAstxE
+    * Don't Say ANYTHING To Win 10,000 ROBUX (Roblox)
+      * URL: https://www.youtube.com/watch?v=__wCIZWHUOM
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
