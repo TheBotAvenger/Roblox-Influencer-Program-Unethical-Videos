@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 1, 2026<br>
+Generated February 2, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,088,771 videos
-* Total videos found that match keywords: 59,389 videos
-  * Total unprocessed videos: 13,367 videos
+* Total videos found that match keywords: 59,533 videos
+  * Total unprocessed videos: 13,511 videos
 * Total videos found that are processed and marked: 100 videos 
   * Information Collection: 55 videos
   * Non-Giftcard Robux Giveaways: 39 videos
@@ -243,7 +243,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BETO GAMER (betogamer_01)
 * Bia Gamer (BiiiaGamerYT)
 * Bianca Nayi (bianqui_nayi123)
-* Bibi e Lud (BibibloxYTB and LudBloxYTB)
+* Bibi e Lud (BibibloxYTB and roblox\_user\_1425755063)
 * Bidinho (bidinh0)
 * Biel Henrique (BielHenriikOficial)
 * BigB (BigBst4tz22)
