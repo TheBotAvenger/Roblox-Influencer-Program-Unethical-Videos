@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 3, 2026<br>
+Generated February 4, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 1,091,121 videos
 * Total videos found that match keywords: 59,533 videos
   * Total unprocessed videos: 13,511 videos
-* Total videos found that are processed and marked: 100 videos 
-  * Information Collection: 55 videos
-  * Non-Giftcard Robux Giveaways: 39 videos
+* Total videos found that are processed and marked: 78 videos 
+  * Information Collection: 36 videos
+  * Non-Giftcard Robux Giveaways: 36 videos
   * Other: 3 videos
   * Phishing: 3 videos
 
@@ -533,6 +533,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * LunaPorDos (LunaPorDos00)
 * Lunar Eclipse (Lunar3clispe)
 * Luuy (iiLuuy)
+* luvsunny (sunshrxxm)
 * luvxshine (luvxsh1ne3)
 * Luzablxx (Lzablxx)
 * M4DARA TR (MADARATRTRTR)
@@ -549,6 +550,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MathFacter360 (MathFacter360)
 * Matsbxb (MATSbxb)
 * mayrushart (mayrushart)
+* MedTw (MedTwYT)
 * MeEnyu (EnyuZee)
 * MeganPlays (TheMeganPlays)
 * MelzinhaMel Games (MelzinhaMelGames, Detona\_Anderson, and Princesa\_Alicinha)
@@ -848,45 +850,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Teleporting Simulator! (FUCK FUCK FUCK)
       * Video, title, and description contain the "F word" 8 times.
       * URL: https://www.youtube.com/watch?v=rh_sr6rEWWI
-* luvsunny (sunshrxxm)
-  * Non-Giftcard Robux Giveaways
-    * ROBUX GIVEAWAY WINNERS \*SO MUCH ROBUX😱\*
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=slDo42OGX3Y
-    * HOW TO GET FREE ROBUX😳 \*2023 METHOD\*
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=IUThFHBAlYU
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
-* MedTw (MedTwYT)
-  * Information Collection
-    * QUAL É O MELHOR ?? ALL MIGHT VS DEKU 100% NO ALL STAR TOWER DEFENSE !!!
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=bODxx6zpC90
-    * \*incrível\* ITACHI UCHIHA NO ALL STAR TOWER DEFENSE !!!
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=lq3LDIvoeCo
-    * NOVIDADES SOBRE A GRANDE ATUALIZAÇÃO DO ALL STAR TOWER DEFENSE !!!
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=KgQamhdBf24
-    * SÓ PODE PERSONAGEM DE 2 ESTRELAS NO ALL STAR TOWER DEFENSE !!!
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=YGazkDeonq4
-    * QUAL É O MELHOR ?? ACE VS BROLY NO ALL STAR TOWER DEFENSE !!!
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=uwiDa5L1c08
-    * \*bug\* TROPAS NA ZONA VERMELHA NO ALL STAR TOWER DEFENSE !!!
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=8ZUAFN90a0c
-    * SÓ PODE EXP I, EXP II, EXP III NO ALL STAR TOWER DEFENSE !!!
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=z-MGoeltfmA
-    * TESTEI UM SUPOSTO BUG PARA GANHAR MEGA RARO NO ALL STAR TOWER DEFENSE !!!
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=oCYOK0XYc2o
 * MIKEYDOOD (IMMIKEYDOOD)
   * Phishing
     * HACKING MY VIEWER AND SPENDING ALL OF HIS ROBUX!!!
@@ -924,58 +892,24 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
 * ZephPlayz (Zeph)
   * Information Collection
-    * ROBLOX MAKING 6IX9INE AN ACCOUNT
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=3srXgBKQAO4
-    * ROBLOX MAKING VENOM AN ACCOUNT
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=eTvOuDtoGHQ
-    * the GHOST took over my POPULAR Roblox game..
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=0Gcy0TWV4Ew
     * Easy Way To Get Robux Without Money! (Roblox)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=dBUnHb_1kFo
     * MEETING JAILBREAK'S OWNER! OMG! (Roblox)
       * Description references the data collection website flame.gg.
       * URL: https://www.youtube.com/watch?v=N-NV4DX7aTI
-    * Get Robux With This App! (Roblox)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=5GTA5jLNeEM
-    * Robux in Roblox
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=tUlxmfpDIqk
-    * HOW TO GET THE SPIDERMAN HEAD IN ROBLOX!
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=2Mgi8LBZEE8
-    * DISTURBING FLAMINGO GAME IN ROBLOX
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=t6n6GG2meCw
-    * THE GHOST MESSAGED ME 1 YEAR LATER.. (Roblox)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=zXEs9fQeFgk
     * DanTDM Said THIS About Roblox
       * Description references the data collection website flame.gg.
       * URL: https://www.youtube.com/watch?v=eb5l7WaM3Jo
     * Why DanTDM Quit Roblox
       * Description references the data collection website flame.gg.
       * URL: https://www.youtube.com/watch?v=H3id5wKBPX4
-    * Get Robux WITHOUT Money (Roblox)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=7XJCO2JXxyw
     * OMG NEW JAILBREAK UPDATE IN A MINUTE! | Roblox
       * Description references a download for a data collection mobile app.
       * URL: https://www.youtube.com/watch?v=D4gN-HfzNMk
     * ROBLOX IN ROBLOX 2018!
       * Description references a download for a data collection mobile app.
       * URL: https://www.youtube.com/watch?v=Dcit20m1KMk
-    * Need Builders Club On Roblox?
-      * Description references a download for a data collection mobile app.
-      * URL: https://www.youtube.com/watch?v=53F8Wajo8aY
-    * BEST WAY TO GET FREE ROBUX! (Roblox)
-      * Description links to an app that collects user data.
-      * Description references a download for a data collection mobile app.
-      * URL: https://www.youtube.com/watch?v=Fi4v7q42irs
     * SECRET HIDDEN ROOM FOUND IN PRISON ISLAND! | Roblox
       * Description references the data collection website oprewards.com.
       * URL: https://www.youtube.com/watch?v=wEFvc1pWK1U
@@ -1059,9 +993,6 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Phishing
     * I HACKED A FANS ACCOUNT AND GAVE THEM ROBUX! | Roblox
       * URL: https://www.youtube.com/watch?v=z_a7yQ9oVuk
-  * Non-Giftcard Robux Giveaways
-    * Don't Say ANYTHING To Win 10,000 ROBUX (Roblox)
-      * URL: https://www.youtube.com/watch?v=__wCIZWHUOM
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
