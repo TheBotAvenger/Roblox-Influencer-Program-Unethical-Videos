@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 8, 2026<br>
+Generated February 9, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,091,121 videos
-* Total videos found that match keywords: 59,533 videos
-  * Total unprocessed videos: 13,511 videos
+* Total videos found that match keywords: 59,545 videos
+  * Total unprocessed videos: 13,523 videos
 * Total videos found that are processed and marked: 78 videos 
   * Information Collection: 36 videos
   * Non-Giftcard Robux Giveaways: 36 videos
@@ -730,7 +730,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Só Por Causa (Est3vA0)
 * Sören Abbaok (Abbaok)
 * Tangochini (Tangochini)
-* TanqR (TanqR)
+* TanqR (IllIlllIIIlIIIIlllIl)
 * Tapparay (Tapparay)
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
@@ -812,7 +812,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * YoSoyLoki (YoSoyLokiYT)
 * yTowak (yTowak)
 * ZacharyZaxor (ZacharyZaxor)
-* ZaiLetsPlay (YT_ZaiLetsPlay)
+* ZaiLetsPlay (roblox\_user\_113788742)
 * Zaryee (Zaryee)
 * zaze!! 🌀 (zazebloxx)
 * ZeDarkAlien (ZeDarkAlien)
