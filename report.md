@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 15, 2026<br>
+Generated February 16, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,093,437 videos
-* Total videos found that match keywords: 59,545 videos
-  * Total unprocessed videos: 13,523 videos
+* Total videos found that match keywords: 59,573 videos
+  * Total unprocessed videos: 13,551 videos
 * Total videos found that are processed and marked: 48 videos 
   * Non-Giftcard Robux Giveaways: 36 videos
   * Information Collection: 10 videos
@@ -337,7 +337,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * dragonplatinum (dragonplatinum)
 * DrakeTacos (Brianvid19)
 * Drei Diego (AndreiEon124)
-* DUDU Betero (BIANOBETER0, DuduBetero, RafaBetero_BTR, and RafaBetero)
+* DUDU Betero (BIANOBETER0, DuduBetero, SimoneBetero, and RafaBetero)
 * DV Plays (DVwastaken)
 * El Magnum (MagnumStormus)
 * elDanielGT (DanielGTReal)
@@ -778,7 +778,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * VANILLA (UseStarCode_VANILLA)
 * VarietyJay (VarietyJay_Real)
 * VeD\_DeV (VeD\_DeV)
-* Veyar (VeyarYT)
+* Veyar (VeyarVYR)
 * ViewSIM (ViewYT)
 * VikingPrincessJazmin (VikingPrincessJazmin)
 * Viktor (Hihi2234xd2)
@@ -893,7 +893,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* TanqR (IllIlllIIIlIIIIlllIl)
+* TanqR (TanqR)
   * Non-Giftcard Robux Giveaways
     * 1 KILL = $1000 Robux in Roblox Bedwars..
       * Uses group funds to give away Robux.
