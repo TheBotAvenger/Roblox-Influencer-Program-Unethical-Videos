@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 17, 2026<br>
+Generated February 18, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 1,095,786 videos
 * Total videos found that match keywords: 59,573 videos
   * Total unprocessed videos: 13,551 videos
-* Total videos found that are processed and marked: 48 videos 
-  * Non-Giftcard Robux Giveaways: 36 videos
-  * Information Collection: 10 videos
+* Total videos found that are processed and marked: 42 videos 
+  * Non-Giftcard Robux Giveaways: 34 videos
+  * Information Collection: 6 videos
   * Phishing: 1 video
   * Other: 1 video
 
@@ -394,6 +394,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GamerNom (MaybeItsMyFault)
 * GamingMermaid (Aquaerria)
 * GamingwithVYT (GamingwithVYT)
+* Geko97 - Roblox (Flexer97YT)
 * GH0Ks (GHOKSZIN)
 * GhostInTheCosmos (GhostInTheCosmos)
 * GianBlox (GianBloxStarYT)
@@ -478,6 +479,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JymbowSlice (JymbowSliceYT)
 * Kaden Fumblebottom (jokerkid5898)
 * Karim Juega (karimjuega)
+* Karola20 (karola20YT)
 * KelseyAnna (KelseyAnna)
 * Kelvingts (Kelvingts)
 * Kepu The Cat (KepuTheCat)
@@ -730,6 +732,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Só Por Causa (Est3vA0)
 * Sören Abbaok (Abbaok)
 * Tangochini (Tangochini)
+* TanqR (TanqR)
 * Tapparay (Tapparay)
 * TapWater (tapwat4r)
 * teenager paul (teenagerpaul)
@@ -815,7 +818,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Zaryee (Zaryee)
 * zaze!! 🌀 (zazebloxx)
 * ZeDarkAlien (ZeDarkAlien)
-* ZephPlayz (Zeph)
 * Zerophyx (Zerophyx)
 * Zilgon (Zilgon)
 * ZoeTheNoob (z1oee)
@@ -845,25 +847,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Teleporting Simulator! (FUCK FUCK FUCK)
       * Video, title, and description contain the "F word" 8 times.
       * URL: https://www.youtube.com/watch?v=rh_sr6rEWWI
-* Geko97 - Roblox (Flexer97YT)
-  * Information Collection
-    * Sell roblox via online • Tools for Ecommercee• Affiliate Marketing• Passive Income• Shopify•
-      * Description references the data collection website rbxcash.com.
-      * URL: https://www.youtube.com/watch?v=A_NIUghaUM0
-    * HOW TO CREATE A PASSIVE INCOME GAMING 32 \#passiveincome \#gaming
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=5Lt02hfeNbw
-    * HOW TO CREATE A PASSIVE INCOME GAMING 34 \#passiveincome \#gaming
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=lVRkb90j_go
-    * HOW TO CREATE A PASSIVE INCOME GAMING 35 \#passiveincome \#gaming
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=l3qwVIOIwgc
-* Karola20 (karola20YT)
-  * Information Collection
-    * MEEPCITY BAILE DÍA DEL AMOR CON MIS ALUMNOS💖PROPUESTA DEL PROFESOR😱💖- ROBLOX
-      * Description references the data collection website rbxtrade.com.
-      * URL: https://www.youtube.com/watch?v=ZoDzvJ-dCDc
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
@@ -893,11 +876,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* TanqR (TanqR)
-  * Non-Giftcard Robux Giveaways
-    * 1 KILL = $1000 Robux in Roblox Bedwars..
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=COqizjAstxE
+* ZephPlayz (Zeph)
+  * Information Collection
+    * MEETING JAILBREAK'S OWNER! OMG! (Roblox)
+      * Description references the data collection website flame.gg.
+      * URL: https://www.youtube.com/watch?v=N-NV4DX7aTI
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
