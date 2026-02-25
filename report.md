@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated February 24, 2026<br>
+Generated February 25, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,10 +185,10 @@ to the report if this happens.
 * Total videos: 1,098,040 videos
 * Total videos found that match keywords: 59,594 videos
   * Total unprocessed videos: 13,572 videos
-* Total videos found that are processed and marked: 42 videos 
-  * Non-Giftcard Robux Giveaways: 34 videos
+* Total videos found that are processed and marked: 122 videos 
+  * Non-Giftcard Robux Giveaways: 112 videos
   * Information Collection: 6 videos
-  * Phishing: 1 video
+  * Phishing: 3 videos
   * Other: 1 video
 
 ### No Videos Found
@@ -452,9 +452,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JavaCreates (JavaCreates)
 * javie12 (javie12)
 * JCWK (JCDoesGaming_YT)
-* JD (Thexz)
 * Jeancof (Jeancof)
-* JeffBlox (JeeffBlox)
 * JehxTp (JehxTp)
 * jello queen (JelloQueenYT)
 * Jenstine (jenstine and jenstinex)
@@ -468,7 +466,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JonesGotGame (JonesGotGame)
 * Juaumzinho (JUAUMZONES)
 * Judo Unicorn (judounicorn11)
-* Juega y Diviertete con Vicky (Vickycasti_laPro)
 * Juicy John (Majojocl)
 * Julia MineGirl (Crisminegirl and JuliaMinegirl)
 * Julianbank (blvckbank)
@@ -641,7 +638,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Rainster (RainsterYT)
 * Rainway (UseCode_Rainway)
 * Rajo END (Rajo_END)
-* RAMBLING RAMUL (RamblingRamul)
 * Rax (RaxBLX)
 * Razor (mprazor)
 * RazorFishGaming (UseCodeRAZORFISH and RazorFishPengi)
@@ -818,6 +814,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Zaryee (Zaryee)
 * zaze!! 🌀 (zazebloxx)
 * ZeDarkAlien (ZeDarkAlien)
+* ZephPlayz (Zeph)
 * Zerophyx (Zerophyx)
 * Zilgon (Zilgon)
 * ZoeTheNoob (z1oee)
@@ -847,11 +844,260 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Teleporting Simulator! (FUCK FUCK FUCK)
       * Video, title, and description contain the "F word" 8 times.
       * URL: https://www.youtube.com/watch?v=rh_sr6rEWWI
+* JD (Thexz)
+  * Phishing
+    * HACKING A ROBLOX ACCOUNT AND ADDING ROBUX!!!
+      * URL: https://www.youtube.com/watch?v=_XmbkXyoBeA
+    * HACKING A ROBLOX HACKERS ACCOUNT...
+      * URL: https://www.youtube.com/watch?v=lfi_UP4xAnw
+* JeffBlox (JeeffBlox)
+  * Information Collection
+    * ROBLOX - SOU UMA GALINHA COMILONA NO CHICKEN SIMULATOR
+      * Description references a video about the data collection website bloxawards.com using a link shortener.
+      * URL: https://www.youtube.com/watch?v=5jAv3UZeuoQ
+* Juega y Diviertete con Vicky (Vickycasti_laPro)
+  * Non-Giftcard Robux Giveaways
+    * 🤑🤑 Robux Gratis 🤑✨REGALO 400 ROBUX✨🤑
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=VbZhoF9ZEM0
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
+* RAMBLING RAMUL (RamblingRamul)
+  * Non-Giftcard Robux Giveaways
+    * \[ROBLOX\] WIN FREE ROBUX IN MY LOTTERY IN SURVIVOR
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=-oDhbZUAa6Q
+    * \[ROBLOX\] PLAYING JAILBREAK & SURVIVOR + WIN FREE ROBUX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=GH6V19WScUM
+    * \[ROBLOX\] WIN FREE ROBUX Every 10 Min In My Lottery In Jailbreak
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=IvEQ8DO7pj0
+    * \[ROBLOX\] WIN FREE ROBUX IN MY LOTTERY EVERY 10 MIN IN JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=AsezfTUi0yM
+    * ROBLOX JAILBREAK + WIN FREE ROBUX EVERY 10 MIN IN MY LOTTERY
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=tzWEBdn0ECk
+    * ROBLOX : PLAYING SHARKBITE + WIN FREE ROBUX EVERY 10 MIN
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=-zlfAHTv4Pw
+    * \[ROBLOX\] WIN FREE ROBUX IN MY LOTTERY IN SHARKBITE & SURVIVOR
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=4da7gz3CWCI
+    * ROBLOX JAILBREAK + ROBUX LOTTERY EVERY 10 MIN
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=AsugmojDkd8
+    * GIVING AWAY 50-100 ROBUX EVERY 10 MIN IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=Poyp2axpOBs
+    * WIN FREE ROBUX EVERY 10 MIN IN MY ROBLOX LOTTERY IN JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=G0Z3AsOxXVk
+    * WIN FREE ROBUX IN MY ROBUX LOTTERY IN JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=4BzaebIDLbA
+    * PLAYING JAILBREAK & SHARKBITE + FREE ROBUX LOTTERY EVERY 10 MIN
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=jC4efMO5aZg
+    * PLAYING JAILBREAK & SURVIVOR IN ROBLOX + FREE ROBUX LOTTERY
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=IhEZtNsGkqQ
+    * WIN 50 FREE ROBUX EVERY 10 MIN IN MY LOTTERY IN JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=RW2zbz1AaBs
+    * WIN FREE ROBUX EVERY 10 MIN IN MY ROBLOX LOTTERY IN SURVIVOR
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=OyI5cirJMJ8
+    * FREE ROBUX LOTTERY EVERY 10 MIN IN JAILBREAK ROBLOX (NOT FAKE)
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=oeyvoqUrgBo
+    * WIN ROBUX EVERY 10 MIN IN MY ROBUX LOTTERY IN JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=vfPMgPISvFk
+    * FREE ROBUX LOTTERY EVERY 10 MIN IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=BVVR0WaKgdw
+    * Win FREE ROBUX every 10 MIN in my robux lottery in JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=SeYNzK4EjJw
+    * WIN FREE ROBUX EVERY 10 MINUTES IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=BUbVGmQuTFg
+    * WIN FREE ROBUX EVERY 10 MINUTES IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=xTvf8mrJa8M
+    * FREE ROBUX GIVEAWAY EVERY 10 MIN IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=6zzPWFku_PY
+    * FREE ROBUX GIVEAWAY EVERY 10 MIN IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=Nr-eoHCZvg0
+    * ROBUX GIVEAWAYS IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=TIt5NsP9meo
+    * FREE ROBUX GIVEAWAY EVERY 10 MIN IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=1MIMha8LaN8
+    * FREE ROBUX GIVEAWAY EVERY 10 MIN IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=OHWXW2_NbYU
+    * FREE ROBUX LOTTERY EVERY 10 MIN IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=wKlrRi46PpQ
+    * FREE ROBUX GIVEAWAY EVERY 10 MIN IN JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=BfsaB988chk
+    * FREE ROBUX GIVEAWAY EVERY 10 MIN IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=I-7JLjx6bMY
+    * THIS IS THE ONLY WAY TO GET FREE ROBUX IN ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=WLXXgHH0E5U
+    * GIVING AWAY 50 ROBUX EVERY 10 MIN IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=bAgiH3DH0Jo
+    * WIN 50 ROBUX EVERY 10 MIN IN ROBLOX JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=6XGaZvn04nQ
+    * REAL ROBUX GIVEAWAY IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=IpnMtA9Zxpk
+    * ROBUX GIVEAWAY EVERY 10 MIN IN SURVIVOR ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=_jpW8uAc1as
+    * ROBUX GIVEAWAY EVERY 10 MIN WHILE PLAYING JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=ZQi1EJfnE24
+    * 50 ROBUX GIVEAWAY EVERY 10 MIN IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=vlYsD5-kLSs
+    * ROBUX GIVEAWAY EVERY 10 MINUTES IN JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=ap3RpSGDO58
+    * JAILBREAK ROBLOX / NEW ESCAPE / GIVING AWAY ROBUX EVERY 10 MIN
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=M33jodDtnXg
+    * NEW ESCAPE JAILBREAK UPDATE IN ROBLOX & ROBUX GIVEAWAY EVERY 10 MIN
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=SUfZeRl3HJA
+    * GIVING AWAY 50 ROBUX EVERY 10 MIN IN JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=CDKQW-eonos
+    * ROBUX Giveaway EVERY 10 Minutes While Robbing Stores In JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=XhOwzJJRapk
+    * GIVING AWAY 50 ROBUX EVERY 10 MIN IN JAILBREAK ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=4bqVPzUXueU
+    * GIVING AWAY 50 ROBUX EVERY 10 MIN IN SURVIVOR
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=oFRyvj1mWuc
+    * GIVING AWAY 50 ROBUX EVERY 10 MIN IN JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=1YcewCkwSvY
+    * GIVING AWAY FREE ROBUX EVERY 10 MIN & ROBBING STORES IN JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=v3uf91ghVT4
+    * JAILBREAK ROBBING GAS STATIONS UPDATE + ROBUX GIVEAWAY EVERY 10 MIN
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=H3Rtpt7Ew10
+    * ROBLOX JAILBREAK / GIVING AWAY 50 ROBUX EVERY 10 MINUTES
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=yhrqIuutfoo
+    * 50 FREE ROBUX GIVEAWAY EVERY 10 MINUTES IN JAILBREAK | LOTTERY STYLE
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=MdEkGq30iQI
+    * GIVING AWAY FREE ROBUX EVERY 10 MINUTES IN SURVIVOR
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=qU9jTvjY4AU
+    * GIVING 50 FREE ROBUX EVERY 10 MINUTES IN JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=mZlg53rTCTI
+    * GIVING AWAY 50 FREE ROBUX EVERY 15 MINUTES IN POKEMON BRICK BRONZE
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=s6cddtzp2Oo
+    * GIVING AWAY FREE 50 ROBUX EVERY 15 MINUTES IN JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=FbOEXeYfQE8
+    * GIVING AWAY FREE ROBUX EVERY 15 MINUTES IN JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=1xsoFtBUB1c
+    * GIVING AWAY FREE ROBUX EVERY 15 MINUTES IN POKEMON BRICK BRONZE
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=yiHyYxDJHMs
+    * Giving away free Robux every 15 minutes in Survivor
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=7EwgFZC2p2c
+    * GIVING AWAY FREE ROBUX EVERY 15 MINUTES IN JAILBREAK
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=lr0jA_C20oE
+    * GIVING AWAY FREE ROBUX EVERY 15 MINUTES + PLAYING POKEMON BRICK BRONZE
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=GPyMPomG3oo
+    * Get Free Robux
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=cDc6MjxNOU0
+    * NEW UPDATED LOST ISLANDS IN POKEMON BRICK BRONZE + ROBUX GIVEAWAY
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=koUAyqIwFGE
+    * GIVING FREE ROBUX TO LUCKY PEOPLE + SURVIVOR IN ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=DVJDMgq-YtM
+    * FREE ROBUX TO LUCKY PEOPLE + SURVIVOR IN ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=CnclykAGZyk
+    * ROBUX GIVEAWAY + PLAYING SURVIVOR IN ROBLOX / COME PLAY
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=K8WSic-SaeI
+    * PLAYING SURVIVOR IN ROBLOX ON PRIVATE SERVER + ROBUX GIVEAWAY
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=dG6EKXAI1kE
+    * ROBUX GIVEAWAY + PLAYING SURVIVOR IN ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=XXuq5tXmChs
+    * POKEMON BRICK BRONZE / CHANSEY + PORYGON + ROBUX GIVEAWAY
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=JoJHPnSHP1M
+    * SURVIVOR IN ROBLOX + MORE ROBUX GIVEAWAYS
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=h03Aa-0zw74
+    * PLAYING SURVIVOR IN ROBLOX + ROBUX GIVEAWAY
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=YCScIXuPVl4
+    * HUNTING FOR LEGENDS IN POKEMON BRICK BRONZE + ROBUX GIVEAWAY
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=D9X_d1UzEKI
+    * PLAYING SURVIVOR IN ROBLOX + ROBUX GIVEAWAY
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=DDSSUj_rc7Q
+    * POKEMON BRICK BRONZE / HUNTING FOR MEW / ROBUX GIVEAWAY
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=YCvMYyxJ7Eg
+    * GIVING AWAY 50 ROBUX EVERY FEW MINUTES / PLAYING PBB & ZOMBIE RUSH / ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=DZUOXsVkcRY
+    * GIVING AWAY ROBUX & PLAYING SOME POKEMON BRICK BRONZE | ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=GjgJXJqI1T4
+    * GIVING AWAY 50 ROBUX EVERY FEW MINUTES or so.. / PLAYING VARIOUS GAMES / ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=6XJ7Oj2TE4M
+    * FREE ROBUX GIVEAWAY / GIVING AWAY ROBUX EVERY FEW MINUTES / ROBLOX
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=ENygEtzf4gI
+    * POKEMON BRICK BRONZE / HUNTING FOR LATIOS / FREE ROBUX GIVEAWAY
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=ggcZYwlXvhU
+    * Giving Away 50 ROBUX every 5 new Subs / POKEMON BRICK BRONZE / PHIONE GIVEAWAY
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=OUZGgNpst_E
+    * MANAPHY EGG HUNT + 2400 ROBUX GIVEAWAY / POKEMON BRICK BRONZE
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=q1nFZb81xCo
 * SeeDeng (SeeDank)
   * Phishing
     * PLAYING ON A FAN'S ACCOUNT IN ROBLOX (SPENDING ALL THEIR ROBUX)
@@ -876,11 +1122,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* ZephPlayz (Zeph)
-  * Information Collection
-    * MEETING JAILBREAK'S OWNER! OMG! (Roblox)
-      * Description references the data collection website flame.gg.
-      * URL: https://www.youtube.com/watch?v=N-NV4DX7aTI
 
 ## Conclusion
 The inconsistent enforcement of the Roblox terms of use and laws in the United States needs to be addressed to improve
