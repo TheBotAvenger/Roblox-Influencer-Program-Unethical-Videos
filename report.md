@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 1, 2026<br>
+Generated March 2, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,098,040 videos
-* Total videos found that match keywords: 59,594 videos
-  * Total unprocessed videos: 13,572 videos
+* Total videos: 1,099,914 videos
+* Total videos found that match keywords: 59,657 videos
+  * Total unprocessed videos: 13,635 videos
 * Total videos found that are processed and marked: 122 videos 
   * Non-Giftcard Robux Giveaways: 112 videos
   * Information Collection: 6 videos
@@ -195,6 +195,7 @@ to the report if this happens.
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 39jeshi (39jeshi)
 * 3SB Games (cakemiix and 3SBMiichael)
+* 8sty (8sty)
 * Aati Plays (AatiPlays_Official)
 * AbsintoJ (AbsintoJYT)
 * Acenix (AcenixGatoo)
@@ -297,6 +298,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * cKev (cKev)
 * Claus (ClausOFC)
 * Cleansey (CleanseyFamily)
+* Colbe (Colbem)
 * ComfySunday (ComfySunday)
 * Complex Roblox (IamComplexRoblox)
 * Conor3D (Conor3D)
@@ -751,6 +753,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Thiq Betty (ChrisPurKittiess)
 * ThnxCya (NotThnxCya)
 * Throbpenz (tharbakin)
+* Thumbs Up Family (ThumbsUpFamily)
 * ThunberGames (ThunberGames)
 * ThyEdgar (THYEDGAR_YT)
 * Tigre TV (StarCode_TigreTVyt)
@@ -763,7 +766,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TroyanoNanoReturns (TroyanoNanoReturns)
 * TrustlyDragon (TheTrustlyDragon)
 * tsetYT (tsetfed)
-* TUF Mysteries (ThumbsUpFamily)
 * Turtles Wear Raincoats (TurtlesWearRaincoats)
 * TussyGames (TussyGames)
 * TW Dessi Gaming (TW_Dessi)
