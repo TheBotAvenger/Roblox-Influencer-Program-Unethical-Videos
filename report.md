@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 8, 2026<br>
+Generated March 9, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,101,998 videos
-* Total videos found that match keywords: 59,657 videos
-  * Total unprocessed videos: 13,636 videos
+* Total videos: 1,103,725 videos
+* Total videos found that match keywords: 59,669 videos
+  * Total unprocessed videos: 13,648 videos
 * Total videos found that are processed and marked: 42 videos 
   * Non-Giftcard Robux Giveaways: 34 videos
   * Information Collection: 7 videos
@@ -193,7 +193,7 @@ to the report if this happens.
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 39jeshi (39jeshi)
-* 3SB Games (cakemiix and 3SBMiichael)
+* 3SB Games (cakemiix and Michelle_RobIox)
 * 8sty (8sty)
 * Aati Plays (AatiPlays_Official)
 * AbsintoJ (AbsintoJYT)
@@ -220,6 +220,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Argo Play (YT_Argo)
 * arielle (ariellesyt)
 * Armenti (Armenti)
+* ashlele (Ashleiiia)
 * Ashley (codeeunicorn)
 * AshleyBunni (BunniYT)
 * AtlasZero (AtlasBlox7)
@@ -617,6 +618,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Peter Toys (PeterToys)
 * PghLFilms (PGHLego1945)
 * Phoeberry (Phoeberry)
+* Pianista do Roblox (fmatheusim)
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
 * Play with me - Apps and Games (da\_dania and kaan\_xy2)
