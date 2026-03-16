@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 15, 2026<br>
+Generated March 16, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,105,801 videos
-* Total videos found that match keywords: 59,669 videos
-  * Total unprocessed videos: 13,648 videos
+* Total videos found that match keywords: 59,679 videos
+  * Total unprocessed videos: 13,658 videos
 * Total videos found that are processed and marked: 57 videos 
   * Non-Giftcard Robux Giveaways: 48 videos
   * Information Collection: 8 videos
@@ -697,7 +697,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SiimplyBubliie (SiimplyBubliie_YT)
 * Silent (RandomYoutuber0202)
 * SkippyPlays (skipsk0p)
-* Skyrain (roblox\_user\_503003513)
+* Skyrain (ipietrra)
 * SlEGHART (SlEGHART)
 * Sleigher (Gsleigh)
 * Slykage (Sly_Kage)
