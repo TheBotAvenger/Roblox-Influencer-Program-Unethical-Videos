@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated March 17, 2026<br>
+Generated March 18, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -185,9 +185,9 @@ to the report if this happens.
 * Total videos: 1,107,957 videos
 * Total videos found that match keywords: 59,679 videos
   * Total unprocessed videos: 13,658 videos
-* Total videos found that are processed and marked: 57 videos 
-  * Non-Giftcard Robux Giveaways: 48 videos
-  * Information Collection: 8 videos
+* Total videos found that are processed and marked: 43 videos 
+  * Non-Giftcard Robux Giveaways: 37 videos
+  * Information Collection: 5 videos
   * Other: 1 video
 
 ### No Videos Found
@@ -476,7 +476,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Julianbank (blvckbank)
 * Junell Dominic (Junewuuu)
 * JunRoots (cheeseandcakejuice)
-* JustHarrison (JustHarrisonYT)
 * jvnq (jvnqYT)
 * JymbowSlice (JymbowSliceYT)
 * Kaden Fumblebottom (jokerkid5898)
@@ -550,6 +549,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mandinha Game (MandiinhaGame)
 * Manucraft (ManucraftYT)
 * Mariana Nana (marianavasco)
+* MathFacter360 (MathFacter360)
 * Matsbxb (MATSbxb)
 * mayrushart (mayrushart)
 * MedTw (MedTwYT)
@@ -652,6 +652,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Rebootedpoppy (CryptedPoppy)
 * Red Ninja (STARC0DE_RedNinja)
 * REDKILL (RED_YTBE)
+* Rektway (Rektway)
 * RELLGames (RELLvex)
 * Remainings (Remainings)
 * RiusPlay (RiusPlayYTYTYT)
@@ -683,6 +684,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * SDMittens (SDMittens)
 * sebee (23Sebee)
 * SeeDeng (SeeDank)
+* Seer (ReaISeer)
 * Seniac (MrSeniac)
 * seqshell (seqshell)
 * shadow network (realshadownetwork)
@@ -849,68 +851,22 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Teleporting Simulator! (FUCK FUCK FUCK)
       * Video, title, and description contain the "F word" 8 times.
       * URL: https://www.youtube.com/watch?v=rh_sr6rEWWI
+* JustHarrison (JustHarrisonYT)
+  * Non-Giftcard Robux Giveaways
+    * 🔴 DOING THE 20,000 ROBUX GIVEAWAY LIVE!!!
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=F6SpRGVTviE
+    * (ENDED) 5 PEOPLE WILL WIN 4,000 ROBUX EACH!!! (Tower Defense Simulator - ROBLOX)
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=U8HJSDkPabY
+    * (OVER) 2,500 ROBUX GIVEAWAY!!! LAST CHANCE TO GET TOXIC GUNNER (Tower Defense Simulator - ROBLOX)
+      * Uses group funds to give away Robux.
+      * URL: https://www.youtube.com/watch?v=Qnq6AuArpdM
 * Lyna (Lynitaa)
   * Non-Giftcard Robux Giveaways
     * REGALO 100.000 ROBUX SI PIERDO ESTE RETO EN ROBLOX
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=ZNZLqUPWnfc
-* MathFacter360 (MathFacter360)
-  * Non-Giftcard Robux Giveaways
-    * complete my CASTLE OBBY and WIN 5,000 ROBUX!!! (Roblox)
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=Ut3Ix9VnCBE
-    * FIRST PERSON TO COMPLETE EACH OTHER'S OBBY WINS 1000 ROBUX!!! | Obby Creator on Roblox \#4
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=r119uNIrSsA
-    * FIRST PERSON TO COMPLETE MY OBBY WINS 1000 ROBUX!!! | Obby Creator on Roblox \#3
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=YtDg9MtpPSs
-    * JTOH BUILDING COMPETITION FOR $1,000 ROBUX!!! | JToH on Roblox \#20
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=CBzk84ocnpI
-    * RACING RANDOM PEOPLE FOR \*1,000 ROBUX\*!!! | Tower of Hell on Roblox \#12
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=-Zqc-_02Bv4
-    * FIRST PERSON TO COMPLETE MY CHALLENGE OBBY WINS 1,000 ROBUX!!! (Roblox)
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=mHtH1lUFDZY
-    * 1v1ing Fans For 1,000 ROBUX!!! | Tower of Hell on Roblox \#6
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=hhF3A6Oq3IU
-    * COMPLETE THE TOWER TO WIN 1,000 ROBUX!!! | Tower of Hell on Roblox \#3
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=3ahQMgsa3LQ
-    * MAP TEST DEAL OR NO DEAL FOR 5,000 ROBUX!!! | Flood Escape 2 on Roblox \#87
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=MdEwfMKF8UI
-    * FIRST PERSON TO BEAT MY QUIZ MAP WINS 1,000 ROBUX!!! | Flood Escape 2 on Roblox \#74
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=okgH5NKdT54
-    * LAST PERSON TO DIE WINS 1,000 ROBUX!!! | Flood Escape 2 on Roblox \#71
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=q1QOpUU7V3M
-    * FIRST PERSON TO BEAT MY CHALLENGE MAP WINS 1,000 ROBUX!!! | Flood Escape 2 on Roblox \#63
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=JSuVk5xVn-E
-* Rektway (Rektway)
-  * Non-Giftcard Robux Giveaways
-    * 1000 ROBUX GIVEAWAY WINNERS!
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=Ca1GhmgNCMg
-    * 1000 ROBUX GIVEAWAY!
-      * Uses group funds to give away Robux.
-      * URL: https://www.youtube.com/watch?v=jQ4yhK_55QI
-* Seer (ReaISeer)
-  * Information Collection
-    * ALL \*6\* NEW ROBLOX PROMO CODES ON ROBLOX 2020!  Roblox Promo Codes (October)
-      * Description references the data collection website gamehag.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=mgSVpPBTwns
-    * ALL NEW SECRET PET CODES in TAPPING LEGENDS! - Tapping Legends ⭐X5 CLICKS UPDATE⭐  (Roblox)
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=Wa4iiQ6CGgU
-    * ALL NEW SECRET CODES in VEHICLE SIMULATOR! - Vehicle Simulator💵 2020 (Roblox)
-      * Description references the data collection website gemsloot.com.
-      * URL: https://www.youtube.com/watch?v=O8HFg9Mnzbo
 * Smurfzin (Smurfzineo_YT)
   * Information Collection
     * COMO CONSEGUIR SEGUIDORES INFINITOS NO ROBLOX!! ✔️
