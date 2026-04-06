@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 5, 2026<br>
+Generated April 6, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,112,347 videos
-* Total videos found that match keywords: 59,686 videos
-  * Total unprocessed videos: 13,665 videos
+* Total videos found that match keywords: 59,688 videos
+  * Total unprocessed videos: 13,667 videos
 * Total videos found that are processed and marked: 43 videos 
   * Non-Giftcard Robux Giveaways: 37 videos
   * Information Collection: 5 videos
@@ -222,7 +222,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Armenti (Armenti)
 * ashlele (Ashleiiia)
 * Ashley (codeeunicorn)
-* AshleyBunni (BunniYT)
+* AshleyBunni (BunniRP)
 * AtlasZero (AtlasBlox7)
 * Auratix (Auratix)
 * Avocado Playz (AvocadoPlayzOfficial)
@@ -242,7 +242,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BereghostGames (snapple43, pixiedust423, Bereghost, and valadin1)
 * BestrolYT (BestrolYT)
 * BETO GAMER (betogamer_01)
-* Bia Gamer (BiiiaGamerYT)
+* Bia Gamer (BiaGameerzinha)
 * Bianca Nayi (bianqui_nayi123)
 * Bibi e Lud (BibibloxYTB and roblox\_user\_1425755063)
 * Bidinho (bidinh0)
@@ -289,7 +289,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Chekecheto (Chekelete1)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
-* ChewPlay (RiusPlayYTYTYT)
 * Chillz (ChillzSubZero)
 * Chizeled (Chizeled_YT)
 * Chocoblox (Chocoblox_93)
@@ -557,12 +556,13 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MeEnyu (EnyuZee)
 * MeganPlays (TheMeganPlays)
 * MelzinhaMel Games (MelzinhaMelGames, Detona\_Anderson, and Princesa\_Alicinha)
-* Mia Games (MiaZaffyt)
+* Mia Games (SritaMiaGames)
 * MIANNN (MIANNNGAMER)
 * MICHI RØBLØX (michineyley)
 * MicroGuardian (MicroGuardian)
 * MIKEYDOOD (IMMIKEYDOOD)
 * Mila FunPlayer (trxmila)
+* Minecraft PlaY (RiusPlayYTYTYT)
 * MiniBloxia (SubToMiniBloxia)
 * Model8197 (Modeldog8197)
 * MoFlare (MoFlare)
@@ -582,7 +582,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MyUsernamesThis (MyUsernamesThis)
 * Nanndo (Nanndo)
 * NanoProdigy (NanoProdigy)
-* Natasha Panda (NatashaPandaaYT)
+* Natasha Panda (ItsNatashaPanda)
 * Nathy Super Gamer (Nathy_SuperGamer)
 * Natsuki Sel (Natsuki_Sel)
 * NavyXFlame (NavyXFlame)
@@ -632,7 +632,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * PREZLEY (PrezleyOfficial)
 * PRIME FURIOUS (Prime_Furious)
 * Princess Royale (IAmPrincessRoyale)
-* Princess Tori (ItsToriTimeYT)
+* Princess Tori (PrincessToriOfficial)
 * ProbIems (Meelxicano)
 * Proder (Prod3r)
 * ProjectSupreme (ProjectSupreme)
@@ -657,7 +657,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RELLGames (RELLvex)
 * Remainings (Remainings)
 * Robin Hood Gamer (RobinHoodGamer10)
-* roblox az (robloxazytt)
+* roblox az (robIoxazzz)
 * Roblox Minigunner (skoonks)
 * Robotz (R_obotz)
 * Robrox (IchBinBrox)
