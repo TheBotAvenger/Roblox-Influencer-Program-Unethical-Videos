@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 11, 2026<br>
+Generated April 13, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,7 +182,7 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,114,525 videos
+* Total videos: 1,115,998 videos
 * Total videos found that match keywords: 59,688 videos
   * Total unprocessed videos: 13,667 videos
 * Total videos found that are processed and marked: 43 videos 
@@ -259,9 +259,10 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bonnie Builds (BONNlEBUILDS)
 * BramP (BramPeeee)
 * Brancoala Games (brancoalado, marcossmm, lauroala, and claudiacraudete)
+* BrawlDev (BrawlBattle)
 * BREN0RJ (BREN0RJ7)
 * Brigido (oCauanBrigido)
-* Brincando com a Keke (Keke_KerenYT)
+* Brincando com a Keke (Keke_Kerxn)
 * BrittanyPlays (Britt_Blox)
 * BRYAN MCQUEEN (IamBryanMcqueen)
 * Bubbles (bubblestoxic)
@@ -294,7 +295,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Christocream Roblox (Christocream)
-* Chrisu (ChristsuYT)
+* Chrisu (ChrisuRBLX)
 * cKev (cKev)
 * Claus (ClausOFC)
 * Cleansey (CleanseyFamily)
@@ -306,14 +307,14 @@ The following channels had nothing appear with manual searching. Videos may exis
 * corny (co_rny)
 * Cosmic (bluecosmiic)
 * CrazyErzy (CrazyErzy7u7)
-* Cristi Suki (CristiSukiYT)
+* Cristi Suki (Cresseya)
 * CrystalSims (CrystalSims)
 * CubeINC (RealCubeINC)
 * Curtified (CurtifiedYT)
 * Cute Cookie Gaming (CuteCookieGaming05)
 * Daffa super (Daffa_super2)
 * DandanPH (DandanPH)
-* Daniele Jesden (DannyJesdenYT)
+* DannyJRoblox (DannyJesdenYT)
 * DanteField (etnad34)
 * DaPandaGirl (Da_PandaGirl)
 * DatBrian (DatBrian)
@@ -582,6 +583,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MyUsernamesThis (MyUsernamesThis)
 * Nanndo (Nanndo)
 * NanoProdigy (NanoProdigy)
+* Naps (N_aps)
 * Natasha Panda (ItsNatashaPanda)
 * Nathy Super Gamer (Nathy_SuperGamer)
 * Natsuki Sel (Natsuki_Sel)
@@ -590,6 +592,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Nicole Maffi (NicoleMaffi and vanessamaffi)
 * NightFoxx (NightFoxx)
 * Ninjagaming (Ninjagaming)
+* NitroNuke (BL00XER)
 * NO\_DATA (NO\_DATA)
 * Noob Master (N00B_Mast3rXD)
 * not here anymore (notBeaPlays)
@@ -726,7 +729,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Striker180x (strikerl80x)
 * Stron (StronbolDev)
 * STUD (s7ud)
-* SugarStar Roblox (ourfire and ChrisOurFire)
+* SugarBlox (ourfire and ChrisOurFire)
 * SulyMazing (iamtheonepoundfish)
 * SunnyxMisty (xSunnyxMistyx)
 * Sunset Safari (HeySunsetSafari)
@@ -827,7 +830,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ZoeTheNoob (z1oee)
 * ZOMG (ZOMG)
 * ZON (zOnwley)
-* ZULY (ItsZulyYT)
+* ZULY (S0yZuly)
 * Zurielini (Zurix_500)
 * •Lavenderblossom• (OMG4LAV)
 
