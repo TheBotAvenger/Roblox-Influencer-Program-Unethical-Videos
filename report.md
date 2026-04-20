@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 19, 2026<br>
+Generated April 20, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,118,054 videos
-* Total videos found that match keywords: 59,688 videos
-  * Total unprocessed videos: 13,667 videos
+* Total videos: 1,118,936 videos
+* Total videos found that match keywords: 59,689 videos
+  * Total unprocessed videos: 13,668 videos
 * Total videos found that are processed and marked: 43 videos 
   * Non-Giftcard Robux Giveaways: 37 videos
   * Information Collection: 5 videos
@@ -314,7 +314,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cute Cookie Gaming (CuteCookieGaming05)
 * Daffa super (Daffa_super2)
 * DandanPH (DandanPH)
-* DannyJRoblox (DannyJesdenYT)
+* DannyJGames (DannyJesdenYT)
 * DanteField (etnad34)
 * DaPandaGirl (Da_PandaGirl)
 * DatBrian (DatBrian)
@@ -464,6 +464,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Jeny\_Punker (Jeny\_Punker)
 * JesuaCunnigham (Jesua_Cunnigham)
 * Jie GamingStudio (JieeVideos)
+* JixxyJax (JixxyJax)
 * Joao joao (Joao_joaooficial)
 * Joe Albanese (Joey_Albanese)
 * JoeyDaPrayer (mrjojoman131)
@@ -804,6 +805,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * WILCO (EsElWilco)
 * Willyandgaming (WillyandGaming1)
 * Wittyyb (Wittyyb)
+* Wondernat (Pinapple_Chan)
 * Woozlo (Woozlo)
 * XdarzethX - Roblox & More! (xdarzethx)
 * Xegothasgot (Xegot)
@@ -822,7 +824,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ZacharyZaxor (ZacharyZaxor)
 * ZaiLetsPlay (roblox\_user\_113788742)
 * Zaryee (Zaryee)
-* zaze!! 🌀 (zazebloxx)
+* zaze!! >:3 🧁🌀 (zazebloxx)
 * ZeDarkAlien (ZeDarkAlien)
 * ZephPlayz (Zeph)
 * Zerophyx (Zerophyx)
