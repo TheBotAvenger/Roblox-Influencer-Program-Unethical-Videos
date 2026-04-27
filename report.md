@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated April 26, 2026<br>
+Generated April 27, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,121,050 videos
-* Total videos found that match keywords: 59,689 videos
-  * Total unprocessed videos: 13,668 videos
+* Total videos: 1,121,443 videos
+* Total videos found that match keywords: 59,705 videos
+  * Total unprocessed videos: 13,684 videos
 * Total videos found that are processed and marked: 43 videos 
   * Non-Giftcard Robux Giveaways: 37 videos
   * Information Collection: 5 videos
@@ -385,6 +385,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (frenchrxses)
 * FUDZ (fudsim)
+* Fumblit (Fumblit)
 * FunkySquadHD (UseCode_Funky)
 * FunnyBunny (Jxssivca)
 * FunPiggy (CelestialPiggy)
