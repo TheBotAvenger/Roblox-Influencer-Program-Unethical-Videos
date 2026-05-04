@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 3, 2026<br>
+Generated May 4, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,123,536 videos
-* Total videos found that match keywords: 59,705 videos
-  * Total unprocessed videos: 13,684 videos
+* Total videos found that match keywords: 59,709 videos
+  * Total unprocessed videos: 13,688 videos
 * Total videos found that are processed and marked: 43 videos 
   * Non-Giftcard Robux Giveaways: 37 videos
   * Information Collection: 5 videos
@@ -193,7 +193,7 @@ to the report if this happens.
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 39jeshi (39jeshi)
-* 3SB Games (cakemiix and Michelle_RobIox)
+* 3SB Games (cakemiix and Mlchael_Roblox)
 * 8sty (8sty)
 * Aati Plays (AatiPlays_Official)
 * AbsintoJ (AbsintoJYT)
