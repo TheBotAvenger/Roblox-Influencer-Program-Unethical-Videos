@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 24, 2026<br>
+Generated May 25, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -275,7 +275,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Canal Cahcildis (cahcildis)
 * Captain Capi (CaptainCapii)
 * Captain Tate (CaptainTate21)
-* Captainly (UseStar_CodeCAP)
+* Captainly (BuddyRobloxTV)
 * Carbon Meister Plays (CarbonMeister)
 * Cari - Roblox (Carihyper)
 * Carmi Games (carmiYTgames)
