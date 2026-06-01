@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated May 31, 2026<br>
+Generated June 1, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,131,752 videos
-* Total videos found that match keywords: 59,718 videos
-  * Total unprocessed videos: 13,697 videos
+* Total videos found that match keywords: 59,724 videos
+  * Total unprocessed videos: 13,703 videos
 * Total videos found that are processed and marked: 43 videos 
   * Non-Giftcard Robux Giveaways: 37 videos
   * Information Collection: 5 videos
@@ -244,6 +244,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BETO GAMER (betogamer_01)
 * Bia Gamer (BiaGameerzinha)
 * Bianca Nayi (bianqui_nayi123)
+* Biano Betero games (BianoBetero)
 * Bibi e Lud (BibibloxYTB and roblox\_user\_1425755063)
 * Bidinho (bidinh0)
 * Biel Henrique (BielHenriikOficial)
@@ -262,7 +263,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BrawlDev (BrawlBattle)
 * BREN0RJ (BREN0RJ7)
 * Brigido (oCauanBrigido)
-* Brincando com a Keke (Keke_Kerxn)
 * BrittanyPlays (Britt_Blox)
 * BRYAN MCQUEEN (IamBryanMcqueen)
 * Bubbles (bubblestoxic)
@@ -344,14 +344,14 @@ The following channels had nothing appear with manual searching. Videos may exis
 * DV Plays (DVwastaken)
 * El Magnum (MagnumStormus)
 * elDanielGT (DanielGTReal)
-* ElemperadormaxiYT (EmperadorMaxiOFICIAL)
 * Elite (E1ite_E)
 * Elitelupus (elitelupus)
 * Ella (ellasparis)
 * elOrioN (elOrioNYT)
+* EmperadorMaxiYT (EmperadorMaxiOFICIAL)
 * EmpireBlox (EmpireBloxOficial)
 * Erik Carr (ErikCarrKZ)
-* ErnieC3 (ErnieC3_YouTube)
+* ErnieC3 (ErnieC3Official)
 * Estela (Estelacoutin)
 * EthanGamer (EthanGamerTV)
 * ethanolodj (ethanolodj)
@@ -362,7 +362,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * FadedPlayz (YTFadedPlayz)
 * faeglow (faeglow)
 * FakerUp (NotFakerUp)
-* Família Betero TV (BianoBetero)
 * Fanaticalight (Fanaticalight)
 * FancySmash (RealFancySmash)
 * faulty (Faulltyy)
@@ -484,6 +483,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Kaden Fumblebottom (jokerkid5898)
 * Karim Juega (karimjuega)
 * Karola20 (karola20YT)
+* Keke (Keke_Kerxn)
 * KelseyAnna (KelseyAnna)
 * Kelvingts (Kelvingts)
 * Kepu The Cat (KepuTheCat)
@@ -530,7 +530,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lonnie (GPR3)
 * Lord (Lorrd_ofc)
 * LordMetalizer (Metalizer)
-* LOUD NAYU (LOUDNAYU)
 * Lovely Ela (LovelyEla98)
 * Lowni ROBLOX (lownione)
 * Lowuis (Sircheko_yt)
@@ -590,6 +589,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Nathy Super Gamer (Nathy_SuperGamer)
 * Natsuki Sel (Natsuki_Sel)
 * NavyXFlame (NavyXFlame)
+* NAYU (LOUDNAYU)
 * Nicole Kimmi (Nicole_Kimmi)
 * Nicole Maffi (NicoleMaffi and vanessamaffi)
 * NightFoxx (NightFoxx)
