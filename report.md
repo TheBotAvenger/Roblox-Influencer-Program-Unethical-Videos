@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated June 7, 2026<br>
+Generated June 8, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,133,776 videos
-* Total videos found that match keywords: 59,724 videos
-  * Total unprocessed videos: 13,703 videos
+* Total videos: 1,133,910 videos
+* Total videos found that match keywords: 59,735 videos
+  * Total unprocessed videos: 13,714 videos
 * Total videos found that are processed and marked: 43 videos 
   * Non-Giftcard Robux Giveaways: 37 videos
   * Information Collection: 5 videos
@@ -727,6 +727,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Stanjee (Stanjeeplayz)
 * steak (steakwad)
 * Stevebloxian (steven111234)
+* StormyXV (stormyxvreal)
 * stream CA Roblox (stream\_CA and Dominus\_CA)
 * Striker180x (strikerl80x)
 * Stron (StronbolDev)
