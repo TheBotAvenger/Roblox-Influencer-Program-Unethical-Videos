@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 5, 2026<br>
+Generated July 6, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,142,278 videos
-* Total videos found that match keywords: 59,745 videos
-  * Total unprocessed videos: 13,724 videos
+* Total videos found that match keywords: 59,750 videos
+  * Total unprocessed videos: 13,729 videos
 * Total videos found that are processed and marked: 43 videos 
   * Non-Giftcard Robux Giveaways: 37 videos
   * Information Collection: 5 videos
@@ -245,7 +245,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Bia Gamer (BiaGameerzinha)
 * Bianca Nayi (bianqui_nayi123)
 * Biano Betero games (BianoBetero)
-* Bibi e Lud (BibibloxYTB and roblox\_user\_1425755063)
+* Bibi e Lud (BibibloxYTB and LudCarameloBlox)
 * Bidinho (bidinh0)
 * Biel Henrique (BielHenriikOficial)
 * BigB (BigBst4tz22)
@@ -261,7 +261,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BramP (BramPeeee)
 * Brancoala Games (brancoalado, marcossmm, lauroala, and claudiacraudete)
 * BrawlDev (BrawlBattle)
-* BREN0RJ (yenvly)
+* BREN0RJ (BREN0RJ7)
 * Brigido (oCauanBrigido)
 * BrittanyPlays (Britt_Blox)
 * BRYAN MCQUEEN (IamBryanMcqueen)
