@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 19, 2026<br>
+Generated July 20, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,186,637 videos
-* Total videos found that match keywords: 61,458 videos
-  * Total unprocessed videos: 15,287 videos
+* Total videos: 1,187,099 videos
+* Total videos found that match keywords: 61,490 videos
+  * Total unprocessed videos: 15,319 videos
 * Total videos found that are processed and marked: 2,962 videos 
   * Information Collection: 2,173 videos
   * Non-Giftcard Robux Giveaways: 655 videos
@@ -196,7 +196,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * 39jeshi (39jeshi)
 * 3SB Games (cakemiix and Mlchael_Roblox)
 * 8sty (8sty)
-* AbsintoJ (AbsintoJYT)
+* AbsintoJ (roblox\_user\_142335175)
 * Acenix (AcenixGatoo)
 * AEREN (AaronDRonin)
 * AidanGamerHD (AidanGamerHDXD)
@@ -217,7 +217,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Anime Revolt (Hashir4553)
 * Ant Antixx (Ant_Antixx)
 * ApplyingTM (ApplyingTM)
-* Argo Play (YT_Argo)
+* Argo Play (ArgooPlaay)
 * arielle (ariellesyt)
 * Armenti (Armenti)
 * ashlele (Ashleiiia)
@@ -227,8 +227,8 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Auratix (Auratix)
 * Avocado Playz (AvocadoPlayzOfficial)
 * Awhxliv (awhxliv)
-* Axeelit0 (YTAxeelit0)
-* Ayze (AyzeRobloxYT)
+* Axeelit0 (SoyAxeelit0)
+* Ayze (roblox\_user\_1056283153)
 * Ayzria (Ayzria)
 * b3eleyy (b3e_leyy)
 * BaconHair Originals (BaconHairGGOP)
@@ -284,7 +284,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Chekecheto (Chekelete1)
 * Cheo Power (cheopower)
 * CherryAhrizona (baby_ahrizona)
-* Chizeled (Chizeled_YT)
+* Chizeled (CH1Z3LED)
 * Chocoblox (Chocoblox_93)
 * Chrisandthemike (chrisatm)
 * Christocream Roblox (Christocream)
@@ -301,7 +301,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Cristi Suki (Cresseya)
 * Cruz (ReallyCruz)
 * CubeINC (RealCubeINC)
-* Curtified (CurtifiedYT)
+* Curtified (aC_tz)
 * Cute Cookie Gaming (CuteCookieGaming05)
 * Daffa super (Daffa_super2)
 * DandanPH (DandanPH)
@@ -346,7 +346,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Evanbear1 (Evanbear1)
 * EYYCHEEV (EYYCHEEV)
 * F (fminusmic)
-* FadedPlayz (YTFadedPlayz)
+* FadedPlayz (Fadedrz)
 * faeglow (faeglow)
 * FakerUp (NotFakerUp)
 * Fanaticalight (Fanaticalight)
@@ -418,7 +418,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * It's Akeila (itsakeila)
 * It's Siena (ItsNotSiena3)
 * iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
-* Its Matty (YT_ItsMatty)
+* Its Matty (roblox\_user\_933956429)
 * Its Starlight plays YT (Its_starlightplaysYT)
 * Its\_CxldKid (Its\_PupBee)
 * ItsFunneh (Funnehcake)
@@ -432,7 +432,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Janet and Kate (KittyJanet and Kate9071)
 * JavaCreates (JavaCreates)
 * javie12 (javie12)
-* JCWK (JCDoesGaming_YT)
+* JCWK (roblox\_user\_168531998)
 * Jeancof (Jeancof)
 * JehxTp (JehxTp)
 * jello queen (JelloQueenYT)
@@ -502,7 +502,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * LordMetalizer (Metalizer)
 * Lovely Ela (LovelyEla98)
 * Lowni ROBLOX (lownione)
-* Lowuis (Sircheko_yt)
+* Lowuis (ItsLowuisOficial)
 * Luky (LukyBloxYT)
 * LunaPorDos (LunaPorDos00)
 * Lunar Eclipse (Lunar3clispe)
@@ -580,6 +580,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ONEFLOW (elOneflow)
 * OneSpottedFriend (OneSpottedFriend)
 * Oscar (VanillaOreoCat)
+* OzelBlox (OzelGuy)
 * PaanDuh (PPaanDuh)
 * PaintingRainbows (RainbowsYT)
 * PandaLemonTart (PandaLemonTart)
@@ -621,7 +622,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RadioJH Games (audreyradio)
 * Rainster (RainsterYT)
 * Rajo END (Rajo_END)
-* Randyelpanda (randyelpandaYtube)
+* Randyelpanda (roblox\_user\_3773753812)
 * Ratales (Larataguapa1)
 * Rax (RaxBLX)
 * Razor (mprazor)
@@ -645,7 +646,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * roxhi roblox (12345roxyhi12345)
 * RoxiCake Gamer (RoxiiiCakeee)
 * Royale Dior (RoyaleDior)
-* Ruby Games (ruby_rubeYT)
+* Ruby Games (roblox\_user\_238011093)
 * RufflesOfficial (RufflesPlaysMC)
 * Rupthy (Rupthy)
 * S\_Viper (S\_Viper)
@@ -668,7 +669,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ShowBlox (IM_Celestial)
 * Shrekyou21 (shrekyou21)
 * Signicial (Signicial)
-* Silent (roblox\_user\_133838461)
+* Silent (SilentlyLucky)
 * SkippyPlays (skipsk0p)
 * Skyrain (ipietrra)
 * SlEGHART (SlEGHART)
@@ -710,7 +711,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * teenager paul (teenagerpaul)
 * Tekk (tekkyoos)
 * Temprist (Temprist)
-* Tesla Motors (PatooLocooYT)
+* Tesla Motors (PaatooLocoo)
 * Tex HS (TexWillerHS)
 * th3c0nnman (th3c0nnman)
 * The Crystalline Gamerz (Crystalaco and Emeraldoft)
@@ -745,12 +746,12 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Tyler & Snowi (snowi_fox)
 * Unlimited (Unlimited_Resources)
 * Uzoth (Uzoth)
-* Valekis (roblox\_user\_1165373090)
+* Valekis (Valekis)
 * Valen Latina (Valen_Latina)
 * vanilbean (VanilBean)
 * VarietyJay (VarietyJay_Real)
 * Veyar (VeyarVYR)
-* ViewSIM (ViewYT)
+* ViewSIM (RealViewSim)
 * VikingPrincessJazmin (VikingPrincessJazmin)
 * Viktor (Hihi2234xd2)
 * Vindooly (vindooly)
@@ -9237,7 +9238,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * *ROBUX GIVEAWAY! | HUNTING SHINY POKEMON (Pokemon Brick Bronze) | ROBLOX*
       * *Uses group funds to giveaway Robux.*
       * *URL: https://www.youtube.com/watch?v=X1yPl2wSYL8*
-* Tigre TV (StarCode_TigreTVyt)
+* Tigre TV (zTigreTVOFC)
   * Other
     * ENTREI NAS CONTAS DE BLOX FRUITS DOS INSCRITOS POR 24 HORAS..
       * Description references the data collection website ezrewards.today.
