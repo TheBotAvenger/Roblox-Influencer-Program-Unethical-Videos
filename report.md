@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated July 26, 2026<br>
+Generated July 27, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,189,478 videos
-* Total videos found that match keywords: 61,490 videos
-  * Total unprocessed videos: 15,319 videos
+* Total videos: 1,189,907 videos
+* Total videos found that match keywords: 61,525 videos
+  * Total unprocessed videos: 15,354 videos
 * Total videos found that are processed and marked: 2,962 videos 
   * Information Collection: 2,173 videos
   * Non-Giftcard Robux Giveaways: 655 videos
@@ -196,7 +196,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * 39jeshi (39jeshi)
 * 3SB Games (cakemiix and Mlchael_Roblox)
 * 8sty (8sty)
-* AbsintoJ (roblox\_user\_142335175)
+* AbsintoJ (AbsintoJCN)
 * Acenix (AcenixGatoo)
 * AEREN (AaronDRonin)
 * AidanGamerHD (AidanGamerHDXD)
@@ -432,7 +432,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Janet and Kate (KittyJanet and Kate9071)
 * JavaCreates (JavaCreates)
 * javie12 (javie12)
-* JCWK (roblox\_user\_168531998)
+* JCWK (FakeRealJCWK)
 * Jeancof (Jeancof)
 * JehxTp (JehxTp)
 * jello queen (JelloQueenYT)
@@ -511,11 +511,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Luzablxx (Lzablxx)
 * M4DARA TR (MADARATRTRTR)
 * Mackenzie Turner Roblox (MackenzieTurnerYT)
-* Magicbus (MagicbusYT)
+* Magicbus (MeMagicbus)
 * Mahdi (MahdiAlNur)
 * Mahdi (RealMahadi)
 * Maislie (Maislie)
-* MakotoUchiha (MakotoYoutube)
+* MakotoUchiha (UN1329149926)
 * Mandinha Game (MandiinhaGame)
 * Manucraft (ManucraftYT)
 * Mariana Nana (marianavasco)
@@ -542,7 +542,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MrCrainer (MrCrainer1422)
 * MrLokazo86 (Lokazo86)
 * Mud (DunkinMud)
-* Muff (Muffinzs)
+* Muffin (Muffinzs)
 * MUÑECOB (MunecooB)
 * Mxddsie (mxddsie)
 * MxghtyJxstin (MxghtyJxstin)
@@ -579,6 +579,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ominous Nebula (StarCode_Ominous)
 * ONEFLOW (elOneflow)
 * OneSpottedFriend (OneSpottedFriend)
+* OoferGuide (isaacmei)
 * Oscar (VanillaOreoCat)
 * OzelBlox (OzelGuy)
 * PaanDuh (PPaanDuh)
@@ -9180,7 +9181,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* TanqR (TanqR)
+* TanqR (gamingtowns)
   * Non-Giftcard Robux Giveaways
     * 1 KILL = $1000 Robux in Roblox Bedwars..
       * Uses group funds to give away Robux.
