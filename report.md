@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 2, 2026<br>
+Generated August 3, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,192,199 videos
-* Total videos found that match keywords: 61,525 videos
-  * Total unprocessed videos: 15,354 videos
+* Total videos: 1,195,280 videos
+* Total videos found that match keywords: 61,572 videos
+  * Total unprocessed videos: 15,401 videos
 * Total videos found that are processed and marked: 2,962 videos 
   * Information Collection: 2,173 videos
   * Non-Giftcard Robux Giveaways: 655 videos
@@ -228,7 +228,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Avocado Playz (AvocadoPlayzOfficial)
 * Awhxliv (awhxliv)
 * Axeelit0 (SoyAxeelit0)
-* Ayze (roblox\_user\_1056283153)
+* Ayze (AyzeOfficialReal)
 * Ayzria (Ayzria)
 * b3eleyy (b3e_leyy)
 * BaconHair Originals (BaconHairGGOP)
@@ -260,6 +260,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BREN0RJ (BREN0RJ7)
 * Brigido (oCauanBrigido)
 * BrittanyPlays (Britt_Blox)
+* Bruno Best (BRUNOBESTOFC)
 * Bubbles (bubblestoxic)
 * Bundun (lil_bundun)
 * Buur (BuurmanTenus)
@@ -457,6 +458,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * jvnq (jvnqYT)
 * JymbowSlice (JymbowSliceYT)
 * Karim Juega (karimjuega)
+* Kashy Kans (kashycod)
 * Kat (katrinaducks)
 * Keke (Keke_Kerxn)
 * KelseyAnna (KelseyAnna)
@@ -468,6 +470,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Kindly Keyin (KindlyKeyin)
 * King Luffy (KingLuffy_YTsub2me)
 * KingOfYouTube (WELIX)
+* Kirbyyum (kirbyyums)
 * kitsubee (KlTSUBEE)
 * Kitt Gaming (starcode_kitt)
 * Kodak (KodakOF)
@@ -623,11 +626,12 @@ The following channels had nothing appear with manual searching. Videos may exis
 * RadioJH Games (audreyradio)
 * Rainster (RainsterYT)
 * Rajo END (Rajo_END)
-* Randyelpanda (roblox\_user\_3773753812)
+* Randyelpanda (wRandywi)
 * Ratales (Larataguapa1)
 * Rax (RaxBLX)
 * Razor (mprazor)
 * RazorFishGaming (UseCodeRAZORFISH and RazorFishPengi)
+* RbloxKen (Rblox_Ken)
 * Realistic Gaming (Starcode_RealisticG)
 * Rebootedpoppy (CryptedPoppy)
 * Red Ninja (STARC0DE_RedNinja)
@@ -647,7 +651,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * roxhi roblox (12345roxyhi12345)
 * RoxiCake Gamer (RoxiiiCakeee)
 * Royale Dior (RoyaleDior)
-* Ruby Games (roblox\_user\_238011093)
+* Ruby Games (DefoNOTruby_rube)
 * RufflesOfficial (RufflesPlaysMC)
 * Rupthy (Rupthy)
 * S\_Viper (S\_Viper)
@@ -794,6 +798,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * •Lavenderblossom• (OMG4LAV)
 * ほぅ（Housan） (Housan777)
 * 말량 (farmerslove)
+* 멜로우TV (Mellowdiary)
 
 ### Videos Found
 * Aati Plays (AatiPlays_Official)
@@ -9181,7 +9186,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* TanqR (gamingtowns)
+* TanqR (DheadshotMachine)
   * Non-Giftcard Robux Giveaways
     * 1 KILL = $1000 Robux in Roblox Bedwars..
       * Uses group funds to give away Robux.
