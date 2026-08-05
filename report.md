@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 4, 2026<br>
+Generated August 5, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,11 +184,11 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 1,197,519 videos
 * Total videos found that match keywords: 61,572 videos
-  * Total unprocessed videos: 15,401 videos
-* Total videos found that are processed and marked: 2,962 videos 
-  * Information Collection: 2,173 videos
-  * Non-Giftcard Robux Giveaways: 655 videos
-  * Other: 99 videos
+  * Total unprocessed videos: 15,407 videos
+* Total videos found that are processed and marked: 2,956 videos 
+  * Information Collection: 2,172 videos
+  * Non-Giftcard Robux Giveaways: 651 videos
+  * Other: 98 videos
   * Phishing: 35 videos
 
 ### No Videos Found
@@ -664,6 +664,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ScriptedMatt (ScriptedMatt)
 * SDMittens (SDMittens)
 * sebee (23Sebee)
+* Seniac (MrSeniac)
 * seqshell (seqshell)
 * shadow network (realshadownetwork)
 * ShanePlays (SGC_Shane)
@@ -7854,28 +7855,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * ALL NEW SECRET CODES in VEHICLE SIMULATOR! - Vehicle Simulator💵 2020 (Roblox)
       * Description references the data collection website gemsloot.com.
       * URL: https://www.youtube.com/watch?v=O8HFg9Mnzbo
-* Seniac (MrSeniac)
-  * Information Collection
-    * HOW TO GET FREE ROBUX!
-      * Contains an ad for the information collection website rbx.place.
-      * URL: https://www.youtube.com/watch?v=EakQDIc9ZLM
-  * Other
-    * ROBLOX SNEEZING SIMULATOR
-      * Video promotes a game that is based on the 2019 Novel Coronavirus  (COVID-19) pandemic, which monetizes an event that has killed people and damaged global economies and people's lives.
-      * URL: https://www.youtube.com/watch?v=dtQF432tcyM
-  * Non-Giftcard Robux Giveaways
-    * $10,000 ROBUX GIVEAWAY
-      * Robux giveaway uses a Roblox group using group funds.
-      * URL: https://www.youtube.com/watch?v=76Sg5bVi1Jo
-    * $6000 ROBUX GIVEAWAY
-      * Robux giveaway uses a Roblox group using group funds.
-      * URL: https://www.youtube.com/watch?v=EmAlMrw6e8A
-    * $3000 ROBUX GIVEAWAY
-      * Robux giveaway uses a Roblox group using group funds.
-      * URL: https://www.youtube.com/watch?v=L7EcvzuKjJw
-    * $1500 ROBUX GIVEAWAY
-      * Robux giveaway uses a Roblox group using group funds.
-      * URL: https://www.youtube.com/watch?v=AGj4BbtDy6k
 * SiimplyBubliie (SiimplyBubliie_YT)
   * Phishing
     * 3,000 ROBUX MAKEOVER!! (Surprising a FAN!) Limited Item!
