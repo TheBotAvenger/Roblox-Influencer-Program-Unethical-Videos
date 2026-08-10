@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 9, 2026<br>
+Generated August 10, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,197,519 videos
-* Total videos found that match keywords: 61,572 videos
-  * Total unprocessed videos: 15,407 videos
+* Total videos: 1,198,064 videos
+* Total videos found that match keywords: 61,612 videos
+  * Total unprocessed videos: 15,447 videos
 * Total videos found that are processed and marked: 2,956 videos 
   * Information Collection: 2,172 videos
   * Non-Giftcard Robux Giveaways: 651 videos
@@ -210,7 +210,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Aly1263 (aly1263)
 * Amberry (Amberrry)
 * Andre Nicholas (andrhevn21)
-* Andshot (Andshotx)
 * Angelazz (Angelazz)
 * Angeltanked (angelchopped)
 * AnielicA (ANIELICA01)
@@ -281,6 +280,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Ceddy (Ceddy)
 * Cee\_berry (Cee\_berry)
 * Chase (ykchaxe)
+* Cheesymembey (Cheesymembey)
 * Chef Rae (thechefrae)
 * Chekecheto (Chekelete1)
 * Cheo Power (cheopower)
@@ -403,6 +403,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * heyhana (iheyhana)
 * HeyRosalina (HeyRosalina)
 * Hoops The Bee (hoopsthebee)
+* HUDSON AMORIM LIVES (Andshotx)
 * HW5567 (HW5567)
 * Hxyila (hayiIaaa)
 * Hyper (DylanTheHyper)
@@ -418,7 +419,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Inemafoo (Inemajohn)
 * It's Akeila (itsakeila)
 * It's Siena (ItsNotSiena3)
-* iTownGamePlay \*Terror&Diversión\* (iTownGamePlayYT)
+* iTownGamePlay \*Terror&Diversión\* (TheReal_iTown)
 * Its Matty (roblox\_user\_933956429)
 * Its Starlight plays YT (Its_starlightplaysYT)
 * Its\_CxldKid (Its\_PupBee)
@@ -9165,7 +9166,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* TanqR (DheadshotMachine)
+* TanqR (InfGenCamper)
   * Non-Giftcard Robux Giveaways
     * 1 KILL = $1000 Robux in Roblox Bedwars..
       * Uses group funds to give away Robux.
