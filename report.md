@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 16, 2026<br>
+Generated August 17, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,200,336 videos
-* Total videos found that match keywords: 61,612 videos
-  * Total unprocessed videos: 15,447 videos
+* Total videos: 1,201,409 videos
+* Total videos found that match keywords: 61,646 videos
+  * Total unprocessed videos: 15,481 videos
 * Total videos found that are processed and marked: 2,956 videos 
   * Information Collection: 2,172 videos
   * Non-Giftcard Robux Giveaways: 651 videos
@@ -256,7 +256,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BramP (BramPeeee)
 * Brancoala Games (brancoalado, marcossmm, lauroala, and claudiacraudete)
 * BrawlDev (BrawlBattle)
-* BREN0RJ (BREN0RJ7)
+* BREN0RJ (viciadoemtft)
 * Brigido (oCauanBrigido)
 * BrittanyPlays (Britt_Blox)
 * Bruno Best (BRUNOBESTOFC)
@@ -346,13 +346,12 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Euri Wings (EuriWings)
 * Evanbear1 (Evanbear1)
 * EYYCHEEV (EYYCHEEV)
-* F (fminusmic)
 * FadedPlayz (Fadedrz)
 * faeglow (faeglow)
 * FakerUp (NotFakerUp)
 * Fanaticalight (Fanaticalight)
 * FancySmash (RealFancySmash)
-* faulty (Faulltyy)
+* faulty (faulty)
 * febatista (febatista)
 * fer999 (StarCode_fer)
 * Fera (Fera)
@@ -468,6 +467,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Khanh Huyen DIY (St4Tick)
 * KHORTEX (StarCodeKTX)
 * Kiki (KikiRecsRP)
+* Kim on Roblox (KimonRoblox22)
 * Kindly Keyin (KindlyKeyin)
 * King Luffy (KingLuffy_YTsub2me)
 * KingOfYouTube (WELIX)
@@ -533,6 +533,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MIANNN (MIANNNGAMER)
 * MICHI RØBLØX (michineyley)
 * MicroGuardian (MicroGuardian)
+* Mikeedev (omikedev)
 * Mila FunPlayer (trxmila)
 * Minecraft PlaY (RiusPlayYTYTYT)
 * MiniBloxia (SubToMiniBloxia)
@@ -747,7 +748,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * TrustlyDragon (TheTrustlyDragon)
 * tsetYT (tsetfed)
 * Turtles Wear Raincoats (TurtlesWearRaincoats)
-* TussyGames (TussyGames)
+* TussyGames (TGamesssssssss)
 * TW Dessi Gaming (TW_Dessi)
 * TwiistedPandora (TwistedPandora)
 * Tyler & Snowi (snowi_fox)
@@ -797,6 +798,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * ZON (zOnwley)
 * ZULY (S0yZuly)
 * Zurielini (Zurix_500)
+* Шоколад (fminusmic)
 * •Lavenderblossom• (OMG4LAV)
 * ほぅ（Housan） (Housan777)
 * 말량 (farmerslove)
@@ -9166,7 +9168,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* TanqR (InfGenCamper)
+* TanqR (TanqR)
   * Non-Giftcard Robux Giveaways
     * 1 KILL = $1000 Robux in Roblox Bedwars..
       * Uses group funds to give away Robux.
