@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 23, 2026<br>
+Generated August 24, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,20 +182,20 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,203,670 videos
-* Total videos found that match keywords: 61,646 videos
-  * Total unprocessed videos: 15,481 videos
-* Total videos found that are processed and marked: 2,956 videos 
+* Total videos: 1,205,019 videos
+* Total videos found that match keywords: 61,698 videos
+  * Total unprocessed videos: 15,532 videos
+* Total videos found that are processed and marked: 2,957 videos 
   * Information Collection: 2,172 videos
   * Non-Giftcard Robux Giveaways: 651 videos
-  * Other: 98 videos
+  * Other: 99 videos
   * Phishing: 35 videos
 
 ### No Videos Found
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 39jeshi (39jeshi)
 * 3SB Games (cakemiix and Mlchael_Roblox)
-* 8sty (8sty)
+* 8sty (SuperEpicTungTung67)
 * AbsintoJ (AbsintoJCN)
 * Acenix (AcenixGatoo)
 * AEREN (AaronDRonin)
@@ -209,6 +209,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * AlvinBlox (Alvin_Blox)
 * Aly1263 (aly1263)
 * Amberry (Amberrry)
+* Andiesita (andieuscanga)
 * Andre Nicholas (andrhevn21)
 * Angelazz (Angelazz)
 * Angeltanked (angelchopped)
@@ -588,7 +589,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Oscar (VanillaOreoCat)
 * OzelBlox (OzelGuy)
 * PaanDuh (PPaanDuh)
-* PaintingRainbows (RainbowsYT)
+* PaintingRainbows (roblox\_user\_146576379)
 * PandaLemonTart (PandaLemonTart)
 * PandazPlay (ComplexConniee and ComplexJason)
 * PandinhaGame (PandinhaGame)
@@ -9160,6 +9161,11 @@ The following channels had nothing appear with manual searching. Videos may exis
     * YOUTUBERS VS ILUMINATI VIDEO REACCION EPICA CON XONNEK \*MUESTRO MI CARA\*
       * Contains an ad for the information collection website irobux.com.
       * URL: https://www.youtube.com/watch?v=gYBSdkTFOtY
+* Sudon (sudonrblx)
+  * Other
+    * The BEST Roblox Games Based On Your FAVORITE Anime!
+      * Description references the Roblox gambling website rbxgold.com.
+      * URL: https://www.youtube.com/watch?v=46r5Icthahk
 * Suliin18YT (Suliin18YTT)
   * Non-Giftcard Robux Giveaways
     * MI PRIMER MASCOTA Y COMPRO LA CASA DE HADAS - ADOPT ME ROBLOX
