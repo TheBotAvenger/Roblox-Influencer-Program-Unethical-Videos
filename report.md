@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated August 30, 2026<br>
+Generated August 31, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,207,257 videos
-* Total videos found that match keywords: 61,698 videos
-  * Total unprocessed videos: 15,532 videos
+* Total videos: 1,208,141 videos
+* Total videos found that match keywords: 61,732 videos
+  * Total unprocessed videos: 15,566 videos
 * Total videos found that are processed and marked: 2,957 videos 
   * Information Collection: 2,172 videos
   * Non-Giftcard Robux Giveaways: 651 videos
@@ -393,6 +393,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Gravycatman (GrumpyGravy)
 * GroovyDominoes52 (GroovyDominoes52)
 * Gunslaya (iGunslaya)
+* GusGus (soy_gusanitogus)
 * Hakobe (PHMittensSTARCreator)
 * HandN (xHandNx)
 * hannnahlovescows (hannnahlovescows)
@@ -402,6 +403,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HeyDavi (DAVIPLAY_14)
 * heyhana (iheyhana)
 * HeyRosalina (HeyRosalina)
+* Holly xoxo (kawaii_kunicorn)
 * Hoops The Bee (hoopsthebee)
 * HUDSON AMORIM LIVES (Andshotx)
 * HW5567 (HW5567)
@@ -480,7 +482,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Kreative Kyle (Kreative_Kyle)
 * Krystin Plays (KrystinPlays)
 * KTG Gaming (lifetimeobcman123)
-* KunicornCraft (kawaii_kunicorn)
 * Kvssidy (kvssidy)
 * LAMI (Lami_Roblox)
 * Lana's Life (Lanaraee)
@@ -589,7 +590,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Oscar (VanillaOreoCat)
 * OzelBlox (OzelGuy)
 * PaanDuh (PPaanDuh)
-* PaintingRainbows (roblox\_user\_146576379)
+* PaintingRainbows (rainbowapinkscooter)
 * PandaLemonTart (PandaLemonTart)
 * PandazPlay (ComplexConniee and ComplexJason)
 * PandinhaGame (PandinhaGame)
@@ -9174,7 +9175,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* TanqR (TanqR)
+* TanqR (sniperdude734574)
   * Non-Giftcard Robux Giveaways
     * 1 KILL = $1000 Robux in Roblox Bedwars..
       * Uses group funds to give away Robux.
