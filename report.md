@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 6, 2026<br>
+Generated September 7, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,210,351 videos
-* Total videos found that match keywords: 61,732 videos
-  * Total unprocessed videos: 15,566 videos
+* Total videos found that match keywords: 61,765 videos
+  * Total unprocessed videos: 15,599 videos
 * Total videos found that are processed and marked: 2,957 videos 
   * Information Collection: 2,172 videos
   * Non-Giftcard Robux Giveaways: 651 videos
@@ -368,6 +368,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Folix (Mrpresident1302)
 * Foltyn (TheRealFoltyn)
 * Foncri (Foncri)
+* FORTUNE DRAGON AO VIVO (Andshotx)
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (frenchrxses)
 * FUDZ (fudsim)
@@ -405,7 +406,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HeyRosalina (HeyRosalina)
 * Holly xoxo (kawaii_kunicorn)
 * Hoops The Bee (hoopsthebee)
-* HUDSON AMORIM LIVES (Andshotx)
 * HW5567 (HW5567)
 * Hxyila (hayiIaaa)
 * Hyper (DylanTheHyper)
@@ -415,6 +415,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * iBeMaine (ibemaine)
 * iBugou (iBugou)
 * iDatchy (iDatchy)
+* iFres (iFresblxx)
 * iKotori (iKotori)
 * ImaGamerGirl (ImaGamerGirl)
 * InceptionTime (InceptionTime)
@@ -9175,7 +9176,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 😎 COMPRO LA NUEVA MANSIÓN DE CELEBRIDADES EN ADOPT ME - ROBLOX
       * Mentions Robux giveaways through nimo.tv.
       * URL: https://www.youtube.com/watch?v=_xHeiSnXJEo
-* TanqR (sniperdude734574)
+* TanqR (TanqR)
   * Non-Giftcard Robux Giveaways
     * 1 KILL = $1000 Robux in Roblox Bedwars..
       * Uses group funds to give away Robux.
