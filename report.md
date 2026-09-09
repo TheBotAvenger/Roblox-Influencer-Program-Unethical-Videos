@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 8, 2026<br>
+Generated September 9, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 1,212,713 videos
 * Total videos found that match keywords: 61,765 videos
-  * Total unprocessed videos: 15,599 videos
-* Total videos found that are processed and marked: 2,957 videos 
-  * Information Collection: 2,172 videos
+  * Total unprocessed videos: 15,603 videos
+* Total videos found that are processed and marked: 2,953 videos 
+  * Information Collection: 2,168 videos
   * Non-Giftcard Robux Giveaways: 651 videos
   * Other: 99 videos
   * Phishing: 35 videos
@@ -383,6 +383,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GamerNom (MaybeItsMyFault)
 * GamingwithVYT (GamingwithVYT)
 * GaraBLOX (GaraBloxTV)
+* Geko97 - Roblox (Flexer97YT)
 * Gelado (geladobiel)
 * GH0Ks (GHOKSZIN)
 * GhostInTheCosmos (GhostInTheCosmos)
@@ -4889,20 +4890,6 @@ The following channels had nothing appear with manual searching. Videos may exis
   * Phishing
     * I HACKED A ROBLOX ODER | Roblox High School Dorm Life | Roblox ODer Trolling
       * URL: https://www.youtube.com/watch?v=XdMWvYf4Rjk
-* Geko97 - Roblox (Flexer97YT)
-  * Information Collection
-    * Sell roblox via online • Tools for Ecommercee• Affiliate Marketing• Passive Income• Shopify•
-      * Description references the data collection website rbxcash.com.
-      * URL: https://www.youtube.com/watch?v=A_NIUghaUM0
-    * HOW TO CREATE A PASSIVE INCOME GAMING 32 \#passiveincome \#gaming
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=5Lt02hfeNbw
-    * HOW TO CREATE A PASSIVE INCOME GAMING 34 \#passiveincome \#gaming
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=lVRkb90j_go
-    * HOW TO CREATE A PASSIVE INCOME GAMING 35 \#passiveincome \#gaming
-      * Description references the data collection website bloxwin.com.
-      * URL: https://www.youtube.com/watch?v=l3qwVIOIwgc
 * Graser Roblox (MasterGraser)
   * Other
     * i secretly used hacks against a Roblox Piggy youtuber..
@@ -8608,9 +8595,9 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TROLLANDO A CONTA DO RICK NO ROBLOX!! (HACKEANDO)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=7yb4NyRry0E
-    * QUASE FUI PEGO ENQUANTO HACKEAVA COMPUTADORES 💻🎭
-      * Description references the data collection website bloxawards.com.
-      * URL: https://www.youtube.com/watch?v=OinEMvQvkKg
+    * *QUASE FUI PEGO ENQUANTO HACKEAVA COMPUTADORES 💻🎭*
+      * *Description references the data collection website bloxawards.com.*
+      * *URL: https://www.youtube.com/watch?v=OinEMvQvkKg*
     * TESTANDO YOUTUBER (ELE FOI HUMILDE?)
       * Description references the data collection website bloxawards.com.
       * URL: https://www.youtube.com/watch?v=5Pk61E9WDm0
