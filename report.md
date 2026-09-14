@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 13, 2026<br>
+Generated September 14, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,212,713 videos
-* Total videos found that match keywords: 61,765 videos
-  * Total unprocessed videos: 15,603 videos
+* Total videos found that match keywords: 61,800 videos
+  * Total unprocessed videos: 15,638 videos
 * Total videos found that are processed and marked: 2,953 videos 
   * Information Collection: 2,168 videos
   * Non-Giftcard Robux Giveaways: 651 videos
@@ -195,7 +195,7 @@ to the report if this happens.
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 39jeshi (39jeshi)
 * 3SB Games (cakemiix and Mlchael_Roblox)
-* 8sty (SuperEpicTungTung67)
+* 8sty (RareRyan82)
 * AbsintoJ (AbsintoJCN)
 * Acenix (AcenixGatoo)
 * AEREN (AaronDRonin)
@@ -214,7 +214,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Angelazz (Angelazz)
 * Angeltanked (angelchopped)
 * AnielicA (ANIELICA01)
-* Anime Revolt (Hashir4553)
 * Ant Antixx (Ant_Antixx)
 * ApplyingTM (ApplyingTM)
 * Argo Play (ArgooPlaay)
@@ -446,7 +445,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Jeny\_Punker (Jeny\_Punker)
 * JesuaCunnigham (Jesua_Cunnigham)
 * JixxyJax (JixxyJax)
-* Joao joao (Joao_joaooficial)
+* Joao joao (vvulto)
 * Joe Albanese (Joey_Albanese)
 * JoeyDaPrayer (mrjojoman131)
 * JoJocraftHP (JoJocraftHP)
@@ -511,7 +510,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lovely Ela (LovelyEla98)
 * Lowni ROBLOX (lownione)
 * Lowuis (ItsLowuisOficial)
-* Luky (LukyBloxYT)
+* Luky (roblox\_user\_646654778)
 * LunaPorDos (LunaPorDos00)
 * Lunar Eclipse (Lunar3clispe)
 * Luuy (iiLuuy)
@@ -641,6 +640,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Realistic Gaming (Starcode_RealisticG)
 * Rebootedpoppy (CryptedPoppy)
 * Red Ninja (STARC0DE_RedNinja)
+* Red Weeb (Hashir4553)
 * REDKILL (RED_YTBE)
 * RELLGames (RELLvex)
 * Remainings (Remainings)
@@ -773,7 +773,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * WaffleTrades (WaffleTrades)
 * Waike (JJ_Waike)
 * WeirdBlox (WeirdBlox)
-* WhiteArrow (IamWhiteArrow)
+* WhiteArrow (WhiteArrowXD)
 * WhoseTrade (WhoseTrade)
 * WikiaColors (WikiaColor_s)
 * WILCO (EsElWilco)
