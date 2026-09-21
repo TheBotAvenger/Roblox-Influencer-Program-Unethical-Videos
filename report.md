@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 20, 2026<br>
+Generated September 21, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,214,940 videos
-* Total videos found that match keywords: 61,800 videos
-  * Total unprocessed videos: 15,638 videos
+* Total videos found that match keywords: 61,824 videos
+  * Total unprocessed videos: 15,662 videos
 * Total videos found that are processed and marked: 2,953 videos 
   * Information Collection: 2,168 videos
   * Non-Giftcard Robux Giveaways: 651 videos
@@ -195,7 +195,7 @@ to the report if this happens.
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 39jeshi (39jeshi)
 * 3SB Games (cakemiix and Mlchael_Roblox)
-* 8sty (RareRyan82)
+* 8sty (GrindingCoww)
 * AbsintoJ (AbsintoJCN)
 * Acenix (AcenixGatoo)
 * AEREN (AaronDRonin)
@@ -367,10 +367,9 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Folix (Mrpresident1302)
 * Foltyn (TheRealFoltyn)
 * Foncri (Foncri)
-* FORTUNE DRAGON AO VIVO (Andshotx)
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (frenchrxses)
-* FUDZ (fudsim)
+* FUDZ (roblox\_user\_19481930)
 * Fumblit (Fumblit)
 * FunPiggy (CelestialPiggy)
 * Furious Jumper (furi0us_jumper)
@@ -406,6 +405,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HeyRosalina (HeyRosalina)
 * Holly xoxo (kawaii_kunicorn)
 * Hoops The Bee (hoopsthebee)
+* HUDSON AMORIM LIVES (Andshotx)
 * HW5567 (HW5567)
 * Hxyila (hayiIaaa)
 * Hyper (DylanTheHyper)
@@ -522,7 +522,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Mahdi (MahdiAlNur)
 * Mahdi (RealMahadi)
 * Maislie (Maislie)
-* MakotoUchiha (UN1329149926)
+* MakotoUchiha (xMakotoPvZ)
 * Mandinha Game (MandiinhaGame)
 * Manucraft (ManucraftYT)
 * Mariana Nana (marianavasco)
