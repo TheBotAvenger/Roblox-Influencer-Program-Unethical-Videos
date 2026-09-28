@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 27, 2026<br>
+Generated September 28, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,217,344 videos
-* Total videos found that match keywords: 61,824 videos
-  * Total unprocessed videos: 15,662 videos
+* Total videos: 1,219,207 videos
+* Total videos found that match keywords: 61,856 videos
+  * Total unprocessed videos: 15,694 videos
 * Total videos found that are processed and marked: 2,953 videos 
   * Information Collection: 2,168 videos
   * Non-Giftcard Robux Giveaways: 651 videos
@@ -195,7 +195,7 @@ to the report if this happens.
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 39jeshi (39jeshi)
 * 3SB Games (cakemiix and Mlchael_Roblox)
-* 8sty (GrindingCoww)
+* 8sty (8sty)
 * AbsintoJ (AbsintoJCN)
 * Acenix (AcenixGatoo)
 * AEREN (AaronDRonin)
@@ -211,6 +211,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Amberry (Amberrry)
 * Andiesita (andieuscanga)
 * Andre Nicholas (andrhevn21)
+* andshot (Andshotx)
 * Angelazz (Angelazz)
 * Angeltanked (angelchopped)
 * AnielicA (ANIELICA01)
@@ -405,7 +406,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HeyRosalina (HeyRosalina)
 * Holly xoxo (kawaii_kunicorn)
 * Hoops The Bee (hoopsthebee)
-* HUDSON AMORIM LIVES (Andshotx)
 * HW5567 (HW5567)
 * Hxyila (hayiIaaa)
 * Hyper (DylanTheHyper)
@@ -641,7 +641,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Rebootedpoppy (CryptedPoppy)
 * Red Ninja (STARC0DE_RedNinja)
 * Red Weeb (Hashir4553)
-* REDKILL (RED_YTBE)
+* REDKILL (RED_K241)
 * RELLGames (RELLvex)
 * Remainings (Remainings)
 * robey100 (robey100)
@@ -763,6 +763,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * vanilbean (VanilBean)
 * VarietyJay (VarietyJay_Real)
 * Veyar (VeyarVYR)
+* Vick Barbosa (VickoBaby)
 * ViewSIM (RealViewSim)
 * VikingPrincessJazmin (VikingPrincessJazmin)
 * Viktor (Hihi2234xd2)
