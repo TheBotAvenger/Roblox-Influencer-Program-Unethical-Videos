@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated September 29, 2026<br>
+Generated September 30, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,11 +182,11 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,220,028 videos
+* Total videos: 1,221,635 videos
 * Total videos found that match keywords: 61,856 videos
-  * Total unprocessed videos: 15,694 videos
-* Total videos found that are processed and marked: 2,953 videos 
-  * Information Collection: 2,168 videos
+  * Total unprocessed videos: 15,702 videos
+* Total videos found that are processed and marked: 2,945 videos 
+  * Information Collection: 2,160 videos
   * Non-Giftcard Robux Giveaways: 651 videos
   * Other: 99 videos
   * Phishing: 35 videos
@@ -4931,9 +4931,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * This Gamer HATES the New Uzi in Roblox - Can We Change His Mind?
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=kiImvAiHBmo
-    * PLAY ROBLOX JAILBREAK ON MY DAD IPAD FOR THE FIRST TIME! \*MOBILE\* (ROBLOX)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=Cq41fX5_eOU
     * The Ultimate Guide to Free Beast Mode on Roblox!
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=lPoshyYVrqo
@@ -4976,9 +4973,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * HelloItsVG Hits 100,000 Subscribers on YouTube (Roblox)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=N2x2Q9KDX_4
-    * JAILBREAK ROBLOX TRAIN \*LEAKS\* NEW JAILBREAK UPDATE| SERVER CONTROL AND BATTLE ROYALE! CODES!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=7AsvAAcHyIE
     * NEW Jailbreak Roblox Train LEAKS - Unleashing The Server Control
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=h0xJZalDcUM
@@ -5006,9 +5000,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * TOP 3 JAILBREAK ROBLOX GLITCHES BANK GLITCH, JEWELRY STORE GLITCH, MUSEUM GLITCH IN JAILBREAK Roblox
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=ru5RYYpDaRc
-    * ROBLOX JAILBREAK GLIDER GLITCH! UNLIMITED GLIDER BY CLICKING "J" (ROBLOX)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=v7FNeDumZ_w
     * *Roblox Jailbreak Exposed: What The Devs Don't Want You to Know!*
       * *Description references the data collection website oprewards.com using a link shortener.*
       * *URL: https://www.youtube.com/watch?v=fw8u0iVwEzY*
@@ -5138,12 +5129,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * Why Everyone is Crazy About the Latest Roblox Jailbreak Update (2 BILLION)
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=5bxzZjgYjss
-    * JAILBREAK AMBULANCE  UPDATE! DRIVING THE AMBULANCE IN JAILBREAK (ROBLOX) \*LEAKS\*!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=vzROLVrBW38
-    * \*WORKING\* ROBLOX JAILBREAK BANK GLITCH IS BACK!? (ROBLOX)
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=_LZfyoWyP4o
     * *I Explored a Parachute Glitch in Roblox Jailbreak...This Happened!*
       * *Description references the data collection website oprewards.com using a link shortener.*
       * *URL: https://www.youtube.com/watch?v=Xr_0cMHjutg*
@@ -5234,9 +5219,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * *DARES ON ROBLOX!!! \#1 (GONE WRONG?) -Roblox Jailbreak*
       * *Description references the data collection website oprewards.com using a link shortener.*
       * *URL: https://www.youtube.com/watch?v=-AGtsVGYDtY*
-    * Using REAL Gaming Strategies to Dominate Roblox Jailbreak
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=-RV1NSCQAY4
     * *NEW CODES IN DESTRUCTION SIMULATOR | Roblox All New Codes*
       * *Description references the data collection website oprewards.com using a link shortener.*
       * *URL: https://www.youtube.com/watch?v=rrY9hAJ8Ppg*
@@ -5336,9 +5318,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * *Roblox Jailbreak INSANE SCIENCE TROLL | Rage Quit Mode Ep.2 (BILL NYE)*
       * *Description references the data collection website oprewards.com using a link shortener.*
       * *URL: https://www.youtube.com/watch?v=QnkGIbvsSVY*
-    * BEST WAY TO TROLL IN APRIL FOOLS!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=3AQYy6XdNpI
     * *The Secret Behind the Ready Player One Copper Key*
       * *Description references the data collection website oprewards.com using a link shortener.*
       * *URL: https://www.youtube.com/watch?v=LNWiDDEUkHg*
@@ -5354,9 +5333,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * This Cop Glitch Will Change Your Robbery Strategies Forever
       * Description references the data collection website oprewards.com using a link shortener.
       * URL: https://www.youtube.com/watch?v=Im4tLbg3za0
-    * My FIRST Jailbreak Video - How To Get FREE Car in Jailbreak
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=vzP86u0grVY
     * *Study for 2 hours Part 2 //HelloItsVG//*
       * *Description references the data collection website oprewards.com using a link shortener.*
       * *URL: https://www.youtube.com/watch?v=nlHdpsIBsYY*
