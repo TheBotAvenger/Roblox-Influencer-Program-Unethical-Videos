@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 4, 2026<br>
+Generated October 5, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,221,635 videos
-* Total videos found that match keywords: 61,856 videos
-  * Total unprocessed videos: 15,702 videos
+* Total videos found that match keywords: 61,903 videos
+  * Total unprocessed videos: 15,749 videos
 * Total videos found that are processed and marked: 2,945 videos 
   * Information Collection: 2,160 videos
   * Non-Giftcard Robux Giveaways: 651 videos
@@ -195,7 +195,7 @@ to the report if this happens.
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 39jeshi (39jeshi)
 * 3SB Games (cakemiix and Mlchael_Roblox)
-* 8sty (8sty)
+* 8sty (GrindingCoww)
 * AbsintoJ (AbsintoJCN)
 * Acenix (AcenixGatoo)
 * AEREN (AaronDRonin)
@@ -257,7 +257,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BramP (BramPeeee)
 * Brancoala Games (brancoalado, marcossmm, lauroala, and claudiacraudete)
 * BrawlDev (BrawlBattle)
-* BREN0RJ (viciadoemtft)
+* BREN0RJ (aalwaysbetter)
 * Brigido (oCauanBrigido)
 * BrittanyPlays (Britt_Blox)
 * Bruno Best (BRUNOBESTOFC)
@@ -370,7 +370,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Foncri (Foncri)
 * Fraser2TheMax (Fraser2TheMax)
 * frenchrxses (frenchrxses)
-* FUDZ (roblox\_user\_19481930)
+* FUDZ (fudsim)
 * Fumblit (Fumblit)
 * FunPiggy (CelestialPiggy)
 * Furious Jumper (furi0us_jumper)
@@ -502,7 +502,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Lilly BloxTV (Lilly_TVs)
 * LimaMosca (LimaMosca)
 * LinMeiLee (ItzLinPlays)
-* LipeBlox (LiipeYoutuber)
+* LipeBlox (lipeblox1993)
 * locus (locus200k)
 * Lokis (lokis9340)
 * Lord (Lorrd_ofc)
