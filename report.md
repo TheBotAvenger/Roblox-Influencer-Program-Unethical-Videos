@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 11, 2026<br>
+Generated October 12, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,223,852 videos
-* Total videos found that match keywords: 61,903 videos
-  * Total unprocessed videos: 15,879 videos
+* Total videos found that match keywords: 61,942 videos
+  * Total unprocessed videos: 15,918 videos
 * Total videos found that are processed and marked: 2,815 videos 
   * Information Collection: 2,030 videos
   * Non-Giftcard Robux Giveaways: 651 videos
@@ -196,7 +196,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * 39jeshi (39jeshi)
 * 3SB Games (cakemiix and Mlchael_Roblox)
 * 8sty (GrindingCoww)
-* AbsintoJ (AbsintoJCN)
+* AbsintoJ (ABJCNL)
 * Acenix (AcenixGatoo)
 * AEREN (AaronDRonin)
 * AidanGamerHD (AidanGamerHDXD)
@@ -252,7 +252,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Blam Spot (Alopek)
 * Blox4Fun (SgGamersDad, GustTv, and SimasGamer)
 * Bluxxy Gaming (BluxxyGaming)
-* BolzarX (xxBolzxx)
+* BolzarX (roblox\_user\_101762176)
 * Bonnie Builds (BONNlEBUILDS)
 * BramP (BramPeeee)
 * Brancoala Games (brancoalado, marcossmm, lauroala, and claudiacraudete)
@@ -538,7 +538,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MicroGuardian (MicroGuardian)
 * Mikeedev (omikedev)
 * Mila FunPlayer (trxmila)
-* Minecraft PlaY (RiusPlayYTYTYT)
+* Minecraft PlaY (roblox\_user\_993338548)
 * MiniBloxia (SubToMiniBloxia)
 * Model8197 (Modeldog8197)
 * MoFlare (MoFlare)
