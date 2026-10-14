@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 13, 2026<br>
+Generated October 14, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 1,226,078 videos
 * Total videos found that match keywords: 61,942 videos
-  * Total unprocessed videos: 15,918 videos
-* Total videos found that are processed and marked: 2,815 videos 
-  * Information Collection: 2,030 videos
+  * Total unprocessed videos: 15,921 videos
+* Total videos found that are processed and marked: 2,812 videos 
+  * Information Collection: 2,027 videos
   * Non-Giftcard Robux Giveaways: 651 videos
   * Other: 99 videos
   * Phishing: 35 videos
@@ -4925,12 +4925,6 @@ The following channels had nothing appear with manual searching. Videos may exis
       * URL: https://www.youtube.com/watch?v=YB0Urzcgw9I
 * HelloItsVG (HelloItsVG)
   * Information Collection
-    * All New Easter Eggs in Roblox Jailbreak: Uncovered!
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=1FrUbMCiUwk
-    * The \*NEW\* Teleport Glitch in Roblox Jailbreak No One Uses
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=BUbnqUlv9qM
     * *DARES ON ROBLOX!!! \#1 (GONE WRONG?) -Roblox Jailbreak*
       * *Description references the data collection website oprewards.com using a link shortener.*
       * *URL: https://www.youtube.com/watch?v=-AGtsVGYDtY*
@@ -4946,9 +4940,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * *LIFE IN JAILBREAK BETWEEN A NOOB AND A PRO*
       * *Description references the data collection website oprewards.com using a link shortener.*
       * *URL: https://www.youtube.com/watch?v=VlEWzDnXXTE*
-    * This Cop Glitch Will Change Your Robbery Strategies Forever
-      * Description references the data collection website oprewards.com using a link shortener.
-      * URL: https://www.youtube.com/watch?v=Im4tLbg3za0
 * iamSanna (notiamsanna)
   * Non-Giftcard Robux Giveaways
     * WIN 10,000 ROBUX In This \*NEW\* Adopt Me FASHION CONTEST! (Adopt Me)
