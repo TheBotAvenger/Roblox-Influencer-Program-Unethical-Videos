@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 18, 2026<br>
+Generated October 19, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,226,078 videos
-* Total videos found that match keywords: 61,942 videos
-  * Total unprocessed videos: 15,921 videos
+* Total videos: 1,230,675 videos
+* Total videos found that match keywords: 63,108 videos
+  * Total unprocessed videos: 17,087 videos
 * Total videos found that are processed and marked: 2,812 videos 
   * Information Collection: 2,027 videos
   * Non-Giftcard Robux Giveaways: 651 videos
@@ -195,7 +195,7 @@ to the report if this happens.
 The following channels had nothing appear with manual searching. Videos may exist, but were not found.
 * 39jeshi (39jeshi)
 * 3SB Games (cakemiix and Mlchael_Roblox)
-* 8sty (GrindingCoww)
+* 8sty (LeaderboardCow)
 * AbsintoJ (ABJCNL)
 * Acenix (AcenixGatoo)
 * AEREN (AaronDRonin)
@@ -450,6 +450,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * JoeyDaPrayer (mrjojoman131)
 * JoJocraftHP (JoJocraftHP)
 * JonesGotGame (JonesGotGame)
+* JSaxter (JS4xter)
 * Juaumzinho (JUAUMZONES)
 * Judo Unicorn (judounicorn11)
 * Jugando Con Nachito (NachitoJuegaJuegoss)
@@ -538,10 +539,11 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MicroGuardian (MicroGuardian)
 * Mikeedev (omikedev)
 * Mila FunPlayer (trxmila)
-* Minecraft PlaY (roblox\_user\_993338548)
+* Minecraft PlaY (ZupikoRoblox)
 * MiniBloxia (SubToMiniBloxia)
 * Model8197 (Modeldog8197)
 * MoFlare (MoFlare)
+* Monooaxaco (Monooaxaco0)
 * Moody Unicorn Twin - Roblox (moodyunicorntwin)
 * Moonfallx (moonfallx)
 * MoonyCaroll (MoonyCaroll)
@@ -565,6 +567,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * NavyXFlame (NavyXFlame)
 * NAYU (LOUDNAYU)
 * Neatzo (Neat_zo)
+* Nek Joga (NekJoga)
 * NicoBlox (NotNicoBlox)
 * Nicole Kimmi (Nicole_Kimmi)
 * Nicole Maffi (NicoleMaffi and vanessamaffi)
@@ -665,6 +668,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Sant (heysant2018)
 * Santino Tossi (SantinoTossi03)
 * Saoli (saoli11)
+* SariBlox サリーぶろっくす (sarieiyou)
 * SATSHA JUEGA (yt_SATSHAJUEGA)
 * ScooterSmash0 (ScooterSmasher0)
 * ScriptedMatt (ScriptedMatt)
@@ -682,6 +686,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Shrekyou21 (shrekyou21)
 * Signicial (Signicial)
 * Silent (SilentlyLucky)
+* SirDapper (SirDapper)
 * SkippyPlays (skipsk0p)
 * Skyrain (ipietrra)
 * SlEGHART (SlEGHART)
@@ -805,6 +810,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Zurielini (Zurix_500)
 * Шоколад (fminusmic)
 * •Lavenderblossom• (OMG4LAV)
+* ぜるふぃー坂 / ZELLFYZAKA (zellfyx)
 * ほぅ（Housan） (Housan777)
 * 말량 (farmerslove)
 * 멜로우TV (Mellowdiary)
