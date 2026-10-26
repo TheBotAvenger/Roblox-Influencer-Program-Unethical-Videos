@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated October 25, 2026<br>
+Generated October 26, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,232,960 videos
-* Total videos found that match keywords: 63,108 videos
-  * Total unprocessed videos: 17,087 videos
+* Total videos: 1,235,319 videos
+* Total videos found that match keywords: 63,149 videos
+  * Total unprocessed videos: 17,128 videos
 * Total videos found that are processed and marked: 2,812 videos 
   * Information Collection: 2,027 videos
   * Non-Giftcard Robux Giveaways: 651 videos
@@ -556,6 +556,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MUÑECOB (MunecooB)
 * Mxddsie (mxddsie)
 * MxghtyJxstin (MxghtyJxstin)
+* My Channel (Stanjeeplayz)
 * Myster0y (Myster0y)
 * Nanndo (Nanndo)
 * NanoProdigy (NanoProdigy)
@@ -706,7 +707,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Spok (spokchris)
 * Squid Magic (Foolzy)
 * SrJuancho (JuanchoAcostado)
-* Stanjee (Stanjeeplayz)
 * steak (steakwad)
 * Stevebloxian (steven111234)
 * StormyXV (stormyxvreal)
@@ -728,6 +728,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * teenager paul (teenagerpaul)
 * Tekk (tekkyoos)
 * Temprist (Temprist)
+* TEODORO (teodorokzz)
 * Tesla Motors (PaatooLocoo)
 * Tex HS (TexWillerHS)
 * th3c0nnman (th3c0nnman)
