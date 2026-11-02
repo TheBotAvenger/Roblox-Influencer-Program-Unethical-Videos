@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 1, 2026<br>
+Generated November 2, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,237,903 videos
-* Total videos found that match keywords: 63,149 videos
-  * Total unprocessed videos: 17,128 videos
+* Total videos found that match keywords: 63,251 videos
+  * Total unprocessed videos: 17,230 videos
 * Total videos found that are processed and marked: 2,812 videos 
   * Information Collection: 2,027 videos
   * Non-Giftcard Robux Giveaways: 651 videos
@@ -556,7 +556,6 @@ The following channels had nothing appear with manual searching. Videos may exis
 * MUÑECOB (MunecooB)
 * Mxddsie (mxddsie)
 * MxghtyJxstin (MxghtyJxstin)
-* My Channel (Stanjeeplayz)
 * Myster0y (Myster0y)
 * Nanndo (Nanndo)
 * NanoProdigy (NanoProdigy)
@@ -707,6 +706,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Spok (spokchris)
 * Squid Magic (Foolzy)
 * SrJuancho (JuanchoAcostado)
+* Stanjee (Stanjeeplayz)
 * steak (steakwad)
 * Stevebloxian (steven111234)
 * StormyXV (stormyxvreal)
