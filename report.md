@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 3, 2026<br>
+Generated November 4, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -184,9 +184,9 @@ to the report if this happens.
 ### Video Metrics
 * Total videos: 1,240,505 videos
 * Total videos found that match keywords: 63,251 videos
-  * Total unprocessed videos: 17,230 videos
-* Total videos found that are processed and marked: 2,812 videos 
-  * Information Collection: 2,027 videos
+  * Total unprocessed videos: 17,231 videos
+* Total videos found that are processed and marked: 2,811 videos 
+  * Information Collection: 2,026 videos
   * Non-Giftcard Robux Giveaways: 651 videos
   * Other: 99 videos
   * Phishing: 35 videos
@@ -4938,9 +4938,6 @@ The following channels had nothing appear with manual searching. Videos may exis
     * *KREEKCRAFT AMAZON ECHO RAGE QUIT VERSION! (TROLLING ROBLOX)*
       * *Description references the data collection website oprewards.com using a link shortener.*
       * *URL: https://www.youtube.com/watch?v=jddXeJJA35s*
-    * *Busting Myths In ROBLOX with HelloItsVG in Jailbreak Ep. 1*
-      * *Description references the data collection website oprewards.com using a link shortener.*
-      * *URL: https://www.youtube.com/watch?v=nOMUOYyrJNU*
     * *1000 Subscriber Special !!! // VG Gang// Jailbreak Roblox// Roblox Special!*
       * *Description references the data collection website oprewards.com using a link shortener.*
       * *URL: https://www.youtube.com/watch?v=de2PnVznoC0*
