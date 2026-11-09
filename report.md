@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 8, 2026<br>
+Generated November 9, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -183,8 +183,8 @@ to the report if this happens.
 
 ### Video Metrics
 * Total videos: 1,240,505 videos
-* Total videos found that match keywords: 63,251 videos
-  * Total unprocessed videos: 17,231 videos
+* Total videos found that match keywords: 63,339 videos
+  * Total unprocessed videos: 17,319 videos
 * Total videos found that are processed and marked: 2,811 videos 
   * Information Collection: 2,026 videos
   * Non-Giftcard Robux Giveaways: 651 videos
@@ -338,7 +338,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Elite (E1ite_E)
 * Elitelupus (elitelupus)
 * Ella (ellasparis)
-* elOrioN (elOrioNYT)
+* elOrioN (roblox\_user\_308245124)
 * EmperadorMaxiYT (EmperadorMaxiOFICIAL)
 * ErnieC3 (ErnieC3Official)
 * Estela (Estelacoutin)
@@ -460,7 +460,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Julianbank (blvckbank)
 * Junell Dominic (Junerurblx)
 * JunRoots (cheeseandcakejuice)
-* jvnq (jvnqYT)
+* jvnq (roblox\_user\_62231464)
 * JymbowSlice (JymbowSliceYT)
 * Karim Juega (karimjuega)
 * Kashy Kans (kashycod)
@@ -6782,7 +6782,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * \*FREE ROBUX\* ARREST ME FOR FREE ROBUX! (Roblox Jailbreak)
       * Gives away Robux for being arrested in Jailbreak.
       * URL: https://www.youtube.com/watch?v=gekomtzuIoE
-* Legolaz (LegolazYoutube)
+* Legolaz (roblox\_user\_960911078)
   * Information Collection
     * ¡SOY EL MÁS GORDO DE ROBLOX! 🍕🍔🍟 \*CASÍ EXPLOTO\* | LEGOLAZ
       * Description references the data collection website gemsloot.com.
@@ -6993,7 +6993,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * FIRST PERSON TO BEAT MY CHALLENGE MAP WINS 1,000 ROBUX!!! | Flood Escape 2 on Roblox \#63
       * Uses group funds to give away Robux.
       * URL: https://www.youtube.com/watch?v=JSuVk5xVn-E
-* MedTw (MedTwYT)
+* MedTw (MedTwOG)
   * Information Collection
     * QUAL É O MELHOR ?? ALL MIGHT VS DEKU 100% NO ALL STAR TOWER DEFENSE !!!
       * Description references the data collection website gemsloot.com.
@@ -7438,7 +7438,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 1,000 ROBUX MAKEOVER || (Fan Surprise!)
       * Offers to give Robux in exchange for a username and password.
       * URL: https://www.youtube.com/watch?v=95TVy5Udq9o
-* Smurfzin (Smurfzineo_YT)
+* Smurfzin (roblox\_user\_138733046)
   * Information Collection
     * O Fim da Black Friday no ROBLOX..😔❌
       * Description references the data collection website bloxawards.com.
