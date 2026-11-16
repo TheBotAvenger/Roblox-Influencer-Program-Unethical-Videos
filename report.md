@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 15, 2026<br>
+Generated November 16, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,242,774 videos
-* Total videos found that match keywords: 63,339 videos
-  * Total unprocessed videos: 17,319 videos
+* Total videos: 1,243,743 videos
+* Total videos found that match keywords: 63,378 videos
+  * Total unprocessed videos: 17,358 videos
 * Total videos found that are processed and marked: 2,811 videos 
   * Information Collection: 2,026 videos
   * Non-Giftcard Robux Giveaways: 651 videos
@@ -338,7 +338,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Elite (E1ite_E)
 * Elitelupus (elitelupus)
 * Ella (ellasparis)
-* elOrioN (roblox\_user\_308245124)
+* elOrioN (SoyOrioNPLS)
 * EmperadorMaxiYT (EmperadorMaxiOFICIAL)
 * ErnieC3 (ErnieC3Official)
 * Estela (Estelacoutin)
@@ -381,7 +381,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * GamerHexapod (Hexapod_xD)
 * GamerNom (MaybeItsMyFault)
 * GamingwithVYT (GamingwithVYT)
-* GaraBLOX (GaraBloxTV)
+* Gara (GaraBloxTV)
 * Geko97 - Roblox (Flexer97YT)
 * Gelado (geladobiel)
 * GH0Ks (GHOKSZIN)
@@ -406,6 +406,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * HeyRosalina (HeyRosalina)
 * Holly xoxo (kawaii_kunicorn)
 * Hoops The Bee (hoopsthebee)
+* hoppy819 (h0ppy819)
 * HW5567 (HW5567)
 * Hxyila (hayiIaaa)
 * Hyper (DylanTheHyper)
@@ -460,7 +461,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Julianbank (blvckbank)
 * Junell Dominic (Junerurblx)
 * JunRoots (cheeseandcakejuice)
-* jvnq (roblox\_user\_62231464)
+* jvnq (JvnqRoblox98)
 * JymbowSlice (JymbowSliceYT)
 * Karim Juega (karimjuega)
 * Kashy Kans (kashycod)
@@ -7438,7 +7439,7 @@ The following channels had nothing appear with manual searching. Videos may exis
     * 1,000 ROBUX MAKEOVER || (Fan Surprise!)
       * Offers to give Robux in exchange for a username and password.
       * URL: https://www.youtube.com/watch?v=95TVy5Udq9o
-* Smurfzin (roblox\_user\_138733046)
+* Smurfzin (EuSmurfzin)
   * Information Collection
     * O Fim da Black Friday no ROBLOX..😔❌
       * Description references the data collection website bloxawards.com.
