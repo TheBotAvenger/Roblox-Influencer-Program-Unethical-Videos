@@ -1,5 +1,5 @@
 # Roblox Influencer Program Unethical Videos
-Generated November 22, 2026<br>
+Generated November 23, 2026<br>
 Report URL: https://github.com/TheBotAvenger/Roblox-Influencer-Program-Unethical-Videos/blob/master/report.md
 
 ## Purpose
@@ -182,9 +182,9 @@ since they can't be discovered or watched by viewers. Private videos may be made
 to the report if this happens.
 
 ### Video Metrics
-* Total videos: 1,246,068 videos
-* Total videos found that match keywords: 63,378 videos
-  * Total unprocessed videos: 17,358 videos
+* Total videos: 1,247,466 videos
+* Total videos found that match keywords: 63,451 videos
+  * Total unprocessed videos: 17,431 videos
 * Total videos found that are processed and marked: 2,811 videos 
   * Information Collection: 2,026 videos
   * Non-Giftcard Robux Giveaways: 651 videos
@@ -243,7 +243,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * BETO GAMER (betogamer_01)
 * Bia Gamer (BiaGameerzinha)
 * Bianca Nayi (bianqui_nayi123)
-* Biano Betero games (BianoBetero)
+* Biano Betero (BianoBetero)
 * Bibi e Lud (BibiCarameloBlox and LudCarameloBlox)
 * Bidinho (bidinh0)
 * BigB (BigBst4tz22)
@@ -297,7 +297,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Colbe (Colbem)
 * Conor3D (Conor3D)
 * Cookie Cutter (CookieCutter)
-* corny (co_rny)
+* corny (corny)
 * Cosmic (bluecosmiic)
 * CrazyErzy (CrazyErzy7u7)
 * Cristi Suki (Cresseya)
@@ -611,6 +611,7 @@ The following channels had nothing appear with manual searching. Videos may exis
 * Photon (Photonive)
 * Pianista do Roblox (fmatheusim)
 * Pink Mink (SHAFDOWOLF)
+* Pink Moon (BlushPinkMoon)
 * PinkFate Games (PinkFateYT)
 * PinkLeaf (RenLeaf)
 * pixiiuwu (pixiiuwuu)
